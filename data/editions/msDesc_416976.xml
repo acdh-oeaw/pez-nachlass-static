@@ -1,0 +1,89 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_416976.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Biographische Notiz zu Reding </title>
+            <title type="sub">Digital object description</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <idno type="unidam-verz_einh">288</idno>
+         <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-64A1-B</idno></publicationStmt>
+         <sourceDesc>
+            <msDesc xml:lang="de">
+               <msIdentifier>
+                  <country>Österreich</country>
+                  <settlement>Melk</settlement>
+                  <institution>Benediktiner-Stift</institution>
+                  <repository>Stiftsarchiv</repository>
+                  <idno>Kt. 07 Patres 10 Faszikel 8 Nr. 27</idno>
+               </msIdentifier>
+               <msContents>
+                  <summary>Biographische Notiz zu Reding: "Elogium reverendissimi et et celsisissimi SRI principis et abbatis Einsidlensis Augustini secundi". Ordnungsvermerk: "ad Nr. 216".</summary>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <foliation>1r–6v.</foliation>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <date notBefore="1700-01-01" notAfter="1750-01-01">Erste Hälfte 18. Jahrhundert</date>
+                     <note>Undatiert.</note>
+                  </origin>
+               </history>
+               <additional>
+                  <listBibl>
+                     <bibl>Zu Einsiedeln: <rs type="bibl" key="bqbibl:r350">Rudolf HENGGELER, Monasticon-Benedictinum Helvetiae, 3: Profeßbuch der fürstl. Benediktinerabtei U. L. Frau zu Einsiedeln. Festgabe zum tausendjährigen Bestand des Klosters (Zug 1933)</rs>.</bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="RNA">Sammlungen und Objekte</classCode>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="s416976" n="1r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/416976.tif"/>
+      </surface>
+      <surface xml:id="s416977" n="1v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/416977.tif"/>
+      </surface>
+      <surface xml:id="s416978" n="2r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/416978.tif"/>
+      </surface>
+      <surface xml:id="s416979" n="2v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/416979.tif"/>
+      </surface>
+      <surface xml:id="s416980" n="3r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/416980.tif"/>
+      </surface>
+      <surface xml:id="s416981" n="3v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/416981.tif"/>
+      </surface>
+      <surface xml:id="s416982" n="4r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/416982.tif"/>
+      </surface>
+      <surface xml:id="s416983" n="4v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/416983.tif"/>
+      </surface>
+      <surface xml:id="s416984" n="5r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/416984.tif"/>
+      </surface>
+      <surface xml:id="s416985" n="5v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/416985.tif"/>
+      </surface>
+      <surface xml:id="s416986" n="6r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/416986.tif"/>
+      </surface>
+      <surface xml:id="s416987" n="6v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/416987.tif"/>
+      </surface>
+   </facsimile>
+</TEI>

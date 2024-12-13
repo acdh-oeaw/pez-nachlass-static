@@ -1,0 +1,162 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_429098.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Bibliothekskatalog hauptsächlich mit Werken von Schriftstellern der Cassinenserkongregation</title>
+            <title type="sub">Digital object description</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <idno type="unidam-verz_einh">630</idno>
+         <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-6575-D</idno></publicationStmt>
+         <sourceDesc>
+            <msDesc xml:lang="de">
+               <msIdentifier>
+                  <country>Österreich</country>
+                  <settlement>Melk</settlement>
+                  <institution>Benediktiner-Stift</institution>
+                  <repository>Stiftsarchiv</repository>
+                  <idno>Kt. 85 Varia 25 Faszikel 1 Nr. 26</idno>
+               </msIdentifier>
+               <msContents>
+                  <summary>Bibliothekskatalog einer unbekannten Bibliothek hauptsächlich mit Werken von Schriftstellern der Cassinenser Kongregation, vgl. auch den Schriftstellerkatalog der Kongregation in Karton 85 Varia 25, Fasz. 1, Nr. 39.</summary>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <foliation>1r–18v.</foliation>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <date notBefore="1709-01-01">nach 1709</date>
+                     <note>Das jüngste Werk ist aus 1709.</note>
+                  </origin>
+               </history>
+               <additional>
+                  <listBibl>
+                     <bibl>Zu Cassinensern: <rs type="bibl" key="bqbibl:r225">Arcangelo BOSSI, Matricula monachorum Congregationis Casinensis Ordinis S. Benedicti, 1: 1409–1699, hg. von Leandro NOVELLI–Giovanni SPINELLI (Pubblicazioni del Centro Storico Benedettino Italiano 3, Cesena 1983)</rs>;
+                        <rs type="bibl" key="bqbibl:r229">Massimo ZAGGIA, Tra Mantova e la Sicilia nel Cinquecento (Biblioteca mantovana 2, 3 Bde., Firenze 2003)</rs>.</bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="RNA">Sammlungen und Objekte</classCode>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="s429098" n="1r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/429098.tif"/>
+      </surface>
+      <surface xml:id="s429099" n="1v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/429099.tif"/>
+      </surface>
+      <surface xml:id="s429100" n="2r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/429100.tif"/>
+      </surface>
+      <surface xml:id="s429101" n="2v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/429101.tif"/>
+      </surface>
+      <surface xml:id="s429102" n="3r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/429102.tif"/>
+      </surface>
+      <surface xml:id="s429103" n="3v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/429103.tif"/>
+      </surface>
+      <surface xml:id="s429104" n="4r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/429104.tif"/>
+      </surface>
+      <surface xml:id="s429105" n="4v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/429105.tif"/>
+      </surface>
+      <surface xml:id="s429106" n="5r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/429106.tif"/>
+      </surface>
+      <surface xml:id="s429107" n="5v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/429107.tif"/>
+      </surface>
+      <surface xml:id="s429108" n="6r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/429108.tif"/>
+      </surface>
+      <surface xml:id="s429109" n="6v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/429109.tif"/>
+      </surface>
+      <surface xml:id="s429110" n="7r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/429110.tif"/>
+      </surface>
+      <surface xml:id="s429111" n="7v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/429111.tif"/>
+      </surface>
+      <surface xml:id="s429112" n="8r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/429112.tif"/>
+      </surface>
+      <surface xml:id="s429113" n="8v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/429113.tif"/>
+      </surface>
+      <surface xml:id="s429114" n="9r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/429114.tif"/>
+      </surface>
+      <surface xml:id="s429115" n="9v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/429115.tif"/>
+      </surface>
+      <surface xml:id="s429116" n="10r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/429116.tif"/>
+      </surface>
+      <surface xml:id="s429117" n="10v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/429117.tif"/>
+      </surface>
+      <surface xml:id="s429118" n="11r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/429118.tif"/>
+      </surface>
+      <surface xml:id="s429119" n="11v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/429119.tif"/>
+      </surface>
+      <surface xml:id="s429120" n="12r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/429120.tif"/>
+      </surface>
+      <surface xml:id="s429121" n="12v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/429121.tif"/>
+      </surface>
+      <surface xml:id="s429122" n="13r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/429122.tif"/>
+      </surface>
+      <surface xml:id="s429123" n="13v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/429123.tif"/>
+      </surface>
+      <surface xml:id="s429124" n="14r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/429124.tif"/>
+      </surface>
+      <surface xml:id="s429125" n="14v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/429125.tif"/>
+      </surface>
+      <surface xml:id="s429126" n="15r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/429126.tif"/>
+      </surface>
+      <surface xml:id="s429127" n="15v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/429127.tif"/>
+      </surface>
+      <surface xml:id="s429128" n="16r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/429128.tif"/>
+      </surface>
+      <surface xml:id="s429129" n="16v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/429129.tif"/>
+      </surface>
+      <surface xml:id="s429130" n="17r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/429130.tif"/>
+      </surface>
+      <surface xml:id="s429131" n="17v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/429131.tif"/>
+      </surface>
+      <surface xml:id="s429132" n="18r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/429132.tif"/>
+      </surface>
+      <surface xml:id="s429133" n="18v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/429133.tif"/>
+      </surface>
+   </facsimile>
+</TEI>

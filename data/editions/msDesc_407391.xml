@@ -1,0 +1,66 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_407391.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Exzerpte zu Hahn und Leibniz aus Wegele, Historiographie</title>
+            <title type="sub">Digital object description</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <idno type="unidam-verz_einh">30</idno>
+         <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-6421-C</idno></publicationStmt>
+         <sourceDesc>
+            <msDesc xml:lang="de">
+               <msIdentifier>
+                  <country>Österreich</country>
+                  <settlement>Melk</settlement>
+                  <institution>Benediktiner-Stift</institution>
+                  <repository>Stiftsarchiv</repository>
+                  <idno>Kt. 07 Patres 09 Faszikel 1 Nr. 13 </idno>
+               </msIdentifier>
+               <msContents>
+                  <summary>Exzerpte zu Hahn und  Leibniz aus Franz Xaver WEGELE, Geschichte der deutschen Historiographie seit dem Auftreten des Humanismus (Geschichte der Wissenschaften in Deutschland. Neuere Zeit 20, München–Leipzig 1885); Bibliographische Notizen zu Eckhart, Schannat und Hahn. Teilweise in Kurzschrift. </summary>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <foliation>1r–4v (nur recto-Seiten digitalisiert: Verso-Seiten unbeschrieben).</foliation>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <date when="1900-01-01">um 1900</date>
+                     <note>Im Zusammenhang mit der Pez-Forschung um 1900.</note>
+                  </origin>
+               </history>
+               <additional>
+                  <listBibl>
+                     <bibl>Zu Eckhart: <rs type="bibl" key="bqbibl:r013"> Stefan BENZ, Johann Georg von Eckhart (1674–1730), in: Fränkische Lebensbilder. Fünfzehnter Band, hg. von Alfred WENDEHORST (Veröffentlichungen der Gesellschaft für Fränkische Geschichte, Reihe VII A 15, Neustadt an der Aisch 1993) 135–156</rs>;
+                        <rs type="bibl" key="bqbibl:r689">Thomas WALLNIG, Johann Georg Eckhart als Verwerter von Leibniz' Kollektaneen: Geschichtsforscher in höfischen Diensten oder gelehrter Beamter?, in: Leibniz als Sammler und Verwerter historischer Quellen, hg. von Nora GÄDEKE (Wolfenbüttel 2012) 189–210</rs>.</bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="RNA">Sammlungen und Objekte</classCode>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="s407391" n="1r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/407391.tif"/>
+      </surface>
+      <surface xml:id="s407392" n="2r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/407392.tif"/>
+      </surface>
+      <surface xml:id="s407393" n="3r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/407393.tif"/>
+      </surface>
+      <surface xml:id="s407394" n="4r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/407394.tif"/>
+      </surface>
+   </facsimile>
+</TEI>

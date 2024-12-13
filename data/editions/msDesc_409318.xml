@@ -1,0 +1,77 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_409318.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Manuskript: Auszug aus einer Klostergeschichte von Lorsch</title>
+            <title type="sub">Digital object description</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <idno type="unidam-verz_einh">73</idno>
+         <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-642C-1</idno></publicationStmt>
+         <sourceDesc>
+            <msDesc xml:lang="de">
+               <msIdentifier>
+                  <country>Österreich</country>
+                  <settlement>Melk</settlement>
+                  <institution>Benediktiner-Stift</institution>
+                  <repository>Stiftsarchiv</repository>
+                  <idno>Kt. 07 Patres 09 Faszikel 1 Nr. 55 </idno>
+               </msIdentifier>
+               <msContents>
+                  <summary>Auszug aus einer Klostergeschichte von Lorsch betreffend den 21. Abt Humbert (1032–1037). Zum Teil wörtliche Wiedergabe der Lorscher Chronik zu 1033.</summary>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <foliation>1r–4v.</foliation>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <date notBefore="1720-01-01" notAfter="1729-12-31">1720er Jahre (?)</date>
+                     <note>Undatiert.</note>
+                  </origin>
+               </history>
+               <additional>
+                  <listBibl>
+                     <bibl>Edition der Chronik: <rs type="bibl" key="bqbibl:r650">Chronicon Laureshamense, hg. von Karl PERTZ, in: MGH SS 21 (Hannover 1869) 334–453</rs>.</bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="RNA">Sammlungen und Objekte</classCode>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="s409318" n="1r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/409318.tif"/>
+      </surface>
+      <surface xml:id="s409319" n="1v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/409319.tif"/>
+      </surface>
+      <surface xml:id="s409320" n="2r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/409320.tif"/>
+      </surface>
+      <surface xml:id="s409321" n="2v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/409321.tif"/>
+      </surface>
+      <surface xml:id="s409322" n="3r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/409322.tif"/>
+      </surface>
+      <surface xml:id="s409323" n="3v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/409323.tif"/>
+      </surface>
+      <surface xml:id="s409324" n="4r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/409324.tif"/>
+      </surface>
+      <surface xml:id="s409325" n="4v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/409325.tif"/>
+      </surface>
+   </facsimile>
+</TEI>

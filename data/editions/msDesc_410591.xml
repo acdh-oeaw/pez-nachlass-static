@@ -1,0 +1,77 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_410591.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Manuskript: "Sciagraphia vindiciarum pro consortio imperii Romani inter Fridericum Austriacum et Ludovicum Bavarum ex transactione Monacensi de anno 1325"</title>
+            <title type="sub">Digital object description</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <idno type="unidam-verz_einh">98</idno>
+         <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-6441-8</idno></publicationStmt>
+         <sourceDesc>
+            <msDesc xml:lang="de">
+               <msIdentifier>
+                  <country>Österreich</country>
+                  <settlement>Melk</settlement>
+                  <institution>Benediktiner-Stift</institution>
+                  <repository>Stiftsarchiv</repository>
+                  <idno>Kt. 07 Patres 09 Faszikel 1 Nr. 80 </idno>
+               </msIdentifier>
+               <msContents>
+                  <summary>Manuskript "Sciagraphia vindiciarum pro consortio imperii Romani inter Fridericum Austriacum et Ludovicum Bavarum ex transactione Monacensi de anno 1325" zum Münchner Vertrag zwischen Kaiser Friedrich dem Schönen und Ludwig dem Bayern 1325. Auf 1r zeitgenössischer Vermerk: "Communicata patri Bernardo Pez a comite de Wurmbrand". Wahrscheinlich für die Thesaurus-Bände nach Melk gesandt.</summary>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <foliation>1r–4v.</foliation>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <date>vor 1729</date>
+                     <note>Der 6. und letzte Band des Thesaurus ist 1729 erschienen.</note>
+                  </origin>
+               </history>
+               <additional>
+                  <listBibl>
+                     <bibl>Zu Wurmbrand und seinen Forschungen zu Kaiser Friedrich dem Schönen: <rs type="bibl" key="bqbibl:r008">Stefan BENZ, Zwischen Tradition und Kritik. Katholische Geschichtsschreibung im barocken Heiligen Römischen Reich (Historische Studien 473, Husum 2003)</rs>. Zum Thesaurus: <rs type="bibl" key="bqbibl:r019">Christine GLASSNER, Der "Thesaurus anecdotorum novissimus" des Melker Benediktiners Bernhard Pez. SMGB 113 (2002) 341–370</rs>.</bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="RNA">Sammlungen und Objekte</classCode>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="s410591" n="1r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/410591.tif"/>
+      </surface>
+      <surface xml:id="s410592" n="1v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/410592.tif"/>
+      </surface>
+      <surface xml:id="s410593" n="2r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/410593.tif"/>
+      </surface>
+      <surface xml:id="s410594" n="2v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/410594.tif"/>
+      </surface>
+      <surface xml:id="s410595" n="3r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/410595.tif"/>
+      </surface>
+      <surface xml:id="s410596" n="3v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/410596.tif"/>
+      </surface>
+      <surface xml:id="s410597" n="4r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/410597.tif"/>
+      </surface>
+      <surface xml:id="s410598" n="4v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/410598.tif"/>
+      </surface>
+   </facsimile>
+</TEI>

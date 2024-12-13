@@ -1,0 +1,65 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_410615.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Notizen: "Hepidanni annales 2" </title>
+            <title type="sub">Digital object description</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <idno type="unidam-verz_einh">100</idno>
+         <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-6443-6</idno></publicationStmt>
+         <sourceDesc>
+            <msDesc xml:lang="de">
+               <msIdentifier>
+                  <country>Österreich</country>
+                  <settlement>Melk</settlement>
+                  <institution>Benediktiner-Stift</institution>
+                  <repository>Stiftsarchiv</repository>
+                  <idno>Kt. 07 Patres 09 Faszikel 1 Nr. 82 </idno>
+               </msIdentifier>
+               <msContents>
+                  <summary>Auszüge zu den "Annales Sangallenses maiores dicti Hepidanni", Fragment. Davor fehlt wohl ein weiterer Bogen. Vgl. Karton 7 Patres 9, Fasz. 1, Nr. 81 und 83 sowie StiB Melk, Cod. 19, 350r–357v. Hand Mayer.</summary>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <foliation>1r–2v.</foliation>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <date notBefore="1800-01-01" notAfter="1899-12-31">19. Jh.</date>
+                     <note>Undatiert.</note>
+                  </origin>
+               </history>
+               <additional>
+                  <listBibl>
+                     <bibl>Edition: <rs type="bibl" key="bqbibl:r751">Annales Sangallenses maiores, hg. von Ildefons de ARX, in: MGH SS 1 (Hannover 1826) 72–85</rs>. Zum Melker Cod. 19: <rs type="bibl" key="bqbibl:r018">Christine GLASSNER, Neuzeitliche Handschriften aus dem Nachlass der Brüder Bernhard und Hieronymus Pez in der Bibliothek des Benediktinerstiftes Melk (Österreichische Akademie der Wissenschaften, Philosophisch-historische Klasse. Denkschriften 372 = Veröffentlichungen der Kommission für Schrift- und Buchwesen des Mittelalters, Reihe IV 7, Wien 2008)</rs>. Zu Mayer: <rs type="bibl" key="bqbibl:r065">Catalogus religiosorum ordinis S.P. Benedicti in monasterio Mellicensi (Wien 1855)</rs>.</bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="RNA">Sammlungen und Objekte</classCode>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="s410615" n="1r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/410615.tif"/>
+      </surface>
+      <surface xml:id="s410616" n="1v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/410616.tif"/>
+      </surface>
+      <surface xml:id="s410617" n="2r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/410617.tif"/>
+      </surface>
+      <surface xml:id="s410618" n="2v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/410618.tif"/>
+      </surface>
+   </facsimile>
+</TEI>

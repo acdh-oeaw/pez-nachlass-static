@@ -1,0 +1,1977 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_431074.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Schriftstellerkatalog "Scriptores Benedictini in Germania ab anno 1600" </title>
+            <title type="sub">Digital object description</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <idno type="unidam-verz_einh">681</idno>
+         <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-665C-9</idno></publicationStmt>
+         <sourceDesc>
+            <msDesc xml:lang="de">
+               <msIdentifier>
+                  <country>Österreich</country>
+                  <settlement>Melk</settlement>
+                  <institution>Benediktiner-Stift</institution>
+                  <repository>Stiftsarchiv</repository>
+                  <idno>Kt. 85 Varia 25 Faszikel 1 Nr. 77</idno>
+               </msIdentifier>
+               <msContents>
+                  <summary>Alphabetisch geordneter Katalog benediktinischer Schriftsteller von 1600 bis 1715, am Rand häufig Vermerke, wann dieser an der Salzburger Benediktineruniversität studiert oder eine Professur inne hatte. Hand BP. Bonifaz Anselm konnte bisher noch keinem Kloster zugeordnet werden sowie auch nicht geklärt werden konnte, ob hier Benedikt Keller oder Benedikt Sigerist von Engelberg gemeint ist. Zu Duretius konnten bisher keine biographischen Daten ermittelt werden, vermutlich war er ein belgischer Benediktiner. Heinrich (OSB Neresheim) konnte bisher ebenfalls noch nicht identifiziert werden. Auf fol. 66zar–66zav Auflistung der von BP für die Anlegung des Schriftstellerkatalogs verwendeten Literatur. Bei Wilhelm Honn aus Deutz handelt es sich vielleicht um Wilhelm Oeding, vgl. dazu Thomas WALLNIG–Thomas STOCKINGER, Die gelehrte Korrespondenz der Brüder Pez. Text, Regesten, Kommentare, 1: 1709–1715 (QIÖG 2/1, Wien–München 2010) 391. Die Identifizierung von Ludwig Renz ist unsicher, ebenso konnte noch nicht geklärt werden, ob mit "Magnus N. Admontesis" (fol. 173r) auch wirklich Engelbert von Admont gemeint ist. Der Benediktiner R. F. P. a T. (fol. 238r) konnte bisher noch nicht identifiziert werden. Gregor Zeibius ist vermutlich Gregor Reubi. Fol. 285r–287r Auflistung von anonymen Schriftstellern, fol. 289r–298v Beginn einer Abschrift des Schriftstellerkatalogs von einer Hand des 19. Jh..</summary>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <foliation>1r–66av, 67r–300v.</foliation>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <date notAfter="1735-03-28">Zu Lebzeiten BPs.</date>
+                     <note>BP ist 1735 gestorben.</note>
+                  </origin>
+               </history>
+               <additional>
+                  <listBibl>
+                     <bibl>Zu Bochenthaler, Thomas Metzler, Morsack, Nazareth, Plawenn, Christoph und Marian Rassler, Rottenheusler, Ruösch, Schmidt, Wanner: <rs type="bibl" key="bqbibl:r599">Pirmin LINDNER, Fünf Professbücher süddeutscher Benediktiner-Abteien. Beiträge zu einem Monasticon-benedictinum Germaniae, 3: Professbuch der Benediktiner-Abtei Zwiefalten (Kempten–München 1910)</rs>. 
+                        Zu Abelzhauser, Udalschalk Hueber, Plautius, Pley: <rs type="bibl" key="bqbibl:r490">Petrus ORTMAYR–Aegid DECKER, Das Benediktinerstift Seitenstetten. Ein Gang durch seine Geschichte (Wels 1955)</rs>. 
+                        Zu Agricola, Gansler, Hersfelder, Khamm, Kirchhamer, Mayr, Perckmar, Stengel, Cölestin Turner, Vischer, Zoller: <rs type="bibl" key="bqbibl:r308">Pirmin LINDNER, Memoriale San-Ulricanum sive Compendium vitae et mortis Religiosorum Ord. S. Benedicti liberi et imperialis monasterii ad S. S. Udalricum et Afram Augustae Vindel., qui ab a. 1610–1857 pie in domino obierunt, additis eorum laboribus litterariis. Diöcesanarchiv von Schwaben 8 (1891) 5–6, 9–10, 17–18, 30–32, 37–38, 41–42, 54–56, 59–60; 15 (1897) 161–164, 185–188; 16 (1898) 13–16, 25–28, 42–44</rs>. 
+                        Zu Aigner, Brandstetter, Freud, Rupert Kimpfler, Pernaz, Pestaluz, Resch, Rettenbacher, Langpartner, Vischl, Wimberger: <rs type="bibl" key="bqbibl:r388">Altman KELLNER, Professbuch des Stiftes Kremsmünster (Kremsmünster 1968)</rs>. 
+                        Zu Aicher, Westermayr, Marian Wieser: <rs type="bibl" key="bqbibl:r982">Johann Nepomuk KIßLINGER, Geschichte des Benediktiner-Klosters St. Veit (früher Elsenbach) bei Neumarkt a. d. Rott in Oberbayern. Beiträge zur Geschichte, Topographie und Statistik des Erzbistums München und Freising 12 (1915) 103–394</rs>. 
+                        Zu Brüdern Mezger: <rs type="bibl" key="bqbibl:r765">Benedikt PROBST, Die drei Brüder Mezger. Ein exegetisches Dreigestirn an der alten Salzburger Benediktiner-Universität, in: Miscellanea biblica et orientalia R. P. Athanasio MILLER O. S. B., Secretario Pontificiae Commissionis Biblicae, completis LXX annis oblata, hg. von Adalbert METZINGER (Studia Anselmiana philosophica theologica 27/28, Roma 1951) 443–452</rs>. 
+                        Zu Keuslin, Franz, Pachler, Schrenck auf Notzing: <rs type="bibl" key="bqbibl:r484">Pirmin LINDNER, Professbuch der Benediktiner-Abtei St. Peter in Salzburg (1419–1856). Mitteilungen der Gesellschaft für Salzburger Landeskunde 46 (1906) 1–328</rs>. 
+                        Zu Reichart: <rs type="bibl" key="bqbibl:r537">Peter Alcant BUDIK, Albert Reichart, Abt des Stiftes St. Paul (Ein Beitrag zur kärntnerischen Literaturgeschichte). Carinthia. Zeitschrift für Vaterlandskunde, Belehrung und Unterhaltung 43 (1853) 85–86</rs>. 
+                        Zu Alzinger, Ambling, Brendlin, Einhart, Hammerer, Höcht, Magg, Martini, Paldung, Plaz, Gottfried Reding, Placidus Renz, Johann Spieß, Alphons Stadlmayr, Völker, Wegelin: <rs type="bibl" key="bqbibl:r588">Pirmin LINDNER, Fünf Professbücher süddeutscher Benediktiner-Abteien. Beiträge zu einem Monasticon-benedictinum Germaniae, 2: Professbuch der Benediktiner-Abtei Weingarten (Kempten–München 1909)</rs>. 
+                        Zu Schiring: <rs type="bibl" key="bqbibl:r380">Vinzenz STAUFER, Das Todtenbuch des Benedictiner-Stiftes Klein-Mariazell in Oesterreich unter der Enns. SMGB 1/2 (1880) 106–120; 1/3 (1880) 49–66; 1/4 (1880) 94–109; 2/1 (1881) 28–45</rs>. 
+                        Zu Babenstuber: <rs type="bibl" key="bqbibl:r353">Pirmin LINDNER, Album Ettalense. Verzeichniß aller Aebte und Religiosen des Benediktinerstiftes Ettal, welche seit der Stiftung bis nach der Aufhebung verstorben sind. Oberbayerisches Archiv für vaterländische Geschichte 44 (1887) 247–285</rs>. 
+                        Zu Banduri: <rs type="bibl" key="bqbibl:r983">Salvatore ROTTA, Banduri, Anselmo Maria, in: Dizionario biografico degli Italiani, 5 (Roma 1963) 739–746</rs>.
+                        Zu Barth, Berka, Goldburg, Hausdorf, Hübner, Hütter, Sobek von Bilenberg, Reimann, Spačil: <rs type="bibl" key="bqbibl:r268">Romuald Joseph SCHRAMM, Fratres ordinis S. P. Benedicti Břevnoveno-Braunenses in domino defuncti, in: Catalogus religiosorum sub Regula S. P. Benedicti in archisterio Břevnoviensi et monasterio Braunaviensi atque extra eadem militantium anno Domini MDCCCLXVII. Cum syllabo confratrum defunctorum (Prag 1867) 19–90</rs>. 
+                        Zu Albert Baumgartner, Körzinger<rs type="bibl" key="bqbibl:r984">: Robert N. FREEMAN, The Practice of Music at Melk Abbey. Based upon the Documents, 1681–1826 (Österreichische Akademie der Wissenschaften, Philosophisch-historische Klasse: Sitzungsberichte 548 = Veröffentlichungen der Kommission für Musikforschung 23, Wien 1989)</rs>. 
+                        Zu Emmeram Baumgartner<rs type="bibl" key="bqbibl:r549">: Robert MÜNSTER, Die Musik im Kloster Seeon, in: Kloster Seeon. Beiträge zu Geschichte, Kunst und Kultur der ehemaligen Benediktinerabtei, hg. von Hans von MALOTTKI (Weißenhorn 1993) 347–358</rs>. 
+                        Zu Behm: <rs type="bibl" key="bqbibl:r429">Adelhard KASPAR, Studiengeschichte der Abtei Münsterschwarzach vom Dreißigjährigen Krieg bis zur Säkularisation, in: Abtei Münsterschwarzach, hg. von Sales HESS (München 1938) 153–185</rs>. 
+                        Zu Gerhard, Spies: <rs type="bibl" key="bqbibl:r546">Georg SCHWINGER, Das St. Stephans-Kloster O.S.B. in Würzburg. Beiträge zu dessen Geschichte. Archiv des Historischen Vereins von Unterfranken und Aschaffenburg 40 (1898) 111–198; 41 (1899) 157–237; 42 (1900) 75–139; 43 (1901) 27–84</rs>. 
+                        Zu Benedikt von Engelberg, Betschart, Fleischlin, Keller, Knittel, Leo, Zurgilgen: <rs type="bibl" key="bqbibl:r352">Benedikt GOTTWALD, Album Engelbergense seu Catalogus religiosorum O. S. B. exempti monasterii B. V. M. in Monte Angelorum vulgo Engelberg in Helvetia circa annum post Christum natum 1082 fundati (Luzern 1882)</rs>. 
+                        Zu Behamstein, Christmann, Gallner, Bernhard (OSB Garsten), Ebbert, Egg, Faber, Freudenbichl, Kirchmayr, König, Priefer, Puel, Rauscher, Schwediauer, Wenger: <rs type="bibl" key="bqbibl:r849">Günter GARSTENAUER, Beiträge zur Geschichte des Klosters Garsten und der Stadt Steyr, 2: P. Ernest Koch. Biographien. Biographische Denkmäler vom aufgehobenen Stifte Steyr-Garsten getreulich und mühsam aus verschiedenen Dokumenten von einem Ordensprofessen daselbst gesammelt. 1803. Textquelle: Oberösterreichisches Landesarchiv, Stiftsarchiv Garsten, HS 76 und 76a (Sierning 2011)</rs>. 
+                        Zu Biechler, Meichelbeck: <rs type="bibl" key="bqbibl:r319">Pirmin LINDNER, Fünf Professbücher süddeutscher Benediktiner-Abteien. Beiträge zu einem Monasticon-benedictinum Germaniae, 4: Professbuch der Benediktiner-Abtei Benediktbeuern (Kempten–München 1910)</rs>; <rs type="bibl" key="bqbibl:r320">Thomas STOCKINGER, War Karl Meichelbeck ein "deutscher Mauriner"?, in: Europäische Geschichtskulturen um 1700 zwischen Gelehrsamkeit, Politik und Konfession, hg. von Thomas WALLNIG–Thomas STOCKINGER–Ines PEPER–Patrick FISKA (Berlin–Boston 2012) 135–168</rs>. 
+                        Zu Bisling, Hunger, Hüsser, Gallus Müller, Betschart, Augustin Reding, Schott, Beda Schwaller, Schwarz, Seiler, Steigentesch, Steinegger, Waibl (Waibel), Weishaupt, Widmer: <rs type="bibl" key="bqbibl:r350">Rudolf HENGGELER, Monasticon-Benedictinum Helvetiae, 3: Profeßbuch der fürstl. Benediktinerabtei U. L. Frau zu Einsiedeln. Festgabe zum tausendjährigen Bestand des Klosters (Zug 1933)</rs>. 
+                        Zu Bottbachius: <rs type="bibl" key="bqbibl:r253">Jean FRANÇOIS, Bibliothèque générale des écrivains de l’Ordre de Saint Benoît, patriarche des moines d’Occident: contenant une notice exacte des ouvrages de tout genre, composés par les religieux des diverses branches, filiations, réformes et congrégations de cet ordre, sous quelque dénomination qu’elles soient connues, avec les dates du temps où ces ouvrages ont paru; et les éclaircissements nécessaires pour en faire connoître les auteurs (4 Bde., Bouillon 1777–1778)</rs>. 
+                        Zu Bucelin: <rs type="bibl" key="bqbibl:r220">Claudia Maria NEESEN, Gabriel Bucelin OSB (1599–1681). Leben und historiographisches Werk (Stuttgarter historische Studien zur Landes- und Wirtschaftsgeschichte 3, Ostfildern 2003)</rs>; <rs type="bibl" key="bqbibl:r221">Thomas STUMP, Pater Gabriel Bucelin, 1599–1681, in: Festschrift zur 900-Jahr-Feier des Klosters 1056–1956. Ein Beitrag zur Geistes- und Gütergeschichte der Abtei, hg. von Gebhard SPAHR (Weingarten 1956) 370–395</rs>; <rs type="bibl" key="bqbibl:r222">Alfons M. ZIMMERMANN, P. Gabriel Bucelin als Hagiograph des Benediktinerordens, in: Festschrift zur 900-Jahr-Feier des Klosters 1056–1956. Ein Beitrag zur Geistes- und Gütergeschichte der Abtei, hg. von Gebhard SPAHR (Weingarten 1956) 396–400</rs>. 
+                           Zu Cambero, Pennalosa Mondragon: <rs type="bibl" key="bqbibl:r455">Leander HELMLING, Emaus. Kurzgefaßte Geschichte und Beschreibung der Kirche und des Klosters Unserer l. Frau von Montserrat zu Emaus in Prag (Prag 1903)</rs>. 
+                           Zu Cäsar, Walbatt: <rs type="bibl" key="bqbibl:r590">Josef HEMMERLE, Germania Benedictina, 2: Die Benediktinerklöster in Bayern (Augsburg 1970)</rs>. 
+                           Zu Lobkowitz: <rs type="bibl" key="bqbibl:r747">Julián VELARDE LOMBRAÑA, Juan Caramuel, vida y obra (Colección El Basilisco, Oviedo 1989)</rs>.
+                           Zu Kajetan: <rs type="bibl" key="bqbibl:r225">Arcangelo BOSSI, Matricula monachorum Congregationis Casinensis Ordinis S. Benedicti, 1: 1409–1699, hg. von Leandro NOVELLI–Giovanni SPINELLI (Pubblicazioni del Centro Storico Benedettino Italiano 3, Cesena 1983)</rs>. 
+                           Zu Cathrin, Curtins, Baron, Medell, Desax, Stöcklin: <rs type="bibl" key="bqbibl:r336">Rudolf HENGGELER, Monasticon-Benedictinum Helvetiae, 4: Profeßbuch der Benediktinerabteien St. Martin in Disentis, St. Vinzenz in Beinwil und U. L. Frau von Mariastein, St. Leodegar und St. Mauritius im Hof zu Luzern, Allerheiligen in Schaffhausen, St. Georg zu Stein am Rhein, Sta. Maria zu Wagenhausen, Hl. Kreuz und St. Johannes Ev. zu Trub, St. Johann im Thurtal (Zug 1955)</rs>. 
+                           Zu Castillo-Calderón: <rs type="bibl" key="bqbibl:r985">Leander HELMLING, Die literarische und künstlerische Tätigkeit im kgl. Stifte Emaus in Prag. Von seiner Gründung bis auf unsere Tage. SMGB 25 (1904) 30–42, 480–488, 655–675; 26 (1905) 22–29, 238–247</rs>. 
+                           Zu Catan, Franz, Krez, Ludwig, Molitor, Neß, Pfeffer, Röher, Sandholzer, Schmier, Schultheiss, Schütz, Textor, Reubi: <rs type="bibl" key="bqbibl:r449">Pirmin LINDNER, Album Ottoburanum. Die Äbte und Mönche des ehemaligen freien Reichs-Stiftes Ottobeuren, Benediktiner-Ordens in Schwaben und deren literarischer Nachlass von 764 bis zu ihrem Aussterben (1858). Zeitschrift des Historischen Vereins für Schwaben und Neuburg 30 (1903) 77–142; 31 (1904) 1–90</rs>. 
+                           Zu Zeller, Landau, Larson, Zappler: <rs type="bibl" key="bqbibl:r027">Ignaz Franz KEIBLINGER, Geschichte des Benedictiner-Stiftes Melk in Niederösterreich, seiner Besitzungen und Umgebungen (3 Bde., Wien 1851–1869)</rs>. 
+                           Zu Charmans, Dript, Nakatenus, Sybenius: <rs type="bibl" key="bqbibl:r368">Hans BANGE–Wolfgang LÖHR, Gladbach, in: Germania Benedictina, 8: Die Benediktinerklöster in Nordrhein-Westfalen, hg. von Rhaban HAACKE (St. Ottilien 1980) 323–351</rs>.
+                           Zu Benedikt und Korbinian Cherle, Pfaffenzeller: <rs type="bibl" key="bqbibl:r574">Franz MACHILEK, Benedikt Cherle von Thierhaupten (1670–1719) und die Anfänge des "Deutschen Maurinismus", in: Bayern. Vom Stamm zum Staat. Festschrift für Andreas KRAUS zum 80. Geburtstag, hg. von Konrad ACKERMANN–Alois SCHMID–Wilhelm VOLKERT (Schriftenreihe zur bayerischen Landesgeschichte 140, 2 Bde., München 2002) 2 47–63</rs>. 
+                           Zu Christel, Jacobi, Kibler, Kolberer, Mennichen, Probst, Maurus Rambeck, Schlager, Matthäus Weiß: <rs type="bibl" key="bqbibl:r594">Magnus SATTLER, Chronik von Andechs (Donauwörth 1877)</rs>. 
+                           Zu Staudigl: <rs type="bibl" key="bqbibl:r295">Hugo HOLL, P. Ulrich Staudigl von Andechs († 1720) als erster Prokurator der bayrischen Benediktiner-Kongregation in Rom. (Dargestellt nach seinen Briefen). SMGB 51 (1933) 231–275</rs>; <rs type="bibl" key="bqbibl:r296">Birgitta KJÄER, P. Ulrich Staudigl (1644–1720) von Andechs. Mönch und Arzt (München 1986)</rs>. 
+                              Zu Wasner, Oberascher, Rebiser: <rs type="bibl" key="bqbibl:r425">Pirmin LINDNER, Das Profeßbuch der Benediktinerabtei Mondsee. Archiv für die Geschichte der Diözese Linz. Beilage zum Linzer Diözesanblatt 2 (1905) 133–199</rs>. 
+                              Zu Clavenau, Huebmann, Leizendorf, Lehrer, Lendlmayr, Manincor, Pfeiffer, Rechling, Romoser, Schopf, Schumig, Rochus Stroz, Vierholz: <rs type="bibl" key="bqbibl:r276">Florian C. KINNAST, Album Admontense seu Catalogus religiosorum ordinis S. P. Benedicti in abbatia Admontensi superioris Stiriae anno jubilaeo 1874 viventium et ab anno 1674 pie defunctorum (Graz 1874)</rs>. 
+                              Zu Vogl: <rs type="bibl" key="bqbibl:r512">Egon Johannes GREIPL, Coelestin Vogl (1613–1691). Fürstabt von St. Emmeram zu Regensburg, in: Lebensbilder aus der Geschichte des Bistums Regensburg 1, hg. von Georg SCHWAIGER (Beiträge zur Geschichte des Bistums Regensburg 23, Regensburg 1989) 288–293</rs>. 
+                              Zu Kolb: <rs type="bibl" key="bqbibl:r552">Maria Veneranda WIEST, Honorat Kolb, Abt von Seeon 1603–1670 (SMGB Ergh. 13, München 1937)</rs>. 
+                              Zu Corner, Dörring, Paar: <rs type="bibl" key="bqbibl:r370">Clemens Anton LASHOFER, Professbuch des Benediktinerstiftes Göttweig. Zur 900-Jahr-Feier der Gründung des Klosters (SMGB Ergbd. 26, St. Ottilien 1983)</rs>. 
+                              Zu Kronenfeld: <rs type="bibl" key="bqbibl:r987">František KRASL, Arnošt hrabě Harrach, kardinál Sv. Církve Římské a kníže arcibiskup pražský. Historicko-kritické vypsání náboženských poměrů v Čechách od roku 1623–1667 (Dědictwí Sw. Prokopa w Praze 25, Prag 1885)</rs>. 
+                              Zu Dallinger, Roman Müller: <rs type="bibl" key="bqbibl:r551">Hans ROTH, Die Seeoner Äbte vom 16. Jahrhundert bis zur Säkularisation des Klosters 1803, in: Kloster Seeon. Beiträge zu Geschichte, Kunst und Kultur der ehemaligen Benediktinerabtei, hg. von Hans von MALOTTKI (Weißenhorn 1993) 123–150</rs>. 
+                              Zu Dietl: <rs type="bibl" key="bqbibl:r060">Anton Maria KOBOLT, Baierisches Gelehrten-Lexikon (Landshut 1795)</rs>. 
+                              Zu Dietrich: <rs type="bibl" key="bqbibl:r985">Leander HELMLING, Die literarische und künstlerische Tätigkeit im kgl. Stifte Emaus in Prag. Von seiner Gründung bis auf unsere Tage. SMGB 25 (1904) 30–42, 480–488, 655–675; 26 (1905) 22–29, 238–247</rs>. 
+                              Zu Drescher, Lichtenhaimb, Pickelius, Sanuis, Scupina, Anton Strotz, Wiser: <rs type="bibl" key="bqbibl:r529">Benedikt PLANK, St. Lambrecht, in: Germania Benedictina, 3/2: Die benediktinischen Mönchs- und Nonnenklöster in Österreich und Südtirol, hg. von Ulrich FAUST–Waltraud KRASSNIG (St. Ottilien 2001) 318–380</rs>. 
+                              Zu Egger, Ower<rs type="bibl" key="bqbibl:r452">: Pirmin LINDNER, Fünf Professbücher süddeutscher Benediktiner-Abteien. Beiträge zu einem Monasticon-benedictinum Germaniae, 5: Professbuch der Benediktiner-Abtei Petershausen (Kempten–München 1910)</rs>. 
+                              Zu Egon: <rs type="bibl" key="bqbibl:r464">Ursula BEGRICH, Reichenau, in: Helvetia Sacra, Abt. III: Die Orden mit Benediktinerregel, 1: Frühe Klöster, die Benediktiner und Benediktinerinnen in der Schweiz, hg. von Elsanne GILOMEN-SCHENKEL, Teil 2 (Bern 1986) 1059–1100</rs>. 
+                              Zu Eisenberner, Frühwirth: <rs type="bibl" key="bqbibl:r563">Albert HÜBL, Geschichte des Unterrichtes im Stifte Schotten in Wien (Wien 1907)</rs>. 
+                              Zu Eiselin, Homburger: <rs type="bibl" key="bqbibl:r503">Joseph BADER, Das ehemalige Kloster Sanct Blasien auf dem Schwarzwalde und seine Gelehrten-Akademie. Freiburger Diöcesan-Archiv 8 (1874) 103–253</rs>. 
+                              Zu Engel: <rs type="bibl" key="bqbibl:r987">Paul MUSCHARD, Das Kirchenrecht bei den deutschen Benediktinern und Zisterziensern des 18. Jahrhunderts. SMGB 47 (1929) 225–315, 477–596</rs>. 
+                              Zu Feinhals: <rs type="bibl" key="bqbibl:r383">Jakob TORSY, Der Regularklerus in den Kölner Bistumsprotokollen 1661–1825 (Studien zur Kölner Kirchengeschichte 18–20, 3 Bde., Siegburg 1985–1987)</rs>. 
+                              Zu Fürbas, Indersdorfer, Gregor Kimpfler, Litisch, Aegyd Rambeck, Schwab, Reitberger, Stockhammer: <rs type="bibl" key="bqbibl:r486">Anselm REICHHOLD, Chronik von Scheyern. Von den ersten Anfängen bis zur Gegenwart (Weißenhorn 1998)</rs>. 
+                              Zu Anselm Fischer, Hay, Lendlin, Neumann, Settelin, Placidus Spieß: <rs type="bibl" key="bqbibl:r444">Pirmin LINDNER, Verzeichnis aller Äbte und der vom Beginne des XVI. Jahrhunderts bis 1861 verstorbenen Mönche der Reichsabtei Ochsenhausen O. S. Bened. Gedenkblatt an deren Gründung im Jahre 1099. Diöcesanarchiv von Schwaben 17 (1899) 97–100, 117–120, 136–138, 154–156, 171–173; 18 (1900) 75–77, 86–91, 191–192</rs>. 
+                              Zu Dominik Fischer, Heuchlinger, Mörlin, Umbhofer, Vogel, Zisel: <rs type="bibl" key="bqbibl:r596">Pirmin LINDNER, Album Wiblingense. Die Äbte und Mönche der Benediktinerabtei Wiblingen von 1099–1864. Mit biographischen Notizen. Diöcesanarchiv von Schwaben 19 (1901) 1–4, 37–42, 73–77, 107–112, 163–167; 20 (1902) 10–15, 85–90, 107–110</rs>.
+                              Zu Freidl: <rs type="bibl" key="bqbibl:r530">Othmar WONISCH, Musikpflege im Stift St. Lambrecht, in: Aus dem Musikleben des Steirerlandes. Geschichtliche und biographische Skizzen zur steirischen Musikgeschichte, hg. vom Steirischen Sängerbunde (Graz 1924) 15–21</rs>.
+                              Zu Freyberger, Pettschacher, Schlibnigg, Sedlmayr, Seitz, Utz, Alphons Wenzl, Widl: <rs type="bibl" key="bqbibl:r183">Emmanuel J. BAUER, Thomistische Metaphysik an der alten Benediktineruniversität Salzburg. Darstellung und Interpretation einer philosophischen Schule des 17./18. Jahrhunderts (Salzburger Theologische Studien 1, Innsbruck–Wien 1996)</rs>. 
+                              Zu Fuchs: <rs type="bibl" key="bqbibl:r572">Gerd ZIMMERMANN, Das Diarium des Abtes Gregor Fuchs über den Bau der Klosterkirche zu Theres (1716–26). Würzburger Diözesangeschichtsblätter 16/17 (1954/55) 295–317</rs>. 
+                              Zu Gebel: <rs type="bibl" key="bqbibl:r511">Paulus VOLK, Biographische Notizen des P. Benedictus Gebel von St. Blasien (+1676). Freiburger Diözesan-Archiv 80 (1960) 228–261</rs>. 
+                              Zu Geiger, Gugger, Jodok Metzler, Pfau, Schenck, Sfondrati: <rs type="bibl" key="bqbibl:r521">Rudolf HENGGELER, Monasticon-Benedictinum Helvetiae, 1: Profeßbuch der fürstlichen Benediktinerabtei der Heiligen Gallus und Otmar zu St. Gallen (Zug o.J. [1929])</rs>.
+                                 Zu Gaisser: <rs type="bibl" key="bqbibl:r472">Gall HEER, Johannes Mabillon und die Schweizer Benediktiner. Ein Beitrag zur Geschichte der historischen Quellenforschung im 17. und 18. Jahrhundert (St. Gallen 1938)</rs>. 
+                                 Zu Giel von Gielsberg: <rs type="bibl" key="bqbibl:r378">Joseph ROTTENKOLBER, Geschichte des hochfürstlichen Stiftes Kempten (München 1933)</rs>. 
+                                 Zu Gille, Odilo Guetrather, Langbartner: <rs type="bibl" key="bqbibl:r988">Michael FILZ, Geschichte des salzburgischen Benedictiner-Stiftes Michaelbeuern (2 Bde., Salzburg 1833)</rs>. 
+                                 Zu Jung: <rs type="bibl" key="bqbibl:r989">Wilhelm FINK, P. Hieronymus Jung von St. Emmeram als Vertreter seines Abtes Coelestin Vogl an der römischen Kurie. SMGB 59 (1942) 159–186</rs>. 
+                                 Zu Gletle, Grundenmann, Heller, Kauzenbach: <rs type="bibl" key="bqbibl:r370">Clemens Anton LASHOFER, Professbuch des Benediktinerstiftes Göttweig. Zur 900-Jahr-Feier der Gründung des Klosters (SMGB Ergbd. 26, St. Ottilien 1983)</rs>. 
+                                 Zu Gravius, Krodt, Lehner: <rs type="bibl" key="bqbibl:r382">Hans Joachim KRACHT, St. Pantaleon, in: Germania Benedictina, 8: Die Benediktinerklöster in Nordrhein-Westfalen, hg. von Rhaban HAACKE (St. Ottilien 1980) 390–404</rs>. 
+                                 Zu Gräz, Stöger, Taller: <rs type="bibl" key="bqbibl:r476">Martin RUF, Professbuch des Benediktinerstiftes Rott am Inn (SMGB Erg.bd. 32, St. Ottilien 1991)</rs>. 
+                                 Zu Forster: <rs type="bibl" key="bqbibl:r589">Hans RÄBEL, Das ehemalige Benediktiner-Adelsstift Weissenohe in der Zeit vom Landshuter Erbfolgekrieg bis zur Wiedererrichtung (1504–1699) nebst einem Anhang über die Vorgeschichte des Klosters nach archivalischen Quellen bearbeitet (Historischer Verein Bamberg für die Pflege der Geschichte des Ehemaligen Fürstbistums 66, Bamberg 1908)</rs>. 
+                                 Zu Petrus Guetrather, Ilmperger, Millon, Praunsperger, Preysing, Raisberger, Rinsweger, Bernhard und Paul Schallhammer, Wagner, Bernhard Wenzl, Wider: <rs type="bibl" key="bqbibl:r568">Pirmin LINDNER, Familia S. Quirini in Tegernsee. Die Äbte und Mönche der Benediktiner-Abtei Tegernsee von den ältesten Zeiten bis zu ihrem Aussterben (1861) und ihr literarischer Nachlass. Oberbayerisches Archiv für vaterländische Geschichte 50 (1897) 18–130; 50 Ergh. (1898) 1–318</rs>. 
+                                 Zu Haberstock, Huefnagl, Kamperger, Kendlmayr, Prandt, Reittmair, Ressmann, Candidus Rottenheusler: <rs type="bibl" key="bqbibl:r040">Thomas WALLNIG, Die "Epistolae apologeticae pro ordine sancti Benedicti" von Bernhard Pez (1715). Beobachtungen und Personenregister, in: Vergangenheit und Vergegenwärtigung. Frühes Mittelalter und europäische Erinnerungskultur, hg. von Helmut REIMITZ–Bernhard ZELLER (Österreichische Akademie der Wissenschaften, Philosophisch-historische Klasse. Denkschriften 373 = Forschungen zur Geschichte des Mittelalters 14, Wien 2009) 9–30</rs>. 
+                                 Zu Hagemann: <rs type="bibl" key="bqbibl:r591">Bernhard KIRCHNER, Die Geschichte der Abteischule und des Gelehrtenwesens zu Werden an der Ruhr bis zur Aufhebung der Abtei. Progymnasium in Werden. Bericht über das Schuljahr (1909/10) 3–36</rs>. 
+                                 Zu Halmschmidt, Haslinger, Bimmel, Krenner, Edmund Ruedorffer, Weichlein: <rs type="bibl" key="bqbibl:r391">Arno EILENSTEIN, Die Benediktinerabtei Lambach in Österreich ob der Enns und ihre Mönche (Linz 1936)</rs>. 
+                                 Zu Harter: <rs type="bibl" key="bqbibl:r516">Die Bibliotheken zu St. Emmeram in Regensburg, hg. von Max PIENDL (Thurn und Taxis Studien 7, Kallmünz 1971)</rs>. 
+                                 Zu Heinlein, Urtlauff: <rs type="bibl" key="bqbibl:r571">Gabriel VOGT, Burg und Dorf, Kloster und Schloß Theres am Main. Ein Beitrag zur Geschichte des Dorfes und der ehemaligen Benediktinerabtei St. Vitus zu Theres am Main (Münsterschwarzach 1979)</rs>. 
+                                 Zu Hellbock: <rs type="bibl" key="bqbibl:r419">Pirmin LINDNER, Album Augiae Brigantinae. Album von Mehrerau bei Bregenz, enthaltend die Äbte und Mönche der ehemaligen Benediktiner-Abtei Mehrerau vom Jahre 1097 bis zu ihrem Aussterben (1856) und deren literarischen Nachlass. Jahres-Bericht des Vorarlberger Museum-Vereines 41 (1902) 31–107</rs>. 
+                                 Zu Hemm, Trauner: <rs type="bibl" key="bqbibl:r515">Benedikt BRAUNMÜLLER, Reihe der Aebte von St. Emmeram in Regensburg. SMGB 4/2 (1883) 118–134</rs>.
+                                 Zu Marchstaller: <rs type="bibl" key="bqbibl:r990">Friedrich Wilhelm LEITNER, Abt Hieronymus Marchstaller (1616–1638), der "zweite Gründer" des Stiftes, in: Schatzhaus Kärntens. Landesausstellung St. Paul 1991. 900 Jahre Benediktinerstift, hg. von Günther HÖDL–Johannes GRABMAYER (2 Bde., Klagenfurt 1991) 2 175–188</rs>. 
+                                 Zu Hilger: <rs type="bibl" key="bqbibl:r991">Otto EIGNER, Geschichte des aufgehobenen Benedictinerstiftes Mariazell in Österreich. Mit Benutzung des Ignaz Franz Keiblinger’schen Nachlasses (Wien 1900)</rs>. 
+                                 Zu Honn (Oeding): <rs type="bibl" key="bqbibl:r811">Paulus VOLK, Die Generalkapitels-Rezesse der Bursfelder Kongregation (4 Bde., Siegburg 1955–1972)</rs>. 
+                                 Zu Jäger: <rs type="bibl" key="bqbibl:r532">Othmar WONISCH, Förderung des Hemmakultes durch das Stift St. Lambrecht. Carinthia I. Geschichtliche und volkskundliche Beiträge zur Heimatkunde Kärntens 151 (1961) 740–771</rs>. 
+                                 Zu Seiler: <rs type="bibl" key="bqbibl:r354">Benno SCHILDKNECHT, Zum 300. Todestag von Abt Joachim Seiler: 1672–1688. 34. Abt des kurz vor 1138 gegründeten, 1848 aufgehobenen und 1977 wiedererrichteten schweizerischen Benediktinerklosters Fischingen (Thurgau). SMGB 99 (1988) 221–229</rs>. 
+                                 Zu Wallner: <rs type="bibl" key="bqbibl:r447">Jakub Z. LICHAŃSKI, Drama of Father Joseph Wallner about Boleslaw the Bold: Sin, Penance and Forgiveness in Neo-Latin Drama and Poetry of the Second Half of the 17th Century, in: Pietas Humanistica. Neo-Latin Religious Poetry in Poland in European Context, hg. von Piotr URBAŃSKI (Frankfurt am Main et al. 2006) 249–260</rs>. 
+                                 Zu Junghans, Naisl: <rs type="bibl" key="bqbibl:r560">Heinrich GENTNER, Geschichte des Benedictinerklosters Weihenstephan bey Freysing. Aus Urkunden angefertiget. Beyträge zur Geschichte, Topographie und Statistik des Erzbisthums München und Freysing 6 (1854) 1–350</rs>.
+                                 Zu Rayser: <rs type="bibl" key="bqbibl:r284">Hanna EGGER, Altenburg, in: Germania Benedictina, 3/1: Die benediktinischen Mönchs- und Nonnenklöster in Österreich und Südtirol, hg. von Ulrich FAUST–Waltraud KRASSNIG (St. Ottilien 2000) 213–289</rs>. 
+                                 Zu Kempens: <rs type="bibl" key="bqbibl:r369">Peter ROPERTZ, Quellen und Beiträge zur Geschichte der Benediktiner-Abtei des hl. Vitus in M. Gladbach (Bonn 1877)</rs>. 
+                                 Zu Kobolt: <rs type="bibl" key="bqbibl:r476">Martin RUF, Professbuch des Benediktinerstiftes Rott am Inn (SMGB Erg.bd. 32, St. Ottilien 1991)</rs>. 
+                                 Zu Koffer: <rs type="bibl" key="bqbibl:r510">Alfons SCHÄFER, St. Blasien, in: Helvetia Sacra, Abt. III: Die Orden mit Benediktinerregel, 1: Frühe Klöster, die Benediktiner und Benediktinerinnen in der Schweiz, Teil 2, hg. von Elsanne GILOMEN-SCHENKEL (Bern 1986) 1166–1176</rs>. 
+                                 Zu Renz: <rs type="bibl" key="bqbibl:r423">Paulus WEISSENBERGER, Kulturelle Beziehungen zwischen den Klöstern Maihingen, Mönchsdeggingen und Neresheim im 17./18. Jahrhundert. Jahrbuch des Vereins für Augsburger Bistumsgeschichte 9 (1975) 175–192</rs>. 
+                                 Zu Mader: <rs type="bibl" key="bqbibl:r348">Dorothée EGGENBERGER-BILLERBECK, Die ehemalige Benediktinerkirche Ebersmünster. Ein Beitrag zur Vorarlberger Barockarchitektur. Archives de l’Eglise d’Alsace 21 (1974) 163–216</rs>. 
+                                 Zu Stempfle: <rs type="bibl" key="bqbibl:r359">David LEISTLE, Wissenschaftliche und künstlerische Strebsamkeit im St. Magnusstifte zu Füssen. Studien und Mittheilungen aus dem Benedictiner- und dem Cistercienser-Orden mit besonderer Berücksichtigung der Ordensgeschichte und Statistik 16 (1895) 371–386, 539–555; 17 (1896) 14–29, 223–229, 392–398, 639–650; 18 (1897) 57–68, 281–286, 419–429, 589–598; 19 (1898) 56–59</rs>. 
+                                 Zu Mesenich: <rs type="bibl" key="bqbibl:r575">Peter BECKER, Das Erzbistum Trier, 8: Die Benediktinerabtei St. Eucharius-St. Matthias vor Trier (Germania Sacra N. F. 34, Die Bistümer der Kirchenprovinz Trier, Berlin–New York 1996)</rs>. 
+                                 Zu Millpauer: <rs type="bibl" key="bqbibl:r060">Anton Maria KOBOLT, Baierisches Gelehrten-Lexikon (Landshut 1795)</rs>. 
+                                 Zu Moritz Müller: <rs type="bibl" key="bqbibl:r038">Thomas STOCKINGER, "Fidelis tametsi inutilis servus". P. Moritz Müller OSB (St. Gallen) in seiner historisch-literarischen und politisch-diplomatischen Tätigkeit im Spiegel seiner Korrespondenz 1709–1714. SMGB 118 (2007) 339–432</rs>. 
+                                 Zu Engelbert von Admont: <rs type="bibl" key="bqbibl:r280">Karl UBL, Engelbert von Admont. Ein Gelehrter im Spannungsfeld von Aristotelismus und christlicher Überlieferung (Mitteilungen des Instituts für Österreichische Geschichtsforschung Ergänzungsband 37, Wien–München 2000)</rs>. 
+                                 Zu Nöth: <rs type="bibl" key="bqbibl:r503">Joseph BADER, Das ehemalige Kloster Sanct Blasien auf dem Schwarzwalde und seine Gelehrten-Akademie. Freiburger Diöcesan-Archiv 8 (1874) 103–253</rs>. 
+                                 Zu Overham: <rs type="bibl" key="bqbibl:r561">Albert SCHUNCKEN, Geschichte der Reichsabtei Werden a. d. Ruhr (Köln–Neuß 1865)</rs>. 
+                                 Zu HP: <rs type="bibl" key="bqbibl:r009">Koloman SCHÖNHOFER, P. Bernhard Pez (22.2.1683–27.3.1735), P. Hieronymus Pez (24.2.1685–14.10.1762), Benediktiner von Melk (Leben, Bedeutung und Werke) (ungedr. theol. Dipl.Arb., Innsbruck 1973)</rs>. 
+                                 Zu Zurlauben, Brunner, Tschudi, Weißenbach: <rs type="bibl" key="bqbibl:r431">Martin KIEM, Geschichte der Benedictiner Abtei Muri-Gries (ad S. Martinum – ad B. V. Mariam) (2 Bde., Stans 1888–1891)</rs>. 
+                                 Zu Plöchinger: <rs type="bibl" key="bqbibl:r553">Peter ENGELS, Seligenstadt am Main, in: Germania Benedictina, 7: Die benediktinischen Mönchs- und Nonnenklöster in Hessen, hg. von Friedhelm JÜRGENSMEIER–Franziskus BÜLL–Regina Elisabeth SCHWERDTFEGER (St. Ottilien 2004) 941–995</rs>. 
+                                 Zu Rauber: <rs type="bibl" key="bqbibl:r489">Hansmartin SCHWARZMAIER, Schwarzach, in: Germania Benedictina, 5: Die Benediktinerklöster in Baden-Württemberg, hg. von Franz QUARTHAL–Hansmartin DECKER-HAUFF–Klaus SCHREINER (Augsburg 1975) 574–588</rs>.
+                                 Zu Regondi: <rs type="bibl" key="bqbibl:r284">Hanna EGGER, Altenburg, in: Germania Benedictina, 3/1: Die benediktinischen Mönchs- und Nonnenklöster in Österreich und Südtirol, hg. von Ulrich FAUST–Waltraud KRASSNIG (St. Ottilien 2000) 213–289</rs>. 
+                                 Zu Ringmayr: <rs type="bibl" key="bqbibl:r593">Pirmin LINDNER, Fünf Professbücher süddeutscher Benediktiner-Abteien. Beiträge zu einem Monasticon-benedictinum Germaniae, 1: Professbuch der Benediktiner-Abtei Wessobrunn (Kempten–München 1909). Zu Roth von Schreckenstein: Joseph ROTTENKOLBER, Geschichte des hochfürstlichen Stiftes Kempten (München 1933)</rs>. 
+                                 Zu Ruben: <rs type="bibl" key="bqbibl:r273">Hugo KRAMER, Abt Leonhard Ruben. Ein Lebensbild aus der Zeit der katholischen Erneuerung in Paderborn. Westfälische Zeitschrift. Zeitschrift für vaterländische Geschichte und Altertumskunde 103/104 (1954) 271–333</rs>; <rs type="bibl" key="bqbibl:r274">Hermann-Josef SCHMALOR, Die Abdinghofer Bibliothek unter Abt Leonhard Ruben und das Paderborner Buchgewerbe um 1600. Westfälische Zeitschrift. Zeitschrift für vaterländische Geschichte und Altertumskunde 129 (1979) 193–245</rs>. 
+                                 Zu Rucker: <rs type="bibl" key="bqbibl:r446">Albert HÜBL, Geschichte des Unterrichtes im Stifte Schotten in Wien (Wien 1907)</rs>. 
+                                 Zu Bernhard Ruedorffer, Schapperger, Werlin: <rs type="bibl" key="bqbibl:r550">Hans PÖRNBACHER, Die schönste Kunst im Schreiben. Literaten und Literaturpflege in Seeon von 1600 bis 1800, in: Kloster Seeon. Beiträge zu Geschichte, Kunst und Kultur der ehemaligen Benediktinerabtei, hg. von Hans von MALOTTKI (Weißenhorn 1993) 329–346</rs>. 
+                                 Zu Sepp: <rs type="bibl" key="bqbibl:r992">Thomas WIESER–Rainer LOOSE, Familia Mariaemontana. Mitglieder und Wirkungskreis der Benediktinerabtei (Schuls-)Marienberg. Studien und Mitteilungen zur Geschichte des Benediktinerordens und seiner Zweige 113 (2002) 7–63</rs>. 
+                                 Zu Sengmiller: <rs type="bibl" key="bqbibl:r887">Ernst HINTERMAIER, Materialien zur Musik und Musikpflege im Benediktinerstift Michaelbeuern im 17., 18. und 19. Jh., in: Benediktinerabtei Michaelbeuern. Eine Dokumentation anläßlich der Eröffnung und Weihe der neu adaptierten Räume für Internat, Schule und Bildungsarbeit, hg. von Nicolaus WAGNER–Berthold EGELSEDER (Michaelbeuern 1985) 237–248</rs>. 
+                                 Zu Steger: <rs type="bibl" key="bqbibl:r993">Cölestin RAPF, Wien, Schwarzspanier, in: Germania Benedictina, 3/3: Die benediktinischen Mönchs- und Nonnenklöster in Österreich und Südtirol, hg. von Ulrich FAUST–Waltraud KRASSNIG (St. Ottilien 2002) 818–827</rs>. 
+                                 Zu Steinbacher: <rs type="bibl" key="bqbibl:r766">Joseph SÄCHERL, Chronik des Benediktiner-Klosters Frauenzell nebst geschichtlichen Nachrichten über Brennberg, Bruckbach, Siegenstein und Süßenbach, Altenthan, Pettenreut, Arrach, Zell, Martins-Neukirchen, Marienstein und Hetzenbach. Verhandlungen des historischen Vereines von Oberpfalz und Regensburg 15 (1853) 257–466</rs>. 
+                                 Zu Storch: <rs type="bibl" key="bqbibl:r539">Beda SCHROLL, Hieronymus Marchstaller, Abt des Benedictiner-Stiftes St. Paul im Lavantthale, päpstlicher Protonotar, kaiserlicher und erzbischöflich-salzburgischer Rath, Erzpriester des Metropoliten in Salzburg für Unterkärnten, und des Patriarchen von Aquileja für Möchling im Jaunthale Kärntens und St. Lorenzen in der Wüste in Untersteiermark. 1616–1638. Nach seinem Leben und Wirken dargestellt (Klagenfurt 1891)</rs>. 
+                                 Zu Sulger: <rs type="bibl" key="bqbibl:r478">Anton NÄGELE, Der erste und der letzte Zwiefalter Benediktiner am alten Gymnasium zu Rottweil a. N. (P. Arsenius Sulger und P. Basilius Beck.) Zwei biographische Beiträge zur Geschichte des benediktinischen Schulwesens in Schwaben. SMGB 49 (1931) 243–290</rs>. 
+                                 Zu Albert Turner: <rs type="bibl" key="bqbibl:r888">Friedrich ENDL, Ueber Studium und Wissenschaft im Benedictiner-Stifte Altenburg bei Horn in Nieder-Oesterreich seit den ältesten Zeiten bis um die Mitte des 19. Jahrhunderts. SMGB 20 (1899) 146–151, 458–470</rs>. 
+                                 Zu Waffenschmid: <rs type="bibl" key="bqbibl:r507">Hugo OTT, Die Benediktinerabtei St. Blasien in den Reformbestrebungen seit 1567, besonders unter Abt Kaspar II. (1571–1596). Freiburger Diözesan-Archiv 84 (1964) 142–197</rs>. 
+                                 Zu Weinckens: <rs type="bibl" key="bqbibl:r553">Peter ENGELS, Seligenstadt am Main, in: Germania Benedictina, 7: Die benediktinischen Mönchs- und Nonnenklöster in Hessen, hg. von Friedhelm JÜRGENSMEIER–Franziskus BÜLL–Regina Elisabeth SCHWERDTFEGER (St. Ottilien 2004) 941–995</rs>. 
+                                 Zu Thomas Weiß, Witzenberger: <rs type="bibl" key="bqbibl:r432">Pirmin LINDNER, Album Neresheimense. Verzeichnis der vom Jahre 1424–1854 verstorbenen Aebte und Religiosen der ehemaligen Reichsabtei Neresheim in Schwaben Benediktinerordens, mit biographischen Notizen etc. Diöcesanarchiv von Schwaben 13 (1895) 161–167, 181–188; 14 (1896) 9–13</rs>. 
+                                 Zu Weixer: <rs type="bibl" key="bqbibl:r458">Andrea SCHWARZ, Die Traditionen des Stiftes Prüfening (Quellen und Erörterungen zur bayerischen Geschichte N. F. 39/1, München 1991)</rs>. 
+                                    Zu Weller: <rs type="bibl" key="bqbibl:r313">Georg Ildephons SCHATT, Lebens-Abriß des Hochwürdigen und Hochwohlgebornen Herrn Gallus Dennerlein Abten und Prälaten des aufgelößten Benedictiner-Stifts Banz. Mit einem Vorworte: Ueber die Individualität des Menschen-Karacters. Nebst zehen merkwürdigen Beylagen aus der Chronik dieser Abtey von MLXXI – MDCCCIII (Bamberg–Würzburg 1821)</rs>. 
+                                    Zu Wex, Ziegler: <rs type="bibl" key="bqbibl:r505">Martin Eduard FISCHER, Klingnau, in: Helvetia Sacra, Abt. III: Die Orden mit Benediktinerregel, 1: Frühe Klöster, die Benediktiner und Benediktinerinnen in der Schweiz, Teil 2, hg. von Elsanne GILOMEN-SCHENKEL (Bern 1986) 781–801</rs>. 
+                                    Zu Zelender: <rs type="bibl" key="bqbibl:r008">Stefan BENZ, Zwischen Tradition und Kritik. Katholische Geschichtsschreibung im barocken Heiligen Römischen Reich (Historische Studien 473, Husum 2003)</rs>. 
+                                    Zu Schlosgo, Gazinger, Schreitter, Stocker: <rs type="bibl" key="bqbibl:r994">Magnus SATTLER, Collectaneen-Blätter zur Geschichte der ehemaligen Benedictiner-Universität Salzburg (Kempten 1890)</rs>.</bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="RNA">Werke</classCode>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="s431074" n="1r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431074.tif"/>
+      </surface>
+      <surface xml:id="s431075" n="1v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431075.tif"/>
+      </surface>
+      <surface xml:id="s431076" n="2r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431076.tif"/>
+      </surface>
+      <surface xml:id="s431077" n="2v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431077.tif"/>
+      </surface>
+      <surface xml:id="s431078" n="3r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431078.tif"/>
+      </surface>
+      <surface xml:id="s431079" n="3v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431079.tif"/>
+      </surface>
+      <surface xml:id="s431080" n="4r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431080.tif"/>
+      </surface>
+      <surface xml:id="s431081" n="4v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431081.tif"/>
+      </surface>
+      <surface xml:id="s431082" n="5r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431082.tif"/>
+      </surface>
+      <surface xml:id="s431083" n="5v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431083.tif"/>
+      </surface>
+      <surface xml:id="s431084" n="6r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431084.tif"/>
+      </surface>
+      <surface xml:id="s431085" n="6v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431085.tif"/>
+      </surface>
+      <surface xml:id="s431086" n="7r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431086.tif"/>
+      </surface>
+      <surface xml:id="s431087" n="7v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431087.tif"/>
+      </surface>
+      <surface xml:id="s431088" n="8r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431088.tif"/>
+      </surface>
+      <surface xml:id="s431089" n="8v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431089.tif"/>
+      </surface>
+      <surface xml:id="s431090" n="9r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431090.tif"/>
+      </surface>
+      <surface xml:id="s431091" n="9v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431091.tif"/>
+      </surface>
+      <surface xml:id="s431092" n="10r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431092.tif"/>
+      </surface>
+      <surface xml:id="s431093" n="10v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431093.tif"/>
+      </surface>
+      <surface xml:id="s431094" n="11r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431094.tif"/>
+      </surface>
+      <surface xml:id="s431095" n="11v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431095.tif"/>
+      </surface>
+      <surface xml:id="s431096" n="12r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431096.tif"/>
+      </surface>
+      <surface xml:id="s431097" n="12v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431097.tif"/>
+      </surface>
+      <surface xml:id="s431098" n="13r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431098.tif"/>
+      </surface>
+      <surface xml:id="s431099" n="13v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431099.tif"/>
+      </surface>
+      <surface xml:id="s431100" n="14r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431100.tif"/>
+      </surface>
+      <surface xml:id="s431101" n="14v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431101.tif"/>
+      </surface>
+      <surface xml:id="s431102" n="15r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431102.tif"/>
+      </surface>
+      <surface xml:id="s431103" n="15v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431103.tif"/>
+      </surface>
+      <surface xml:id="s431104" n="16r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431104.tif"/>
+      </surface>
+      <surface xml:id="s431105" n="16v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431105.tif"/>
+      </surface>
+      <surface xml:id="s431106" n="17r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431106.tif"/>
+      </surface>
+      <surface xml:id="s431107" n="17v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431107.tif"/>
+      </surface>
+      <surface xml:id="s431108" n="18r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431108.tif"/>
+      </surface>
+      <surface xml:id="s431109" n="18v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431109.tif"/>
+      </surface>
+      <surface xml:id="s431110" n="19r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431110.tif"/>
+      </surface>
+      <surface xml:id="s431111" n="19v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431111.tif"/>
+      </surface>
+      <surface xml:id="s431112" n="20r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431112.tif"/>
+      </surface>
+      <surface xml:id="s431113" n="20v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431113.tif"/>
+      </surface>
+      <surface xml:id="s431114" n="21r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431114.tif"/>
+      </surface>
+      <surface xml:id="s431115" n="21v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431115.tif"/>
+      </surface>
+      <surface xml:id="s431116" n="22r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431116.tif"/>
+      </surface>
+      <surface xml:id="s431117" n="22v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431117.tif"/>
+      </surface>
+      <surface xml:id="s431118" n="23r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431118.tif"/>
+      </surface>
+      <surface xml:id="s431119" n="23v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431119.tif"/>
+      </surface>
+      <surface xml:id="s431120" n="24r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431120.tif"/>
+      </surface>
+      <surface xml:id="s431121" n="24v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431121.tif"/>
+      </surface>
+      <surface xml:id="s431122" n="25r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431122.tif"/>
+      </surface>
+      <surface xml:id="s431123" n="25v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431123.tif"/>
+      </surface>
+      <surface xml:id="s431124" n="26r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431124.tif"/>
+      </surface>
+      <surface xml:id="s431125" n="26v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431125.tif"/>
+      </surface>
+      <surface xml:id="s431126" n="27r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431126.tif"/>
+      </surface>
+      <surface xml:id="s431127" n="27v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431127.tif"/>
+      </surface>
+      <surface xml:id="s431128" n="28r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431128.tif"/>
+      </surface>
+      <surface xml:id="s431129" n="28v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431129.tif"/>
+      </surface>
+      <surface xml:id="s431130" n="29r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431130.tif"/>
+      </surface>
+      <surface xml:id="s431131" n="29v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431131.tif"/>
+      </surface>
+      <surface xml:id="s431132" n="30r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431132.tif"/>
+      </surface>
+      <surface xml:id="s431133" n="30v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431133.tif"/>
+      </surface>
+      <surface xml:id="s431134" n="31r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431134.tif"/>
+      </surface>
+      <surface xml:id="s431135" n="31v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431135.tif"/>
+      </surface>
+      <surface xml:id="s431136" n="32r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431136.tif"/>
+      </surface>
+      <surface xml:id="s431137" n="32v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431137.tif"/>
+      </surface>
+      <surface xml:id="s431138" n="33r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431138.tif"/>
+      </surface>
+      <surface xml:id="s431139" n="33v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431139.tif"/>
+      </surface>
+      <surface xml:id="s431140" n="34r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431140.tif"/>
+      </surface>
+      <surface xml:id="s431141" n="34v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431141.tif"/>
+      </surface>
+      <surface xml:id="s431142" n="35r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431142.tif"/>
+      </surface>
+      <surface xml:id="s431143" n="35v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431143.tif"/>
+      </surface>
+      <surface xml:id="s431144" n="36r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431144.tif"/>
+      </surface>
+      <surface xml:id="s431145" n="36v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431145.tif"/>
+      </surface>
+      <surface xml:id="s431146" n="37r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431146.tif"/>
+      </surface>
+      <surface xml:id="s431147" n="37v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431147.tif"/>
+      </surface>
+      <surface xml:id="s431148" n="38r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431148.tif"/>
+      </surface>
+      <surface xml:id="s431149" n="38v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431149.tif"/>
+      </surface>
+      <surface xml:id="s431150" n="39r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431150.tif"/>
+      </surface>
+      <surface xml:id="s431151" n="39v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431151.tif"/>
+      </surface>
+      <surface xml:id="s431152" n="40r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431152.tif"/>
+      </surface>
+      <surface xml:id="s431153" n="40v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431153.tif"/>
+      </surface>
+      <surface xml:id="s431154" n="41r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431154.tif"/>
+      </surface>
+      <surface xml:id="s431155" n="41v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431155.tif"/>
+      </surface>
+      <surface xml:id="s431156" n="42r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431156.tif"/>
+      </surface>
+      <surface xml:id="s431157" n="42v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431157.tif"/>
+      </surface>
+      <surface xml:id="s431158" n="43r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431158.tif"/>
+      </surface>
+      <surface xml:id="s431159" n="43v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431159.tif"/>
+      </surface>
+      <surface xml:id="s431160" n="44r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431160.tif"/>
+      </surface>
+      <surface xml:id="s431161" n="44v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431161.tif"/>
+      </surface>
+      <surface xml:id="s431162" n="45r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431162.tif"/>
+      </surface>
+      <surface xml:id="s431163" n="45v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431163.tif"/>
+      </surface>
+      <surface xml:id="s431164" n="46r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431164.tif"/>
+      </surface>
+      <surface xml:id="s431165" n="46v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431165.tif"/>
+      </surface>
+      <surface xml:id="s431166" n="47r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431166.tif"/>
+      </surface>
+      <surface xml:id="s431167" n="47v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431167.tif"/>
+      </surface>
+      <surface xml:id="s431168" n="48r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431168.tif"/>
+      </surface>
+      <surface xml:id="s431169" n="48v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431169.tif"/>
+      </surface>
+      <surface xml:id="s431170" n="49r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431170.tif"/>
+      </surface>
+      <surface xml:id="s431171" n="49v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431171.tif"/>
+      </surface>
+      <surface xml:id="s431172" n="50r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431172.tif"/>
+      </surface>
+      <surface xml:id="s431173" n="50v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431173.tif"/>
+      </surface>
+      <surface xml:id="s431174" n="51r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431174.tif"/>
+      </surface>
+      <surface xml:id="s431175" n="51v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431175.tif"/>
+      </surface>
+      <surface xml:id="s431176" n="52r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431176.tif"/>
+      </surface>
+      <surface xml:id="s431177" n="52v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431177.tif"/>
+      </surface>
+      <surface xml:id="s431178" n="53r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431178.tif"/>
+      </surface>
+      <surface xml:id="s431179" n="53v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431179.tif"/>
+      </surface>
+      <surface xml:id="s431180" n="54r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431180.tif"/>
+      </surface>
+      <surface xml:id="s431181" n="54v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431181.tif"/>
+      </surface>
+      <surface xml:id="s431182" n="55r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431182.tif"/>
+      </surface>
+      <surface xml:id="s431183" n="55v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431183.tif"/>
+      </surface>
+      <surface xml:id="s431184" n="56r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431184.tif"/>
+      </surface>
+      <surface xml:id="s431185" n="56v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431185.tif"/>
+      </surface>
+      <surface xml:id="s431186" n="57r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431186.tif"/>
+      </surface>
+      <surface xml:id="s431187" n="57v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431187.tif"/>
+      </surface>
+      <surface xml:id="s431188" n="58r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431188.tif"/>
+      </surface>
+      <surface xml:id="s431189" n="58v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431189.tif"/>
+      </surface>
+      <surface xml:id="s431190" n="59r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431190.tif"/>
+      </surface>
+      <surface xml:id="s431191" n="59v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431191.tif"/>
+      </surface>
+      <surface xml:id="s431192" n="60r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431192.tif"/>
+      </surface>
+      <surface xml:id="s431193" n="60v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431193.tif"/>
+      </surface>
+      <surface xml:id="s431194" n="61r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431194.tif"/>
+      </surface>
+      <surface xml:id="s431195" n="61v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431195.tif"/>
+      </surface>
+      <surface xml:id="s431196" n="62r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431196.tif"/>
+      </surface>
+      <surface xml:id="s431197" n="62v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431197.tif"/>
+      </surface>
+      <surface xml:id="s431198" n="63r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431198.tif"/>
+      </surface>
+      <surface xml:id="s431199" n="63v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431199.tif"/>
+      </surface>
+      <surface xml:id="s431200" n="64r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431200.tif"/>
+      </surface>
+      <surface xml:id="s431201" n="64v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431201.tif"/>
+      </surface>
+      <surface xml:id="s431202" n="65r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431202.tif"/>
+      </surface>
+      <surface xml:id="s431203" n="65v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431203.tif"/>
+      </surface>
+      <surface xml:id="s431204" n="66r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431204.tif"/>
+      </surface>
+      <surface xml:id="s431205" n="66v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431205.tif"/>
+      </surface>
+      <surface xml:id="s431206" n="66ar">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431206.tif"/>
+      </surface>
+      <surface xml:id="s431207" n="66av">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431207.tif"/>
+      </surface>
+      <surface xml:id="s431208" n="67r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431208.tif"/>
+      </surface>
+      <surface xml:id="s431209" n="67v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431209.tif"/>
+      </surface>
+      <surface xml:id="s431210" n="68r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431210.tif"/>
+      </surface>
+      <surface xml:id="s431211" n="68v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431211.tif"/>
+      </surface>
+      <surface xml:id="s431212" n="69r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431212.tif"/>
+      </surface>
+      <surface xml:id="s431213" n="69v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431213.tif"/>
+      </surface>
+      <surface xml:id="s431214" n="70r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431214.tif"/>
+      </surface>
+      <surface xml:id="s431215" n="70v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431215.tif"/>
+      </surface>
+      <surface xml:id="s431216" n="71r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431216.tif"/>
+      </surface>
+      <surface xml:id="s431217" n="71v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431217.tif"/>
+      </surface>
+      <surface xml:id="s431218" n="72r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431218.tif"/>
+      </surface>
+      <surface xml:id="s431219" n="72v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431219.tif"/>
+      </surface>
+      <surface xml:id="s431220" n="73r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431220.tif"/>
+      </surface>
+      <surface xml:id="s431221" n="73v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431221.tif"/>
+      </surface>
+      <surface xml:id="s431222" n="74r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431222.tif"/>
+      </surface>
+      <surface xml:id="s431223" n="74v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431223.tif"/>
+      </surface>
+      <surface xml:id="s431224" n="75r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431224.tif"/>
+      </surface>
+      <surface xml:id="s431225" n="75v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431225.tif"/>
+      </surface>
+      <surface xml:id="s431226" n="76r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431226.tif"/>
+      </surface>
+      <surface xml:id="s431227" n="76v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431227.tif"/>
+      </surface>
+      <surface xml:id="s431228" n="77r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431228.tif"/>
+      </surface>
+      <surface xml:id="s431229" n="77v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431229.tif"/>
+      </surface>
+      <surface xml:id="s431230" n="78r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431230.tif"/>
+      </surface>
+      <surface xml:id="s431231" n="78v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431231.tif"/>
+      </surface>
+      <surface xml:id="s431232" n="79r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431232.tif"/>
+      </surface>
+      <surface xml:id="s431233" n="79v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431233.tif"/>
+      </surface>
+      <surface xml:id="s431234" n="80r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431234.tif"/>
+      </surface>
+      <surface xml:id="s431235" n="80v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431235.tif"/>
+      </surface>
+      <surface xml:id="s431236" n="81r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431236.tif"/>
+      </surface>
+      <surface xml:id="s431237" n="81v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431237.tif"/>
+      </surface>
+      <surface xml:id="s431238" n="82r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431238.tif"/>
+      </surface>
+      <surface xml:id="s431239" n="82v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431239.tif"/>
+      </surface>
+      <surface xml:id="s431240" n="83r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431240.tif"/>
+      </surface>
+      <surface xml:id="s431241" n="83v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431241.tif"/>
+      </surface>
+      <surface xml:id="s431242" n="84r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431242.tif"/>
+      </surface>
+      <surface xml:id="s431243" n="84v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431243.tif"/>
+      </surface>
+      <surface xml:id="s431244" n="85r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431244.tif"/>
+      </surface>
+      <surface xml:id="s431245" n="85v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431245.tif"/>
+      </surface>
+      <surface xml:id="s431246" n="86r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431246.tif"/>
+      </surface>
+      <surface xml:id="s431247" n="86v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431247.tif"/>
+      </surface>
+      <surface xml:id="s431248" n="87r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431248.tif"/>
+      </surface>
+      <surface xml:id="s431249" n="87v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431249.tif"/>
+      </surface>
+      <surface xml:id="s431250" n="88r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431250.tif"/>
+      </surface>
+      <surface xml:id="s431251" n="88v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431251.tif"/>
+      </surface>
+      <surface xml:id="s431252" n="89r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431252.tif"/>
+      </surface>
+      <surface xml:id="s431253" n="89v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431253.tif"/>
+      </surface>
+      <surface xml:id="s431254" n="90r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431254.tif"/>
+      </surface>
+      <surface xml:id="s431255" n="90v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431255.tif"/>
+      </surface>
+      <surface xml:id="s431256" n="91r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431256.tif"/>
+      </surface>
+      <surface xml:id="s431257" n="91v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431257.tif"/>
+      </surface>
+      <surface xml:id="s431258" n="92r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431258.tif"/>
+      </surface>
+      <surface xml:id="s431259" n="92v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431259.tif"/>
+      </surface>
+      <surface xml:id="s431260" n="93r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431260.tif"/>
+      </surface>
+      <surface xml:id="s431261" n="93v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431261.tif"/>
+      </surface>
+      <surface xml:id="s431262" n="94r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431262.tif"/>
+      </surface>
+      <surface xml:id="s431263" n="94v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431263.tif"/>
+      </surface>
+      <surface xml:id="s431264" n="95r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431264.tif"/>
+      </surface>
+      <surface xml:id="s431265" n="95v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431265.tif"/>
+      </surface>
+      <surface xml:id="s431266" n="96r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431266.tif"/>
+      </surface>
+      <surface xml:id="s431267" n="96v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431267.tif"/>
+      </surface>
+      <surface xml:id="s431268" n="97r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431268.tif"/>
+      </surface>
+      <surface xml:id="s431269" n="97v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431269.tif"/>
+      </surface>
+      <surface xml:id="s431270" n="98r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431270.tif"/>
+      </surface>
+      <surface xml:id="s431271" n="98v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431271.tif"/>
+      </surface>
+      <surface xml:id="s431272" n="99r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431272.tif"/>
+      </surface>
+      <surface xml:id="s431273" n="99v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431273.tif"/>
+      </surface>
+      <surface xml:id="s431274" n="100r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431274.tif"/>
+      </surface>
+      <surface xml:id="s431275" n="100v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431275.tif"/>
+      </surface>
+      <surface xml:id="s431276" n="101r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431276.tif"/>
+      </surface>
+      <surface xml:id="s431277" n="101v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431277.tif"/>
+      </surface>
+      <surface xml:id="s431278" n="102r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431278.tif"/>
+      </surface>
+      <surface xml:id="s431279" n="102v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431279.tif"/>
+      </surface>
+      <surface xml:id="s431280" n="103r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431280.tif"/>
+      </surface>
+      <surface xml:id="s431281" n="103v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431281.tif"/>
+      </surface>
+      <surface xml:id="s431282" n="104r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431282.tif"/>
+      </surface>
+      <surface xml:id="s431283" n="104v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431283.tif"/>
+      </surface>
+      <surface xml:id="s431284" n="105r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431284.tif"/>
+      </surface>
+      <surface xml:id="s431285" n="105v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431285.tif"/>
+      </surface>
+      <surface xml:id="s431286" n="106r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431286.tif"/>
+      </surface>
+      <surface xml:id="s431287" n="106v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431287.tif"/>
+      </surface>
+      <surface xml:id="s431288" n="107r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431288.tif"/>
+      </surface>
+      <surface xml:id="s431289" n="107v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431289.tif"/>
+      </surface>
+      <surface xml:id="s431290" n="108r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431290.tif"/>
+      </surface>
+      <surface xml:id="s431291" n="108v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431291.tif"/>
+      </surface>
+      <surface xml:id="s431292" n="109r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431292.tif"/>
+      </surface>
+      <surface xml:id="s431293" n="109v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431293.tif"/>
+      </surface>
+      <surface xml:id="s431294" n="110r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431294.tif"/>
+      </surface>
+      <surface xml:id="s431295" n="110v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431295.tif"/>
+      </surface>
+      <surface xml:id="s431296" n="111r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431296.tif"/>
+      </surface>
+      <surface xml:id="s431297" n="111v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431297.tif"/>
+      </surface>
+      <surface xml:id="s431298" n="112r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431298.tif"/>
+      </surface>
+      <surface xml:id="s431299" n="112v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431299.tif"/>
+      </surface>
+      <surface xml:id="s431300" n="113r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431300.tif"/>
+      </surface>
+      <surface xml:id="s431301" n="113v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431301.tif"/>
+      </surface>
+      <surface xml:id="s431302" n="114r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431302.tif"/>
+      </surface>
+      <surface xml:id="s431303" n="114v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431303.tif"/>
+      </surface>
+      <surface xml:id="s431304" n="115r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431304.tif"/>
+      </surface>
+      <surface xml:id="s431305" n="115v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431305.tif"/>
+      </surface>
+      <surface xml:id="s431306" n="116r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431306.tif"/>
+      </surface>
+      <surface xml:id="s431307" n="116v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431307.tif"/>
+      </surface>
+      <surface xml:id="s431308" n="117r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431308.tif"/>
+      </surface>
+      <surface xml:id="s431309" n="117v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431309.tif"/>
+      </surface>
+      <surface xml:id="s431310" n="118r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431310.tif"/>
+      </surface>
+      <surface xml:id="s431311" n="118v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431311.tif"/>
+      </surface>
+      <surface xml:id="s431312" n="119r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431312.tif"/>
+      </surface>
+      <surface xml:id="s431313" n="119v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431313.tif"/>
+      </surface>
+      <surface xml:id="s431314" n="120r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431314.tif"/>
+      </surface>
+      <surface xml:id="s431315" n="120v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431315.tif"/>
+      </surface>
+      <surface xml:id="s431316" n="121r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431316.tif"/>
+      </surface>
+      <surface xml:id="s431317" n="121v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431317.tif"/>
+      </surface>
+      <surface xml:id="s431318" n="122r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431318.tif"/>
+      </surface>
+      <surface xml:id="s431319" n="122v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431319.tif"/>
+      </surface>
+      <surface xml:id="s431320" n="123r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431320.tif"/>
+      </surface>
+      <surface xml:id="s431321" n="123v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431321.tif"/>
+      </surface>
+      <surface xml:id="s431322" n="124r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431322.tif"/>
+      </surface>
+      <surface xml:id="s431323" n="124v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431323.tif"/>
+      </surface>
+      <surface xml:id="s431324" n="125r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431324.tif"/>
+      </surface>
+      <surface xml:id="s431325" n="125v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431325.tif"/>
+      </surface>
+      <surface xml:id="s431326" n="126r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431326.tif"/>
+      </surface>
+      <surface xml:id="s431327" n="126v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431327.tif"/>
+      </surface>
+      <surface xml:id="s431328" n="127r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431328.tif"/>
+      </surface>
+      <surface xml:id="s431329" n="127v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431329.tif"/>
+      </surface>
+      <surface xml:id="s431330" n="128r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431330.tif"/>
+      </surface>
+      <surface xml:id="s431331" n="128v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431331.tif"/>
+      </surface>
+      <surface xml:id="s431332" n="129r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431332.tif"/>
+      </surface>
+      <surface xml:id="s431333" n="129v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431333.tif"/>
+      </surface>
+      <surface xml:id="s431334" n="130r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431334.tif"/>
+      </surface>
+      <surface xml:id="s431335" n="130v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431335.tif"/>
+      </surface>
+      <surface xml:id="s431336" n="131r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431336.tif"/>
+      </surface>
+      <surface xml:id="s431337" n="131v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431337.tif"/>
+      </surface>
+      <surface xml:id="s431338" n="132r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431338.tif"/>
+      </surface>
+      <surface xml:id="s431339" n="132v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431339.tif"/>
+      </surface>
+      <surface xml:id="s431340" n="133r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431340.tif"/>
+      </surface>
+      <surface xml:id="s431341" n="133v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431341.tif"/>
+      </surface>
+      <surface xml:id="s431342" n="134r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431342.tif"/>
+      </surface>
+      <surface xml:id="s431343" n="134v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431343.tif"/>
+      </surface>
+      <surface xml:id="s431344" n="135r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431344.tif"/>
+      </surface>
+      <surface xml:id="s431345" n="135v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431345.tif"/>
+      </surface>
+      <surface xml:id="s431346" n="136r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431346.tif"/>
+      </surface>
+      <surface xml:id="s431347" n="136v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431347.tif"/>
+      </surface>
+      <surface xml:id="s431348" n="137r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431348.tif"/>
+      </surface>
+      <surface xml:id="s431349" n="137v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431349.tif"/>
+      </surface>
+      <surface xml:id="s431350" n="138r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431350.tif"/>
+      </surface>
+      <surface xml:id="s431351" n="138v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431351.tif"/>
+      </surface>
+      <surface xml:id="s431352" n="139r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431352.tif"/>
+      </surface>
+      <surface xml:id="s431353" n="139v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431353.tif"/>
+      </surface>
+      <surface xml:id="s431354" n="140r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431354.tif"/>
+      </surface>
+      <surface xml:id="s431355" n="140v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431355.tif"/>
+      </surface>
+      <surface xml:id="s431356" n="141r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431356.tif"/>
+      </surface>
+      <surface xml:id="s431357" n="141v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431357.tif"/>
+      </surface>
+      <surface xml:id="s431358" n="142r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431358.tif"/>
+      </surface>
+      <surface xml:id="s431359" n="142v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431359.tif"/>
+      </surface>
+      <surface xml:id="s431360" n="143r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431360.tif"/>
+      </surface>
+      <surface xml:id="s431361" n="143v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431361.tif"/>
+      </surface>
+      <surface xml:id="s431362" n="144r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431362.tif"/>
+      </surface>
+      <surface xml:id="s431363" n="144v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431363.tif"/>
+      </surface>
+      <surface xml:id="s431364" n="145r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431364.tif"/>
+      </surface>
+      <surface xml:id="s431365" n="145v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431365.tif"/>
+      </surface>
+      <surface xml:id="s431366" n="146r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431366.tif"/>
+      </surface>
+      <surface xml:id="s431367" n="146v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431367.tif"/>
+      </surface>
+      <surface xml:id="s431368" n="147r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431368.tif"/>
+      </surface>
+      <surface xml:id="s431369" n="147v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431369.tif"/>
+      </surface>
+      <surface xml:id="s431370" n="148r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431370.tif"/>
+      </surface>
+      <surface xml:id="s431371" n="148v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431371.tif"/>
+      </surface>
+      <surface xml:id="s431372" n="149r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431372.tif"/>
+      </surface>
+      <surface xml:id="s431373" n="149v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431373.tif"/>
+      </surface>
+      <surface xml:id="s431374" n="150r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431374.tif"/>
+      </surface>
+      <surface xml:id="s431375" n="150v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431375.tif"/>
+      </surface>
+      <surface xml:id="s431376" n="151r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431376.tif"/>
+      </surface>
+      <surface xml:id="s431377" n="151v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431377.tif"/>
+      </surface>
+      <surface xml:id="s431378" n="152r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431378.tif"/>
+      </surface>
+      <surface xml:id="s431379" n="152v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431379.tif"/>
+      </surface>
+      <surface xml:id="s431380" n="153r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431380.tif"/>
+      </surface>
+      <surface xml:id="s431381" n="153v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431381.tif"/>
+      </surface>
+      <surface xml:id="s431382" n="154r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431382.tif"/>
+      </surface>
+      <surface xml:id="s431383" n="154v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431383.tif"/>
+      </surface>
+      <surface xml:id="s431384" n="155r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431384.tif"/>
+      </surface>
+      <surface xml:id="s431385" n="155v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431385.tif"/>
+      </surface>
+      <surface xml:id="s431386" n="156r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431386.tif"/>
+      </surface>
+      <surface xml:id="s431387" n="156v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431387.tif"/>
+      </surface>
+      <surface xml:id="s431388" n="157r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431388.tif"/>
+      </surface>
+      <surface xml:id="s431389" n="157v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431389.tif"/>
+      </surface>
+      <surface xml:id="s431390" n="158r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431390.tif"/>
+      </surface>
+      <surface xml:id="s431391" n="158v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431391.tif"/>
+      </surface>
+      <surface xml:id="s431392" n="159r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431392.tif"/>
+      </surface>
+      <surface xml:id="s431393" n="159v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431393.tif"/>
+      </surface>
+      <surface xml:id="s431394" n="160r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431394.tif"/>
+      </surface>
+      <surface xml:id="s431395" n="160v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431395.tif"/>
+      </surface>
+      <surface xml:id="s431396" n="161r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431396.tif"/>
+      </surface>
+      <surface xml:id="s431397" n="161v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431397.tif"/>
+      </surface>
+      <surface xml:id="s431398" n="162r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431398.tif"/>
+      </surface>
+      <surface xml:id="s431399" n="162v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431399.tif"/>
+      </surface>
+      <surface xml:id="s431400" n="163r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431400.tif"/>
+      </surface>
+      <surface xml:id="s431401" n="163v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431401.tif"/>
+      </surface>
+      <surface xml:id="s431402" n="164r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431402.tif"/>
+      </surface>
+      <surface xml:id="s431403" n="164v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431403.tif"/>
+      </surface>
+      <surface xml:id="s431404" n="165r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431404.tif"/>
+      </surface>
+      <surface xml:id="s431405" n="165v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431405.tif"/>
+      </surface>
+      <surface xml:id="s431406" n="166r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431406.tif"/>
+      </surface>
+      <surface xml:id="s431407" n="166v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431407.tif"/>
+      </surface>
+      <surface xml:id="s431408" n="167r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431408.tif"/>
+      </surface>
+      <surface xml:id="s431409" n="167v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431409.tif"/>
+      </surface>
+      <surface xml:id="s431410" n="168r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431410.tif"/>
+      </surface>
+      <surface xml:id="s431411" n="168v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431411.tif"/>
+      </surface>
+      <surface xml:id="s431412" n="169r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431412.tif"/>
+      </surface>
+      <surface xml:id="s431413" n="169v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431413.tif"/>
+      </surface>
+      <surface xml:id="s431414" n="170r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431414.tif"/>
+      </surface>
+      <surface xml:id="s431415" n="170v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431415.tif"/>
+      </surface>
+      <surface xml:id="s431416" n="171r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431416.tif"/>
+      </surface>
+      <surface xml:id="s431417" n="171v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431417.tif"/>
+      </surface>
+      <surface xml:id="s431418" n="172r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431418.tif"/>
+      </surface>
+      <surface xml:id="s431419" n="172v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431419.tif"/>
+      </surface>
+      <surface xml:id="s431420" n="173r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431420.tif"/>
+      </surface>
+      <surface xml:id="s431421" n="173v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431421.tif"/>
+      </surface>
+      <surface xml:id="s431422" n="174r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431422.tif"/>
+      </surface>
+      <surface xml:id="s431423" n="174v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431423.tif"/>
+      </surface>
+      <surface xml:id="s431424" n="175r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431424.tif"/>
+      </surface>
+      <surface xml:id="s431425" n="175v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431425.tif"/>
+      </surface>
+      <surface xml:id="s431426" n="176r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431426.tif"/>
+      </surface>
+      <surface xml:id="s431427" n="176v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431427.tif"/>
+      </surface>
+      <surface xml:id="s431428" n="177r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431428.tif"/>
+      </surface>
+      <surface xml:id="s431429" n="177v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431429.tif"/>
+      </surface>
+      <surface xml:id="s431430" n="178r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431430.tif"/>
+      </surface>
+      <surface xml:id="s431431" n="178v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431431.tif"/>
+      </surface>
+      <surface xml:id="s431432" n="179r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431432.tif"/>
+      </surface>
+      <surface xml:id="s431433" n="179v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431433.tif"/>
+      </surface>
+      <surface xml:id="s431434" n="180r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431434.tif"/>
+      </surface>
+      <surface xml:id="s431435" n="180v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431435.tif"/>
+      </surface>
+      <surface xml:id="s431436" n="181r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431436.tif"/>
+      </surface>
+      <surface xml:id="s431437" n="181v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431437.tif"/>
+      </surface>
+      <surface xml:id="s431438" n="182r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431438.tif"/>
+      </surface>
+      <surface xml:id="s431439" n="182v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431439.tif"/>
+      </surface>
+      <surface xml:id="s431440" n="183r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431440.tif"/>
+      </surface>
+      <surface xml:id="s431441" n="183v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431441.tif"/>
+      </surface>
+      <surface xml:id="s431442" n="184r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431442.tif"/>
+      </surface>
+      <surface xml:id="s431443" n="184v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431443.tif"/>
+      </surface>
+      <surface xml:id="s431444" n="185r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431444.tif"/>
+      </surface>
+      <surface xml:id="s431445" n="185v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431445.tif"/>
+      </surface>
+      <surface xml:id="s431446" n="186r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431446.tif"/>
+      </surface>
+      <surface xml:id="s431447" n="186v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431447.tif"/>
+      </surface>
+      <surface xml:id="s431448" n="187r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431448.tif"/>
+      </surface>
+      <surface xml:id="s431449" n="187v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431449.tif"/>
+      </surface>
+      <surface xml:id="s431450" n="188r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431450.tif"/>
+      </surface>
+      <surface xml:id="s431451" n="188v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431451.tif"/>
+      </surface>
+      <surface xml:id="s431452" n="189r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431452.tif"/>
+      </surface>
+      <surface xml:id="s431453" n="189v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431453.tif"/>
+      </surface>
+      <surface xml:id="s431454" n="190r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431454.tif"/>
+      </surface>
+      <surface xml:id="s431455" n="190v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431455.tif"/>
+      </surface>
+      <surface xml:id="s431456" n="191r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431456.tif"/>
+      </surface>
+      <surface xml:id="s431457" n="191v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431457.tif"/>
+      </surface>
+      <surface xml:id="s431458" n="192r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431458.tif"/>
+      </surface>
+      <surface xml:id="s431459" n="192v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431459.tif"/>
+      </surface>
+      <surface xml:id="s431460" n="193r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431460.tif"/>
+      </surface>
+      <surface xml:id="s431461" n="193v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431461.tif"/>
+      </surface>
+      <surface xml:id="s431462" n="194r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431462.tif"/>
+      </surface>
+      <surface xml:id="s431463" n="194v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431463.tif"/>
+      </surface>
+      <surface xml:id="s431464" n="195r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431464.tif"/>
+      </surface>
+      <surface xml:id="s431465" n="195v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431465.tif"/>
+      </surface>
+      <surface xml:id="s431466" n="196r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431466.tif"/>
+      </surface>
+      <surface xml:id="s431467" n="196v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431467.tif"/>
+      </surface>
+      <surface xml:id="s431468" n="197r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431468.tif"/>
+      </surface>
+      <surface xml:id="s431469" n="197v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431469.tif"/>
+      </surface>
+      <surface xml:id="s431470" n="198r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431470.tif"/>
+      </surface>
+      <surface xml:id="s431471" n="198v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431471.tif"/>
+      </surface>
+      <surface xml:id="s431472" n="199r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431472.tif"/>
+      </surface>
+      <surface xml:id="s431473" n="199v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431473.tif"/>
+      </surface>
+      <surface xml:id="s431474" n="200r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431474.tif"/>
+      </surface>
+      <surface xml:id="s431475" n="200v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431475.tif"/>
+      </surface>
+      <surface xml:id="s431476" n="201r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431476.tif"/>
+      </surface>
+      <surface xml:id="s431477" n="201v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431477.tif"/>
+      </surface>
+      <surface xml:id="s431478" n="202r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431478.tif"/>
+      </surface>
+      <surface xml:id="s431479" n="202v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431479.tif"/>
+      </surface>
+      <surface xml:id="s431480" n="203r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431480.tif"/>
+      </surface>
+      <surface xml:id="s431481" n="203v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431481.tif"/>
+      </surface>
+      <surface xml:id="s431482" n="204r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431482.tif"/>
+      </surface>
+      <surface xml:id="s431483" n="204v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431483.tif"/>
+      </surface>
+      <surface xml:id="s431484" n="205r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431484.tif"/>
+      </surface>
+      <surface xml:id="s431485" n="205v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431485.tif"/>
+      </surface>
+      <surface xml:id="s431486" n="206r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431486.tif"/>
+      </surface>
+      <surface xml:id="s431487" n="206v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431487.tif"/>
+      </surface>
+      <surface xml:id="s431488" n="207r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431488.tif"/>
+      </surface>
+      <surface xml:id="s431489" n="207v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431489.tif"/>
+      </surface>
+      <surface xml:id="s431490" n="208r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431490.tif"/>
+      </surface>
+      <surface xml:id="s431491" n="208v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431491.tif"/>
+      </surface>
+      <surface xml:id="s431492" n="209r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431492.tif"/>
+      </surface>
+      <surface xml:id="s431493" n="209v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431493.tif"/>
+      </surface>
+      <surface xml:id="s431494" n="210r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431494.tif"/>
+      </surface>
+      <surface xml:id="s431495" n="210v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431495.tif"/>
+      </surface>
+      <surface xml:id="s431496" n="211r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431496.tif"/>
+      </surface>
+      <surface xml:id="s431497" n="211v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431497.tif"/>
+      </surface>
+      <surface xml:id="s431498" n="212r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431498.tif"/>
+      </surface>
+      <surface xml:id="s431499" n="212v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431499.tif"/>
+      </surface>
+      <surface xml:id="s431500" n="213r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431500.tif"/>
+      </surface>
+      <surface xml:id="s431501" n="213v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431501.tif"/>
+      </surface>
+      <surface xml:id="s431502" n="214r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431502.tif"/>
+      </surface>
+      <surface xml:id="s431503" n="214v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431503.tif"/>
+      </surface>
+      <surface xml:id="s431504" n="215r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431504.tif"/>
+      </surface>
+      <surface xml:id="s431505" n="215v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431505.tif"/>
+      </surface>
+      <surface xml:id="s431506" n="216r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431506.tif"/>
+      </surface>
+      <surface xml:id="s431507" n="216v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431507.tif"/>
+      </surface>
+      <surface xml:id="s431508" n="217r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431508.tif"/>
+      </surface>
+      <surface xml:id="s431509" n="217v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431509.tif"/>
+      </surface>
+      <surface xml:id="s431510" n="218r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431510.tif"/>
+      </surface>
+      <surface xml:id="s431511" n="218v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431511.tif"/>
+      </surface>
+      <surface xml:id="s431512" n="219r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431512.tif"/>
+      </surface>
+      <surface xml:id="s431513" n="219v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431513.tif"/>
+      </surface>
+      <surface xml:id="s431514" n="220r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431514.tif"/>
+      </surface>
+      <surface xml:id="s431515" n="220v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431515.tif"/>
+      </surface>
+      <surface xml:id="s431516" n="221r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431516.tif"/>
+      </surface>
+      <surface xml:id="s431517" n="221v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431517.tif"/>
+      </surface>
+      <surface xml:id="s431518" n="222r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431518.tif"/>
+      </surface>
+      <surface xml:id="s431519" n="222v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431519.tif"/>
+      </surface>
+      <surface xml:id="s431520" n="223r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431520.tif"/>
+      </surface>
+      <surface xml:id="s431521" n="223v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431521.tif"/>
+      </surface>
+      <surface xml:id="s431522" n="224r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431522.tif"/>
+      </surface>
+      <surface xml:id="s431523" n="224v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431523.tif"/>
+      </surface>
+      <surface xml:id="s431524" n="225r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431524.tif"/>
+      </surface>
+      <surface xml:id="s431525" n="225v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431525.tif"/>
+      </surface>
+      <surface xml:id="s431526" n="226r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431526.tif"/>
+      </surface>
+      <surface xml:id="s431527" n="226v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431527.tif"/>
+      </surface>
+      <surface xml:id="s431528" n="227r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431528.tif"/>
+      </surface>
+      <surface xml:id="s431529" n="227v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431529.tif"/>
+      </surface>
+      <surface xml:id="s431530" n="228r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431530.tif"/>
+      </surface>
+      <surface xml:id="s431531" n="228v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431531.tif"/>
+      </surface>
+      <surface xml:id="s431532" n="229r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431532.tif"/>
+      </surface>
+      <surface xml:id="s431533" n="229v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431533.tif"/>
+      </surface>
+      <surface xml:id="s431534" n="230r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431534.tif"/>
+      </surface>
+      <surface xml:id="s431535" n="230v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431535.tif"/>
+      </surface>
+      <surface xml:id="s431536" n="231r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431536.tif"/>
+      </surface>
+      <surface xml:id="s431537" n="231v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431537.tif"/>
+      </surface>
+      <surface xml:id="s431538" n="232r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431538.tif"/>
+      </surface>
+      <surface xml:id="s431539" n="232v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431539.tif"/>
+      </surface>
+      <surface xml:id="s431540" n="233r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431540.tif"/>
+      </surface>
+      <surface xml:id="s431541" n="233v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431541.tif"/>
+      </surface>
+      <surface xml:id="s431542" n="234r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431542.tif"/>
+      </surface>
+      <surface xml:id="s431543" n="234v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431543.tif"/>
+      </surface>
+      <surface xml:id="s431544" n="235r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431544.tif"/>
+      </surface>
+      <surface xml:id="s431545" n="235v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431545.tif"/>
+      </surface>
+      <surface xml:id="s431546" n="236r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431546.tif"/>
+      </surface>
+      <surface xml:id="s431547" n="236v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431547.tif"/>
+      </surface>
+      <surface xml:id="s431548" n="237r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431548.tif"/>
+      </surface>
+      <surface xml:id="s431549" n="237v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431549.tif"/>
+      </surface>
+      <surface xml:id="s431550" n="238r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431550.tif"/>
+      </surface>
+      <surface xml:id="s431551" n="238v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431551.tif"/>
+      </surface>
+      <surface xml:id="s431552" n="239r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431552.tif"/>
+      </surface>
+      <surface xml:id="s431553" n="239v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431553.tif"/>
+      </surface>
+      <surface xml:id="s431554" n="240r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431554.tif"/>
+      </surface>
+      <surface xml:id="s431555" n="240v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431555.tif"/>
+      </surface>
+      <surface xml:id="s431556" n="241r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431556.tif"/>
+      </surface>
+      <surface xml:id="s431557" n="241v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431557.tif"/>
+      </surface>
+      <surface xml:id="s431558" n="242r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431558.tif"/>
+      </surface>
+      <surface xml:id="s431559" n="242v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431559.tif"/>
+      </surface>
+      <surface xml:id="s431560" n="243r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431560.tif"/>
+      </surface>
+      <surface xml:id="s431561" n="243v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431561.tif"/>
+      </surface>
+      <surface xml:id="s431562" n="244r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431562.tif"/>
+      </surface>
+      <surface xml:id="s431563" n="244v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431563.tif"/>
+      </surface>
+      <surface xml:id="s431564" n="245r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431564.tif"/>
+      </surface>
+      <surface xml:id="s431565" n="245v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431565.tif"/>
+      </surface>
+      <surface xml:id="s431566" n="246r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431566.tif"/>
+      </surface>
+      <surface xml:id="s431567" n="246v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431567.tif"/>
+      </surface>
+      <surface xml:id="s431568" n="247r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431568.tif"/>
+      </surface>
+      <surface xml:id="s431569" n="247v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431569.tif"/>
+      </surface>
+      <surface xml:id="s431570" n="248r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431570.tif"/>
+      </surface>
+      <surface xml:id="s431571" n="248v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431571.tif"/>
+      </surface>
+      <surface xml:id="s431572" n="249r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431572.tif"/>
+      </surface>
+      <surface xml:id="s431573" n="249v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431573.tif"/>
+      </surface>
+      <surface xml:id="s431574" n="250r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431574.tif"/>
+      </surface>
+      <surface xml:id="s431575" n="250v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431575.tif"/>
+      </surface>
+      <surface xml:id="s431576" n="251r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431576.tif"/>
+      </surface>
+      <surface xml:id="s431577" n="251v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431577.tif"/>
+      </surface>
+      <surface xml:id="s431578" n="252r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431578.tif"/>
+      </surface>
+      <surface xml:id="s431579" n="252v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431579.tif"/>
+      </surface>
+      <surface xml:id="s431580" n="253r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431580.tif"/>
+      </surface>
+      <surface xml:id="s431581" n="253v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431581.tif"/>
+      </surface>
+      <surface xml:id="s431582" n="254r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431582.tif"/>
+      </surface>
+      <surface xml:id="s431583" n="254v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431583.tif"/>
+      </surface>
+      <surface xml:id="s431584" n="255r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431584.tif"/>
+      </surface>
+      <surface xml:id="s431585" n="255v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431585.tif"/>
+      </surface>
+      <surface xml:id="s431586" n="256r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431586.tif"/>
+      </surface>
+      <surface xml:id="s431587" n="256v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431587.tif"/>
+      </surface>
+      <surface xml:id="s431588" n="257r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431588.tif"/>
+      </surface>
+      <surface xml:id="s431589" n="257v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431589.tif"/>
+      </surface>
+      <surface xml:id="s431590" n="258r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431590.tif"/>
+      </surface>
+      <surface xml:id="s431591" n="258v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431591.tif"/>
+      </surface>
+      <surface xml:id="s431592" n="259r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431592.tif"/>
+      </surface>
+      <surface xml:id="s431593" n="259v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431593.tif"/>
+      </surface>
+      <surface xml:id="s431594" n="260r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431594.tif"/>
+      </surface>
+      <surface xml:id="s431595" n="260v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431595.tif"/>
+      </surface>
+      <surface xml:id="s431596" n="261r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431596.tif"/>
+      </surface>
+      <surface xml:id="s431597" n="261v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431597.tif"/>
+      </surface>
+      <surface xml:id="s431598" n="262r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431598.tif"/>
+      </surface>
+      <surface xml:id="s431599" n="262v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431599.tif"/>
+      </surface>
+      <surface xml:id="s431600" n="263r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431600.tif"/>
+      </surface>
+      <surface xml:id="s431601" n="263v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431601.tif"/>
+      </surface>
+      <surface xml:id="s431602" n="264r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431602.tif"/>
+      </surface>
+      <surface xml:id="s431603" n="264v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431603.tif"/>
+      </surface>
+      <surface xml:id="s431604" n="265r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431604.tif"/>
+      </surface>
+      <surface xml:id="s431605" n="265v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431605.tif"/>
+      </surface>
+      <surface xml:id="s431606" n="266r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431606.tif"/>
+      </surface>
+      <surface xml:id="s431607" n="266v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431607.tif"/>
+      </surface>
+      <surface xml:id="s431608" n="267r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431608.tif"/>
+      </surface>
+      <surface xml:id="s431609" n="267v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431609.tif"/>
+      </surface>
+      <surface xml:id="s431610" n="268r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431610.tif"/>
+      </surface>
+      <surface xml:id="s431611" n="268v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431611.tif"/>
+      </surface>
+      <surface xml:id="s431612" n="269r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431612.tif"/>
+      </surface>
+      <surface xml:id="s431613" n="269v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431613.tif"/>
+      </surface>
+      <surface xml:id="s431614" n="270r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431614.tif"/>
+      </surface>
+      <surface xml:id="s431615" n="270v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431615.tif"/>
+      </surface>
+      <surface xml:id="s431616" n="271r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431616.tif"/>
+      </surface>
+      <surface xml:id="s431617" n="271v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431617.tif"/>
+      </surface>
+      <surface xml:id="s431618" n="272r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431618.tif"/>
+      </surface>
+      <surface xml:id="s431619" n="272v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431619.tif"/>
+      </surface>
+      <surface xml:id="s431620" n="273r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431620.tif"/>
+      </surface>
+      <surface xml:id="s431621" n="273v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431621.tif"/>
+      </surface>
+      <surface xml:id="s431622" n="274r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431622.tif"/>
+      </surface>
+      <surface xml:id="s431623" n="274v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431623.tif"/>
+      </surface>
+      <surface xml:id="s431624" n="275r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431624.tif"/>
+      </surface>
+      <surface xml:id="s431625" n="275v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431625.tif"/>
+      </surface>
+      <surface xml:id="s431626" n="276r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431626.tif"/>
+      </surface>
+      <surface xml:id="s431627" n="276v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431627.tif"/>
+      </surface>
+      <surface xml:id="s431628" n="277r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431628.tif"/>
+      </surface>
+      <surface xml:id="s431629" n="277v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431629.tif"/>
+      </surface>
+      <surface xml:id="s431630" n="278r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431630.tif"/>
+      </surface>
+      <surface xml:id="s431631" n="278v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431631.tif"/>
+      </surface>
+      <surface xml:id="s431632" n="279r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431632.tif"/>
+      </surface>
+      <surface xml:id="s431633" n="279v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431633.tif"/>
+      </surface>
+      <surface xml:id="s431634" n="280r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431634.tif"/>
+      </surface>
+      <surface xml:id="s431635" n="280v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431635.tif"/>
+      </surface>
+      <surface xml:id="s431636" n="281r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431636.tif"/>
+      </surface>
+      <surface xml:id="s431637" n="281v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431637.tif"/>
+      </surface>
+      <surface xml:id="s431638" n="282r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431638.tif"/>
+      </surface>
+      <surface xml:id="s431639" n="282v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431639.tif"/>
+      </surface>
+      <surface xml:id="s431640" n="283r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431640.tif"/>
+      </surface>
+      <surface xml:id="s431641" n="283v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431641.tif"/>
+      </surface>
+      <surface xml:id="s431642" n="284r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431642.tif"/>
+      </surface>
+      <surface xml:id="s431643" n="284v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431643.tif"/>
+      </surface>
+      <surface xml:id="s431644" n="285r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431644.tif"/>
+      </surface>
+      <surface xml:id="s431645" n="285v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431645.tif"/>
+      </surface>
+      <surface xml:id="s431646" n="286r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431646.tif"/>
+      </surface>
+      <surface xml:id="s431647" n="286v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431647.tif"/>
+      </surface>
+      <surface xml:id="s431648" n="287r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431648.tif"/>
+      </surface>
+      <surface xml:id="s431649" n="287v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431649.tif"/>
+      </surface>
+      <surface xml:id="s431650" n="288r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431650.tif"/>
+      </surface>
+      <surface xml:id="s431651" n="288v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431651.tif"/>
+      </surface>
+      <surface xml:id="s431652" n="289r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431652.tif"/>
+      </surface>
+      <surface xml:id="s431653" n="289v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431653.tif"/>
+      </surface>
+      <surface xml:id="s431654" n="290r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431654.tif"/>
+      </surface>
+      <surface xml:id="s431655" n="290v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431655.tif"/>
+      </surface>
+      <surface xml:id="s431656" n="291r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431656.tif"/>
+      </surface>
+      <surface xml:id="s431657" n="291v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431657.tif"/>
+      </surface>
+      <surface xml:id="s431658" n="292r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431658.tif"/>
+      </surface>
+      <surface xml:id="s431659" n="292v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431659.tif"/>
+      </surface>
+      <surface xml:id="s431660" n="293r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431660.tif"/>
+      </surface>
+      <surface xml:id="s431661" n="293v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431661.tif"/>
+      </surface>
+      <surface xml:id="s431662" n="294r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431662.tif"/>
+      </surface>
+      <surface xml:id="s431663" n="294v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431663.tif"/>
+      </surface>
+      <surface xml:id="s431664" n="295r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431664.tif"/>
+      </surface>
+      <surface xml:id="s431665" n="295v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431665.tif"/>
+      </surface>
+      <surface xml:id="s431666" n="296r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431666.tif"/>
+      </surface>
+      <surface xml:id="s431667" n="296v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431667.tif"/>
+      </surface>
+      <surface xml:id="s431668" n="297r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431668.tif"/>
+      </surface>
+      <surface xml:id="s431669" n="297v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431669.tif"/>
+      </surface>
+      <surface xml:id="s431670" n="298r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431670.tif"/>
+      </surface>
+      <surface xml:id="s431671" n="298v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431671.tif"/>
+      </surface>
+      <surface xml:id="s431672" n="299r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431672.tif"/>
+      </surface>
+      <surface xml:id="s431673" n="299v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431673.tif"/>
+      </surface>
+      <surface xml:id="s431674" n="300r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431674.tif"/>
+      </surface>
+      <surface xml:id="s431675" n="300v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431675.tif"/>
+      </surface>
+   </facsimile>
+</TEI>

@@ -1,0 +1,59 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_425268.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Französisches Briefkonzept von BP</title>
+            <title type="sub">Digital object description</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <idno type="unidam-verz_einh">561</idno>
+         <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-6642-5</idno></publicationStmt>
+         <sourceDesc>
+            <msDesc xml:lang="de">
+               <msIdentifier>
+                  <country>Österreich</country>
+                  <settlement>Melk</settlement>
+                  <institution>Benediktiner-Stift</institution>
+                  <repository>Stiftsarchiv</repository>
+                  <idno>Kt. 85 Varia 23 Faszikel 2 Nr. 03</idno>
+               </msIdentifier>
+               <msContents>
+                  <summary>Fragment eines undatierten, französischen Briefkonzeptes von BP, ohne namentliche Anrede und behandelte Personen. Vielleicht aus 1728?</summary>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <foliation>1r–v.</foliation>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <date notAfter="1735-03-28">Zu Lebzeiten BPs.</date>
+                     <note>Undatiert.</note>
+                  </origin>
+               </history>
+               <additional>
+                  <listBibl>
+                     <bibl>Zu BP und Kontakt zu Maurinern in Frankreich: <rs type="bibl" key="bqbibl:r041">Thomas WALLNIG, Bernhard Pez und die Mauriner. Die Entstehung eines gelehrten Kontaktes im Spannungsfeld zwischen Vorbildhaftigkeit und Anregung, in: Érudition et commerce épistolaire. Jean Mabillon et la tradition monastique, hg. von Daniel-Odon HUREL (Textes et traditions 6, Paris 2003) 153–175</rs>.</bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="RNA">Werke</classCode>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="s425268" n="1r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/425268.tif"/>
+      </surface>
+      <surface xml:id="s425269" n="1v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/425269.tif"/>
+      </surface>
+   </facsimile>
+</TEI>

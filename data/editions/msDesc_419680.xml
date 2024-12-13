@@ -1,0 +1,86 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_419680.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Briefauszüge: Forster an HP</title>
+            <title type="sub">Digital object description</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <idno type="unidam-verz_einh">365</idno>
+         <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-63EE-7</idno></publicationStmt><notesStmt><note type="relatedCorrespondences">Forster an HP: 1756-12-26, 1757-01-29, 1757-03-25, 1757-11-26.</note></notesStmt>
+         <sourceDesc>
+            <msDesc xml:lang="de">
+               <msIdentifier>
+                  <country>Österreich</country>
+                  <settlement>Melk</settlement>
+                  <institution>Benediktiner-Stift</institution>
+                  <repository>Stiftsarchiv</repository>
+                  <idno>Kt. 07 Patres 11 Faszikel 1 Nr. 49 </idno>
+               </msIdentifier>
+               <msContents>
+                  <summary>Auszüge aus den Briefen Forster an HP, Hand Mayer. Datierungen teilweise irrig.</summary>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <foliation>1r–4v.</foliation>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <date notBefore="1800-01-01" notAfter="1899-12-31">19. Jh.</date>
+                     <note>Im Zusammenhang mit der Pez-Forschung im 19. Jahrhundert.</note>
+                  </origin>
+               </history>
+               <additional>
+                  <listBibl>
+                     <bibl>Zu Mayer: <rs type="bibl" key="bqbibl:r065">Catalogus religiosorum
+                           ordinis S.P. Benedicti in monasterio Mellicensi (Wien 1855)</rs>.</bibl>
+                     <bibl>Zu Forster: <rs type="bibl" key="bqbibl:r515">Benedikt BRAUNMÜLLER, Reihe
+                           der Äbte von St. Emmeram in Regensburg. SMGB 4/2 (1883) 118–134</rs>; <rs type="bibl" key="bqbibl:r696">Joseph Anton ENDRES, Frobenius Forster,
+                           Fürstabt von St. Emmeram in Regensburg. Ein Beitrag zur Litteratur- und
+                           Ordensgeschichte des 18. Jahrhunderts (Strassburger Theologische Studien
+                           4/1, Freiburg im Breisgau 1900)</rs>.</bibl>
+                     <bibl>Zu Briefen: <rs type="bibl" key="bqbibl:r018">Christine GLASSNER,
+                           Verzeichnis der im Nachlass der Melker Historiker Bernhard und Hieronymus
+                           Pez erhaltenen Briefe. SMGB 110 (1999) 195–243</rs>.</bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="RNA">Korrespondenzen</classCode>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="s419680" n="1r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/419680.tif"/>
+      </surface>
+      <surface xml:id="s419681" n="1v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/419681.tif"/>
+      </surface>
+      <surface xml:id="s419682" n="2r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/419682.tif"/>
+      </surface>
+      <surface xml:id="s419683" n="2v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/419683.tif"/>
+      </surface>
+      <surface xml:id="s419684" n="3r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/419684.tif"/>
+      </surface>
+      <surface xml:id="s419685" n="3v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/419685.tif"/>
+      </surface>
+      <surface xml:id="s419686" n="4r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/419686.tif"/>
+      </surface>
+      <surface xml:id="s419687" n="4v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/419687.tif"/>
+      </surface>
+   </facsimile>
+</TEI>

@@ -1,0 +1,133 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_411540.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Brief: Wydemann an BP</title>
+            <title type="sub">Digital object description</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <idno type="unidam-verz_einh">173</idno>
+         <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-63D3-4</idno></publicationStmt><notesStmt><note type="relatedCorrespondences">Wydemann an BP: Undatiert.</note></notesStmt>
+         <sourceDesc>
+            <msDesc xml:lang="de">
+               <msIdentifier>
+                  <country>Österreich</country>
+                  <settlement>Melk</settlement>
+                  <institution>Benediktiner-Stift</institution>
+                  <repository>Stiftsarchiv</repository>
+                  <idno>Kt. 07 Patres 09 Faszikel 2 Nr. 73 </idno>
+               </msIdentifier>
+               <msContents>
+                  <summary>Undatierter Brief Wydemann an BP, enthält eine Abhandlung über den Streit BPs mit Hansiz um den Hl. Rupert.</summary>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <foliation>1r–9v.</foliation>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <date when="1731-01-01">um 1731</date>
+                     <note/>
+                  </origin>
+               </history>
+               <additional>
+                  <listBibl>
+                     <bibl>Zu Gaming: <rs type="bibl" key="bqbibl:r048">Thomas AIGNER, Gaming, in:
+                           Monasticon Cartusiense II, hg. von James HOGG–Alain GIRARD–Daniel LE
+                           BLÉVEC (Salzburg 2004) 82–86</rs>; <rs type="bibl" key="bqbibl:r049">Anton ERDINGER, Beiträge zur Geschichte der Karthause Gaming.
+                           Geschichtliche Beilagen zu den Consistorial-Currenden der Diöcese St.
+                           Pölten 5 (1895) 1–82</rs>; <rs type="bibl" key="bqbibl:r050">Josef FEIL,
+                           Original-Beiträge zur Geschichte der Aufhebung mehrer [!] Klöster in
+                           Niederösterreich. Oesterreichische Blätter für Literatur und Kunst,
+                           Geographie, Geschichte, Statistik und Naturkunde 2 (1845) 306–310,
+                           315–318, 449–452, 540–544, 571–573</rs>; <rs type="bibl" key="bqbibl:r051">Walter HILDEBRAND, Kartause Gaming. Ausstellung
+                           anlässlich der Wiederherstellung des Herzogsgrabes. Herzog Albrecht II.
+                           und die Kartause Gaming (Gaming 1985)</rs>; <rs type="bibl" key="bqbibl:r052">Heinrich ZEISSBERG, Zur Geschichte der Kartause Gaming.
+                           Archiv für Österreichische Geschichte 60 (1880) 562–596</rs>.</bibl>
+                     <bibl>Zu Brief: <rs type="bibl" key="bqbibl:r018">Christine GLASSNER,
+                           Verzeichnis der im Nachlass der Melker Historiker Bernhard und Hieronymus
+                           Pez erhaltenen Briefe. SMGB 110 (1999) 195–243</rs>.</bibl>
+                     <bibl>Zur Kontroverse zwischen BP und Hansiz: <rs type="bibl" key="bqbibl:r008">Stefan BENZ, Zwischen Tradition und Kritik. Katholische
+                           Geschichtsschreibung im barocken Heiligen Römischen Reich (Historische
+                           Studien 473, Husum 2003)</rs>; <rs type="bibl" key="bqbibl:r009">Koloman
+                           SCHÖNHOFER, P. Bernhard Pez (22.2.1683–27.3.1735), P. Hieronymus Pez
+                           (24.2.1685–14.10.1762), Benediktiner von Melk (Leben, Bedeutung und
+                           Werke) (ungedr. theol. Dipl.Arb., Innsbruck 1973)</rs>.</bibl>
+                     <bibl>Zum Hl. Rupert: <rs type="bibl" key="bqbibl:r691">Herwig WOLFRAM, Die
+                           Zeit der Agilolfinger – Rupert und Virgil, in: Geschichte Salzburgs.
+                           Stadt und Land, 1: Vorgeschichte, Altertum, Mittelalter, Teil 1, hg. von
+                           Heinz DOPSCH (Salzburg 1981) 121–150</rs>; <rs type="bibl" key="bqbibl:r692">Herwig WOLFRAM, Grenzen und Räume. Geschichte
+                           Österreichs vor seiner Entstehung (Österreichische Geschichte 378-907,
+                           Wien 1995) 105–124</rs>.</bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="RNA">Korrespondenzen</classCode>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="s411540" n="1r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/411540.tif"/>
+      </surface>
+      <surface xml:id="s411541" n="1v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/411541.tif"/>
+      </surface>
+      <surface xml:id="s411542" n="2r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/411542.tif"/>
+      </surface>
+      <surface xml:id="s411543" n="2v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/411543.tif"/>
+      </surface>
+      <surface xml:id="s411544" n="3r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/411544.tif"/>
+      </surface>
+      <surface xml:id="s411545" n="3v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/411545.tif"/>
+      </surface>
+      <surface xml:id="s411546" n="4r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/411546.tif"/>
+      </surface>
+      <surface xml:id="s411547" n="4v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/411547.tif"/>
+      </surface>
+      <surface xml:id="s411548" n="5r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/411548.tif"/>
+      </surface>
+      <surface xml:id="s411549" n="5v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/411549.tif"/>
+      </surface>
+      <surface xml:id="s411550" n="6r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/411550.tif"/>
+      </surface>
+      <surface xml:id="s411551" n="6v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/411551.tif"/>
+      </surface>
+      <surface xml:id="s411552" n="7r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/411552.tif"/>
+      </surface>
+      <surface xml:id="s411553" n="7v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/411553.tif"/>
+      </surface>
+      <surface xml:id="s411554" n="8r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/411554.tif"/>
+      </surface>
+      <surface xml:id="s411555" n="8v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/411555.tif"/>
+      </surface>
+      <surface xml:id="s411556" n="9r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/411556.tif"/>
+      </surface>
+      <surface xml:id="s411557" n="9v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/411557.tif"/>
+      </surface>
+   </facsimile>
+</TEI>

@@ -1,0 +1,75 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_419480.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Briefauszüge: C. P. N. Hoffmann, Natzer, Rauch, Schwarz und J. W. Hoffmann an HP und BP </title>
+            <title type="sub">Digital object description</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <idno type="unidam-verz_einh">354</idno>
+         <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-63E6-F</idno></publicationStmt><notesStmt><note type="relatedCorrespondences">C.P.N. Hoffmann an HP: 1723-12-15. Natzer an BP: 1717-04-11. Rauch an HP: 1725-12-29. Schwarz an BP: 1728-02-26. J.W. Hoffmann an HP: 1732-01-23. </note></notesStmt>
+         <sourceDesc>
+            <msDesc xml:lang="de">
+               <msIdentifier>
+                  <country>Österreich</country>
+                  <settlement>Melk</settlement>
+                  <institution>Benediktiner-Stift</institution>
+                  <repository>Stiftsarchiv</repository>
+                  <idno>Kt. 07 Patres 11 Faszikel 1 Nr. 38 </idno>
+               </msIdentifier>
+               <msContents>
+                  <summary>Auszüge aus Briefen C.P.N. Hoffmann, Natzer, Rauch, Schwarz und J.W. Hoffmann an BP und HP, Hand Mayer. Datierungen teilweise irrig.</summary>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <foliation>1r–2v.</foliation>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <date notBefore="1800-01-01" notAfter="1899-12-31">19. Jh.</date>
+                     <note>Im Zusammenhang mit der Pez-Forschung im 19. Jahrhundert.</note>
+                  </origin>
+               </history>
+               <additional>
+                  <listBibl>
+                     <bibl>Zu Mayer: <rs type="bibl" key="bqbibl:r065">Catalogus religiosorum
+                           ordinis S.P. Benedicti in monasterio Mellicensi (Wien 1855)</rs>.</bibl>
+                     <bibl>Zu Briefen Schwarz und Natzer an BP (die anderen hier angeführten Briefe
+                        kommen bei Glassner nicht vor): <rs type="bibl" key="bqbibl:r018">Christine
+                           GLASSNER, Verzeichnis der im Nachlass der Melker Historiker Bernhard und
+                           Hieronymus Pez erhaltenen Briefe. SMGB 110 (1999) 195–243</rs>.</bibl>
+                     <bibl>Zu Briefen C.P.N. Hoffmann, Rauch, J.W. Hoffmann an HP (aus dessen
+                        Nachlass im Stiftsarchiv Melk): <rs type="bibl" key="bqbibl:r034">Irene
+                           RABL, Briefe an Hieronymus Pez OSB aus seinem Nachlass im Stiftsarchiv
+                           Melk, Karton 7/13: Verzeichnis und Kurzbiographien der
+                           Korrespondenzpartner. SMGB 122 (2011) 327–367</rs>.</bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="RNA">Korrespondenzen</classCode>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="s419480" n="1r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/419480.tif"/>
+      </surface>
+      <surface xml:id="s419481" n="1v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/419481.tif"/>
+      </surface>
+      <surface xml:id="s419482" n="2r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/419482.tif"/>
+      </surface>
+      <surface xml:id="s419483" n="2v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/419483.tif"/>
+      </surface>
+   </facsimile>
+</TEI>

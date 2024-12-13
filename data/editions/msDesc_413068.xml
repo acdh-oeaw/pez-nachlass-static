@@ -1,0 +1,78 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_413068.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Schriftstellerkatalog der Reichenau</title>
+            <title type="sub">Digital object description</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <idno type="unidam-verz_einh">226</idno>
+         <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-6477-C</idno></publicationStmt><notesStmt><note type="relatedCorrespondences">Wetter an BP: 1709-11-21.</note></notesStmt>
+         <sourceDesc>
+            <msDesc xml:lang="de">
+               <msIdentifier>
+                  <country>Österreich</country>
+                  <settlement>Melk</settlement>
+                  <institution>Benediktiner-Stift</institution>
+                  <repository>Stiftsarchiv</repository>
+                  <idno>Kt. 07 Patres 10 Faszikel 3 Nr. 29 </idno>
+               </msIdentifier>
+               <msContents>
+                  <summary>Schriftstellerkatalog des Klosters Reichenau von Wetter, Beilage zu Wetter an BP (1709-11-21). Vgl. Abschrift in Karton 7 Patres 9, Fasz. 2, Nr. 89, 146v–151r.</summary>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <foliation>1r–4v.</foliation>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <date when="1709-01-01">um 1709</date>
+                     <note/>
+                  </origin>
+               </history>
+               <additional>
+                  <listBibl>
+                     <bibl>Zu Reichenau: <rs type="bibl" key="bqbibl:r464">Ursula BEGRICH, Reichenau, in: Helvetia Sacra, Abt. III: Die Orden mit Benediktinerregel, 1: Frühe Klöster, die Benediktiner und Benediktinerinnen in der Schweiz, hg. von Elsanne GILOMEN-SCHENKEL, Teil 2 (Bern 1986) 1059–1100</rs>;
+                        <rs type="bibl" key="bqbibl:r467">Franz QUARTHAL–Paul Berthold RUPP–Klaus SCHREINER–Georg WIELAND–Friedrich WIELANDT, Reichenau, in: Germania Benedictina, 5: Die Benediktinerklöster in Baden-Württemberg, hg. von Franz QUARTHAL–Hansmartin DECKER-HAUFF–Klaus SCHREINER (Augsburg 1975) 503–548</rs>. Zu Wetter und Korrespondenz mit BP: <rs type="bibl" key="bqbibl:r039">Thomas WALLNIG–Thomas STOCKINGER, Die gelehrte Korrespondenz der Brüder Pez. Text, Regesten, Kommentare, 1: 1709–1715 (QIÖG 2/1, Wien–München 2010)</rs>.</bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="RNA">Sammlungen und Objekte</classCode>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="s413068" n="1r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/413068.tif"/>
+      </surface>
+      <surface xml:id="s413069" n="1v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/413069.tif"/>
+      </surface>
+      <surface xml:id="s413070" n="2r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/413070.tif"/>
+      </surface>
+      <surface xml:id="s413071" n="2v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/413071.tif"/>
+      </surface>
+      <surface xml:id="s413072" n="3r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/413072.tif"/>
+      </surface>
+      <surface xml:id="s413073" n="3v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/413073.tif"/>
+      </surface>
+      <surface xml:id="s413074" n="4r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/413074.tif"/>
+      </surface>
+      <surface xml:id="s413075" n="4v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/413075.tif"/>
+      </surface>
+   </facsimile>
+</TEI>

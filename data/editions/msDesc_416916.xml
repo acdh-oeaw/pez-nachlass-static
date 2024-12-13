@@ -1,0 +1,120 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_416916.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Bibliotheks- und Handschriftenkatalog von St. Paul im Lavanttal</title>
+            <title type="sub">Digital object description</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <idno type="unidam-verz_einh">286</idno>
+         <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-649F-F</idno></publicationStmt><notesStmt><note type="relatedCorrespondences">Reichart an BP: 1714-08-20.</note></notesStmt>
+         <sourceDesc>
+            <msDesc xml:lang="de">
+               <msIdentifier>
+                  <country>Österreich</country>
+                  <settlement>Melk</settlement>
+                  <institution>Benediktiner-Stift</institution>
+                  <repository>Stiftsarchiv</repository>
+                  <idno>Kt. 07 Patres 10 Faszikel 8 Nr. 25</idno>
+               </msIdentifier>
+               <msContents>
+                  <summary>Bibliotheks- und Handschriftenkatalog von St. Paul im Lavanttal: "Series librorum a Benedictinis conscriptorum qui in bibliotheca monasterii S. Pauli OSB in Carinthia continentur". Beilage zu Reichert an BP (1714-08-20), Hand Stadler? Stadler war von 1709–1711 zu Gast in Melk, daher mit BP persönlich bekannt.</summary>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <foliation>159–180.</foliation>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <date when="1714-01-01">1714</date>
+                     <note/>
+                  </origin>
+               </history>
+               <additional>
+                  <listBibl>
+                     <bibl>Zu Reichart, Stadler und Korrespondenz mit Brüdern Pez: <rs type="bibl" key="bqbibl:r537">Peter Alcant BUDIK, Albert Reichart, Abt des Stiftes St. Paul. (Ein Beitrag zur kärntnerischen Literaturgeschichte). Carinthia. Zeitschrift für Vaterlandskunde, Belehrung und Unterhaltung 43 (1853) 85–86</rs>;
+                        <rs type="bibl" key="bqbibl:r039">Thomas WALLNIG–Thomas STOCKINGER, Die gelehrte Korrespondenz der Brüder Pez. Text, Regesten, Kommentare, 1: 1709–1715 (QIÖG 2/1, Wien–München 2010)</rs>. Zu St. Paul: <rs type="bibl" key="bqbibl:r538">Ulrich FAUST, St. Paul im Lavanttal, in: Germania Benedictina, 3/3: Die benediktinischen Mönchs- und Nonnenklöster in Österreich und Südtirol, hg. von Ulrich FAUST–Waltraud KRASSNIG (St. Ottilien 2002) 74–141</rs>.</bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="RNA">Sammlungen und Objekte</classCode>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="s416916" n="159">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/416916.tif"/>
+      </surface>
+      <surface xml:id="s416917" n="160">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/416917.tif"/>
+      </surface>
+      <surface xml:id="s416918" n="161">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/416918.tif"/>
+      </surface>
+      <surface xml:id="s416919" n="162">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/416919.tif"/>
+      </surface>
+      <surface xml:id="s416920" n="163">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/416920.tif"/>
+      </surface>
+      <surface xml:id="s416921" n="164">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/416921.tif"/>
+      </surface>
+      <surface xml:id="s416922" n="165">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/416922.tif"/>
+      </surface>
+      <surface xml:id="s416923" n="166">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/416923.tif"/>
+      </surface>
+      <surface xml:id="s416924" n="167">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/416924.tif"/>
+      </surface>
+      <surface xml:id="s416925" n="168">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/416925.tif"/>
+      </surface>
+      <surface xml:id="s416926" n="169">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/416926.tif"/>
+      </surface>
+      <surface xml:id="s416927" n="170">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/416927.tif"/>
+      </surface>
+      <surface xml:id="s416928" n="171">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/416928.tif"/>
+      </surface>
+      <surface xml:id="s416929" n="172">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/416929.tif"/>
+      </surface>
+      <surface xml:id="s416930" n="173">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/416930.tif"/>
+      </surface>
+      <surface xml:id="s416931" n="174">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/416931.tif"/>
+      </surface>
+      <surface xml:id="s416932" n="175">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/416932.tif"/>
+      </surface>
+      <surface xml:id="s416933" n="176">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/416933.tif"/>
+      </surface>
+      <surface xml:id="s416935" n="177">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/416935.tif"/>
+      </surface>
+      <surface xml:id="s416936" n="178">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/416936.tif"/>
+      </surface>
+      <surface xml:id="s416937" n="179">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/416937.tif"/>
+      </surface>
+      <surface xml:id="s416938" n="180">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/416938.tif"/>
+      </surface>
+   </facsimile>
+</TEI>

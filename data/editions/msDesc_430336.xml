@@ -1,0 +1,84 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_430336.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Druck: D'Achery, Asceticorum, vulgo spiritualium opusculorum, quae inter patruni opera reperiuntur indiculus </title>
+            <title type="sub">Digital object description</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <idno type="unidam-verz_einh">663</idno>
+         <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-6592-B</idno></publicationStmt>
+         <sourceDesc>
+            <msDesc xml:lang="de">
+               <msIdentifier>
+                  <country>Österreich</country>
+                  <settlement>Melk</settlement>
+                  <institution>Benediktiner-Stift</institution>
+                  <repository>Stiftsarchiv</repository>
+                  <idno>Kt. 85 Varia 25 Faszikel 1 Nr. 59</idno>
+               </msIdentifier>
+               <msContents>
+                  <summary>Teil aus Jean-Luc D'ACHERY, Asceticorum, vulgo spiritualium opusculorum, quae inter patruni opera reperiuntur indiculus (Paris 1648) mit dem Titel: "Operum a monachis Benedictinis editorum elenchus".</summary>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <foliation>1–12.</foliation>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <date notBefore="1700-01-01" notAfter="1750-01-01">Erste Hälfte 18. Jahrhundert</date>
+                     <note>Undatiert.</note>
+                  </origin>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="RNA">Sammlungen und Objekte</classCode>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="s430336" n="1">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/430336.tif"/>
+      </surface>
+      <surface xml:id="s430337" n="2">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/430337.tif"/>
+      </surface>
+      <surface xml:id="s430338" n="3">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/430338.tif"/>
+      </surface>
+      <surface xml:id="s430339" n="4">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/430339.tif"/>
+      </surface>
+      <surface xml:id="s430340" n="5">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/430340.tif"/>
+      </surface>
+      <surface xml:id="s430341" n="6">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/430341.tif"/>
+      </surface>
+      <surface xml:id="s430342" n="7">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/430342.tif"/>
+      </surface>
+      <surface xml:id="s430343" n="8">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/430343.tif"/>
+      </surface>
+      <surface xml:id="s430344" n="9">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/430344.tif"/>
+      </surface>
+      <surface xml:id="s430345" n="10">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/430345.tif"/>
+      </surface>
+      <surface xml:id="s430346" n="11">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/430346.tif"/>
+      </surface>
+      <surface xml:id="s430347" n="12">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/430347.tif"/>
+      </surface>
+   </facsimile>
+</TEI>

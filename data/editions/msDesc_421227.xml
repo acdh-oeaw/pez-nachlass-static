@@ -1,0 +1,112 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_421227.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Notizen: Unterrichtsbehelf zu (hauptsächlich) Andechser Schriftstellern</title>
+            <title type="sub">Digital object description</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <idno type="unidam-verz_einh">431</idno>
+         <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-64EC-8</idno></publicationStmt>
+         <sourceDesc>
+            <msDesc xml:lang="de">
+               <msIdentifier>
+                  <country>Österreich</country>
+                  <settlement>Melk</settlement>
+                  <institution>Benediktiner-Stift</institution>
+                  <repository>Stiftsarchiv</repository>
+                  <idno>Kt. 07 Patres 11 Faszikel 3 Nr. 19</idno>
+               </msIdentifier>
+               <msContents>
+                  <summary>Fragen und Antworten, hauptsächlich zu Biographien und Werken Andechser Schriftsteller. Am Anfang unvollständig, zweiter Teil zu Karton 85 Varia 25, Fasz. 1, Nr. 5.</summary>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <foliation>15–32.</foliation>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <date notBefore="1710-01-01">nach 1710</date>
+                     <note>Undatiert. Jüngstes Werk von 1710.</note>
+                  </origin>
+               </history>
+               <additional>
+                  <listBibl>
+                     <bibl>Zu Andechs: <rs type="bibl" key="bqbibl:r293">Willibald MATHÄSER, Andechser Chronik. Die Geschichte des Heiligen Berges nach alten Dokumenten und aus neueren Quellen, ergänzt durch persönliche Erinnerungen (München 1979)</rs>;
+                        <rs type="bibl" key="bqbibl:r294">Magnus SATTLER, Chronik von Andechs (Donauwörth 1877)</rs>. Zu Kibler: <rs type="bibl" key="bqbibl:r767">Albert SIEGMUND, Kibler (Gilles), in: Dictionnaire de spiritualité, ascétique et mystique, doctrine et histoire, 8: Jacob – Kyspenning, hg. von Marcel VILLER et al. (Paris 1974) col. 1721–1723</rs>. Zu Schlitpacher: <rs type="bibl" key="bqbibl:r014">Meta BRUCK, Profeßbuch des Klosters Melk, 1: 1418–1452. Die Äbte von 1418–1483. Stift Melk. Geschichte und Gegenwart 4 (1985) 79–202</rs>. Zu Johannes von Kempten: <rs type="bibl" key="bqbibl:r379">Thomas AIGNER, Mariazell in Österreich. Eine Klostergemeinschaft zwischen Reformation und Aufklärung (Geschichtliche Beilagen zum St. Pöltner Diözesanblatt 19 = Beiträge zur Kirchengeschichte Niederösterreichs 2, St. Pölten 1998)</rs>;
+                        <rs type="bibl" key="bqbibl:r380">Vinzenz STAUFER, Das Todtenbuch des Benedictiner-Stiftes Klein-Mariazell in Oesterreich unter der Enns. SMGB 1/2 (1880) 106–120; 1/3 (1880) 49–66; 1/4 (1880) 94–109; 2/1 (1881) 28–45 </rs>;     
+                        Zu Nicolaus de Lyra: <rs type="bibl" key="bqbibl:r630">Nicholas of Lyra : the senses of scripture, hg. von Philipp D. KREY–Lesley SMITH (Studies in the history of Christian thought 90, Leiden–Boston–Köln 2000)</rs>. Zu Raulin: <rs type="bibl" key="bqbibl:r632">Sabine BARING-GOULD, Post-mediaeval preachers: some account of the most celebrated preachers of the 15th, 16th and 17th centuries
+                           with outlines of their sermons, and specimens of their style (London–Oxford–Cambridge 1865)</rs>. Zu Staudigl: <rs type="bibl" key="bqbibl:r295">Hugo HOLL, P. Ulrich Staudigl von Andechs († 1720) als erster Prokurator der bayrischen Benediktiner-Kongregation in Rom. (Dargestellt nach seinen Briefen). SMGB 51 (1933) 231–275</rs>;
+                        <rs type="bibl" key="bqbibl:r296">Birgitta KJÄER, P. Ulrich Staudigl (1644–1720) von Andechs. Mönch und Arzt (München 1986)</rs>.</bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="RNA">Sammlungen und Objekte</classCode>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="s421227" n="15">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/421227.tif"/>
+      </surface>
+      <surface xml:id="s421228" n="16">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/421228.tif"/>
+      </surface>
+      <surface xml:id="s421229" n="17">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/421229.tif"/>
+      </surface>
+      <surface xml:id="s421230" n="18">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/421230.tif"/>
+      </surface>
+      <surface xml:id="s421231" n="19">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/421231.tif"/>
+      </surface>
+      <surface xml:id="s421232" n="20">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/421232.tif"/>
+      </surface>
+      <surface xml:id="s421233" n="21">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/421233.tif"/>
+      </surface>
+      <surface xml:id="s421234" n="22">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/421234.tif"/>
+      </surface>
+      <surface xml:id="s421235" n="23">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/421235.tif"/>
+      </surface>
+      <surface xml:id="s421236" n="24">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/421236.tif"/>
+      </surface>
+      <surface xml:id="s421237" n="25">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/421237.tif"/>
+      </surface>
+      <surface xml:id="s421238" n="26">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/421238.tif"/>
+      </surface>
+      <surface xml:id="s421239" n="27">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/421239.tif"/>
+      </surface>
+      <surface xml:id="s421240" n="28">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/421240.tif"/>
+      </surface>
+      <surface xml:id="s421241" n="29">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/421241.tif"/>
+      </surface>
+      <surface xml:id="s421242" n="30">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/421242.tif"/>
+      </surface>
+      <surface xml:id="s421243" n="31">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/421243.tif"/>
+      </surface>
+      <surface xml:id="s421244" n="32">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/421244.tif"/>
+      </surface>
+   </facsimile>
+</TEI>

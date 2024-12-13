@@ -1,0 +1,69 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_411351.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Briefabschrift: BP an Mayrhauser</title>
+            <title type="sub">Digital object description</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <idno type="unidam-verz_einh">159</idno>
+         <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-63C9-0</idno></publicationStmt>
+         <sourceDesc>
+            <msDesc xml:lang="de">
+               <msIdentifier>
+                  <country>Österreich</country>
+                  <settlement>Melk</settlement>
+                  <institution>Benediktiner-Stift</institution>
+                  <repository>Stiftsarchiv</repository>
+                  <idno>Kt. 07 Patres 09 Faszikel 2 Nr. 59 </idno>
+               </msIdentifier>
+               <msContents>
+                  <summary>Briefabschrift BP an Mayrhauser (1724-11-23) aus dem Stiftsarchiv St. Peter von Hauthaler. Auf 1v Angaben über die 4 Beilagen ("Conventus Mellicensis libellus" aus 1722, "Extractus ex libello" aus 1722, "Votum cuiusdam capitularis Mellicensis" aus 1721, "Attestatum P. Pezii" aus 1724) zum Original sowie Anmerkungen zu den Schreiberhänden und zum Siegel. Zu einer zweiten Briefabschrift aus 1889 vgl. Karton 7 Patres 9, Fasz. 2, Nr. 60; weitere Briefe Lindners und Hauthalers aus 1893 in StiB Melk, Cod. 1637. </summary>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <foliation>1r–v.</foliation>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <date when="1881-12-27">1881-12-27</date>
+                     <note>Auf 1v "St. Peter 27.12.81, P(ater) W(illibald) H(authaler)". Im Zusammenhang mit der Pez-Forschung um 1900.</note>
+                  </origin>
+               </history>
+               <additional>
+                  <listBibl>
+                     <bibl>Zu St. Peter: <rs type="bibl" key="bqbibl:r484">Pirmin LINDNER,
+                           Professbuch der Benediktiner-Abtei St. Peter in Salzburg (1419–1856).
+                           Mitteilungen der Gesellschaft für Salzburger Landeskunde 46 (1906)
+                           1–328</rs>.</bibl>
+                     <bibl>Zu Cod. 1637: <rs type="bibl" key="bqbibl:r020">Christine GLASSNER,
+                           Neuzeitliche Handschriften aus dem Nachlass der Brüder Bernhard und
+                           Hieronymus Pez in der Bibliothek des Benediktinerstiftes Melk
+                           (Österreichische Akademie der Wissenschaften, Philosophisch-historische
+                           Klasse. Denkschriften 372 = Veröffentlichungen der Kommission für
+                           Schrift- und Buchwesen des Mittelalters, Reihe IV 7, Wien
+                        2008)</rs>.</bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="RNA">Korrespondenzen</classCode>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="s411351" n="1r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/411351.tif"/>
+      </surface>
+      <surface xml:id="s411352" n="1v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/411352.tif"/>
+      </surface>
+   </facsimile>
+</TEI>

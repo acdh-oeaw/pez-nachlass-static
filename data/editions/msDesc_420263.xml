@@ -1,0 +1,70 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_420263.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Briefauszüge: Senckenberg an HP</title>
+            <title type="sub">Digital object description</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <idno type="unidam-verz_einh">397</idno>
+         <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-640A-7</idno></publicationStmt><notesStmt><note type="relatedCorrespondences">Senckenberg an HP: 1748-01-16, 1748-05-08, 1748-08-03, 1748-12-25, 1748-12-31, 1749-01-21. </note></notesStmt>
+         <sourceDesc>
+            <msDesc xml:lang="de">
+               <msIdentifier>
+                  <country>Österreich</country>
+                  <settlement>Melk</settlement>
+                  <institution>Benediktiner-Stift</institution>
+                  <repository>Stiftsarchiv</repository>
+                  <idno>Kt. 07 Patres 11 Faszikel 1 Nr. 81 </idno>
+               </msIdentifier>
+               <msContents>
+                  <summary>Auszüge aus den Briefen Senckenberg an HP, Hand Mayer.</summary>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <foliation>1r–2v.</foliation>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <date notBefore="1800-01-01" notAfter="1899-12-31">19. Jh.</date>
+                     <note>Im Zusammenhang mit der Pez-Forschung im 19. Jahrhundert.</note>
+                  </origin>
+               </history>
+               <additional>
+                  <listBibl>
+                     <bibl>Zu Mayer: <rs type="bibl" key="bqbibl:r065">Catalogus religiosorum
+                           ordinis S.P. Benedicti in monasterio Mellicensi (Wien 1855)</rs>.</bibl>
+                     <bibl>Zu Briefen und Senckenberg: <rs type="bibl" key="bqbibl:r034">Irene RABL,
+                           Briefe an Hieronymus Pez OSB aus seinem Nachlass im Stiftsarchiv Melk,
+                           Karton 7/13: Verzeichnis und Kurzbiographien der Korrespondenzpartner.
+                           SMGB 122 (2011) 327–367</rs>.</bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="RNA">Korrespondenzen</classCode>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="s420263" n="1r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/420263.tif"/>
+      </surface>
+      <surface xml:id="s420264" n="1v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/420264.tif"/>
+      </surface>
+      <surface xml:id="s420265" n="2r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/420265.tif"/>
+      </surface>
+      <surface xml:id="s420266" n="2v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/420266.tif"/>
+      </surface>
+   </facsimile>
+</TEI>

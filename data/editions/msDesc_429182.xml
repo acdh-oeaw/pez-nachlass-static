@@ -1,0 +1,125 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_429182.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Abschrift: "Epistola Arnoldi monasterii S. Emmerami professi ad abbatem Burckhardum eiusdem monasterii"</title>
+            <title type="sub">Digital object description</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <idno type="unidam-verz_einh">634</idno>
+         <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-6579-9</idno></publicationStmt>
+         <sourceDesc>
+            <msDesc xml:lang="de">
+               <msIdentifier>
+                  <country>Österreich</country>
+                  <settlement>Melk</settlement>
+                  <institution>Benediktiner-Stift</institution>
+                  <repository>Stiftsarchiv</repository>
+                  <idno>Kt. 85 Varia 25 Faszikel 1 Nr. 30</idno>
+               </msIdentifier>
+               <msContents>
+                  <summary>Abschrift aus einer Handschrift des Arnold von St. Emmeram (11. Jh.) mit dem Titel: "Epistola Arnoldi monasterii S. Emmerami professi ad abbatem Burckhardum eiusdem monasterii". Es könnte sich hierbei um eine Abschrift aus einem St. Emmeramer Codex handeln, der heute in der BStB München liegt, z.B. Cod. 14870, 14871 oder 14872. Alle drei enthalten dessen "Epistolae" und "Libri".</summary>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <foliation>1–24.</foliation>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <date notBefore="1700-01-01" notAfter="1750-01-01">Erste Hälfte 18. Jahrhundert</date>
+                     <note>Undatiert.</note>
+                  </origin>
+               </history>
+               <additional>
+                  <listBibl>
+                     <bibl>Zu den Codices: <rs type="bibl" key="bqbibl:r880">Karl HALM–Georg von LAUBMANN–Wilhelm MEYER, Catalogus codicum manu scriptorum Bibliothecae Regiae Monacensis, 4/2: Catalogus codicum Latinorum Bibliothecae Regiae Monacensis. Secundum Andreae Schmelleri Indices, 2/2: Codices latinos (Clm) 11001–15028 complectens (München 1876)</rs>.</bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="RNA">Sammlungen und Objekte</classCode>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="s429182" n="1">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/429182.tif"/>
+      </surface>
+      <surface xml:id="s429183" n="2">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/429183.tif"/>
+      </surface>
+      <surface xml:id="s429184" n="3">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/429184.tif"/>
+      </surface>
+      <surface xml:id="s429185" n="4">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/429185.tif"/>
+      </surface>
+      <surface xml:id="s429186" n="5">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/429186.tif"/>
+      </surface>
+      <surface xml:id="s429187" n="6">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/429187.tif"/>
+      </surface>
+      <surface xml:id="s429188" n="7">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/429188.tif"/>
+      </surface>
+      <surface xml:id="s429189" n="8">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/429189.tif"/>
+      </surface>
+      <surface xml:id="s429190" n="9">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/429190.tif"/>
+      </surface>
+      <surface xml:id="s429191" n="10">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/429191.tif"/>
+      </surface>
+      <surface xml:id="s429192" n="11">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/429192.tif"/>
+      </surface>
+      <surface xml:id="s429193" n="12">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/429193.tif"/>
+      </surface>
+      <surface xml:id="s429194" n="13">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/429194.tif"/>
+      </surface>
+      <surface xml:id="s429195" n="14">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/429195.tif"/>
+      </surface>
+      <surface xml:id="s429196" n="15">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/429196.tif"/>
+      </surface>
+      <surface xml:id="s429197" n="16">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/429197.tif"/>
+      </surface>
+      <surface xml:id="s429198" n="17">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/429198.tif"/>
+      </surface>
+      <surface xml:id="s429199" n="18">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/429199.tif"/>
+      </surface>
+      <surface xml:id="s429200" n="19">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/429200.tif"/>
+      </surface>
+      <surface xml:id="s429201" n="20">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/429201.tif"/>
+      </surface>
+      <surface xml:id="s429202" n="21">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/429202.tif"/>
+      </surface>
+      <surface xml:id="s429203" n="22">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/429203.tif"/>
+      </surface>
+      <surface xml:id="s429204" n="23">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/429204.tif"/>
+      </surface>
+      <surface xml:id="s429205" n="24">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/429205.tif"/>
+      </surface>
+   </facsimile>
+</TEI>

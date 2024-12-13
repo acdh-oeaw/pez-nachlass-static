@@ -1,0 +1,102 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_447036.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Kirchenhistorische Notizen in deutscher Sprache</title>
+            <title type="sub">Digital object description</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <idno type="unidam-verz_einh">742</idno>
+         <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-65C7-0</idno></publicationStmt>
+         <sourceDesc>
+            <msDesc xml:lang="de">
+               <msIdentifier>
+                  <country>Österreich</country>
+                  <settlement>Melk</settlement>
+                  <institution>Benediktiner-Stift</institution>
+                  <repository>Stiftsarchiv</repository>
+                  <idno>Kt. 85 Varia 30 Faszikel 1 Nr. 03</idno>
+               </msIdentifier>
+               <msContents>
+                  <summary>Kirchenhistorische Notizen (zu der Zeit nach 250 n.Chr.) in deutscher Sprache, unvollständig, beginnt erst mit S. 50 (=fol. 1r). Zitiert wird u.a. aus Eusebius von Caesarea, "Historia ecclesiastica" zu Dionysius von Alexandria.</summary>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <foliation>1r–9v.</foliation>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <date notBefore="1800-01-01" notAfter="1899-12-31">19. Jh.</date>
+                     <note>Hand des 19. Jahrhunderts.</note>
+                  </origin>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="RNA">Sammlungen und Objekte</classCode>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="s447036" n="1r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/447036.tif"/>
+      </surface>
+      <surface xml:id="s447037" n="1v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/447037.tif"/>
+      </surface>
+      <surface xml:id="s447038" n="2r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/447038.tif"/>
+      </surface>
+      <surface xml:id="s447039" n="2v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/447039.tif"/>
+      </surface>
+      <surface xml:id="s447040" n="3r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/447040.tif"/>
+      </surface>
+      <surface xml:id="s447041" n="3v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/447041.tif"/>
+      </surface>
+      <surface xml:id="s447042" n="4r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/447042.tif"/>
+      </surface>
+      <surface xml:id="s447043" n="4v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/447043.tif"/>
+      </surface>
+      <surface xml:id="s447044" n="5r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/447044.tif"/>
+      </surface>
+      <surface xml:id="s447045" n="5v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/447045.tif"/>
+      </surface>
+      <surface xml:id="s447046" n="6r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/447046.tif"/>
+      </surface>
+      <surface xml:id="s447047" n="6v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/447047.tif"/>
+      </surface>
+      <surface xml:id="s447048" n="7r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/447048.tif"/>
+      </surface>
+      <surface xml:id="s447049" n="7v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/447049.tif"/>
+      </surface>
+      <surface xml:id="s447050" n="8r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/447050.tif"/>
+      </surface>
+      <surface xml:id="s447051" n="8v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/447051.tif"/>
+      </surface>
+      <surface xml:id="s447052" n="9r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/447052.tif"/>
+      </surface>
+      <surface xml:id="s447053" n="9v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/447053.tif"/>
+      </surface>
+   </facsimile>
+</TEI>

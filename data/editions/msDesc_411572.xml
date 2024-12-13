@@ -1,0 +1,82 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_411572.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Abschrift: Telesphorus, "De causis, de statu, de cognitione ac fine praesentis scismatis"</title>
+            <title type="sub">Digital object description</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <idno type="unidam-verz_einh">178</idno>
+         <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-645C-B</idno></publicationStmt><notesStmt><note type="relatedCorrespondences">Wydemann an BP: 1718-04-09.</note></notesStmt>
+         <sourceDesc>
+            <msDesc xml:lang="de">
+               <msIdentifier>
+                  <country>Österreich</country>
+                  <settlement>Melk</settlement>
+                  <institution>Benediktiner-Stift</institution>
+                  <repository>Stiftsarchiv</repository>
+                  <idno>Kt. 07 Patres 09 Faszikel 2 Nr. 78 </idno>
+               </msIdentifier>
+               <msContents>
+                  <summary>Abschrift aus einer Gaminger Handschrift von Telesphorus, "De causis, statu, cognitione ac fine praesentis scismatis", eventuell ÖNB, Cod. 3313 oder 5180. Vermerk Hand BP? Unvollständig. Heinrich von Langenstein verfaßte im Jahre 1392 seine sog. Schrift "Contra Telesphorum", gedruckt in BP, Thesaurus anecdotorum novissimus, 1, 2, 3 (Augsburg 1721). Zu Langenstein vgl. auch Karton 7 Patres 9, Fasz. 2, Nr. 26. Wohl Beilage zu Wydemann an BP (1718-04-09). </summary>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <foliation>1r–4v.</foliation>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <date when="1718-01-01">um 1718</date>
+                     <note/>
+                  </origin>
+               </history>
+               <additional>
+                  <listBibl>
+                     <bibl>Zu Telesphorus von Cosenza: <rs type="bibl" key="bqbibl:r159">Johannes SCHLAGETER, Telesphorus von Cosenza, in: Lexikon des Mittelalters, 8 (München 1997) col. 530</rs>. Zu Heinrich von Langenstein: <rs type="bibl" key="bqbibl:r160">Georg KREUZER, Heinrich von Langenstein, in: Lexikon des Mittelalters, 4 (München–Zürich 1989) col. 2095</rs>. 
+                        Zu Gaming: <rs type="bibl" key="bqbibl:r048">Thomas AIGNER, Gaming, in: Monasticon Cartusiense II, hg. von James HOGG–Alain GIRARD–Daniel LE BLÉVEC (Salzburg 2004) 82–86</rs>;
+                           <rs type="bibl" key="bqbibl:r049">Anton ERDINGER, Beiträge zur Geschichte der Karthause Gaming. Geschichtliche Beilagen zu den Consistorial-Currenden der Diöcese St. Pölten 5 (1895) 1–82</rs>;
+                           <rs type="bibl" key="bqbibl:r050">Josef FEIL, Original-Beiträge zur Geschichte der Aufhebung mehrer [!] Klöster in Niederösterreich. Oesterreichische Blätter für Literatur und Kunst, Geographie, Geschichte, Statistik und Naturkunde 2 (1845) 306–310, 315–318, 449–452, 540–544, 571–573</rs>;
+                           <rs type="bibl" key="bqbibl:r051">Walter HILDEBRAND, Kartause Gaming. Ausstellung anlässlich der Wiederherstellung des Herzogsgrabes. Herzog Albrecht II. und die Kartause Gaming (Gaming 1985)</rs>;
+                           <rs type="bibl" key="bqbibl:r052">Heinrich ZEISSBERG, Zur Geschichte der Kartause Gaming. Archiv für Österreichische Geschichte 60 (1880) 562–596. Zu Heinrich von Langenstein: Georg KREUZER, Heinrich von Langenstein, in: Lexikon des Mittelalters, 4 (München–Zürich 1989) col. 2095</rs>.</bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="RNA">Sammlungen und Objekte</classCode>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="s411572" n="1r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/411572.tif"/>
+      </surface>
+      <surface xml:id="s411573" n="1v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/411573.tif"/>
+      </surface>
+      <surface xml:id="s411574" n="2r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/411574.tif"/>
+      </surface>
+      <surface xml:id="s411575" n="2v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/411575.tif"/>
+      </surface>
+      <surface xml:id="s411576" n="3r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/411576.tif"/>
+      </surface>
+      <surface xml:id="s411577" n="3v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/411577.tif"/>
+      </surface>
+      <surface xml:id="s411578" n="4r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/411578.tif"/>
+      </surface>
+      <surface xml:id="s411579" n="4v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/411579.tif"/>
+      </surface>
+   </facsimile>
+</TEI>

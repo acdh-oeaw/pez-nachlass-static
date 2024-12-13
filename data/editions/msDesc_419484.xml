@@ -1,0 +1,102 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_419484.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Abschrift: Schriftstellerkatalog von St.-Maixent </title>
+            <title type="sub">Digital object description</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <idno type="unidam-verz_einh">355</idno>
+         <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-64D3-3</idno></publicationStmt><notesStmt><note type="relatedCorrespondences">Poncet an BP: 1717-01-06.</note></notesStmt>
+         <sourceDesc>
+            <msDesc xml:lang="de">
+               <msIdentifier>
+                  <country>Österreich</country>
+                  <settlement>Melk</settlement>
+                  <institution>Benediktiner-Stift</institution>
+                  <repository>Stiftsarchiv</repository>
+                  <idno>Kt. 07 Patres 11 Faszikel 1 Nr. 39</idno>
+               </msIdentifier>
+               <msContents>
+                  <summary>Abschrift einer Hausgeschichte und eines Schriftstellerkatalog von St.-Maixent, laut Anmerkung Mayers Beilage zu Brief Poncet an BP (1717-01-06). Vgl. das Original des Schriftstellerkatalogs von St.-Maixent in Karton 7 Patres 10, Fasz. 8, Nr. 2.</summary>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <foliation>1r–8v.</foliation>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <date notBefore="1800-01-01" notAfter="1899-12-31">19. Jh.</date>
+                     <note>Im Zusammenhang mit der Pez-Forschung im 19. Jahrhundert.</note>
+                  </origin>
+               </history>
+               <additional>
+                  <listBibl>
+                     <bibl>Zu Mayer: <rs type="bibl" key="bqbibl:r065">Catalogus religiosorum ordinis S.P. Benedicti in monasterio Mellicensi (Wien 1855)</rs>. Zu St.-Maixent: <rs type="bibl" key="bqbibl:r798">Octave-Auguste HIPAULT, L’église abbatiale de Saint-Maixent. Documents relatifs à sa restauration au XVIIe siècle. Bulletin de la Société historique et scientifique des Deux-Sèvres 5 (1926/30) 446–463</rs>;
+                        <rs type="bibl" key="bqbibl:r533">Alfred RICHARD, Chartes et Documents pour servir a l’Histoire de l’Abbaye de Saint-Maixent (Archives Historiques du Poitou 18, Poitiers 1886)</rs>. Brief kommt nicht vor in: <rs type="bibl" key="bqbibl:r018">Christine GLASSNER, Verzeichnis der im Nachlass der Melker Historiker Bernhard und Hieronymus Pez erhaltenen Briefe. SMGB 110 (1999) 195–243</rs>.</bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="RNA">Sammlungen und Objekte</classCode>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="s419484" n="1r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/419484.tif"/>
+      </surface>
+      <surface xml:id="s419485" n="1v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/419485.tif"/>
+      </surface>
+      <surface xml:id="s419486" n="2r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/419486.tif"/>
+      </surface>
+      <surface xml:id="s419487" n="2v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/419487.tif"/>
+      </surface>
+      <surface xml:id="s419488" n="3r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/419488.tif"/>
+      </surface>
+      <surface xml:id="s419489" n="3v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/419489.tif"/>
+      </surface>
+      <surface xml:id="s419490" n="4r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/419490.tif"/>
+      </surface>
+      <surface xml:id="s419491" n="4v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/419491.tif"/>
+      </surface>
+      <surface xml:id="s419492" n="5r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/419492.tif"/>
+      </surface>
+      <surface xml:id="s419493" n="5v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/419493.tif"/>
+      </surface>
+      <surface xml:id="s419494" n="6r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/419494.tif"/>
+      </surface>
+      <surface xml:id="s419495" n="6v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/419495.tif"/>
+      </surface>
+      <surface xml:id="s419496" n="7r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/419496.tif"/>
+      </surface>
+      <surface xml:id="s419497" n="7v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/419497.tif"/>
+      </surface>
+      <surface xml:id="s419498" n="8r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/419498.tif"/>
+      </surface>
+      <surface xml:id="s419499" n="8v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/419499.tif"/>
+      </surface>
+   </facsimile>
+</TEI>

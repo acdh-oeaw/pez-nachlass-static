@@ -1,0 +1,65 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_418975.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Handschriftennotizen aus einem "Codex epistolaris"</title>
+            <title type="sub">Digital object description</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <idno type="unidam-verz_einh">337</idno>
+         <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-64C9-F</idno></publicationStmt>
+         <sourceDesc>
+            <msDesc xml:lang="de">
+               <msIdentifier>
+                  <country>Österreich</country>
+                  <settlement>Melk</settlement>
+                  <institution>Benediktiner-Stift</institution>
+                  <repository>Stiftsarchiv</repository>
+                  <idno>Kt. 07 Patres 11 Faszikel 1 Nr. 21</idno>
+               </msIdentifier>
+               <msContents>
+                  <summary>Handschriftennotizen aus einem "Codex epistolaris", einer Sammlung von Briefen, welche die Korrespondenz zwischen dem Erzbischof von Salzburg, dem Bischof von Passau, den Herzögen von Österreich und Bayern sowie den Äbten von Niederaltaich abbilden.</summary>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <foliation>1r–2v.</foliation>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <date notBefore="1800-01-01" notAfter="1899-12-31">19. Jh.</date>
+                     <note>Im Zusammenhang mit der Pez-Forschung im 19. Jahrhundert.</note>
+                  </origin>
+               </history>
+               <additional>
+                  <listBibl>
+                     <bibl>Zu Mayer: <rs type="bibl" key="bqbibl:r065">Catalogus religiosorum ordinis S.P. Benedicti in monasterio Mellicensi (Wien 1855)</rs>.</bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="RNA">Sammlungen und Objekte</classCode>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="s418975" n="1r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/418975.tif"/>
+      </surface>
+      <surface xml:id="s418976" n="1v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/418976.tif"/>
+      </surface>
+      <surface xml:id="s418977" n="2r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/418977.tif"/>
+      </surface>
+      <surface xml:id="s418978" n="2v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/418978.tif"/>
+      </surface>
+   </facsimile>
+</TEI>

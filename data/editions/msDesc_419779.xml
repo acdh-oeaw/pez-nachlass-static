@@ -1,0 +1,77 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_419779.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Briefauszüge: Lyll und Guetrather an BP</title>
+            <title type="sub">Digital object description</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <idno type="unidam-verz_einh">368</idno>
+         <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-63F1-2</idno></publicationStmt><notesStmt><note type="relatedCorrespondences">Lyll an BP: 1720-09-01. Guetrather an BP: 1721-09-11.</note></notesStmt>
+         <sourceDesc>
+            <msDesc xml:lang="de">
+               <msIdentifier>
+                  <country>Österreich</country>
+                  <settlement>Melk</settlement>
+                  <institution>Benediktiner-Stift</institution>
+                  <repository>Stiftsarchiv</repository>
+                  <idno>Kt. 07 Patres 11 Faszikel 1 Nr. 52 </idno>
+               </msIdentifier>
+               <msContents>
+                  <summary>Auszüge aus den Briefen Lyll und Guetrather an BP, Hand Mayer.</summary>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <foliation>1r–2v.</foliation>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <date notBefore="1800-01-01" notAfter="1899-12-31">19. Jh.</date>
+                     <note>Im Zusammenhang mit der Pez-Forschung im 19. Jahrhundert.</note>
+                  </origin>
+               </history>
+               <additional>
+                  <listBibl>
+                     <bibl>Zu Mayer: <rs type="bibl" key="bqbibl:r065">Catalogus religiosorum
+                           ordinis S.P. Benedicti in monasterio Mellicensi (Wien 1855)</rs>.</bibl>
+                     <bibl>Zu Lyll: <rs type="bibl" key="bqbibl:r422">Paulus WEISSENBERGER, Michael
+                           Dobler, Abt von Mönchsdeggingen im Ries 1705–1777. SMGB 75 (1965)
+                           360–469</rs>.</bibl>
+                     <bibl>Zu Guetrather: <rs type="bibl" key="bqbibl:r568">Pirmin LINDNER, Familia
+                           S. Quirini in Tegernsee. Die Äbte und Mönche der Benediktiner-Abtei
+                           Tegernsee von den ältesten Zeiten bis zu ihrem Aussterben (1861) und ihr
+                           literarischer Nachlass. Oberbayerisches Archiv für vaterländische
+                           Geschichte 50 (1897) 18–130; 50 Ergh. (1898) 1–318</rs>.</bibl>
+                     <bibl>Zu Briefen: <rs type="bibl" key="bqbibl:r018">Christine GLASSNER,
+                           Verzeichnis der im Nachlass der Melker Historiker Bernhard und Hieronymus
+                           Pez erhaltenen Briefe. SMGB 110 (1999) 195–243</rs>.</bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="RNA">Korrespondenzen</classCode>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="s419779" n="1r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/419779.tif"/>
+      </surface>
+      <surface xml:id="s419780" n="1v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/419780.tif"/>
+      </surface>
+      <surface xml:id="s419781" n="2r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/419781.tif"/>
+      </surface>
+      <surface xml:id="s419782" n="2v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/419782.tif"/>
+      </surface>
+   </facsimile>
+</TEI>

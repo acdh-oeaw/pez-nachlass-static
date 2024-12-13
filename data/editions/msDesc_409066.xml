@@ -1,0 +1,77 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_409066.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Manuskript: "Puncta ad augustissimum imperatorem data anno 1723"</title>
+            <title type="sub">Digital object description</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <idno type="unidam-verz_einh">59</idno>
+         <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-65F6-B</idno></publicationStmt>
+         <sourceDesc>
+            <msDesc xml:lang="de">
+               <msIdentifier>
+                  <country>Österreich</country>
+                  <settlement>Melk</settlement>
+                  <institution>Benediktiner-Stift</institution>
+                  <repository>Stiftsarchiv</repository>
+                  <idno>Kt. 07 Patres  09 Faszikel 1 Nr. 41</idno>
+               </msIdentifier>
+               <msContents>
+                  <summary>Manuskript "Puncta ad augustissimum imperatorem data anno 1723". Zu den "Capitula" vgl. auch Karton 3 Äbte 6, Fasz. 2.</summary>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <foliation>1r–4v.</foliation>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <date notBefore="1723-01-01">um 1723</date>
+                     <note/>
+                  </origin>
+               </history>
+               <additional>
+                  <listBibl>
+                     <bibl>Zu den "Capitula" des Melker Konvents: <rs type="bibl" key="bqbibl:r023">Hugo HANTSCH, Bernhard Pez und Abt Berthold Dietmayr. MIÖG 71 (1963) 128–139</rs>.</bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="RNA">Werke</classCode>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="s409066" n="1r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/409066.tif"/>
+      </surface>
+      <surface xml:id="s409067" n="1v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/409067.tif"/>
+      </surface>
+      <surface xml:id="s409068" n="2r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/409068.tif"/>
+      </surface>
+      <surface xml:id="s409069" n="2v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/409069.tif"/>
+      </surface>
+      <surface xml:id="s409070" n="3r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/409070.tif"/>
+      </surface>
+      <surface xml:id="s409071" n="3v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/409071.tif"/>
+      </surface>
+      <surface xml:id="s409072" n="4r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/409072.tif"/>
+      </surface>
+      <surface xml:id="s409073" n="4v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/409073.tif"/>
+      </surface>
+   </facsimile>
+</TEI>

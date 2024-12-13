@@ -1,0 +1,66 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_447442.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Abschrift, Exzerpt: Material zu Johannes (Gersen) von Vercelli</title>
+            <title type="sub">Digital object description</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <idno type="unidam-verz_einh">751</idno>
+         <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-65CD-A</idno></publicationStmt>
+         <sourceDesc>
+            <msDesc xml:lang="de">
+               <msIdentifier>
+                  <country>Österreich</country>
+                  <settlement>Melk</settlement>
+                  <institution>Benediktiner-Stift</institution>
+                  <repository>Stiftsarchiv</repository>
+                  <idno>Kt. 85 Varia 30 Faszikel 1 Nr. 12</idno>
+               </msIdentifier>
+               <msContents>
+                  <summary>Material zu Johannes Gersen von Vercelli (fälschlicherweise als Autor von "De Imitatione Christi" angenommen) mit Auszügen aus einem "Chronicon Franciscanorum" zum 13. Jh., französische Hand. Laut Anmerkung auf fol. 1r 1695 an Mabillon gesandt, Brief nicht bei Leclercq (vgl. Literaturfeld). Wohl in Zusammenhang mit Jean MABILLON, Animadversiones in Vindicias Kempenses (Paris 1677) und dem immer wieder aufflammenden Streit um die Autorenfrage, der z.B. Anselm Schramb oder Leopold Wydemann auch im 18. Jh. beschäftigte. Vgl. weitere Materialien zu Gersen in Karton 85 Varia 30, Fasz. 1, Nr. 13.</summary>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <foliation>1r–2v.</foliation>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <date notBefore="1600-01-01" notAfter="1699-12-31">1. Jh.</date>
+                     <note>Französische Hand des 17. Jahrhunderts.</note>
+                  </origin>
+               </history>
+               <additional>
+                  <listBibl>
+                     <bibl>Zur Autorenfrage "De Imitatione Christi": <rs type="bibl" key="bqbibl:r008">Stefan BENZ, Zwischen Tradition und Kritik. Katholische Geschichtsschreibung im barocken Heiligen Römischen Reich (Historische Studien 473, Husum 2003)</rs>;
+                        <rs type="bibl" key="bqbibl:r016">Patrick FISKA, Zu Leben und Werk des Melker Benediktiners Anselm Schramb (1658–1720). Mit einer Edition seiner Briefkorrespondenz. SMBG 122 (2011) 201–306. Zu Mabillon und "De Imitatione Christi": Henri LECLERCQ, Mabillon (2 Bde., Paris 1953–1957)</rs>.</bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="RNA">Sammlungen und Objekte</classCode>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="s447442" n="1r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/447442.tif"/>
+      </surface>
+      <surface xml:id="s447443" n="1v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/447443.tif"/>
+      </surface>
+      <surface xml:id="s447444" n="2r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/447444.tif"/>
+      </surface>
+      <surface xml:id="s447445" n="2v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/447445.tif"/>
+      </surface>
+   </facsimile>
+</TEI>

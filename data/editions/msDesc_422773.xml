@@ -1,0 +1,59 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_422773.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Bio-bibliographische Notizen zu Pfäfers</title>
+            <title type="sub">Digital object description</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <idno type="unidam-verz_einh">474</idno>
+         <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-6505-B</idno></publicationStmt><notesStmt><note type="relatedCorrespondences">Hueber an BP: 1718-03-26.</note></notesStmt>
+         <sourceDesc>
+            <msDesc xml:lang="de">
+               <msIdentifier>
+                  <country>Österreich</country>
+                  <settlement>Melk</settlement>
+                  <institution>Benediktiner-Stift</institution>
+                  <repository>Stiftsarchiv</repository>
+                  <idno>Kt. 85 Varia 22 Faszikel 2 Nr. 09</idno>
+               </msIdentifier>
+               <msContents>
+                  <summary>Bio-bibliographische Notizen zu folgenden zwei Schriftstellern aus Pfäfers: 1) Anonymus, der eine Chronik von Pfäfers verfasst hat, und 2) "Allwicus de Morr", Verfasser des "Stemmatographicon“. Möglicherweise besteht ein Zusammenhang mit Gerhard Schwitter, Bibliothekar in Pfäfers, der 1718 unter anderem einen Schriftstellerkatalog von Pfäfers verfasst hat. Dieser Katalog ist als Beilage zum Brief Apronian Hueber an BP (1718-03-26) nach Melk gelangt und dort im Original erhalten (Karton 7 Patres 7 = Band 2 der Pezbriefe fol. 120r–123v). Er führt ebenfalls "Allwicus de Morr" an.</summary>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <foliation>1r–v.</foliation>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <date notBefore="1700-01-01" notAfter="1750-01-01">Erste Hälfte 18. Jahrhundert</date>
+                     <note>Undatiert.</note>
+                  </origin>
+               </history>
+               <additional>
+                  <listBibl>
+                     <bibl>Zu Pfäfers und seinen Schriftstellern: <rs type="bibl" key="bqbibl:r791">Jakob KURATLI HÜEBLIN, Archiv und Fälscherwerkstatt. Das Kloster Pfäfers und sein Umgang mit Schriftgut, 10. bis 18. Jahrhundert (Studia Fabariensia. Beiträge zur Pfäferser Klostergeschichte 4, Dietikon–Zürich 2010)</rs>. Zu BPs Beziehung zu Pfäfers: <rs type="bibl" key="bqbibl:r418">Gall HEER, P. Bernhard Pez von Melk OSB (1683–1735) in seinen Beziehungen zu den Schweizer Klöstern. Ein Kapitel benediktinischer Geistesgeschichte des frühen 18. Jahrhunderts, in: Festschrift Oskar VASELLA. Zum 60. Geburtstag am 15. Mai 1964 überreicht von Schülern und Freunden (Freiburg 1964)</rs>. Zu Brief (verzeichnet als Brief Schwitter an BP): <rs type="bibl" key="bqbibl:r018">Christine GLASSNER, Verzeichnis der im Nachlass der Melker Historiker Bernhard und Hieronymus Pez erhaltenen Briefe. SMGB 110 (1999) 195–243</rs>.</bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="RNA">Sammlungen und Objekte</classCode>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="s422773" n="1r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/422773.tif"/>
+      </surface>
+      <surface xml:id="s422774" n="1v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/422774.tif"/>
+      </surface>
+   </facsimile>
+</TEI>

@@ -1,0 +1,65 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_447548.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Abschrift des mittelhochdeutschen Gedichts "Die Tochter und der Hund" des "Strickers"</title>
+            <title type="sub">Digital object description</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <idno type="unidam-verz_einh">763</idno>
+         <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-65D9-C</idno></publicationStmt>
+         <sourceDesc>
+            <msDesc xml:lang="de">
+               <msIdentifier>
+                  <country>Österreich</country>
+                  <settlement>Melk</settlement>
+                  <institution>Benediktiner-Stift</institution>
+                  <repository>Stiftsarchiv</repository>
+                  <idno>Kt. 85 Varia 30 Faszikel 1 Nr. 24</idno>
+               </msIdentifier>
+               <msContents>
+                  <summary>Abschrift des mittelhochdeutschen Gedichts "Die Tochter und der Hund" (= Moelleken Nr. 134; vgl. Literaturfeld), hier mit dem Titel "Poemata moralia publica luce dignissima" versehen. Als Vorlage diente die Melker Pergamenthandschrift Cod. 1547 (Barocksignatur "R 18") aus dem 13. Jh. Das Gedicht des "Strickers" ist das erste in der Handschrift.</summary>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <foliation>1r–2v.</foliation>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <date notBefore="1700-01-01" notAfter="1750-01-01">Erste Hälfte 18. Jahrhundert</date>
+                     <note>Undatiert.</note>
+                  </origin>
+               </history>
+               <additional>
+                  <listBibl>
+                     <bibl>Zur Edition des Gedichts: <rs type="bibl" key="bqbibl:r667">Die Kleindichtung des Strickers, hg. von Wolfgang Wilfried MOELLEKEN (Göppinger Arbeiten zur Germanistik 107/1–5, Göppingen 1973–1978)</rs>. Zu Cod. 1547: <rs type="bibl" key="bqbibl:r021">Christine GLASSNER–Alois HAIDINGER, Inventar der Handschriften des Benediktinerstiftes Melk, Teil 1: Von den Anfängen bis ca. 1400 (Österreichische Akademie der Wissenschaften, Philosophisch-historische Klasse. Denkschriften 285 = Veröffentlichungen der Kommission für Schrift- und Buchwesen des Mittelalters, Reihe II 8/1, 2 Bde., Wien 2000)</rs>.</bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="RNA">Sammlungen und Objekte</classCode>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="s447548" n="1r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/447548.tif"/>
+      </surface>
+      <surface xml:id="s447549" n="1v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/447549.tif"/>
+      </surface>
+      <surface xml:id="s447550" n="2r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/447550.tif"/>
+      </surface>
+      <surface xml:id="s447551" n="2v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/447551.tif"/>
+      </surface>
+   </facsimile>
+</TEI>

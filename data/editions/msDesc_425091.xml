@@ -1,0 +1,72 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_425091.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Handschriftennotiz zu Würzburg</title>
+            <title type="sub">Digital object description</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <idno type="unidam-verz_einh">554</idno>
+         <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-6544-4</idno></publicationStmt>
+         <sourceDesc>
+            <msDesc xml:lang="de">
+               <msIdentifier>
+                  <country>Österreich</country>
+                  <settlement>Melk</settlement>
+                  <institution>Benediktiner-Stift</institution>
+                  <repository>Stiftsarchiv</repository>
+                  <idno>Kt. 85 Varia 23 Faszikel 1 Nr. 53</idno>
+               </msIdentifier>
+               <msContents>
+                  <summary>Handschriftennotiz zu Würzburg mit dem Titel: "Codex membranaceus (nr. 5 bibliothecae Herbipolensis cathedrail, nuper detectae [sic]) continens in se canones apostolorum et diversorum conciliorum", heute wohl M. p. th. f. 3 der Universitätsbibliothek Würzburg: "Canones apostolorum et conciliorum". Vgl. Karton 85 Varia 30, Fasz. 1, Nr. 23; Nr. 25. </summary>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <foliation>1r–3v.</foliation>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <date notBefore="1700-01-01" notAfter="1750-01-01">Erste Hälfte 18. Jahrhundert</date>
+                     <note>Undatiert.</note>
+                  </origin>
+               </history>
+               <additional>
+                  <listBibl>
+                     <bibl>Zu Eckhart: <rs type="bibl" key="bqbibl:r013">Stefan BENZ, Johann Georg von Eckhart (1674–1730), in: Fränkische Lebensbilder. Fünfzehnter Band, hg. von Alfred WENDEHORST (Veröffentlichungen der Gesellschaft für Fränkische Geschichte, Reihe VII A 15, Neustadt an der Aisch 1993) 135–156</rs>;
+                        <rs type="bibl" key="bqbibl:r689">Thomas WALLNIG, Johann Georg Eckhart als Verwerter von Leibniz' Kollektaneen: Geschichtsforscher in höfischen Diensten oder gelehrter Beamter?, in: Leibniz als Sammler und Verwerter historischer Quellen, hg. von Nora GÄDEKE (Wolfenbüttel 2012) 189–210</rs>. Zur Handschrift: <rs type="bibl" key="bqbibl:r869">Hans THURN, Die Handschriften der Universitätsbibliothek Würzburg, 3/1: Die Pergamenthandschriften der ehemaligen Dombibliothek (Wiesbaden 1984)</rs>.</bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="RNA">Sammlungen und Objekte</classCode>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="s425091" n="1r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/425091.tif"/>
+      </surface>
+      <surface xml:id="s425092" n="1v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/425092.tif"/>
+      </surface>
+      <surface xml:id="s425093" n="2r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/425093.tif"/>
+      </surface>
+      <surface xml:id="s425094" n="2v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/425094.tif"/>
+      </surface>
+      <surface xml:id="s425095" n="3r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/425095.tif"/>
+      </surface>
+      <surface xml:id="s425096" n="3v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/425096.tif"/>
+      </surface>
+   </facsimile>
+</TEI>

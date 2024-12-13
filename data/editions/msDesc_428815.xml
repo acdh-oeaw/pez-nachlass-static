@@ -1,0 +1,59 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_428815.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Notizen zu gastronomischen Betreffen in Heiligenviten</title>
+            <title type="sub">Digital object description</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <idno type="unidam-verz_einh">610</idno>
+         <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-6650-5</idno></publicationStmt>
+         <sourceDesc>
+            <msDesc xml:lang="de">
+               <msIdentifier>
+                  <country>Österreich</country>
+                  <settlement>Melk</settlement>
+                  <institution>Benediktiner-Stift</institution>
+                  <repository>Stiftsarchiv</repository>
+                  <idno>Kt. 85 Varia 25 Faszikel 1 Nr. 06</idno>
+               </msIdentifier>
+               <msContents>
+                  <summary>Notizen zu gastronomischen Betreffen in Heiligenviten mit dem Titel: "De appetitu sanctorum". Hand BP.</summary>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <foliation>1r–v.</foliation>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <date notAfter="1735-03-28">Zu Lebzeiten BPs.</date>
+                     <note>Undatiert.</note>
+                  </origin>
+               </history>
+               <additional>
+                  <listBibl>
+                     <bibl><rs type="bibl" key="bqbibl:r977">Thomas WALLNIG, Ordensgeschichte als Kulturgeschichte? Wissenschaftshistorische Überlegungen zur Historizität in der benediktinischen Geschichtsforschung des 18. Jahrhunderts, in: Europäische Geschichtskulturen um 1700 zwischen Gelehrsamkeit, Politik und Konfession, hg. von Thomas WALLNIG–Thomas STOCKINGER–Ines PEPER–Patrick FISKA (Boston–Berlin 2012) 193–212</rs>.</bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="RNA">Werke</classCode>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="s428815" n="1r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/428815.tif"/>
+      </surface>
+      <surface xml:id="s428816" n="1v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/428816.tif"/>
+      </surface>
+   </facsimile>
+</TEI>

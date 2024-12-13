@@ -1,0 +1,156 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_417070.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Bio-bibliographische Notizen: Massuet zu benediktinischen Schriftstellern</title>
+            <title type="sub">Digital object description</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <idno type="unidam-verz_einh">292</idno>
+         <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-64A4-8</idno></publicationStmt>
+         <sourceDesc>
+            <msDesc xml:lang="de">
+               <msIdentifier>
+                  <country>Österreich</country>
+                  <settlement>Melk</settlement>
+                  <institution>Benediktiner-Stift</institution>
+                  <repository>Stiftsarchiv</repository>
+                  <idno>Kt. 07 Patres 10 Faszikel 8 Nr. 31</idno>
+               </msIdentifier>
+               <msContents>
+                  <summary>Bio-bibliographische Notizen Mabillons und Massuets (Ergänzungen) zu benediktinischen Schriftstellern vom 5. bis 17. Jahrhundert: "Scriptores ordinis sancti Benedicti". Vermerk Katschthaler: "Schrift des Massuet, der ... diese Sammlung eingeschickt oder nach dessen Tod, da es unvollendet ist bei XIII". Am Ende (26–27) Konzept BPs eines Briefes, den er an einen "chere frere" über seinen Frankreich-Aufenthalt 1728 schreibt.</summary>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <foliation>1–16, 16a–d, 17–20, 20a–b, 21–25, 25a, 26–27.</foliation>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <date notAfter="1716-01-01">vor 1716</date>
+                     <note/>
+                  </origin>
+               </history>
+               <additional>
+                  <listBibl>
+                     <bibl>Zu Massuet und Brief: <rs type="bibl" key="bqbibl:r218">Jean-Baptiste VANEL, Les Bénédictins de Saint-Maur à Saint-Germain-des-Prés 1630–1792. Nécrologe des religieux de la Congrégation de Saint-Maur décédés à l’Abbaye de Saint-Germain-des-Prés (Paris 1896)</rs>;
+                     <rs type="bibl" key="bqbibl:r039">Thomas WALLNIG–Thomas STOCKINGER, Die gelehrte Korrespondenz der Brüder Pez. Text, Regesten, Kommentare, 1: 1709–1715 (QIÖG 2/1, Wien–München 2010)</rs>.</bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="RNA">Sammlungen und Objekte</classCode>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="s417070" n="1">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/417070.tif"/>
+      </surface>
+      <surface xml:id="s417071" n="2">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/417071.tif"/>
+      </surface>
+      <surface xml:id="s417072" n="3">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/417072.tif"/>
+      </surface>
+      <surface xml:id="s417073" n="4">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/417073.tif"/>
+      </surface>
+      <surface xml:id="s417074" n="5">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/417074.tif"/>
+      </surface>
+      <surface xml:id="s417075" n="6">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/417075.tif"/>
+      </surface>
+      <surface xml:id="s417076" n="7">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/417076.tif"/>
+      </surface>
+      <surface xml:id="s417077" n="8">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/417077.tif"/>
+      </surface>
+      <surface xml:id="s417078" n="9">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/417078.tif"/>
+      </surface>
+      <surface xml:id="s417079" n="10">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/417079.tif"/>
+      </surface>
+      <surface xml:id="s417080" n="11">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/417080.tif"/>
+      </surface>
+      <surface xml:id="s417081" n="12">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/417081.tif"/>
+      </surface>
+      <surface xml:id="s417082" n="13">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/417082.tif"/>
+      </surface>
+      <surface xml:id="s417083" n="14">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/417083.tif"/>
+      </surface>
+      <surface xml:id="s417084" n="15">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/417084.tif"/>
+      </surface>
+      <surface xml:id="s417085" n="16">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/417085.tif"/>
+      </surface>
+      <surface xml:id="s417086" n="16a">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/417086.tif"/>
+      </surface>
+      <surface xml:id="s417087" n="16b">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/417087.tif"/>
+      </surface>
+      <surface xml:id="s417088" n="16c">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/417088.tif"/>
+      </surface>
+      <surface xml:id="s417089" n="16d">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/417089.tif"/>
+      </surface>
+      <surface xml:id="s417090" n="17">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/417090.tif"/>
+      </surface>
+      <surface xml:id="s417091" n="18">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/417091.tif"/>
+      </surface>
+      <surface xml:id="s417092" n="19">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/417092.tif"/>
+      </surface>
+      <surface xml:id="s417093" n="20">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/417093.tif"/>
+      </surface>
+      <surface xml:id="s417094" n="20a">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/417094.tif"/>
+      </surface>
+      <surface xml:id="s417095" n="20b">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/417095.tif"/>
+      </surface>
+      <surface xml:id="s417096" n="21">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/417096.tif"/>
+      </surface>
+      <surface xml:id="s417097" n="22">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/417097.tif"/>
+      </surface>
+      <surface xml:id="s417098" n="23">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/417098.tif"/>
+      </surface>
+      <surface xml:id="s417099" n="24">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/417099.tif"/>
+      </surface>
+      <surface xml:id="s417100" n="25">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/417100.tif"/>
+      </surface>
+      <surface xml:id="s417101" n="25a">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/417101.tif"/>
+      </surface>
+      <surface xml:id="s417102" n="26">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/417102.tif"/>
+      </surface>
+      <surface xml:id="s417103" n="27">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/417103.tif"/>
+      </surface>
+   </facsimile>
+</TEI>

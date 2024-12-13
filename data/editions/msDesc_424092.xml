@@ -1,0 +1,126 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_424092.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Abschrift aus den "Formulae Sangallenses"</title>
+            <title type="sub">Digital object description</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <idno type="unidam-verz_einh">507</idno>
+         <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-6520-C</idno></publicationStmt>
+         <sourceDesc>
+            <msDesc xml:lang="de">
+               <msIdentifier>
+                  <country>Österreich</country>
+                  <settlement>Melk</settlement>
+                  <institution>Benediktiner-Stift</institution>
+                  <repository>Stiftsarchiv</repository>
+                  <idno>Kt. 85 Varia 23 Faszikel 1 Nr. 06</idno>
+               </msIdentifier>
+               <msContents>
+                  <summary>Abschrift aus den "Formulae Sangallenses", laut Edition (vgl. Literaturfeld) könnte als Vorlage der Rheinauer Cod. 131 (heute Zentralbibliothek Zürich) gedient haben.</summary>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <foliation>1r–12v.</foliation>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <date notBefore="1700-01-01" notAfter="1750-01-01">Erste Hälfte 18. Jahrhundert</date>
+                     <note>Undatiert.</note>
+                  </origin>
+               </history>
+               <additional>
+                  <listBibl>
+                     <bibl>Edition: <rs type="bibl" key="bqbibl:r658">Formulae Sangallenses, in: Formulae Merowingici et Karolini aevi, hg. von Karl ZEUMER (MGH Leges 6, Hannover 1886
+                        (Nachdruck Hannover 2001) 378–437</rs>. Zu Rheinauer Handschriften: <rs type="bibl" key="bqbibl:r843">Christoph EGGENBERGER, Die Bibliothek des Benediktinerklosters Rheinau in der Zentralbibliothek Zürich (Librarium 48/I, Zürich 2005)</rs>.</bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="RNA">Sammlungen und Objekte</classCode>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="s424092" n="1r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424092.tif"/>
+      </surface>
+      <surface xml:id="s424093" n="1v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424093.tif"/>
+      </surface>
+      <surface xml:id="s424094" n="2r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424094.tif"/>
+      </surface>
+      <surface xml:id="s424095" n="2v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424095.tif"/>
+      </surface>
+      <surface xml:id="s424096" n="3r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424096.tif"/>
+      </surface>
+      <surface xml:id="s424097" n="3v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424097.tif"/>
+      </surface>
+      <surface xml:id="s424098" n="4r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424098.tif"/>
+      </surface>
+      <surface xml:id="s424099" n="4v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424099.tif"/>
+      </surface>
+      <surface xml:id="s424100" n="5r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424100.tif"/>
+      </surface>
+      <surface xml:id="s424101" n="5v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424101.tif"/>
+      </surface>
+      <surface xml:id="s424102" n="6r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424102.tif"/>
+      </surface>
+      <surface xml:id="s424103" n="6v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424103.tif"/>
+      </surface>
+      <surface xml:id="s424104" n="7r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424104.tif"/>
+      </surface>
+      <surface xml:id="s424105" n="7v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424105.tif"/>
+      </surface>
+      <surface xml:id="s424106" n="8r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424106.tif"/>
+      </surface>
+      <surface xml:id="s424107" n="8v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424107.tif"/>
+      </surface>
+      <surface xml:id="s424108" n="9r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424108.tif"/>
+      </surface>
+      <surface xml:id="s424109" n="9v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424109.tif"/>
+      </surface>
+      <surface xml:id="s424110" n="10r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424110.tif"/>
+      </surface>
+      <surface xml:id="s424111" n="10v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424111.tif"/>
+      </surface>
+      <surface xml:id="s424112" n="11r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424112.tif"/>
+      </surface>
+      <surface xml:id="s424113" n="11v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424113.tif"/>
+      </surface>
+      <surface xml:id="s424114" n="12r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424114.tif"/>
+      </surface>
+      <surface xml:id="s424115" n="12v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424115.tif"/>
+      </surface>
+   </facsimile>
+</TEI>

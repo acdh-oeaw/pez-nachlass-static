@@ -1,0 +1,67 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_419001.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Handschriftenkatalog von Zwiefalten</title>
+            <title type="sub">Digital object description</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <idno type="unidam-verz_einh">343</idno>
+         <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-64CF-9</idno></publicationStmt>
+         <sourceDesc>
+            <msDesc xml:lang="de">
+               <msIdentifier>
+                  <country>Österreich</country>
+                  <settlement>Melk</settlement>
+                  <institution>Benediktiner-Stift</institution>
+                  <repository>Stiftsarchiv</repository>
+                  <idno>Kt. 07 Patres 11 Faszikel 1 Nr. 27</idno>
+               </msIdentifier>
+               <msContents>
+                  <summary>Handschriftenkatalog von Zwiefalten, Hand Mayer.</summary>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <foliation>1r–2v.</foliation>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <date notBefore="1800-01-01" notAfter="1899-12-31">19. Jh.</date>
+                     <note>Im Zusammenhang mit der Pez-Forschung im 19. Jahrhundert.</note>
+                  </origin>
+               </history>
+               <additional>
+                  <listBibl>
+                     <bibl>Zu Mayer: <rs type="bibl" key="bqbibl:r065">Catalogus religiosorum ordinis S.P. Benedicti in monasterio Mellicensi (Wien 1855) </rs>. Zu Zwiefalten: <rs type="bibl" key="bqbibl:r598">Karl HOLZHERR, Geschichte der ehemaligen Benediktiner- und Reichs-Abtei Zwiefalten in Oberschwaben (Stuttgart 1887)</rs>;
+                        <rs type="bibl" key="bqbibl:r599">Pirmin LINDNER, Fünf Professbücher süddeutscher Benediktiner-Abteien. Beiträge zu einem Monasticon-benedictinum Germaniae, 3: Professbuch der Benediktiner-Abtei Zwiefalten (Kempten–München 1910)</rs>;
+                        <rs type="bibl" key="bqbibl:r684">Wilfried SETZLER, Zwiefalten, in: Germania Benedictina, 5: Die Benediktinerklöster in Baden-Württemberg, hg. von Franz QUARTHAL–Hansmartin DECKER-HAUFF–Klaus SCHREINER (Augsburg 1975) 680–709</rs>. Zu Handschriften von Zwiefalten: <rs type="bibl" key="bqbibl:r793">Karl LÖFFLER, Die Handschriften des Klosters Zwiefalten (Archiv für Bibliographie, Buch- und Bibliothekswesen. Beiheft 6, Linz 1931)</rs>.</bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="RNA">Sammlungen und Objekte</classCode>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="s419001" n="1r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/419001.tif"/>
+      </surface>
+      <surface xml:id="s419002" n="1v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/419002.tif"/>
+      </surface>
+      <surface xml:id="s419003" n="2r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/419003.tif"/>
+      </surface>
+      <surface xml:id="s419004" n="2v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/419004.tif"/>
+      </surface>
+   </facsimile>
+</TEI>

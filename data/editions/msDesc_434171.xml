@@ -1,0 +1,137 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_434171.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Briefabschrift: "Epistola Ermenrici ad dominum Grimoaldum abbatem et archicapellanum"</title>
+            <title type="sub">Digital object description</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <idno type="unidam-verz_einh">710</idno>
+         <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-65B9-0</idno></publicationStmt>
+         <sourceDesc>
+            <msDesc xml:lang="de">
+               <msIdentifier>
+                  <country>Österreich</country>
+                  <settlement>Melk</settlement>
+                  <institution>Benediktiner-Stift</institution>
+                  <repository>Stiftsarchiv</repository>
+                  <idno>Kt. 85 Varia 28 Faszikel 2 Nr. 22 </idno>
+               </msIdentifier>
+               <msContents>
+                  <summary>Briefabschrift Ermenrich von Ellwangen an Abt Grimald von St. Gallen. Die Anmerkung auf fol. 1r bezieht sich auf den St. Gallener Cod. 265, der den Brief enthält. Wohl Hand Mayer, mit Anmerkungen.</summary>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <foliation>1r–14v.</foliation>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <date notBefore="1800-01-01" notAfter="1899-12-31">19. Jh.</date>
+                     <note>Wohl in Zusammenhang mit der Pez-Forschung im 19. Jahrhundert.</note>
+                  </origin>
+               </history>
+               <additional>
+                  <listBibl>
+                     <bibl>Zu Mayer: <rs type="bibl" key="bqbibl:r065">Catalogus religiosorum ordinis S.P. Benedicti in monasterio Mellicensi (Wien 1855)</rs>. Edition: <rs type="bibl" key="bqbibl:r666">Lettre à Grimald/Ermenrich d’Ellwangen. Texte latin édité, traduit, annoté et introduit par Monique GOULLET (Sources d’histoire médiévale 37, Paris 2008)</rs>. Zu Cod. 265: <rs type="bibl" key="bqbibl:r844">Gustav SCHERRER, Verzeichniss der Handschriften der Stiftsbibliothek von St. Gallen, Halle 1875</rs>.</bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="RNA">Sammlungen und Objekte</classCode>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="s434171" n="1r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/434171.tif"/>
+      </surface>
+      <surface xml:id="s434172" n="1v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/434172.tif"/>
+      </surface>
+      <surface xml:id="s434173" n="2r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/434173.tif"/>
+      </surface>
+      <surface xml:id="s434174" n="2v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/434174.tif"/>
+      </surface>
+      <surface xml:id="s434175" n="3r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/434175.tif"/>
+      </surface>
+      <surface xml:id="s434176" n="3v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/434176.tif"/>
+      </surface>
+      <surface xml:id="s434177" n="4r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/434177.tif"/>
+      </surface>
+      <surface xml:id="s434178" n="4v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/434178.tif"/>
+      </surface>
+      <surface xml:id="s434179" n="5r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/434179.tif"/>
+      </surface>
+      <surface xml:id="s434180" n="5v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/434180.tif"/>
+      </surface>
+      <surface xml:id="s434181" n="6r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/434181.tif"/>
+      </surface>
+      <surface xml:id="s434182" n="6v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/434182.tif"/>
+      </surface>
+      <surface xml:id="s434183" n="7r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/434183.tif"/>
+      </surface>
+      <surface xml:id="s434184" n="7v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/434184.tif"/>
+      </surface>
+      <surface xml:id="s434185" n="8r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/434185.tif"/>
+      </surface>
+      <surface xml:id="s434186" n="8v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/434186.tif"/>
+      </surface>
+      <surface xml:id="s434187" n="9r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/434187.tif"/>
+      </surface>
+      <surface xml:id="s434188" n="9v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/434188.tif"/>
+      </surface>
+      <surface xml:id="s434189" n="10r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/434189.tif"/>
+      </surface>
+      <surface xml:id="s434190" n="10v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/434190.tif"/>
+      </surface>
+      <surface xml:id="s434191" n="11r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/434191.tif"/>
+      </surface>
+      <surface xml:id="s434192" n="11v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/434192.tif"/>
+      </surface>
+      <surface xml:id="s434193" n="12r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/434193.tif"/>
+      </surface>
+      <surface xml:id="s434194" n="12v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/434194.tif"/>
+      </surface>
+      <surface xml:id="s434195" n="13r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/434195.tif"/>
+      </surface>
+      <surface xml:id="s434196" n="13v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/434196.tif"/>
+      </surface>
+      <surface xml:id="s434197" n="14r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/434197.tif"/>
+      </surface>
+      <surface xml:id="s434198" n="14v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/434198.tif"/>
+      </surface>
+   </facsimile>
+</TEI>

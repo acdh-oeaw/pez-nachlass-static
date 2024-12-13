@@ -1,0 +1,90 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_413219.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Manuskript: "Arcus triumphalis Carnunti, ubi nunc est vicus Petronellae"</title>
+            <title type="sub">Digital object description</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <idno type="unidam-verz_einh">247</idno>
+         <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-6481-F</idno></publicationStmt>
+         <sourceDesc>
+            <msDesc xml:lang="de">
+               <msIdentifier>
+                  <country>Österreich</country>
+                  <settlement>Melk</settlement>
+                  <institution>Benediktiner-Stift</institution>
+                  <repository>Stiftsarchiv</repository>
+                  <idno>Kt. 07 Patres 10 Faszikel 3 Nr. 50 </idno>
+               </msIdentifier>
+               <msContents>
+                  <summary>Abhandlung über das Heidentor in Carnuntum-Petronell, mit Verweis auf die Beschreibung des Wolfgang Lazius.</summary>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <foliation>1r–6v.</foliation>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <date notBefore="1700-01-01" notAfter="1799-12-31">18. Jh.</date>
+                     <note>Undatiert.</note>
+                  </origin>
+               </history>
+               <additional>
+                  <listBibl>
+                     <bibl>Zu Lazius: <rs type="bibl" key="bqbibl:r773">Michael MAYR, Wolfgang Lazius als Geschichtschreiber Österreichs. Ein Beitrag zur Historiographie des 16. Jahrhunderts. Mit Nachträgen zur Biographie (Innsbruck 1894)</rs>. Zum Heidentor: <rs type="bibl" key="bqbibl:r178">Werner JOBST, Das Heidentor von Carnuntum. Ein spätantikes Triumphalmonument am Donaulimes (Wien 2001)</rs>;
+                        <rs type="bibl" key="bqbibl:r774">Eva STEIGBERGER, Aus den Archiven des Bundesdenkmalamtes. Eine Ergänzung zur Forschungsgeschichte des Heidentores in Carnuntum. Fundberichte aus Österreich 50 (2011) 93–100</rs>.</bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="RNA">Sammlungen und Objekte</classCode>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="s413219" n="1r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/413219.tif"/>
+      </surface>
+      <surface xml:id="s413220" n="1v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/413220.tif"/>
+      </surface>
+      <surface xml:id="s413221" n="2r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/413221.tif"/>
+      </surface>
+      <surface xml:id="s413222" n="2v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/413222.tif"/>
+      </surface>
+      <surface xml:id="s413223" n="3r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/413223.tif"/>
+      </surface>
+      <surface xml:id="s413224" n="3v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/413224.tif"/>
+      </surface>
+      <surface xml:id="s413225" n="4r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/413225.tif"/>
+      </surface>
+      <surface xml:id="s413226" n="4v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/413226.tif"/>
+      </surface>
+      <surface xml:id="s413227" n="5r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/413227.tif"/>
+      </surface>
+      <surface xml:id="s413228" n="5v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/413228.tif"/>
+      </surface>
+      <surface xml:id="s413229" n="6r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/413229.tif"/>
+      </surface>
+      <surface xml:id="s413230" n="6v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/413230.tif"/>
+      </surface>
+   </facsimile>
+</TEI>

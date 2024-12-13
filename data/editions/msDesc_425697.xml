@@ -1,0 +1,60 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_425697.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Liste der Empfänger von Briefen des Trithemius</title>
+            <title type="sub">Digital object description</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <idno type="unidam-verz_einh">579</idno>
+         <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-655A-C</idno></publicationStmt>
+         <sourceDesc>
+            <msDesc xml:lang="de">
+               <msIdentifier>
+                  <country>Österreich</country>
+                  <settlement>Melk</settlement>
+                  <institution>Benediktiner-Stift</institution>
+                  <repository>Stiftsarchiv</repository>
+                  <idno>Kt. 85 Varia 23 Faszikel 2 Nr. 21</idno>
+               </msIdentifier>
+               <msContents>
+                  <summary>Liste der Empfänger von Briefen des Trithemius, beinhaltet 36 Namen. Bereits im 17. Jahrhundert wurden Trithemius-Briefe gedruckt, z.B. Johannes Trithemius, Opera pia et spiritualia, hg. von Johannes BUSAEUS (Mainz 1605). Vgl. auch Listen von Briefen des Trithemius in Karton 85 Varia 23, Fasz. 2, Nr. 22, 23.</summary>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <foliation>1r–v.</foliation>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <date notBefore="1700-01-01" notAfter="1750-01-01">Erste Hälfte 18. Jahrhundert</date>
+                     <note>Undatiert.</note>
+                  </origin>
+               </history>
+               <additional>
+                  <listBibl>
+                     <bibl>Zu Briefregister:<rs type="bibl" key="bqbibl:r498"> Klaus ARNOLD, Ergänzungen zum Briefwechsel des Johannes Trithemius. SMGB 83 (1972) 174–204</rs>;
+                     <rs type="bibl" key="bqbibl:r499">Klaus ARNOLD, Johannes Trithemius (1462–1516) (Quellen und Forschungen zur Geschichte des Bistums und Hochstifts Würzburg 23, Würzburg 1991)</rs>.</bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="RNA">Sammlungen und Objekte</classCode>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="s425697" n="1r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/425697.tif"/>
+      </surface>
+      <surface xml:id="s425698" n="1v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/425698.tif"/>
+      </surface>
+   </facsimile>
+</TEI>

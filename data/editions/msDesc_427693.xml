@@ -1,0 +1,114 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_427693.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Katalog: Verzeichnis europäischer Benediktinerklöster</title>
+            <title type="sub">Digital object description</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <idno type="unidam-verz_einh">602</idno>
+         <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-664F-8</idno></publicationStmt><notesStmt><note type="relatedCorrespondences">BP an NN (St.-Aubin zu Angers): 1716-05-17. BP an NN (St.-Augustin zu Limoges): 1716-03-15. BP an NN (St.-Ouen zu Rouen): 1716-02-15. BP an NN (St.-Èvre zu Toul): 1716-05-17. BP an NN (St.-Arnould zu Metz): 1716-05-21. BP an NN (St.-Pierre-et-Paul zu Hautevillers): 1716-05-21. BP an NN (St.-Pierre zu Bourgueil): 1716-05-24. BP an NN (Ste.-Croix zu Bouzonville): 1716-05-24. BP an NN (St.-Pierre zu Beaulieu): 1716-05-28. BP an NN (Bellomar): 1716-05-28. BP an NN (St.-Pierre-et-Paul zu Bèze): 1716-05-28. BP an NN (St.-Cyprien zu Poitiers): 1717-02-17. BP an NN (Cluny): 1716-05-21. BP an NN (St.-Paul zu Cormery): 1716-06-07. BP an NN (St.-Sauveur zu Charroux): 1716-06-07. BP an NN (St.-Corneille zu Compiènge): 1716-06-16. BP an NN (Cerisy-la-Forêt): 1716-06-16. BP an NN (St.-Vigor zu Bayeux): 1716-06-16. BP an NN (St.-Crépin-le-Grand zu Soissons): 1716-06-16. BP an NN (St.-Bénigne zu Dijon): 1716-02-29 [sic]. BP an NN (Ste.-Trinité zu Fecamps): 1716-06-14. BP an NN (St.-Benoit zu Fleury): 1716-06-14. BP an NN (St.-Pierre-et-Paul zu Ferrières-en-Gâtinais): 1716-06-14. BP an NN (Notre-Dame de Forest-Montiers): 1716-06-21. BP an NN (St.-Wandrille): 1716-06-21. BP an NN (St.-Pierre zu Jumièges): 1716-06-21. BP an NN (St.-Germain d’Auxerre): 1716-06-21. BP an NN (St.-Victor zu Marseille): 1716-06-21. BP an NN (St.-Alyre zu Clermont-Ferrand): 1716-07-07. BP an NN (St.-Jean zu Laon): 1716-07-07. BP an NN (Ste.-Croix zu Quimperlé): 1716-07-07. BP an NN (St.-Pierre zu Lagny): 1716-07-07. BP an NN (St.-Pierre zu Luxeuil): 1716-06-21. BP an NN (St.-Laumer zu Blois): 1716-07-07. BP an NN (St.-Lothain): 1716-07-07. BP an NN (St.-Guénolé zu Landévennec): 1716-07-07. BP an NN (St.-Lucien zu Beauvais): 1716-07-07. BP an NN (St.-Cyran-en-Brenne): 1716-07-07. BP an NN (Saint-Mihiel an der Maas): 1716-05-10. BP an NN (Notre-Dame zu Montivilliers): 1716-07-07. BP an NN (St.-Pierre zu Moissac): 1716-07-02. BP an NN (St.-Martin zu Autun): 1716-07-02. BP an NN (St.-Martial zu Limoges): 1716-07-07. BP an NN (St.-Maur-sur-Loire): 1716-07-07. BP an NN (St.-Martin zu Marmoutier): 1716-07-07. BP an NN (St.-Medard et St.-Sébastien zu Soissons): 1716-07-07. BP an NN (St.-Maixent): 1716-07-07. BP an NN (St.-Pierre le Monestier): 1717-02-20. BP an NN (St.-Pierre zu Chartres): 1717-02-20. BP an NN (St.-Pierre-le-Vif zu Sens): 1717-02-28. BP an NN (St.-Pierre de Solesmes bei Le Mans): 1717-02-28. BP an NN (St.-Pierre de Montier-la-Celle zu Troyes): 1717-02-28. BP an NN (Reuil-en-Brie): 1717-02-20. BP an NN (St.-Sulpice zu Bourges): 1717-04-11. BP an NN (St.-Valéry-sur-Somme): 1717-04-11. BP an NN (St.-Vincent zu Metz): 1717-04-11. BP an NN (S. Caterina zu Genua): 1716-05-10. BP an NN (Monte Cassino): 1716-05-10. BP an NN (St.-Amand zu Saint-Amand-les-Eaux): 1716-03-26. BP an NN (St.-Pierre-et-Paul zu Hautmont): 1716-04-12. BP an NN (Anchin zu Percquencourt): 1716-04-19. BP an NN (Auchy-les-Moines): 1716-04-19 (?). BP an NN (Afflighem): 1716-04-03. BP an NN (St.-Bertin): 1716-04-19. BP an NN (Notre-Dame zu Blangy): 1716-04-30. BP an NN (St.-Bavon zu Gent): 1716-04-19. BP an NN (St.-Pierre-au-mont-Blandin zu Gent): 1716-04-03. BP an NN (St.-Denis-en-Broqueroie): 1716-03-26. BP an NN (Gembloux): 1716-03-15. BP an NN (Prüm): 1716-03-15. BP an NN (Asbach): 1716-04-19.</note></notesStmt>
+         <sourceDesc>
+            <msDesc xml:lang="de">
+               <msIdentifier>
+                  <country>Österreich</country>
+                  <settlement>Melk</settlement>
+                  <institution>Benediktiner-Stift</institution>
+                  <repository>Stiftsarchiv</repository>
+                  <idno>Kt. 85 Varia 24 Faszikel 2 Nr. 15</idno>
+               </msIdentifier>
+               <msContents>
+                  <summary>Verzeichnis europäischer Benediktinerklöster, nach Ländern (Frankreich, Spanien, Italien, Belgien, Deutschland) alphabetisch geordnet und teilweise mit Vermerken versehen, wann dorthin geschrieben wurde. Dazu oft bibliographische Notizen, die darauf hinweisen, woher BP die Information bezog. Hand BP. Von einer Ansetzung sämtlicher erwähnter Klöster in der Rubrik "Institutionen" wurde abgesehen.</summary>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <foliation>1r–11v.</foliation>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <date notAfter="1717-01-01">um 1717</date>
+                     <note>Jüngster Vermerk von 1717.</note>
+                  </origin>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="RNA">Werke</classCode>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="s427693" n="1r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/427693.tif"/>
+      </surface>
+      <surface xml:id="s427694" n="1v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/427694.tif"/>
+      </surface>
+      <surface xml:id="s427695" n="2r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/427695.tif"/>
+      </surface>
+      <surface xml:id="s427696" n="2v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/427696.tif"/>
+      </surface>
+      <surface xml:id="s427697" n="3r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/427697.tif"/>
+      </surface>
+      <surface xml:id="s427698" n="3v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/427698.tif"/>
+      </surface>
+      <surface xml:id="s427699" n="4r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/427699.tif"/>
+      </surface>
+      <surface xml:id="s427700" n="4v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/427700.tif"/>
+      </surface>
+      <surface xml:id="s427701" n="5r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/427701.tif"/>
+      </surface>
+      <surface xml:id="s427702" n="5v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/427702.tif"/>
+      </surface>
+      <surface xml:id="s427703" n="6r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/427703.tif"/>
+      </surface>
+      <surface xml:id="s427704" n="6v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/427704.tif"/>
+      </surface>
+      <surface xml:id="s427705" n="7r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/427705.tif"/>
+      </surface>
+      <surface xml:id="s427706" n="7v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/427706.tif"/>
+      </surface>
+      <surface xml:id="s427707" n="8r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/427707.tif"/>
+      </surface>
+      <surface xml:id="s427708" n="8v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/427708.tif"/>
+      </surface>
+      <surface xml:id="s427709" n="9r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/427709.tif"/>
+      </surface>
+      <surface xml:id="s427710" n="9v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/427710.tif"/>
+      </surface>
+      <surface xml:id="s427711" n="10r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/427711.tif"/>
+      </surface>
+      <surface xml:id="s427712" n="10v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/427712.tif"/>
+      </surface>
+      <surface xml:id="s427713" n="11r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/427713.tif"/>
+      </surface>
+      <surface xml:id="s427714" n="11v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/427714.tif"/>
+      </surface>
+   </facsimile>
+</TEI>

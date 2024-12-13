@@ -1,0 +1,59 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_422327.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Abschrift des Hymnus "De vanitate mundi"</title>
+            <title type="sub">Digital object description</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <idno type="unidam-verz_einh">457</idno>
+         <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-64FB-7</idno></publicationStmt>
+         <sourceDesc>
+            <msDesc xml:lang="de">
+               <msIdentifier>
+                  <country>Österreich</country>
+                  <settlement>Melk</settlement>
+                  <institution>Benediktiner-Stift</institution>
+                  <repository>Stiftsarchiv</repository>
+                  <idno>Kt. 85 Varia 22 Faszikel 1 Nr. 17</idno>
+               </msIdentifier>
+               <msContents>
+                  <summary>Abschrift des Hymnus "De vanitate mundi", der fälschlicherweise Jacopone da Todi zugeschrieben wird. Dreves (vgl. Literaturfeld) nennt als einen Überlieferungsträger des Hymnus den Cod. 883 der ÖNB Wien, der vielleicht als Vorlage gedient hat.</summary>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <foliation>1r–v.</foliation>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <date notBefore="1700-01-01" notAfter="1750-01-01">Erste Hälfte 18. Jahrhundert</date>
+                     <note>Undatiert.</note>
+                  </origin>
+               </history>
+               <additional>
+                  <listBibl>
+                     <bibl>Zur Edition des Hymnus: <rs type="bibl" key="bqbibl:r826">Guido Maria DREVES, Ein Jahrtausend lateinischer Hymnendichtung. Eine Blütenlese aus den Analecta hymnica mit literarhistorischen Erläuterungen, 2: Hymnen unbekannter Verfasser (Leipzig 1909)</rs>. Zu Jacopone da Todi: <rs type="bibl" key="bqbibl:r637">Evelyn UNDERHILL, Jacopone da Todi, poet and mystic 1228–1306. A spiritual biography with a selection from the spiritual songs (Freeport 1972)</rs>. Zu Cod. 883: <rs type="bibl" key="bqbibl:r768">Tabulae codicum manu scriptorum praeter graecos et orientales in Bibliotheca Palatina Vindobonensi asservatorum, 1: Cod. 1–2000, ed. Academia Caesarea Vindobonensis (Wien 1864)</rs>.</bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="RNA">Sammlungen und Objekte</classCode>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="s422327" n="1r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/422327.tif"/>
+      </surface>
+      <surface xml:id="s422328" n="1v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/422328.tif"/>
+      </surface>
+   </facsimile>
+</TEI>

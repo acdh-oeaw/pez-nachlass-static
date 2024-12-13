@@ -1,0 +1,101 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_420966.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Manuskript: BP, "Patris Bernardi Pezii ad illustrissimum comitem Josephum Casimirum de *** pro venerabilis virginis Agnetis Blanbekianae vita et revelationibus epistola"</title>
+            <title type="sub">Digital object description</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <idno type="unidam-verz_einh">417</idno>
+         <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-6624-7</idno></publicationStmt>
+         <sourceDesc>
+            <msDesc xml:lang="de">
+               <msIdentifier>
+                  <country>Österreich</country>
+                  <settlement>Melk</settlement>
+                  <institution>Benediktiner-Stift</institution>
+                  <repository>Stiftsarchiv</repository>
+                  <idno>Kt. 07 Patres 11 Faszikel 3 Nr. 05</idno>
+               </msIdentifier>
+               <msContents>
+                  <summary>Manuskript: BP, "Patris Bernardi Pezii ad illustrissimum comitem Josephum Casimirum de *** pro venerabilis virginis Agnetis Blanbekianae vita et revelationibus epistola". Das Manuskript enthält jedoch im Gegensatz zu Manuskript (Abschrift von HP?) in Karton 7 Patres 9, Fasz. 2, Nr. 1 lediglich folgenden Brief: BP an Sinzendorf (1731-04-13). Der Brief wurde nicht gedruckt, vgl. dazu auch StiB Melk, Druck Nr. 32363.</summary>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <foliation>1–16.</foliation>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <date notBefore="1731-01-01">1731</date>
+                     <note/>
+                  </origin>
+               </history>
+               <additional>
+                  <listBibl>
+                     <bibl>Zu BPs Agnes Blannbekin: <rs type="bibl" key="bqbibl:r008">Stefan BENZ, Zwischen Tradition und Kritik. Katholische Geschichtsschreibung im barocken Heiligen Römischen Reich (Historische Studien 473, Husum 2003)</rs>. Zu dem Sammelband 32363: <rs type="bibl" key="bqbibl:r020">Christine GLASSNER, Neuzeitliche Handschriften aus dem Nachlass der Brüder Bernhard und Hieronymus Pez in der Bibliothek des Benediktinerstiftes Melk (Österreichische Akademie der Wissenschaften, Philosophisch-historische Klasse. Denkschriften 372 = Veröffentlichungen der Kommission für Schrift- und Buchwesen des Mittelalters, Reihe IV 7, Wien 2008)</rs>. Zu (unveröffentlichten) Werken BPs: <rs type="bibl" key="bqbibl:r009">Koloman SCHÖNHOFER, P. Bernhard Pez (22.2.1683–27.3.1735), P. Hieronymus Pez (24.2.1685–14.10.1762), Benediktiner von Melk (Leben, Bedeutung und Werke) (ungedr. theol. Dipl.Arb., Innsbruck 1973)</rs>. Zu Sinzendorf: <rs type="bibl" key="bqbibl:r189">Rudolf REINHARDT, Konvertiten und deren Nachkommen in der Reichskirche der Frühen Neuzeit. Rottenburger Jahrbuch für Kirchengeschichte 8 (1989) 9–37</rs>.</bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="RNA">Werke</classCode>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="s420966" n="1">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/420966.tif"/>
+      </surface>
+      <surface xml:id="s420967" n="2">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/420967.tif"/>
+      </surface>
+      <surface xml:id="s420968" n="3">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/420968.tif"/>
+      </surface>
+      <surface xml:id="s420969" n="4">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/420969.tif"/>
+      </surface>
+      <surface xml:id="s420970" n="5">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/420970.tif"/>
+      </surface>
+      <surface xml:id="s420971" n="6">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/420971.tif"/>
+      </surface>
+      <surface xml:id="s420972" n="7">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/420972.tif"/>
+      </surface>
+      <surface xml:id="s420973" n="8">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/420973.tif"/>
+      </surface>
+      <surface xml:id="s420974" n="9">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/420974.tif"/>
+      </surface>
+      <surface xml:id="s420975" n="10">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/420975.tif"/>
+      </surface>
+      <surface xml:id="s420976" n="11">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/420976.tif"/>
+      </surface>
+      <surface xml:id="s420977" n="12">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/420977.tif"/>
+      </surface>
+      <surface xml:id="s420978" n="13">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/420978.tif"/>
+      </surface>
+      <surface xml:id="s420979" n="14">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/420979.tif"/>
+      </surface>
+      <surface xml:id="s420980" n="15">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/420980.tif"/>
+      </surface>
+      <surface xml:id="s420981" n="16">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/420981.tif"/>
+      </surface>
+   </facsimile>
+</TEI>

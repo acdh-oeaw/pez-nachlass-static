@@ -1,0 +1,66 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_418931.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Gedicht auf Urania</title>
+            <title type="sub">Digital object description</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <idno type="unidam-verz_einh">332</idno>
+         <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-64C4-4</idno></publicationStmt>
+         <sourceDesc>
+            <msDesc xml:lang="de">
+               <msIdentifier>
+                  <country>Österreich</country>
+                  <settlement>Melk</settlement>
+                  <institution>Benediktiner-Stift</institution>
+                  <repository>Stiftsarchiv</repository>
+                  <idno>Kt. 07 Patres 11 Faszikel 1 Nr. 16</idno>
+               </msIdentifier>
+               <msContents>
+                  <summary>Gedicht auf die Göttin Urania in deutscher Sprache; möglicherweise aus dem Kontext des Melker Gymnasiums.</summary>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <foliation>1r–2v.</foliation>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <date notBefore="1800-01-01" notAfter="1899-12-31">19. Jh.</date>
+                     <note>Hand des 19. Jahrhundert.</note>
+                  </origin>
+               </history>
+               <additional>
+                  <listBibl>
+                     <bibl>Zum Bildungs- und Schulwesen in Melk im späten 18. Jahrhundert: <rs type="bibl" key="bqbibl:r788">Franz M. EYBL, Zwischen Psalm und Werther. Ein Modell klösterlicher Textzirkulation im 18. Jahrhundert, in: Lesen und Schreiben in Europa 1500–1900. Vergleichende Perspektiven, hg. von Alfred MESSERLI–Roger CHARTIER (Basel 2000) 335–349</rs>;
+                        <rs type="bibl" key="bqbibl:r789">Johannes FRIMMEL, Literarisches Leben in Melk. Ein Kloster im 18. Jahrhundert im kulturellen Umbruch (Wien 2005)</rs>.</bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="RNA">Sammlungen und Objekte</classCode>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="s418931" n="1r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/418931.tif"/>
+      </surface>
+      <surface xml:id="s418932" n="1v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/418932.tif"/>
+      </surface>
+      <surface xml:id="s418933" n="2r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/418933.tif"/>
+      </surface>
+      <surface xml:id="s418934" n="2v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/418934.tif"/>
+      </surface>
+   </facsimile>
+</TEI>

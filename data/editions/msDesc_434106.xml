@@ -1,0 +1,125 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_434106.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Abschrift: Gerhard von Csanád, "Deliberatio supra hymnum trium puerorum"</title>
+            <title type="sub">Digital object description</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <idno type="unidam-verz_einh">708</idno>
+         <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-65B7-2</idno></publicationStmt>
+         <sourceDesc>
+            <msDesc xml:lang="de">
+               <msIdentifier>
+                  <country>Österreich</country>
+                  <settlement>Melk</settlement>
+                  <institution>Benediktiner-Stift</institution>
+                  <repository>Stiftsarchiv</repository>
+                  <idno>Kt. 85 Varia 28 Faszikel 2 Nr. 20</idno>
+               </msIdentifier>
+               <msContents>
+                  <summary>Abschrift "Deliberatio supra hymnum trium puerorum" des Gerhard von Csanád (Mönch und Abt des Klosters S. Giorgio in Venedig, danach Bischof von Csanád, heute Cenad in Rumänien), wohl Hand Mayer, mit Anmerkungen. Zu Gerhard von Csanád vgl. auch StiB Melk, Cod. 500.</summary>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <foliation>1r–12v.</foliation>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <date notBefore="1800-01-01" notAfter="1899-12-31">19. Jh.</date>
+                     <note>Wohl in Zusammenhang mit der Pez-Forschung im 19. Jahrhundert.</note>
+                  </origin>
+               </history>
+               <additional>
+                  <listBibl>
+                     <bibl>Zu Mayer: <rs type="bibl" key="bqbibl:r065">Catalogus religiosorum ordinis S.P. Benedicti in monasterio Mellicensi (Wien 1855)</rs>. Zum "Delibertatio": <rs type="bibl" key="bqbibl:r663">Gabriel SILAGI, Untersuchungen zur "Deliberatio supra hymnum trium puerorum" des Gerhard von Csanád (Münchener Beiträge zur Mediävistik und Renaissance-Forschung 1, München 1967)</rs>. Zu Cod. 500: <rs type="bibl" key="bqbibl:r020">Christine GLASSNER, Neuzeitliche Handschriften aus dem Nachlass der Brüder Bernhard und Hieronymus Pez in der Bibliothek des Benediktinerstiftes Melk (Österreichische Akademie der Wissenschaften, Philosophisch-historische Klasse. Denkschriften 372 = Veröffentlichungen der Kommission für Schrift- und Buchwesen des Mittelalters, Reihe IV 7, Wien 2008)</rs>.</bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="RNA">Sammlungen und Objekte</classCode>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="s434106" n="1r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/434106.tif"/>
+      </surface>
+      <surface xml:id="s434107" n="1v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/434107.tif"/>
+      </surface>
+      <surface xml:id="s434108" n="2r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/434108.tif"/>
+      </surface>
+      <surface xml:id="s434109" n="2v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/434109.tif"/>
+      </surface>
+      <surface xml:id="s434110" n="3r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/434110.tif"/>
+      </surface>
+      <surface xml:id="s434111" n="3v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/434111.tif"/>
+      </surface>
+      <surface xml:id="s434112" n="4r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/434112.tif"/>
+      </surface>
+      <surface xml:id="s434113" n="4v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/434113.tif"/>
+      </surface>
+      <surface xml:id="s434114" n="5r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/434114.tif"/>
+      </surface>
+      <surface xml:id="s434115" n="5v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/434115.tif"/>
+      </surface>
+      <surface xml:id="s434116" n="6r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/434116.tif"/>
+      </surface>
+      <surface xml:id="s434117" n="6v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/434117.tif"/>
+      </surface>
+      <surface xml:id="s434118" n="7r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/434118.tif"/>
+      </surface>
+      <surface xml:id="s434119" n="7v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/434119.tif"/>
+      </surface>
+      <surface xml:id="s434120" n="8r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/434120.tif"/>
+      </surface>
+      <surface xml:id="s434121" n="8v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/434121.tif"/>
+      </surface>
+      <surface xml:id="s434122" n="9r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/434122.tif"/>
+      </surface>
+      <surface xml:id="s434123" n="9v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/434123.tif"/>
+      </surface>
+      <surface xml:id="s434124" n="10r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/434124.tif"/>
+      </surface>
+      <surface xml:id="s434125" n="10v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/434125.tif"/>
+      </surface>
+      <surface xml:id="s434126" n="11r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/434126.tif"/>
+      </surface>
+      <surface xml:id="s434127" n="11v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/434127.tif"/>
+      </surface>
+      <surface xml:id="s434128" n="12r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/434128.tif"/>
+      </surface>
+      <surface xml:id="s434129" n="12v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/434129.tif"/>
+      </surface>
+   </facsimile>
+</TEI>

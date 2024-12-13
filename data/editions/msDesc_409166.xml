@@ -1,0 +1,66 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_409166.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Notiz: Rafflin über Gesvres</title>
+            <title type="sub">Digital object description</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <idno type="unidam-verz_einh">64</idno>
+         <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-6428-5</idno></publicationStmt>
+         <sourceDesc>
+            <msDesc xml:lang="de">
+               <msIdentifier>
+                  <country>Österreich</country>
+                  <settlement>Melk</settlement>
+                  <institution>Benediktiner-Stift</institution>
+                  <repository>Stiftsarchiv</repository>
+                  <idno>Kt. 07 Patres 09 Faszikel 1 Nr. 46 </idno>
+               </msIdentifier>
+               <msContents>
+                  <summary>Biographische Notiz von Rafflin zum Mauriner Gesvres (gest. 1705). </summary>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <foliation>1r–2v.</foliation>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <date notBefore="1720-01-01" notAfter="1729-12-31">1720er Jahre (?)</date>
+                     <note>Undatiert.</note>
+                  </origin>
+               </history>
+               <additional>
+                  <listBibl>
+                     <bibl>Zu Rafflin und Gesvres: <rs type="bibl" key="bqbibl:r207">Yves CHAUSSY, Matricula Monachorum Professorum Congregationis S. Mauri in Gallia Ordinis Sancti Patris Benedicti (Bibliothèque d’histoire et d’archéologie chrétiennes, Paris 1959)</rs>.</bibl>
+                     <bibl><rs type="bibl" key="bqbibl:r253">Jean FRANCOIS, Bibliothèque générale des écrivains de l’Ordre de Saint Benoît (4 Bde., Bouillon 1777–1778)</rs>.</bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="RNA">Sammlungen und Objekte</classCode>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="s409166" n="1r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/409166.tif"/>
+      </surface>
+      <surface xml:id="s409167" n="1v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/409167.tif"/>
+      </surface>
+      <surface xml:id="s409168" n="2r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/409168.tif"/>
+      </surface>
+      <surface xml:id="s409169" n="2v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/409169.tif"/>
+      </surface>
+   </facsimile>
+</TEI>

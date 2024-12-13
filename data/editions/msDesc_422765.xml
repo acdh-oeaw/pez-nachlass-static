@@ -1,0 +1,65 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_422765.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Exzerpte BPs aus den Annales Fuldenses</title>
+            <title type="sub">Digital object description</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <idno type="unidam-verz_einh">471</idno>
+         <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-662E-D</idno></publicationStmt>
+         <sourceDesc>
+            <msDesc xml:lang="de">
+               <msIdentifier>
+                  <country>Österreich</country>
+                  <settlement>Melk</settlement>
+                  <institution>Benediktiner-Stift</institution>
+                  <repository>Stiftsarchiv</repository>
+                  <idno>Kt. 85 Varia 22 Faszikel 2 Nr. 06</idno>
+               </msIdentifier>
+               <msContents>
+                  <summary>Exzerpte BPs aus den Annales Fuldenses, am Beginn und am Ende unvollständig, beginnt mit dem Jahr 848 und endet 882.</summary>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <foliation>1r–2v.</foliation>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <date notAfter="1735-03-28">Zu Lebzeiten BPs.</date>
+                     <note>Undatiert.</note>
+                  </origin>
+               </history>
+               <additional>
+                  <listBibl>
+                     <bibl>Edition der Annales: <rs type="bibl" key="bqbibl:r669">Annales Fuldenses, hg. von Georg Heinrich PERTZ–Friedrich KURZE (MGH SS rerum Germanicarum in usum scholarum, Hannover 1891; Nachdruck Hannover 1993)</rs>.</bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="RNA">Werke</classCode>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="s422765" n="1r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/422765.tif"/>
+      </surface>
+      <surface xml:id="s422766" n="1v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/422766.tif"/>
+      </surface>
+      <surface xml:id="s422767" n="2r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/422767.tif"/>
+      </surface>
+      <surface xml:id="s422768" n="2v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/422768.tif"/>
+      </surface>
+   </facsimile>
+</TEI>

@@ -1,0 +1,61 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_425086.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Handschriftennotizen aus verschiedenen Katalogen zu Deutz, Ochsenhausen, Muri</title>
+            <title type="sub">Digital object description</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <idno type="unidam-verz_einh">552</idno>
+         <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-6542-6</idno></publicationStmt>
+         <sourceDesc>
+            <msDesc xml:lang="de">
+               <msIdentifier>
+                  <country>Österreich</country>
+                  <settlement>Melk</settlement>
+                  <institution>Benediktiner-Stift</institution>
+                  <repository>Stiftsarchiv</repository>
+                  <idno>Kt. 85 Varia 23 Faszikel 1 Nr. 51</idno>
+               </msIdentifier>
+               <msContents>
+                  <summary>Handschriftennotizen aus verschiedenen Katalogen zu Deutz, Ochsenhausen, Muri. Selbe Hand wie Karton 85 Varia 23, Fasz. 1, Nr. 50. Vgl. Handschriftenkatalog von Deutz in Karton 7 Patres 10, Fasz. 8, Nr. 37.</summary>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <foliation>1r–v.</foliation>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <date notBefore="1800-01-01" notAfter="1899-12-31">19. Jh.</date>
+                     <note>Undatiert, Hand des 19. Jahrhunderts.</note>
+                  </origin>
+               </history>
+               <additional>
+                  <listBibl>
+                     <bibl>Zu Handschriften in Ochsenhausen und Muri: <rs type="bibl" key="bqbibl:r867">Charlotte BRETSCHER-GISIGER–Rudolf GAMPER, Katalog der mittelalterlichen Handschriften der Klöster Muri und Hermetschwil (Dietikon–Zürich 2005)</rs>;
+                        <rs type="bibl" key="bqbibl:r441">Libri sapientiae, libri vitae. Schätze der ehemaligen Bibliothek der Benediktiner-Reichsabtei Ochsenhausen: Handschriften, Inkunabeln, Frühdrucke, Bücher vom 9. bis 18. Jahrhundert. Eine Ausstellung der Stadt Ochsenhausen in Verbindung mit dem Nationalmuseum in Prag, Abteilung für Schloßbibliotheken, und dem Denkmalamt für Westböhmen in Pilsen. Ochsenhausen 29. August bis 17. Oktober 1993, hg. von Birgit DIETRICH (Ochsenhausen 1993)</rs>;
+                        <rs type="bibl" key="bqbibl:r680">Hugo OTT, Ochsenhausen, in: Germania Benedictina, 5: Die Benediktinerklöster in Baden-Württemberg, hg. von Franz QUARTHAL–Hansmartin DECKER-HAUFF–Klaus SCHREINER (Augsburg 1975) 454–464</rs>. Zu Deutz: <rs type="bibl" key="bqbibl:r781">Joseph MILZ, Deutz, in: Germania Benedictina, 8: Die Benediktinerklöster in Nordrhein-Westfalen, hg. von Rhaban HAACKE (St. Ottilien 1980) 293–313.</rs>.</bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="RNA">Sammlungen und Objekte</classCode>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="s425086" n="1r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/425086.tif"/>
+      </surface>
+      <surface xml:id="s425087" n="1v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/425087.tif"/>
+      </surface>
+   </facsimile>
+</TEI>

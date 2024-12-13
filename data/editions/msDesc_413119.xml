@@ -1,0 +1,126 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_413119.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Abschrift eines Brieftraktaktes Gerhochs von Reichersberg "Opusculum ad cardinales"</title>
+            <title type="sub">Digital object description</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <idno type="unidam-verz_einh">235</idno>
+         <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-647D-6</idno></publicationStmt>
+         <sourceDesc>
+            <msDesc xml:lang="de">
+               <msIdentifier>
+                  <country>Österreich</country>
+                  <settlement>Melk</settlement>
+                  <institution>Benediktiner-Stift</institution>
+                  <repository>Stiftsarchiv</repository>
+                  <idno>Kt. 07 Patres 10 Faszikel 3 Nr. 38 </idno>
+               </msIdentifier>
+               <msContents>
+                  <summary>Abschrift eines Brieftraktaktes ("Opusculum ad cardinales") Gerhochs von Reichersberg an das Kardinalskolleg (von 1166). Thema ist das 1159 ausgebrochene Alexandrinische Schisma. Vermerk: "ex codice Reichersbergensis coenobii". Laut Classen und Repertorium fontium ist das "Opusculum" im Admonter Cod. 434, fol. 200r–216v überliefert. Kollationiert wurde laut Vermerk des 19. Jh. mit "einer andern Copie eines Göttweiger Cod.". Vgl. eine weitere Abschrift in Karton 85 Varia 28, Fasz. 2, Nr. 27.</summary>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <foliation>1r–12v.</foliation>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <date notBefore="1700-01-01" notAfter="1799-12-31">18. Jh.</date>
+                     <note>Undatiert.</note>
+                  </origin>
+               </history>
+               <additional>
+                  <listBibl>
+                     <bibl>Zum "Opusculum": <rs type="bibl" key="bqbibl:r471">Peter CLASSEN, Gerhoch von Reichersberg. Eine Biographie mit einem Anhang über die Quellen, ihre handschriftliche Überlieferung und ihre Chronologie (Wiesbaden 1960)</rs>;
+                        <rs type="bibl" key="bqbibl:r769">Peter CLASSEN, Aus der Werkstatt Gerhochs von Reichersberg. Studien zur Entstehung und Überlieferung von Briefen, Briefsammlungen und Widmungen. Deutsches Archiv für Erforschung des Mittelalters 23 (1967) 31–92</rs>. Edition: <rs type="bibl" key="bqbibl:r770">Opusculum ad Cardinales, hg. von Ernst SACKUR, in: MGH Libelli de lite imperatorum et pontificum 3 (Hannover 1897) 399–411</rs>.</bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="RNA">Sammlungen und Objekte</classCode>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="s413119" n="1r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/413119.tif"/>
+      </surface>
+      <surface xml:id="s413120" n="1v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/413120.tif"/>
+      </surface>
+      <surface xml:id="s413121" n="2r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/413121.tif"/>
+      </surface>
+      <surface xml:id="s413122" n="2v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/413122.tif"/>
+      </surface>
+      <surface xml:id="s413123" n="3r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/413123.tif"/>
+      </surface>
+      <surface xml:id="s413124" n="3v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/413124.tif"/>
+      </surface>
+      <surface xml:id="s413125" n="4r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/413125.tif"/>
+      </surface>
+      <surface xml:id="s413126" n="4v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/413126.tif"/>
+      </surface>
+      <surface xml:id="s413127" n="5r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/413127.tif"/>
+      </surface>
+      <surface xml:id="s413128" n="5v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/413128.tif"/>
+      </surface>
+      <surface xml:id="s413129" n="6r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/413129.tif"/>
+      </surface>
+      <surface xml:id="s413130" n="6v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/413130.tif"/>
+      </surface>
+      <surface xml:id="s413131" n="7r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/413131.tif"/>
+      </surface>
+      <surface xml:id="s413132" n="7v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/413132.tif"/>
+      </surface>
+      <surface xml:id="s413133" n="8r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/413133.tif"/>
+      </surface>
+      <surface xml:id="s413134" n="8v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/413134.tif"/>
+      </surface>
+      <surface xml:id="s413135" n="9r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/413135.tif"/>
+      </surface>
+      <surface xml:id="s413136" n="9v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/413136.tif"/>
+      </surface>
+      <surface xml:id="s413137" n="10r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/413137.tif"/>
+      </surface>
+      <surface xml:id="s413138" n="10v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/413138.tif"/>
+      </surface>
+      <surface xml:id="s413139" n="11r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/413139.tif"/>
+      </surface>
+      <surface xml:id="s413140" n="11v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/413140.tif"/>
+      </surface>
+      <surface xml:id="s413141" n="12r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/413141.tif"/>
+      </surface>
+      <surface xml:id="s413142" n="12v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/413142.tif"/>
+      </surface>
+   </facsimile>
+</TEI>

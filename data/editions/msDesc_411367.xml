@@ -1,0 +1,83 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_411367.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Briefabschrift: BP an Grass</title>
+            <title type="sub">Digital object description</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <idno type="unidam-verz_einh">164</idno>
+         <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-63CE-B</idno></publicationStmt><notesStmt><note type="relatedCorrespondences">BP an Grass: 1710-12-17.</note></notesStmt>
+         <sourceDesc>
+            <msDesc xml:lang="de">
+               <msIdentifier>
+                  <country>Österreich</country>
+                  <settlement>Melk</settlement>
+                  <institution>Benediktiner-Stift</institution>
+                  <repository>Stiftsarchiv</repository>
+                  <idno>Kt. 07 Patres 09 Faszikel 2 Nr. 64 </idno>
+               </msIdentifier>
+               <msContents>
+                  <summary>Briefabschrift BP an Grass (1710-12-17) aus Staatsarchiv Münster, Msc. VII-5212: Verschiedene Korrespondenzen, 1589-1797 (Vorlage heute verschollen). Vgl. Briefabschriften mit ähnlichem Inhalt in Karton 7 Patres 9, Fasz. 2, Nr. 63, 65.</summary>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <foliation>1r–4v.</foliation>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <date notBefore="1800-01-01" notAfter="1899-12-31">19. Jh.</date>
+                     <note/>
+                  </origin>
+               </history>
+               <additional>
+                  <listBibl>
+                     <bibl>Zu Grass: <rs type="bibl" key="bqbibl:r331">Hermann-Josef SCHMALOR, Die
+                           Bibliothek der ehemaligen Reichsabtei Corvey. Westfälische Zeitschrift.
+                           Zeitschrift für vaterländische Geschichte und Altertumskunde 147 (1997)
+                           251–269</rs>.</bibl>
+                     <bibl>Zu Brief: <rs type="bibl" key="bqbibl:r039">Thomas WALLNIG–Thomas
+                           STOCKINGER, Die gelehrte Korrespondenz der Brüder Pez. Text, Regesten,
+                           Kommentare, 1: 1709–1715 (QIÖG 2/1, Wien–München 2010)</rs>.</bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="RNA">Korrespondenzen</classCode>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="s411367" n="1r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/411367.tif"/>
+      </surface>
+      <surface xml:id="s411368" n="1v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/411368.tif"/>
+      </surface>
+      <surface xml:id="s411369" n="2r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/411369.tif"/>
+      </surface>
+      <surface xml:id="s411370" n="2v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/411370.tif"/>
+      </surface>
+      <surface xml:id="s411371" n="3r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/411371.tif"/>
+      </surface>
+      <surface xml:id="s411372" n="3v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/411372.tif"/>
+      </surface>
+      <surface xml:id="s411373" n="4r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/411373.tif"/>
+      </surface>
+      <surface xml:id="s411374" n="4v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/411374.tif"/>
+      </surface>
+   </facsimile>
+</TEI>

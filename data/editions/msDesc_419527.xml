@@ -1,0 +1,81 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_419527.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Briefauszüge: Friderici an BP</title>
+            <title type="sub">Digital object description</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <idno type="unidam-verz_einh">358</idno>
+         <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-63E8-D</idno></publicationStmt><notesStmt><note type="relatedCorrespondences">Friderici an BP: 1711-03-11, 1711-07-14, 1712-04-14, 1712-05-19, 1712-08-23, 1715-07-15.</note></notesStmt>
+         <sourceDesc>
+            <msDesc xml:lang="de">
+               <msIdentifier>
+                  <country>Österreich</country>
+                  <settlement>Melk</settlement>
+                  <institution>Benediktiner-Stift</institution>
+                  <repository>Stiftsarchiv</repository>
+                  <idno>Kt. 07 Patres 11 Faszikel 1 Nr. 42 </idno>
+               </msIdentifier>
+               <msContents>
+                  <summary>Auszüge aus den Briefen Friderici an BP, Hand Mayer. Datierungen teilweise irrig.</summary>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <foliation>1r–4v.</foliation>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <date notBefore="1800-01-01" notAfter="1899-12-31">19. Jh.</date>
+                     <note>Im Zusammenhang mit der Pez-Forschung im 19. Jahrhundert.</note>
+                  </origin>
+               </history>
+               <additional>
+                  <listBibl>
+                     <bibl>Zu Mayer: <rs type="bibl" key="bqbibl:r065">Catalogus religiosorum
+                           ordinis S.P. Benedicti in monasterio Mellicensi (Wien 1855)</rs>.</bibl>
+                     <bibl>Zu Briefen: <rs type="bibl" key="bqbibl:r039">Thomas WALLNIG–Thomas
+                           STOCKINGER, Die gelehrte Korrespondenz der Brüder Pez. Text, Regesten,
+                           Kommentare, 1: 1709–1715 (QIÖG 2/1, Wien–München 2010)</rs>.</bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="RNA">Korrespondenzen</classCode>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="s419527" n="1r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/419527.tif"/>
+      </surface>
+      <surface xml:id="s419528" n="1v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/419528.tif"/>
+      </surface>
+      <surface xml:id="s419529" n="2r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/419529.tif"/>
+      </surface>
+      <surface xml:id="s419530" n="2v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/419530.tif"/>
+      </surface>
+      <surface xml:id="s419531" n="3r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/419531.tif"/>
+      </surface>
+      <surface xml:id="s419532" n="3v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/419532.tif"/>
+      </surface>
+      <surface xml:id="s419533" n="4r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/419533.tif"/>
+      </surface>
+      <surface xml:id="s419534" n="4v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/419534.tif"/>
+      </surface>
+   </facsimile>
+</TEI>

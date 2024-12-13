@@ -1,0 +1,72 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_411665.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Abschrift: "Litterae encyclicae" von Bolland, Henschen und Papebroch zu den Acta Sanctorum</title>
+            <title type="sub">Digital object description</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <idno type="unidam-verz_einh">185</idno>
+         <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-645F-8</idno></publicationStmt>
+         <sourceDesc>
+            <msDesc xml:lang="de">
+               <msIdentifier>
+                  <country>Österreich</country>
+                  <settlement>Melk</settlement>
+                  <institution>Benediktiner-Stift</institution>
+                  <repository>Stiftsarchiv</repository>
+                  <idno>Kt. 07 Patres 09 Faszikel 2 Nr. 85</idno>
+               </msIdentifier>
+               <msContents>
+                  <summary>Abschrift aus einem Rundschreiben, das die Bollandisten versandten, um an Einsendungen für die Acta Sanctorum zu gelangen. Die Enzyklik enthält eine genaue Beschreibung des Vorhabens.</summary>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <foliation>1r–3v.</foliation>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <date notBefore="1700-01-01" notAfter="1799-12-31">18. Jh.</date>
+                     <note>Undatiert.</note>
+                  </origin>
+               </history>
+               <additional>
+                  <listBibl>
+                     <bibl>Zu Bollandisten und Acta Sanctorum: <rs type="bibl" key="bqbibl:r008">Stefan BENZ, Zwischen Tradition und Kritik. Katholische Geschichtsschreibung im barocken Heiligen Römischen Reich (Historische Studien 473, Husum 2003)</rs>;
+                        <rs type="bibl" key="bqbibl:r035">Jan Marco SAWILLA, Antiquarianismus, Hagiographie und Historie im 17. Jahrhundert. Zum Werk der Bollandisten. Ein wissenschaftshistorischer Versuch (Frühe Neuzeit. Studien und Dokumente zur deutschen Literatur und Kultur im europäischen Kontext 131, Tübingen 2009)</rs>.</bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="RNA">Sammlungen und Objekte</classCode>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="s411665" n="1r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/411665.tif"/>
+      </surface>
+      <surface xml:id="s411666" n="1v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/411666.tif"/>
+      </surface>
+      <surface xml:id="s411667" n="2r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/411667.tif"/>
+      </surface>
+      <surface xml:id="s411668" n="2v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/411668.tif"/>
+      </surface>
+      <surface xml:id="s411669" n="3r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/411669.tif"/>
+      </surface>
+      <surface xml:id="s411670" n="3v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/411670.tif"/>
+      </surface>
+   </facsimile>
+</TEI>

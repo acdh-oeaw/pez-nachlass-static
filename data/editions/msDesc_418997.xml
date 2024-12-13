@@ -1,0 +1,66 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_418997.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Schriftstellerkatalog von St. Veit zu Gladbach</title>
+            <title type="sub">Digital object description</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <idno type="unidam-verz_einh">342</idno>
+         <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-64CE-A</idno></publicationStmt><notesStmt><note type="relatedCorrespondences">Illem an BP: 1712-03-04.</note></notesStmt>
+         <sourceDesc>
+            <msDesc xml:lang="de">
+               <msIdentifier>
+                  <country>Österreich</country>
+                  <settlement>Melk</settlement>
+                  <institution>Benediktiner-Stift</institution>
+                  <repository>Stiftsarchiv</repository>
+                  <idno>Kt. 07 Patres 11 Faszikel 1 Nr. 26</idno>
+               </msIdentifier>
+               <msContents>
+                  <summary>Abschrift eines Schriftstellerkatalogs von St. Veit zu Gladbach. Das Original stammt von Illem aus Gladbach und wurde von diesem als Beilage zu einem Brief an BP (1712-03-04) versandt. Vgl. das Original in Karton 85 Varia 23, Fasz. 1, Nr. 21.</summary>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <foliation>1r–2v.</foliation>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <date notBefore="1800-01-01" notAfter="1899-12-31">19. Jh.</date>
+                     <note>Im Zusammenhang mit der Pez-Forschung im 19. Jahrhundert.</note>
+                  </origin>
+               </history>
+               <additional>
+                  <listBibl>
+                     <bibl>Zu Mayer: <rs type="bibl" key="bqbibl:r065">Catalogus religiosorum ordinis S.P. Benedicti in monasterio Mellicensi (Wien 1855)</rs>. Zu Gladbach: <rs type="bibl" key="bqbibl:r368">Hans BANGE–Wolfgang LÖHR, Gladbach, in: Germania Benedictina, 8: Die Benediktinerklöster in Nordrhein-Westfalen, hg. von Rhaban HAACKE (St. Ottilien 1980) 323–351</rs>;
+                        <rs type="bibl" key="bqbibl:r369">Peter ROPERTZ, Quellen und Beiträge zur Geschichte der Benediktiner-Abtei des hl. Vitus in M. Gladbach (Bonn 1877)</rs>. Zum Brief: <rs type="bibl" key="bqbibl:r039">Thomas WALLNIG–Thomas STOCKINGER, Die gelehrte Korrespondenz der Brüder Pez. Text, Regesten, Kommentare, 1: 1709–1715 (QIÖG 2/1, Wien–München 2010)</rs>.</bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="RNA">Sammlungen und Objekte</classCode>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="s418997" n="1r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/418997.tif"/>
+      </surface>
+      <surface xml:id="s418998" n="1v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/418998.tif"/>
+      </surface>
+      <surface xml:id="s418999" n="2r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/418999.tif"/>
+      </surface>
+      <surface xml:id="s419000" n="2v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/419000.tif"/>
+      </surface>
+   </facsimile>
+</TEI>

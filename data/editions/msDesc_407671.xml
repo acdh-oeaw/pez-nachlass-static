@@ -1,0 +1,65 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_407671.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Brief: Cordier an Mabillon</title>
+            <title type="sub">Digital object description</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <idno type="unidam-verz_einh">37</idno>
+         <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-6422-B</idno></publicationStmt>
+         <sourceDesc>
+            <msDesc xml:lang="de">
+               <msIdentifier>
+                  <country>Österreich</country>
+                  <settlement>Melk</settlement>
+                  <institution>Benediktiner-Stift</institution>
+                  <repository>Stiftsarchiv</repository>
+                  <idno>Kt. 07 Patres 09 Faszikel 1 Nr. 20 </idno>
+               </msIdentifier>
+               <msContents>
+                  <summary>Brief Cordier an Mabillon (1706-06-29). Original, das BP möglicherweise im Zuge seines Paris-Aufenthaltes 1728 von den Maurinern geschenkt wurde.</summary>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <foliation>1r–2v.</foliation>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <date when="1706-06-29">1706-06-29</date>
+                     <note/>
+                  </origin>
+               </history>
+               <additional>
+                  <listBibl>
+                     <bibl>Zu Mabillon und Cordier: <rs type="bibl" key="bqbibl:r207">Yves CHAUSSY, Matricula Monachorum Professorum Congregationis S. Mauri in Gallia Ordinis Sancti Patris Benedicti (Bibliothèque d’histoire et d’archéologie chrétiennes, Paris 1959).</rs></bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="RNA">Sammlungen und Objekte</classCode>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="s407671" n="1r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/407671.tif"/>
+      </surface>
+      <surface xml:id="s407672" n="1v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/407672.tif"/>
+      </surface>
+      <surface xml:id="s407673" n="2r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/407673.tif"/>
+      </surface>
+      <surface xml:id="s407674" n="2v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/407674.tif"/>
+      </surface>
+   </facsimile>
+</TEI>

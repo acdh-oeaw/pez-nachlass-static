@@ -1,0 +1,197 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_434039.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Abschrift eines Brieftraktates Gerhochs von Reichersberg "Liber de novitatibus huius temporis"</title>
+            <title type="sub">Digital object description</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <idno type="unidam-verz_einh">706</idno>
+         <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-65B5-4</idno></publicationStmt>
+         <sourceDesc>
+            <msDesc xml:lang="de">
+               <msIdentifier>
+                  <country>Österreich</country>
+                  <settlement>Melk</settlement>
+                  <institution>Benediktiner-Stift</institution>
+                  <repository>Stiftsarchiv</repository>
+                  <idno>Kt. 85 Varia 28 Faszikel 2 Nr. 18</idno>
+               </msIdentifier>
+               <msContents>
+                  <summary>Abschrift "Liber de novitatibus huius temporis" des Gerhoch von Reichersberg, wohl Hand Mayer, mit Anmerkungen. Diese Schrift ist nicht nur Papst Hadrian IV. gewidmet sondern stellt einen Brieftraktat an diesen dar. Laut Anmerkung auf fol. 1r war ein Göttweiger Cod. Vorlage zu dieser Abschrift, Classen (vgl. Literaturfeld) nennt jedoch lediglich Cod. Admont 434 und Cod. Klosterneuburg 345.</summary>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <foliation>1r–24v.</foliation>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <date notBefore="1800-01-01" notAfter="1899-12-31">19. Jh.</date>
+                     <note>Wohl in Zusammenhang mit der Pez-Forschung im 19. Jahrhundert.</note>
+                  </origin>
+               </history>
+               <additional>
+                  <listBibl>
+                     <bibl>Zu Mayer: <rs type="bibl" key="bqbibl:r065">Catalogus religiosorum ordinis S.P. Benedicti in monasterio Mellicensi (Wien 1855)</rs>. Zu Gerhoch von Reichersberg und "Liber de novitatibus huius temporis": <rs type="bibl" key="bqbibl:r471">Peter CLASSEN, Gerhoch von Reichersberg. Eine Biographie mit einem Anhang über die Quellen, ihre handschriftliche Überlieferung und ihre Chronologie (Wiesbaden 1960)</rs>.</bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="RNA">Sammlungen und Objekte</classCode>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="s434039" n="1r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/434039.tif"/>
+      </surface>
+      <surface xml:id="s434040" n="1v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/434040.tif"/>
+      </surface>
+      <surface xml:id="s434041" n="2r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/434041.tif"/>
+      </surface>
+      <surface xml:id="s434042" n="2v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/434042.tif"/>
+      </surface>
+      <surface xml:id="s434043" n="3r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/434043.tif"/>
+      </surface>
+      <surface xml:id="s434044" n="3v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/434044.tif"/>
+      </surface>
+      <surface xml:id="s434045" n="4r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/434045.tif"/>
+      </surface>
+      <surface xml:id="s434046" n="4v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/434046.tif"/>
+      </surface>
+      <surface xml:id="s434047" n="5r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/434047.tif"/>
+      </surface>
+      <surface xml:id="s434048" n="5v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/434048.tif"/>
+      </surface>
+      <surface xml:id="s434049" n="6r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/434049.tif"/>
+      </surface>
+      <surface xml:id="s434050" n="6v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/434050.tif"/>
+      </surface>
+      <surface xml:id="s434051" n="7r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/434051.tif"/>
+      </surface>
+      <surface xml:id="s434052" n="7v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/434052.tif"/>
+      </surface>
+      <surface xml:id="s434053" n="8r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/434053.tif"/>
+      </surface>
+      <surface xml:id="s434054" n="8v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/434054.tif"/>
+      </surface>
+      <surface xml:id="s434055" n="9r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/434055.tif"/>
+      </surface>
+      <surface xml:id="s434056" n="9v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/434056.tif"/>
+      </surface>
+      <surface xml:id="s434057" n="10r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/434057.tif"/>
+      </surface>
+      <surface xml:id="s434058" n="10v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/434058.tif"/>
+      </surface>
+      <surface xml:id="s434059" n="11r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/434059.tif"/>
+      </surface>
+      <surface xml:id="s434060" n="11v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/434060.tif"/>
+      </surface>
+      <surface xml:id="s434061" n="12r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/434061.tif"/>
+      </surface>
+      <surface xml:id="s434062" n="12v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/434062.tif"/>
+      </surface>
+      <surface xml:id="s434063" n="13r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/434063.tif"/>
+      </surface>
+      <surface xml:id="s434064" n="13v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/434064.tif"/>
+      </surface>
+      <surface xml:id="s434065" n="14r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/434065.tif"/>
+      </surface>
+      <surface xml:id="s434066" n="14v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/434066.tif"/>
+      </surface>
+      <surface xml:id="s434067" n="15r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/434067.tif"/>
+      </surface>
+      <surface xml:id="s434068" n="15v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/434068.tif"/>
+      </surface>
+      <surface xml:id="s434069" n="16r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/434069.tif"/>
+      </surface>
+      <surface xml:id="s434070" n="16v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/434070.tif"/>
+      </surface>
+      <surface xml:id="s434071" n="17r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/434071.tif"/>
+      </surface>
+      <surface xml:id="s434072" n="17v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/434072.tif"/>
+      </surface>
+      <surface xml:id="s434073" n="18r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/434073.tif"/>
+      </surface>
+      <surface xml:id="s434074" n="18v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/434074.tif"/>
+      </surface>
+      <surface xml:id="s434075" n="19r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/434075.tif"/>
+      </surface>
+      <surface xml:id="s434076" n="19v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/434076.tif"/>
+      </surface>
+      <surface xml:id="s434077" n="20r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/434077.tif"/>
+      </surface>
+      <surface xml:id="s434078" n="20v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/434078.tif"/>
+      </surface>
+      <surface xml:id="s434079" n="21r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/434079.tif"/>
+      </surface>
+      <surface xml:id="s434080" n="21v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/434080.tif"/>
+      </surface>
+      <surface xml:id="s434081" n="22r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/434081.tif"/>
+      </surface>
+      <surface xml:id="s434082" n="22v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/434082.tif"/>
+      </surface>
+      <surface xml:id="s434083" n="23r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/434083.tif"/>
+      </surface>
+      <surface xml:id="s434084" n="23v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/434084.tif"/>
+      </surface>
+      <surface xml:id="s434085" n="24r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/434085.tif"/>
+      </surface>
+      <surface xml:id="s434086" n="24v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/434086.tif"/>
+      </surface>
+   </facsimile>
+</TEI>

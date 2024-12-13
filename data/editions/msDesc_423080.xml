@@ -1,0 +1,114 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_423080.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Manuskript: "Positiones philosophicae"</title>
+            <title type="sub">Digital object description</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <idno type="unidam-verz_einh">479</idno>
+         <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-6634-5</idno></publicationStmt>
+         <sourceDesc>
+            <msDesc xml:lang="de">
+               <msIdentifier>
+                  <country>Österreich</country>
+                  <settlement>Melk</settlement>
+                  <institution>Benediktiner-Stift</institution>
+                  <repository>Stiftsarchiv</repository>
+                  <idno>Kt. 85 Varia 22 Faszikel 2 Nr. 14</idno>
+               </msIdentifier>
+               <msContents>
+                  <summary>Manuskript "Positiones philosophicae", Thesen mit Literaturzitaten, Zitate (fol. 11v) und Korrekturen möglicherweise von der Hand BPs. </summary>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <foliation>1r–11v.</foliation>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <date notAfter="1735-03-28">Zu Lebzeiten BPs.</date>
+                     <note>Undatiert.</note>
+                  </origin>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="RNA">Werke</classCode>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="s423080" n="1r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/423080.tif"/>
+      </surface>
+      <surface xml:id="s423081" n="1v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/423081.tif"/>
+      </surface>
+      <surface xml:id="s423082" n="2r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/423082.tif"/>
+      </surface>
+      <surface xml:id="s423083" n="2v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/423083.tif"/>
+      </surface>
+      <surface xml:id="s423084" n="3r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/423084.tif"/>
+      </surface>
+      <surface xml:id="s423085" n="3v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/423085.tif"/>
+      </surface>
+      <surface xml:id="s423086" n="4r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/423086.tif"/>
+      </surface>
+      <surface xml:id="s423087" n="4v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/423087.tif"/>
+      </surface>
+      <surface xml:id="s423088" n="5r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/423088.tif"/>
+      </surface>
+      <surface xml:id="s423089" n="5v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/423089.tif"/>
+      </surface>
+      <surface xml:id="s423090" n="6r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/423090.tif"/>
+      </surface>
+      <surface xml:id="s423091" n="6v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/423091.tif"/>
+      </surface>
+      <surface xml:id="s423092" n="7r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/423092.tif"/>
+      </surface>
+      <surface xml:id="s423093" n="7v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/423093.tif"/>
+      </surface>
+      <surface xml:id="s423094" n="8r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/423094.tif"/>
+      </surface>
+      <surface xml:id="s423095" n="8v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/423095.tif"/>
+      </surface>
+      <surface xml:id="s423096" n="9r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/423096.tif"/>
+      </surface>
+      <surface xml:id="s423097" n="9v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/423097.tif"/>
+      </surface>
+      <surface xml:id="s423098" n="10r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/423098.tif"/>
+      </surface>
+      <surface xml:id="s423099" n="10v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/423099.tif"/>
+      </surface>
+      <surface xml:id="s423100" n="11r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/423100.tif"/>
+      </surface>
+      <surface xml:id="s423101" n="11v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/423101.tif"/>
+      </surface>
+   </facsimile>
+</TEI>

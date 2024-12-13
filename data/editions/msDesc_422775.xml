@@ -1,0 +1,156 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_422775.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Manuskript: Hausgeschichte von Orval (Belgien)</title>
+            <title type="sub">Digital object description</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <idno type="unidam-verz_einh">475</idno>
+         <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-6506-A</idno></publicationStmt>
+         <sourceDesc>
+            <msDesc xml:lang="de">
+               <msIdentifier>
+                  <country>Österreich</country>
+                  <settlement>Melk</settlement>
+                  <institution>Benediktiner-Stift</institution>
+                  <repository>Stiftsarchiv</repository>
+                  <idno>Kt. 85 Varia 22 Faszikel 2 Nr. 10</idno>
+               </msIdentifier>
+               <msContents>
+                  <summary>Hausgeschichte "De fundatione monasterii B. Mariae de Aurea Valle et primaeva observantia ordinis Cisterciensis in illud non ita pridem introducta", Hand Mintart. Gebundene Einheit. Der Gründungsgeschichte folgen zwei Brieftexte: 1) Mintart an P. Bruno von Ossegg in Böhmen (1716-05-16) fol. 6v–10v, 2) Mintart an Priger von Lilienfeld (1718-01-22) fol. 10v–15v. Das Album Ossecense (vgl. Literaturfeld) beinhaltet lediglich zwei Professen mit dem Namen Bruno, einerseits Bruno Kempf (geboren 1699, Einkleidung 1720, Profess 1721, Primiz 1727, gestorben 1741) und andererseits Bruno Thorand, der jedoch erst 1726 geboren ist. Hier ist eine Identifikation mit Bruno Kempf sehr wahrscheinlich, auch wenn die Bezeichnung mit "Pater" aufgrund seiner Biographie irreführend ist. Auf fol. 1r Notizen Katschthalers. Zu den Briefen vgl. Abschriften in Karton 7 Patres 9, Fasz. 1, Nr. 63, Gründungsgeschichte und Briefe sind auch in StiB Melk, Cod. 1192 enthalten (verfasst vom Melker Leopold Danschachner).</summary>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <foliation>Umschlag r–v,1r–15v, Umschlag r–v.</foliation>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <date notBefore="1718-01-01">um 1718</date>
+                     <note/>
+                  </origin>
+               </history>
+               <additional>
+                  <listBibl>
+                     <bibl>Zu Mintart: <rs type="bibl" key="bqbibl:r745">Ulrich BRZOSA, Die Geschichte der katholischen Kirche in Düsseldorf. Von den Anfängen bis zur Säkularisation (Bonner Beiträge zur Kirchengeschichte 24, Köln–Weimar–Wien 2001) 352–363</rs>. Zu Orval: <rs type="bibl" key="bqbibl:r243">Nécrologe de l’abbaye d’Orval, hg. von Henry et Joseph BARBIER. Analectes pour servir à l’histoire ecclesiastique de la Belgique 3 (1866) 223–242</rs>;
+                        <rs type="bibl" key="bqbibl:r244">Nicolas TILLIÈRE, Histoire de l’Abbaye d’Orval (Villeurs-devant-Orval 1967)</rs>. Zu Kempf: <rs type="bibl" key="bqbibl:r744">Album Ossecense oder Verzeichnis der Mitglieder des Cistercienser-Stiftes Ossegg vom Jahre 1645–1896 (Ossegg 1896)</rs>. Zu Priger: <rs type="bibl" key="bqbibl:r398">Eugen MÜLLER, Profeßbuch des Zisterzienserstiftes Lilienfeld (SMGB Erg.bd. 38, St. Ottilien 1996)</rs>. Zu Cod. 1192: <rs type="bibl" key="bqbibl:r019">Christine GLASSNER, Neuzeitliche Handschriften aus dem Nachlass der Brüder Bernhard und Hieronymus Pez in der Bibliothek des Benediktinerstiftes Melk (Österreichische Akademie der Wissenschaften, Philosophisch-historische Klasse. Denkschriften 372 = Veröffentlichungen der Kommission für Schrift- und Buchwesen des Mittelalters, Reihe IV 7, Wien 2008)</rs>.</bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="RNA">Sammlungen und Objekte</classCode>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="s422775" n="Umschlag r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/422775.tif"/>
+      </surface>
+      <surface xml:id="s422776" n="Umschlag v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/422776.tif"/>
+      </surface>
+      <surface xml:id="s422777" n="1r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/422777.tif"/>
+      </surface>
+      <surface xml:id="s422778" n="1v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/422778.tif"/>
+      </surface>
+      <surface xml:id="s422779" n="2r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/422779.tif"/>
+      </surface>
+      <surface xml:id="s422780" n="2v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/422780.tif"/>
+      </surface>
+      <surface xml:id="s422781" n="3r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/422781.tif"/>
+      </surface>
+      <surface xml:id="s422782" n="3v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/422782.tif"/>
+      </surface>
+      <surface xml:id="s422783" n="4r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/422783.tif"/>
+      </surface>
+      <surface xml:id="s422784" n="4v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/422784.tif"/>
+      </surface>
+      <surface xml:id="s422785" n="5r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/422785.tif"/>
+      </surface>
+      <surface xml:id="s422786" n="5v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/422786.tif"/>
+      </surface>
+      <surface xml:id="s422787" n="6r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/422787.tif"/>
+      </surface>
+      <surface xml:id="s422788" n="6v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/422788.tif"/>
+      </surface>
+      <surface xml:id="s422789" n="7r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/422789.tif"/>
+      </surface>
+      <surface xml:id="s422790" n="7v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/422790.tif"/>
+      </surface>
+      <surface xml:id="s422791" n="8r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/422791.tif"/>
+      </surface>
+      <surface xml:id="s422792" n="8v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/422792.tif"/>
+      </surface>
+      <surface xml:id="s422793" n="9r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/422793.tif"/>
+      </surface>
+      <surface xml:id="s422794" n="9v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/422794.tif"/>
+      </surface>
+      <surface xml:id="s422795" n="10r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/422795.tif"/>
+      </surface>
+      <surface xml:id="s422796" n="10v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/422796.tif"/>
+      </surface>
+      <surface xml:id="s422797" n="11r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/422797.tif"/>
+      </surface>
+      <surface xml:id="s422798" n="11v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/422798.tif"/>
+      </surface>
+      <surface xml:id="s422799" n="12r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/422799.tif"/>
+      </surface>
+      <surface xml:id="s422800" n="12v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/422800.tif"/>
+      </surface>
+      <surface xml:id="s422801" n="13r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/422801.tif"/>
+      </surface>
+      <surface xml:id="s422802" n="13v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/422802.tif"/>
+      </surface>
+      <surface xml:id="s422803" n="14r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/422803.tif"/>
+      </surface>
+      <surface xml:id="s422804" n="14v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/422804.tif"/>
+      </surface>
+      <surface xml:id="s422805" n="15r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/422805.tif"/>
+      </surface>
+      <surface xml:id="s422806" n="15v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/422806.tif"/>
+      </surface>
+      <surface xml:id="s422807" n="Umschlag r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/422807.tif"/>
+      </surface>
+      <surface xml:id="s422808" n="Umschlag v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/422808.tif"/>
+      </surface>
+   </facsimile>
+</TEI>

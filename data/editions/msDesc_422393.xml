@@ -1,0 +1,92 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_422393.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Abschriften von Briefen zum Vorrangstreit zwischen Benediktinern und Augustiner-Chorherren</title>
+            <title type="sub">Digital object description</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <idno type="unidam-verz_einh">462</idno>
+         <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-6500-0</idno></publicationStmt><notesStmt><note type="relatedCorrespondences">Erath an Kimpfler: 1685-03-10. Erath an Rambeck: 1685-03-10.</note></notesStmt>
+         <sourceDesc>
+            <msDesc xml:lang="de">
+               <msIdentifier>
+                  <country>Österreich</country>
+                  <settlement>Melk</settlement>
+                  <institution>Benediktiner-Stift</institution>
+                  <repository>Stiftsarchiv</repository>
+                  <idno>Kt. 85 Varia 22 Faszikel 1 Nr. 22</idno>
+               </msIdentifier>
+               <msContents>
+                  <summary>Abschriften von Briefen Erath an Kimpfler (1685-03-10) sowie Erath an Rambeck (1685-03-10), den Vorrangstreit zwischen Benediktinern und Augustiner-Chorherren betreffend. Der Disput begann bereits in den 1680ern, vgl. dazu auch Augustin ERATH, Commentarius (Wien 1689) sowie Don Eusebius CARLYMMAESSHIN Castroferrariensis (= Anselm SCHRAMB), Antilogia (Wien 1715).</summary>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <foliation>1r–6v.</foliation>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <date notBefore="1700-01-01" notAfter="1750-01-01">Erste Hälfte 18. Jahrhundert</date>
+                     <note>Undatiert.</note>
+                  </origin>
+               </history>
+               <additional>
+                  <listBibl>
+                     <bibl>Zu Erath, Schramb und dem Disput: <rs type="bibl" key="bqbibl:r008">Stefan BENZ, Zwischen Tradition und Kritik. Katholische Geschichtsschreibung im barocken Heiligen Römischen Reich (Historische Studien 473, Husum 2003)</rs>;
+                        <rs type="bibl" key="bqbibl:r016">Patrick FISKA, Zu Leben und Werk des Melker Benediktiners Anselm Schramb (1658–1720). Mit einer Edition seiner Briefkorrespondenz. SMBG 122 (2011) 201–306</rs>;
+                        <rs type="bibl" key="bqbibl:r697">Thomas STOCKINGER, Felix mansurus, si tacuisset, Erath. Augustin Erath CRSA (1648–1719), Propst von St. Andrä an der Traisen, als Historiograph und historisch-politischer Kontroversist. Jahrbuch des Stiftes Klosterneuburg N. F. 20 (2008) 151–208</rs>;
+                        <rs type="bibl" key="bqbibl:r039">Thomas WALLNIG–Thomas STOCKINGER, Die gelehrte Korrespondenz der Brüder Pez. Text, Regesten, Kommentare, 1: 1709–1715 (QIÖG 2/1, Wien–München 2010)</rs>. Zu Kimpfler, Rambeck: <rs type="bibl" key="bqbibl:r486">Anselm REICHHOLD, Chronik von Scheyern. Von den ersten Anfängen bis zur Gegenwart (Weißenhorn 1998)</rs>.</bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="RNA">Sammlungen und Objekte</classCode>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="s422393" n="1r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/422393.tif"/>
+      </surface>
+      <surface xml:id="s422394" n="1v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/422394.tif"/>
+      </surface>
+      <surface xml:id="s422395" n="2r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/422395.tif"/>
+      </surface>
+      <surface xml:id="s422396" n="2v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/422396.tif"/>
+      </surface>
+      <surface xml:id="s422397" n="3r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/422397.tif"/>
+      </surface>
+      <surface xml:id="s422398" n="3v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/422398.tif"/>
+      </surface>
+      <surface xml:id="s422399" n="4r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/422399.tif"/>
+      </surface>
+      <surface xml:id="s422400" n="4v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/422400.tif"/>
+      </surface>
+      <surface xml:id="s422401" n="5r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/422401.tif"/>
+      </surface>
+      <surface xml:id="s422402" n="5v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/422402.tif"/>
+      </surface>
+      <surface xml:id="s422403" n="6r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/422403.tif"/>
+      </surface>
+      <surface xml:id="s422404" n="6v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/422404.tif"/>
+      </surface>
+   </facsimile>
+</TEI>

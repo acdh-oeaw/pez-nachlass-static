@@ -1,0 +1,65 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_424691.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Abschrift aus einer Handschrift des Wiener Schottenklosters</title>
+            <title type="sub">Digital object description</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <idno type="unidam-verz_einh">539</idno>
+         <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-653B-F</idno></publicationStmt>
+         <sourceDesc>
+            <msDesc xml:lang="de">
+               <msIdentifier>
+                  <country>Österreich</country>
+                  <settlement>Melk</settlement>
+                  <institution>Benediktiner-Stift</institution>
+                  <repository>Stiftsarchiv</repository>
+                  <idno>Kt. 85 Varia 23 Faszikel 1 Nr. 38</idno>
+               </msIdentifier>
+               <msContents>
+                  <summary>Abschrift des Prologs aus Cod. 55.c.3. (Nr. 363 nach Hübl, vgl. Literaturfeld, 15. Jh.) des Wiener Schottenklosters.</summary>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <foliation>1r–2v.</foliation>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <date notBefore="1700-01-01" notAfter="1750-01-01">Erste Hälfte 18. Jahrhundert</date>
+                     <note>Undatiert.</note>
+                  </origin>
+               </history>
+               <additional>
+                  <listBibl>
+                     <bibl>Zu Cod. 55.c.3: <rs type="bibl" key="bqbibl:r865">Albert HÜBL, Catalogus codicum manu scriptorum qui in Bibliotheca Monasterii B.M.V. ad Scotos Vindobonae servantur (Wien–Leipzig 1899, Nachdruck Wiesbaden 1970)</rs>.</bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="RNA">Sammlungen und Objekte</classCode>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="s424691" n="1r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424691.tif"/>
+      </surface>
+      <surface xml:id="s424692" n="1v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424692.tif"/>
+      </surface>
+      <surface xml:id="s424693" n="2r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424693.tif"/>
+      </surface>
+      <surface xml:id="s424694" n="2v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424694.tif"/>
+      </surface>
+   </facsimile>
+</TEI>

@@ -1,0 +1,126 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_423112.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Manuskript: Geschichte der "Mainzer" Benediktinerkongregation bis zum Konzil von Trient</title>
+            <title type="sub">Digital object description</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <idno type="unidam-verz_einh">481</idno>
+         <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-6508-8</idno></publicationStmt>
+         <sourceDesc>
+            <msDesc xml:lang="de">
+               <msIdentifier>
+                  <country>Österreich</country>
+                  <settlement>Melk</settlement>
+                  <institution>Benediktiner-Stift</institution>
+                  <repository>Stiftsarchiv</repository>
+                  <idno>Kt. 85 Varia 22 Faszikel 2 Nr. 16</idno>
+               </msIdentifier>
+               <msContents>
+                  <summary>Zusammenfassung der Geschichte der Oberschwäbischen (hier "Mainzer") Benediktinerkongregation, die von ihren Gründern 1603 als eine Fortsetzung des Zusammenschlusses der Klöster des Ordenskapitels Mainz-Bamberg (1417 auf Anweisung des Konstanzer Konzils erstmals zusammengetreten), begriffen worden ist.</summary>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <foliation>1r–12v.</foliation>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <date notBefore="1700-01-01" notAfter="1750-01-01">Erste Hälfte 18. Jahrhundert</date>
+                     <note>Undatiert.</note>
+                  </origin>
+               </history>
+               <additional>
+                  <listBibl>
+                     <bibl>Zur Kongregation: <rs type="bibl" key="bqbibl:r829">Franz QUARTHAL, Die oberschwäbische Benediktinerkongregation vom Hl. Joseph, in: Germania Benedictina, 1: Die Reformverbände und Kongregationen der Benediktiner im deutschen Sprachraum, hg. von Ulrich FAUST–Franz QUARTHAL (St. Ottilien 1999) 477–543</rs>;
+                        <rs type="bibl" key="bqbibl:r830">Gebhard SPAHR, Die schwäbische Benediktiner-Kongregation vom heiligen Joseph, Geschichte und Gestalt. SMGB 83 (1972) 291–337</rs>.</bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="RNA">Sammlungen und Objekte</classCode>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="s423112" n="1r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/423112.tif"/>
+      </surface>
+      <surface xml:id="s423113" n="1v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/423113.tif"/>
+      </surface>
+      <surface xml:id="s423114" n="2r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/423114.tif"/>
+      </surface>
+      <surface xml:id="s423115" n="2v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/423115.tif"/>
+      </surface>
+      <surface xml:id="s423116" n="3r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/423116.tif"/>
+      </surface>
+      <surface xml:id="s423117" n="3v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/423117.tif"/>
+      </surface>
+      <surface xml:id="s423118" n="4r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/423118.tif"/>
+      </surface>
+      <surface xml:id="s423119" n="4v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/423119.tif"/>
+      </surface>
+      <surface xml:id="s423120" n="5r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/423120.tif"/>
+      </surface>
+      <surface xml:id="s423121" n="5v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/423121.tif"/>
+      </surface>
+      <surface xml:id="s423122" n="6r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/423122.tif"/>
+      </surface>
+      <surface xml:id="s423123" n="6v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/423123.tif"/>
+      </surface>
+      <surface xml:id="s423124" n="7r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/423124.tif"/>
+      </surface>
+      <surface xml:id="s423125" n="7v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/423125.tif"/>
+      </surface>
+      <surface xml:id="s423126" n="8r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/423126.tif"/>
+      </surface>
+      <surface xml:id="s423127" n="8v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/423127.tif"/>
+      </surface>
+      <surface xml:id="s423128" n="9r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/423128.tif"/>
+      </surface>
+      <surface xml:id="s423129" n="9v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/423129.tif"/>
+      </surface>
+      <surface xml:id="s423130" n="10r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/423130.tif"/>
+      </surface>
+      <surface xml:id="s423131" n="10v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/423131.tif"/>
+      </surface>
+      <surface xml:id="s423132" n="11r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/423132.tif"/>
+      </surface>
+      <surface xml:id="s423133" n="11v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/423133.tif"/>
+      </surface>
+      <surface xml:id="s423134" n="12r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/423134.tif"/>
+      </surface>
+      <surface xml:id="s423135" n="12v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/423135.tif"/>
+      </surface>
+   </facsimile>
+</TEI>

@@ -1,0 +1,101 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_410038.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Manuskript: Wydemann "Observatio"</title>
+            <title type="sub">Digital object description</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <idno type="unidam-verz_einh">79</idno>
+         <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-6431-A</idno></publicationStmt><notesStmt><note type="relatedCorrespondences">Wydemann an BP: 1719-05-23/24, 1720-05-29.</note></notesStmt>
+         <sourceDesc>
+            <msDesc xml:lang="de">
+               <msIdentifier>
+                  <country>Österreich</country>
+                  <settlement>Melk</settlement>
+                  <institution>Benediktiner-Stift</institution>
+                  <repository>Stiftsarchiv</repository>
+                  <idno>Kt. 07 Patres 09 Faszikel 1 Nr. 61 </idno>
+               </msIdentifier>
+               <msContents>
+                  <summary>Wydemann "Observatio", betrifft Ludolf von Sachsen und die Frage, ob und wie lange er Dominikaner war, bevor er Kartäuser wurde, sowie, was über seine Laufbahn als Kartäuser bekannt ist. Beilage zu Wydemann an BP (1719-05-23/24, 1720-05-29)? Stück wohl in inhaltlichem Zusammenhang mit Karton 7 Patres 9, Fasz. 1, Nr. 60.</summary>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <foliation>1r–8v. 7r–8v.</foliation>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <date when="1719-01-01">um 1719</date>
+                     <note>Undatiert.</note>
+                  </origin>
+               </history>
+               <additional>
+                  <listBibl><bibl>Zu Briefen: <rs type="bibl" key="bqbibl:r018">Christine GLASSNER, Verzeichnis der im Nachlass der Melker Historiker Bernhard und Hieronymus Pez erhaltenen Briefe. SMGB 110 (1999) 195–243</rs>. Zur Diskussion um die Autorschaft von "De imitatione Christi" zwischen Melk und Gaming: <rs type="bibl" key="bqbibl:r016">Patrick FISKA, Zu Leben und Werk des Melker Benediktiners Anselm Schramb (1658–1720). Mit einer Edition seiner Briefkorrespondenz. SMBG 122 (2011) 201–306</rs>;
+                     <rs type="bibl" key="bqbibl:r055">Thomas WALLNIG, Gasthaus und Gelehrsamkeit. Studien zu Herkunft und Bildungsweg von Bernhard Pez OSB vor 1709 (VIÖG 48, Wien–München 2007)</rs>.</bibl>
+                     </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="RNA">Sammlungen und Objekte</classCode>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="s410038" n="1r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/410038.tif"/>
+      </surface>
+      <surface xml:id="s410039" n="1v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/410039.tif"/>
+      </surface>
+      <surface xml:id="s410040" n="2r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/410040.tif"/>
+      </surface>
+      <surface xml:id="s410041" n="2v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/410041.tif"/>
+      </surface>
+      <surface xml:id="s410042" n="3r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/410042.tif"/>
+      </surface>
+      <surface xml:id="s410043" n="3v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/410043.tif"/>
+      </surface>
+      <surface xml:id="s410044" n="4r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/410044.tif"/>
+      </surface>
+      <surface xml:id="s410045" n="4v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/410045.tif"/>
+      </surface>
+      <surface xml:id="s410046" n="5r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/410046.tif"/>
+      </surface>
+      <surface xml:id="s410047" n="5v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/410047.tif"/>
+      </surface>
+      <surface xml:id="s410048" n="6r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/410048.tif"/>
+      </surface>
+      <surface xml:id="s410049" n="6v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/410049.tif"/>
+      </surface>
+      <surface xml:id="s410050" n="7r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/410050.tif"/>
+      </surface>
+      <surface xml:id="s410051" n="7v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/410051.tif"/>
+      </surface>
+      <surface xml:id="s410052" n="8r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/410052.tif"/>
+      </surface>
+      <surface xml:id="s410053" n="8v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/410053.tif"/>
+      </surface>
+   </facsimile>
+</TEI>

@@ -1,0 +1,60 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_412756.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Handschriftennotizen aus der Bibliothek Anchin</title>
+            <title type="sub">Digital object description</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <idno type="unidam-verz_einh">202</idno>
+         <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-646C-9</idno></publicationStmt>
+         <sourceDesc>
+            <msDesc xml:lang="de">
+               <msIdentifier>
+                  <country>Österreich</country>
+                  <settlement>Melk</settlement>
+                  <institution>Benediktiner-Stift</institution>
+                  <repository>Stiftsarchiv</repository>
+                  <idno>Kt. 07 Patres 10 Faszikel 3 Nr. 05 </idno>
+               </msIdentifier>
+               <msContents>
+                  <summary>Handschriftennotizen aus der Bibliothek des Klosters Anchin ("ex bibliotheca Aquiscinctina") zu Epitaphen von drei Äbten (Alvisus, Leo-Leonius, Hugo).</summary>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <foliation>1r–v.</foliation>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <date notBefore="1700-01-01" notAfter="1750-01-01">Erste Hälfte 18. Jahrhundert</date>
+                     <note>Undatiert.</note>
+                  </origin>
+               </history>
+               <additional>
+                  <listBibl>
+                     <bibl><rs type="bibl" key="bqbibl:r286">Zu Anchin: Énée Aimé ESCALLIER, L’abbaye d’Anchin 1079–1792 (Lille 1852)</rs>;
+                        <rs type="bibl" key="bqbibl:r288">Jean-Pierre GERZAGUET, L’abbaye d’Anchin de sa fondation (1079) au XIVe siècle. Essor, vie et rayonnement d’une grande communauté bénédictine (Histoire et civilisations, Villeneuve-d'Ascq 1997)</rs>. Zur Handschrift: <rs type="bibl" key="bqbibl:r758">Jürgen MIETHKE, Zur Herkunft Hugos von St. Viktor. Archiv für Kulturgeschichte 54 (1972) 241–265</rs>.</bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="RNA">Sammlungen und Objekte</classCode>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="s412756" n="1r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/412756.tif"/>
+      </surface>
+      <surface xml:id="s412757" n="1v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/412757.tif"/>
+      </surface>
+   </facsimile>
+</TEI>

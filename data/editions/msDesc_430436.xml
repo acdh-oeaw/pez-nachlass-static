@@ -1,0 +1,101 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_430436.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Bibliographische Notizen zu spanischen Benediktinern</title>
+            <title type="sub">Digital object description</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <idno type="unidam-verz_einh">671</idno>
+         <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-665B-A</idno></publicationStmt>
+         <sourceDesc>
+            <msDesc xml:lang="de">
+               <msIdentifier>
+                  <country>Österreich</country>
+                  <settlement>Melk</settlement>
+                  <institution>Benediktiner-Stift</institution>
+                  <repository>Stiftsarchiv</repository>
+                  <idno>Kt. 85 Varia 25 Faszikel 1 Nr. 67</idno>
+               </msIdentifier>
+               <msContents>
+                  <summary>Bibliographische Notizen und Exzerpte aus Nicolás ANTONIO, Bibliotheca Hispana vetus (2 Bde., Rom 1696) mit Seitenangaben, Hand BP. Am Anfang unvollständig, beginnt erst bei S. 13 und dem Buchstaben "J". </summary>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <foliation>13–28.</foliation>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <date notAfter="1735-03-28">Zu Lebzeiten BPs.</date>
+                     <note>Undatiert.</note>
+                  </origin>
+               </history>
+               <additional>
+                  <listBibl>
+                     <bibl>Zu den spanischen Schriftstellern (außer San Tomás, Briz Martínez): <rs type="bibl" key="bqbibl:r895">Justo PEREZ DE URBEL, Varones insignes de la Congregación de Valladolid. Según un manuscrito del siglo XVIII, prologado y completado (Madrid 1967)</rs>.</bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="RNA">Werke</classCode>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="s430436" n="13">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/430436.tif"/>
+      </surface>
+      <surface xml:id="s430437" n="14">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/430437.tif"/>
+      </surface>
+      <surface xml:id="s430438" n="15">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/430438.tif"/>
+      </surface>
+      <surface xml:id="s430439" n="16">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/430439.tif"/>
+      </surface>
+      <surface xml:id="s430440" n="17">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/430440.tif"/>
+      </surface>
+      <surface xml:id="s430441" n="18">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/430441.tif"/>
+      </surface>
+      <surface xml:id="s430442" n="19">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/430442.tif"/>
+      </surface>
+      <surface xml:id="s430443" n="20">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/430443.tif"/>
+      </surface>
+      <surface xml:id="s430444" n="21">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/430444.tif"/>
+      </surface>
+      <surface xml:id="s430445" n="22">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/430445.tif"/>
+      </surface>
+      <surface xml:id="s430446" n="23">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/430446.tif"/>
+      </surface>
+      <surface xml:id="s430447" n="24">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/430447.tif"/>
+      </surface>
+      <surface xml:id="s430448" n="25">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/430448.tif"/>
+      </surface>
+      <surface xml:id="s430449" n="26">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/430449.tif"/>
+      </surface>
+      <surface xml:id="s430450" n="27">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/430450.tif"/>
+      </surface>
+      <surface xml:id="s430451" n="28">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/430451.tif"/>
+      </surface>
+   </facsimile>
+</TEI>

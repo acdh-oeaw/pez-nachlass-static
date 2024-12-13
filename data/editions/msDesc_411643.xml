@@ -1,0 +1,90 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_411643.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Briefabschrift: NN an Bissy </title>
+            <title type="sub">Digital object description</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <idno type="unidam-verz_einh">180</idno>
+         <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-645D-A</idno></publicationStmt>
+         <sourceDesc>
+            <msDesc xml:lang="de">
+               <msIdentifier>
+                  <country>Österreich</country>
+                  <settlement>Melk</settlement>
+                  <institution>Benediktiner-Stift</institution>
+                  <repository>Stiftsarchiv</repository>
+                  <idno>Kt. 07 Patres 09 Faszikel 2 Nr. 80 </idno>
+               </msIdentifier>
+               <msContents>
+                  <summary>Briefabschrift NN (Mauriner, Pisant?) an Kardinal Bissy (1722-09-18). Notiz auf 6v, dass auf Anraten des Generalsuperiors nicht abgeschickt.</summary>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <foliation>1r–6v.</foliation>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <date notBefore="1722-09-18">Vor 1722-09-18</date>
+                     <note>Undatiert</note>/&gt;
+                  </origin>
+               </history>
+               <additional>
+                  <listBibl>
+                     <bibl>Zu Maurinern: <rs type="bibl" key="bqbibl:r207">Yves CHAUSSY, Matricula Monachorum Professorum Congregationis S. Mauri in Gallia Ordinis Sancti Patris Benedicti (Bibliothèque d’histoire et d’archéologie chrétiennes, Paris 1959)</rs>;
+                        <rs type="bibl" key="bqbibl:r211">Dom Martène. Histoire de la congrégation de Saint-Maur, hg. von Gaston CHARVIN (Archives de la France monastique 31–35, 42–43, 46–48, 10 Bde., Ligugé–Paris 1928–1954)</rs>. Brief kommt nicht vor in: <rs type="bibl" key="bqbibl:r214">Henri LECLERCQ, Mabillon (2 Bde., Paris 1953–1957)</rs>. Zur Kontroverse: <rs type="bibl" key="bqbibl:r216">Blandine BARRET-KRIEGEL, Jean Mabillon (Les historiens et la monarchie 1, Paris 1988)</rs>.</bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="RNA">Sammlungen und Objekte</classCode>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="s411643" n="1r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/411643.tif"/>
+      </surface>
+      <surface xml:id="s411644" n="1v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/411644.tif"/>
+      </surface>
+      <surface xml:id="s411645" n="2r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/411645.tif"/>
+      </surface>
+      <surface xml:id="s411646" n="">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/411646.tif"/>
+      </surface>
+      <surface xml:id="s411647" n="3r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/411647.tif"/>
+      </surface>
+      <surface xml:id="s411648" n="3v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/411648.tif"/>
+      </surface>
+      <surface xml:id="s411649" n="4r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/411649.tif"/>
+      </surface>
+      <surface xml:id="s411650" n="4v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/411650.tif"/>
+      </surface>
+      <surface xml:id="s411651" n="5r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/411651.tif"/>
+      </surface>
+      <surface xml:id="s411652" n="5v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/411652.tif"/>
+      </surface>
+      <surface xml:id="s411653" n="6r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/411653.tif"/>
+      </surface>
+      <surface xml:id="s411654" n="6v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/411654.tif"/>
+      </surface>
+   </facsimile>
+</TEI>

@@ -1,0 +1,119 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_422257.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Abschrift bzw. Abzeichnung aus dem Verbrüderungsbuch von St. Peter in Salzburg</title>
+            <title type="sub">Digital object description</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <idno type="unidam-verz_einh">453</idno>
+         <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-64F7-B</idno></publicationStmt>
+         <sourceDesc>
+            <msDesc xml:lang="de">
+               <msIdentifier>
+                  <country>Österreich</country>
+                  <settlement>Melk</settlement>
+                  <institution>Benediktiner-Stift</institution>
+                  <repository>Stiftsarchiv</repository>
+                  <idno>Kt. 85 Varia 22 Faszikel 1 Nr. 13</idno>
+               </msIdentifier>
+               <msContents>
+                  <summary>Abschrift aus dem Verbrüderungsbuch von St. Peter in Salzburg (Seiten 7, 23, 25, 40) und Erläuterungen dazu: "Tabulae antiquissimi monasterii S. Petri Salisburgi".</summary>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <foliation>1–22.</foliation>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <date notBefore="1700-01-01" notAfter="1750-01-01">Erste Hälfte 18. Jahrhundert</date>
+                     <note>Undatiert.</note>
+                  </origin>
+               </history>
+               <additional>
+                  <listBibl>
+                     <bibl>Zu St. Peter im 18. Jahrhundert: <rs type="bibl" key="bqbibl:r484">Pirmin LINDNER, Professbuch der Benediktiner-Abtei St. Peter in Salzburg (1419–1856). Mitteilungen der Gesellschaft für Salzburger Landeskunde 46 (1906) 1–328</rs>. Zum Verbrüderungsbuch: <rs type="bibl" key="bqbibl:r483">Karl FORSTNER, Das Verbrüderungsbuch von St. Peter in Salzburg. Vollständige Faksimile-Ausgabe im Originalformat der Handschrift A 1 aus dem Archiv von St. Peter in Salzburg (Codices selecti 51, Graz 1974)</rs>.</bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="RNA">Sammlungen und Objekte</classCode>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="s422257" n="1">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/422257.tif"/>
+      </surface>
+      <surface xml:id="s422258" n="2">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/422258.tif"/>
+      </surface>
+      <surface xml:id="s422259" n="3">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/422259.tif"/>
+      </surface>
+      <surface xml:id="s422260" n="4">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/422260.tif"/>
+      </surface>
+      <surface xml:id="s422261" n="5">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/422261.tif"/>
+      </surface>
+      <surface xml:id="s422262" n="6">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/422262.tif"/>
+      </surface>
+      <surface xml:id="s422263" n="7">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/422263.tif"/>
+      </surface>
+      <surface xml:id="s422264" n="8">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/422264.tif"/>
+      </surface>
+      <surface xml:id="s422265" n="9">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/422265.tif"/>
+      </surface>
+      <surface xml:id="s422266" n="10">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/422266.tif"/>
+      </surface>
+      <surface xml:id="s422267" n="11">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/422267.tif"/>
+      </surface>
+      <surface xml:id="s422268" n="12">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/422268.tif"/>
+      </surface>
+      <surface xml:id="s422269" n="13">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/422269.tif"/>
+      </surface>
+      <surface xml:id="s422270" n="14">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/422270.tif"/>
+      </surface>
+      <surface xml:id="s422271" n="15">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/422271.tif"/>
+      </surface>
+      <surface xml:id="s422272" n="16">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/422272.tif"/>
+      </surface>
+      <surface xml:id="s422273" n="17">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/422273.tif"/>
+      </surface>
+      <surface xml:id="s422274" n="18">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/422274.tif"/>
+      </surface>
+      <surface xml:id="s422275" n="19">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/422275.tif"/>
+      </surface>
+      <surface xml:id="s422276" n="20">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/422276.tif"/>
+      </surface>
+      <surface xml:id="s422277" n="21">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/422277.tif"/>
+      </surface>
+      <surface xml:id="s422278" n="22">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/422278.tif"/>
+      </surface>
+   </facsimile>
+</TEI>

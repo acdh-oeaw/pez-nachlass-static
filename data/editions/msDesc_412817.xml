@@ -1,0 +1,77 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_412817.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Konzept zu BP, Dissertatio apologetico-literaria ad Gentilottum ab Engelsbrunn</title>
+            <title type="sub">Digital object description</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <idno type="unidam-verz_einh">207</idno>
+         <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-6601-E</idno></publicationStmt>
+         <sourceDesc>
+            <msDesc xml:lang="de">
+               <msIdentifier>
+                  <country>Österreich</country>
+                  <settlement>Melk</settlement>
+                  <institution>Benediktiner-Stift</institution>
+                  <repository>Stiftsarchiv</repository>
+                  <idno>Kt. 07 Patres 10 Faszikel 3 Nr. 10</idno>
+               </msIdentifier>
+               <msContents>
+                  <summary>Konzept zu BP, Dissertatio apologetico-literaria ad Gentilottum ab Engelsbrunn (Wien 1717), Hand BP. Am Ende unvollständig, mit zahlreichen Anmerkungen und Streichungen.</summary>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <foliation>1r–4v.</foliation>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <date notBefore="1717-01-01">vor 1717</date>
+                     <note>BPs Dissertatio apologetico-literaria ist 1717 erschienen.</note>
+                  </origin>
+               </history>
+               <additional>
+                  <listBibl>
+                     <bibl>Zur Auseinandersetzung zwischen BP und Gentilotti: <rs type="bibl" key="bqbibl:r187">Ines PEPER, Il carteggio erudito di Giovanni Benedetto Gentilotti d'Engelsbrunn (1672-1725), bibliotecario imperiale, in: Le carte vive. Epistolari e carteggi nel Settecento. Atti del primo Convegno internazionale di studi del Centro di Ricerca sugli Epistolari del Settecento, Verona, 4-6 dicembre 2008, hg. von Corrado VIOLA (Biblioteca del XVIII secolo 16, Roma 2011) 479–487</rs>.</bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="RNA">Werke</classCode>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="s412817" n="1r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/412817.tif"/>
+      </surface>
+      <surface xml:id="s412818" n="1v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/412818.tif"/>
+      </surface>
+      <surface xml:id="s412819" n="2r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/412819.tif"/>
+      </surface>
+      <surface xml:id="s412820" n="2v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/412820.tif"/>
+      </surface>
+      <surface xml:id="s412821" n="3r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/412821.tif"/>
+      </surface>
+      <surface xml:id="s412822" n="3v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/412822.tif"/>
+      </surface>
+      <surface xml:id="s412823" n="4r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/412823.tif"/>
+      </surface>
+      <surface xml:id="s412824" n="4v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/412824.tif"/>
+      </surface>
+   </facsimile>
+</TEI>

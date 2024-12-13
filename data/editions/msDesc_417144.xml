@@ -1,0 +1,68 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_417144.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Bibliothekskatalog von St. Stephan zu Würzburg</title>
+            <title type="sub">Digital object description</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <idno type="unidam-verz_einh">299</idno>
+         <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-64AA-2</idno></publicationStmt><notesStmt><note type="relatedCorrespondences">Ebenhöch an BP: 1714-11-14. Baumbach an BP: 1713-06-25.</note></notesStmt>
+         <sourceDesc>
+            <msDesc xml:lang="de">
+               <msIdentifier>
+                  <country>Österreich</country>
+                  <settlement>Melk</settlement>
+                  <institution>Benediktiner-Stift</institution>
+                  <repository>Stiftsarchiv</repository>
+                  <idno>Kt. 07 Patres 10 Faszikel 8 Nr. 38</idno>
+               </msIdentifier>
+               <msContents>
+                  <summary>Katalog benediktinischer Werke in der Bibliothek von St. Stephan zu Würzburg, geschrieben vom Bibliothekar von St. Stephan. Dieser ist Ebenhöch nach seiner Wahl zum Abt 1714 in diesem Amt nachgefolgt, seine Identität konnte noch nicht festgestellt werden. Beilage zu Ebenhöch an BP (1714-11-14), Baumbach erwähnt den Katalog in einem Brief an BP (1713-06-25). Vgl. einen Zettel von der selben Hand in Karton 7 Patres 11, Karton 3, Nr. 9.</summary>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <foliation>1r–2v.</foliation>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <date when="1713-01-01">1713</date>
+                     <note>Explicit: "Hic catalogus desumptus est ex nova bibliotheca monasterii S. Stephani Herbipoli ordinis sancti Benedicti anno 1713".</note>
+                  </origin>
+               </history>
+               <additional>
+                  <listBibl>
+                     <bibl>Zu St. Stephan: <rs type="bibl" key="bqbibl:r546">Georg SCHWINGER, Das St. Stephans-Kloster O.S.B. in Würzburg. Beiträge zu dessen Geschichte. Archiv des Historischen Vereins von Unterfranken und Aschaffenburg 40 (1898) 111–198;
+                     41 (1899) 157–237;
+                     42 (1900) 75–139;
+                     43 (1901) 27–84 </rs>. Zu Ebenhöch, Baumbach und Briefen: <rs type="bibl" key="bqbibl:r039">Thomas WALLNIG–Thomas STOCKINGER, Die gelehrte Korrespondenz der Brüder Pez. Text, Regesten, Kommentare, 1: 1709–1715 (QIÖG 2/1, Wien–München 2010)</rs>.</bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="RNA">Sammlungen und Objekte</classCode>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="s417144" n="1r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/417144.tif"/>
+      </surface>
+      <surface xml:id="s417145" n="1v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/417145.tif"/>
+      </surface>
+      <surface xml:id="s417146" n="2r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/417146.tif"/>
+      </surface>
+      <surface xml:id="s417147" n="2v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/417147.tif"/>
+      </surface>
+   </facsimile>
+</TEI>

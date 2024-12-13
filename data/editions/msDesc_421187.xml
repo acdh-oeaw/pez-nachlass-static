@@ -1,0 +1,102 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_421187.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Schriftstellerkatalog der Maurinerkongregation von D`Achery</title>
+            <title type="sub">Digital object description</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <idno type="unidam-verz_einh">424</idno>
+         <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-64E7-D</idno></publicationStmt>
+         <sourceDesc>
+            <msDesc xml:lang="de">
+               <msIdentifier>
+                  <country>Österreich</country>
+                  <settlement>Melk</settlement>
+                  <institution>Benediktiner-Stift</institution>
+                  <repository>Stiftsarchiv</repository>
+                  <idno>Kt. 07 Patres 11 Faszikel 3 Nr. 12</idno>
+               </msIdentifier>
+               <msContents>
+                  <summary>Schriftstellerkatalog der Maurinerkongregation, in welchem sich bio-bibliographische Daten zu 29 Autoren (inkl. D'Achery selbst) finden, angelegt von D'Achery (siehe fol. 1r), Liste bis ca. 1690 (von anderer Hand) ergänzt. Vgl. auch Kataloge in Karton 7 Patres 10, Fasz. 2, Nr. 1; Karton 85 Varia 22, Fasz. 1, Nr. 19; Karton 85 Varia 25, Fasz. 1, Nr. 24. </summary>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <foliation>Umschlagr–v, Schmutzblattr-v,. P. 1–12. </foliation>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <date>nach 1680</date>
+                     <note/>
+                  </origin>
+               </history>
+               <additional>
+                  <listBibl>
+                     <bibl>Zu Maurinern: <rs type="bibl" key="bqbibl:r207">Yves CHAUSSY, Matricula Monachorum Professorum Congregationis S. Mauri in Gallia Ordinis Sancti Patris Benedicti (Bibliothèque d’histoire et d’archéologie chrétiennes, Paris 1959)</rs>;
+                        <rs type="bibl" key="bqbibl:r208">René-Prosper TASSIN, Histoire littéraire de la Congrégation de Saint-Maur (Bruxelles 1770)</rs>.</bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="RNA">Sammlungen und Objekte</classCode>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="s421187" n="Umschlagr">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/421187.tif"/>
+      </surface>
+      <surface xml:id="s421188" n="Umschlagv">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/421188.tif"/>
+      </surface>
+      <surface xml:id="s421189" n="Schmutzblattr">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/421189.tif"/>
+      </surface>
+      <surface xml:id="s421190" n="Schmutzblattv">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/421190.tif"/>
+      </surface>
+      <surface xml:id="s421191" n="1">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/421191.tif"/>
+      </surface>
+      <surface xml:id="s421192" n="2">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/421192.tif"/>
+      </surface>
+      <surface xml:id="s421193" n="3">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/421193.tif"/>
+      </surface>
+      <surface xml:id="s421194" n="4">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/421194.tif"/>
+      </surface>
+      <surface xml:id="s421195" n="5">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/421195.tif"/>
+      </surface>
+      <surface xml:id="s421196" n="6">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/421196.tif"/>
+      </surface>
+      <surface xml:id="s421197" n="7">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/421197.tif"/>
+      </surface>
+      <surface xml:id="s421198" n="8">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/421198.tif"/>
+      </surface>
+      <surface xml:id="s421199" n="9">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/421199.tif"/>
+      </surface>
+      <surface xml:id="s421200" n="10">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/421200.tif"/>
+      </surface>
+      <surface xml:id="s421201" n="11">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/421201.tif"/>
+      </surface>
+      <surface xml:id="s421202" n="12">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/421202.tif"/>
+      </surface>
+   </facsimile>
+</TEI>

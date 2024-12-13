@@ -1,0 +1,159 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_419878.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Briefauszüge: Khobalter und Sarsteiner an BP</title>
+            <title type="sub">Digital object description</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <idno type="unidam-verz_einh">374</idno>
+         <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-63F7-C</idno></publicationStmt><notesStmt><note type="relatedCorrespondences">Khobalter an BP: 1723-10-10, 1726-11-12, 1730-02-09, 1730-06-22, 1731-11-04, 1732-01-13. Khobalter an NN: 1726-12-27. Sarsteiner an NN: 1720-09-30.</note></notesStmt>
+         <sourceDesc>
+            <msDesc xml:lang="de">
+               <msIdentifier>
+                  <country>Österreich</country>
+                  <settlement>Melk</settlement>
+                  <institution>Benediktiner-Stift</institution>
+                  <repository>Stiftsarchiv</repository>
+                  <idno>Kt. 07 Patres 11 Faszikel 1 Nr. 58 </idno>
+               </msIdentifier>
+               <msContents>
+                  <summary>Auszüge aus den Briefen Khobalter und Sarsteiner an BP, Hand Mayer. </summary>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <foliation>1r–16v.</foliation>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <date notBefore="1800-01-01" notAfter="1899-12-31">19. Jh.</date>
+                     <note>Im Zusammenhang mit der Pez-Forschung im 19. Jahrhundert.</note>
+                  </origin>
+               </history>
+               <additional>
+                  <listBibl>
+                     <bibl>Zu Mayer: <rs type="bibl" key="bqbibl:r065">Catalogus religiosorum
+                           ordinis S.P. Benedicti in monasterio Mellicensi (Wien 1855)</rs>.</bibl>
+                     <bibl>Zu Khobalter, Sarsteiner: <rs type="bibl" key="bqbibl:r425">Pirmin
+                           LINDNER, Das Profeßbuch der Benediktinerabtei Mondsee. Archiv für die
+                           Geschichte der Diözese Linz. Beilage zum Linzer Diözesanblatt 2 (1905)
+                           133–199</rs>; <rs type="bibl" key="bqbibl:r426">Vinzenz STAUFER, Mondseer
+                           Gelehrte. Jahres-Bericht des kaiserlich-königlichen Ober-Gymnasiums zu
+                           Melk 14 (1864) 1–18; 15 (1865) 3–27</rs>.</bibl>
+                     <bibl>Zu Briefen: <rs type="bibl" key="bqbibl:r018">Christine GLASSNER,
+                           Verzeichnis der im Nachlass der Melker Historiker Bernhard und Hieronymus
+                           Pez erhaltenen Briefe. SMGB 110 (1999) 195–243</rs>.</bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="RNA">Korrespondenzen</classCode>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="s419878" n="1r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/419878.tif"/>
+      </surface>
+      <surface xml:id="s419879" n="1v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/419879.tif"/>
+      </surface>
+      <surface xml:id="s419880" n="2r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/419880.tif"/>
+      </surface>
+      <surface xml:id="s419881" n="2v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/419881.tif"/>
+      </surface>
+      <surface xml:id="s419882" n="3r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/419882.tif"/>
+      </surface>
+      <surface xml:id="s419883" n="3v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/419883.tif"/>
+      </surface>
+      <surface xml:id="s419884" n="4r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/419884.tif"/>
+      </surface>
+      <surface xml:id="s419885" n="4v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/419885.tif"/>
+      </surface>
+      <surface xml:id="s419886" n="5r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/419886.tif"/>
+      </surface>
+      <surface xml:id="s419887" n="5v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/419887.tif"/>
+      </surface>
+      <surface xml:id="s419888" n="6r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/419888.tif"/>
+      </surface>
+      <surface xml:id="s419889" n="6v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/419889.tif"/>
+      </surface>
+      <surface xml:id="s419890" n="7r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/419890.tif"/>
+      </surface>
+      <surface xml:id="s419891" n="7v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/419891.tif"/>
+      </surface>
+      <surface xml:id="s419892" n="8r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/419892.tif"/>
+      </surface>
+      <surface xml:id="s419893" n="8v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/419893.tif"/>
+      </surface>
+      <surface xml:id="s419894" n="9r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/419894.tif"/>
+      </surface>
+      <surface xml:id="s419895" n="9v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/419895.tif"/>
+      </surface>
+      <surface xml:id="s419896" n="10r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/419896.tif"/>
+      </surface>
+      <surface xml:id="s419897" n="10v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/419897.tif"/>
+      </surface>
+      <surface xml:id="s419898" n="11r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/419898.tif"/>
+      </surface>
+      <surface xml:id="s419899" n="11v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/419899.tif"/>
+      </surface>
+      <surface xml:id="s419900" n="12r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/419900.tif"/>
+      </surface>
+      <surface xml:id="s419901" n="12v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/419901.tif"/>
+      </surface>
+      <surface xml:id="s419902" n="13r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/419902.tif"/>
+      </surface>
+      <surface xml:id="s419903" n="13v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/419903.tif"/>
+      </surface>
+      <surface xml:id="s419904" n="14r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/419904.tif"/>
+      </surface>
+      <surface xml:id="s419905" n="14v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/419905.tif"/>
+      </surface>
+      <surface xml:id="s419906" n="15r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/419906.tif"/>
+      </surface>
+      <surface xml:id="s419907" n="15v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/419907.tif"/>
+      </surface>
+      <surface xml:id="s419908" n="16r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/419908.tif"/>
+      </surface>
+      <surface xml:id="s419909" n="16v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/419909.tif"/>
+      </surface>
+   </facsimile>
+</TEI>

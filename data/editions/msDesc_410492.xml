@@ -1,0 +1,67 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_410492.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Notizen: "Puncta redargutionum in responsionem patris Hansizii" </title>
+            <title type="sub">Digital object description</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <idno type="unidam-verz_einh">90</idno>
+         <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-643B-0</idno></publicationStmt>
+         <sourceDesc>
+            <msDesc xml:lang="de">
+               <msIdentifier>
+                  <country>Österreich</country>
+                  <settlement>Melk</settlement>
+                  <institution>Benediktiner-Stift</institution>
+                  <repository>Stiftsarchiv</repository>
+                  <idno>Kt. 07 Patres 09 Faszikel 1 Nr. 72 </idno>
+               </msIdentifier>
+               <msContents>
+                  <summary>Notizen "Puncta redargutionum in responsionem patris Hansizii". Halbbrüchiges Konzept mit vielen Streichungen und Korrekturen. Wohl Vorarbeiten zu BP, Ad virum clarissimum, admodum reverendum et eruditissimum P. Marcum Hanzizium epistola (Wien 1731). Vgl. auch Karton 7 Patres 9, Fasz. 1, Nr. 68 bis 71, 73.</summary>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <foliation>1r–4v.</foliation>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <date when="1731-01-01">um 1731</date>
+                     <note>BPs Epistola gegen Hansiz ist 1731 erschienen. </note>
+                  </origin>
+               </history>
+               <additional>
+                  <listBibl>
+                     <bibl>Zur Kontroverse zwischen BP und Hansiz: <rs type="bibl" key="bqbibl:r008">Stefan BENZ, Zwischen Tradition und Kritik. Katholische Geschichtsschreibung im barocken Heiligen Römischen Reich (Historische Studien 473, Husum 2003);</rs>;<rs type="bibl" key="bqbibl:r009">
+                        Koloman SCHÖNHOFER, P. Bernhard Pez (22.2.1683–27.3.1735), P. Hieronymus Pez (24.2.1685–14.10.1762), Benediktiner von Melk (Leben, Bedeutung und Werke) (ungedr. theol. Dipl.Arb., Innsbruck 1973)</rs>. Zum Hl. Rupert: <rs type="bibl" key="bqbibl:r748">Herwig WOLFRAM, Die Zeit der Agilolfinger – Rupert und Virgil, in: Geschichte Salzburgs. Stadt und Land, 1: Vorgeschichte, Altertum, Mittelalter, Teil 1, hg. von Heinz DOPSCH (Salzburg 1981) 121–150</rs>;
+                        <rs type="bibl" key="bqbibl:r749">Herwig WOLFRAM, Grenzen und Räume. Geschichte Österreichs vor seiner Entstehung (Österreichische Geschichte 378-907, Wien 1995) 105–124</rs>.</bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="RNA">Sammlungen und Objekte</classCode>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="s410492" n="1r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/410492.tif"/>
+      </surface>
+      <surface xml:id="s410493" n="1v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/410493.tif"/>
+      </surface>
+      <surface xml:id="s410494" n="2r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/410494.tif"/>
+      </surface>
+      <surface xml:id="s410495" n="2v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/410495.tif"/>
+      </surface>
+   </facsimile>
+</TEI>

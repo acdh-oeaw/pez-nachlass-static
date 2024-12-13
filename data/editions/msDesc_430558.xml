@@ -1,0 +1,126 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_430558.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Bio-bibliographische Notizen zu Schriftstellern mit Namen Benedikt, Bernhard, Bartholomäus und Baptist</title>
+            <title type="sub">Digital object description</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <idno type="unidam-verz_einh">678</idno>
+         <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-65A0-B</idno></publicationStmt>
+         <sourceDesc>
+            <msDesc xml:lang="de">
+               <msIdentifier>
+                  <country>Österreich</country>
+                  <settlement>Melk</settlement>
+                  <institution>Benediktiner-Stift</institution>
+                  <repository>Stiftsarchiv</repository>
+                  <idno>Kt. 85 Varia 25 Faszikel 1 Nr. 74</idno>
+               </msIdentifier>
+               <msContents>
+                  <summary>Bio-bibliographische Notizen zu Schriftstellern mit Namen Benedikt, Bernhard, Bartholomäus und Baptist, vor allem aus Italien.</summary>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <foliation>1r–12v.</foliation>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <date notBefore="1700-01-01" notAfter="1750-01-01">Erste Hälfte 18. Jahrhundert</date>
+                     <note>Undatiert.</note>
+                  </origin>
+               </history>
+               <additional>
+                  <listBibl>
+                     <bibl>Zu Castelli: <rs type="bibl" key="bqbibl:r897">Augusto DE FERRARI, Castelli, Benedetto (al secolo, Antonio), in: Dizionario biografico degli Italiani, 21 (Roma 1978) 686–690</rs>. Zu Bacchini: <rs type="bibl" key="bqbibl:r892">Paolo GOLINELLI, Benedetto Bacchini 1651–1721, l’uomo, lo storico, il maestro (Biblioteca dell’edizione nazionale del carteggio di L. A. Muratori 12, Florenz 2003)</rs>;
+                        <rs type="bibl" key="bqbibl:r893">Ildebrando MANNOCCI, D. Benedetto Bacchini a S. Giovanni Ev. di Parma. Benedictina. Fascicoli trimestrali di studi benedettini 6 (1952) 5–17</rs>. Zu Maurinern: <rs type="bibl" key="bqbibl:r207">Yves CHAUSSY, Matricula Monachorum Professorum Congregationis S. Mauri in Gallia Ordinis Sancti Patris Benedicti (Bibliothèque d’histoire et d’archéologie chrétiennes, Paris 1959)</rs>. Zu Bonsignori, Luchini, de Paterniano, Guidi, Uva: Arcangelo <rs type="bibl" key="bqbibl:r225">BOSSI, Matricula monachorum Congregationis Casinensis Ordinis S. Benedicti, 1: 1409–1699, hg. von Leandro NOVELLI–Giovanni SPINELLI (Pubblicazioni del Centro Storico Benedettino Italiano 3, Cesena 1983)</rs>. Zu Spagnoli: <rs type="bibl" key="bqbibl:r206">Herbert JAUMANN, Handbuch Gelehrtenkultur der Frühen Neuzeit, 1: Bio-bibliographisches Repertorium (Berlin 2004)</rs>. Zu Cepolla (Cipolla): <rs type="bibl" key="bqbibl:r661">Bartolomeo Cipolla: un giurista veronese del Quattrocento tra cattedra, foro e luoghi del potere. Atti del convegno internazionale di studi (Verona, 14. bis 16. Ottobre 2004), hg. von Giovanni ROSSI (Pubblicazioni della Facoltà di giurisprudenza 4, Raccolte 14, Padova 2009)</rs>.</bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="RNA">Sammlungen und Objekte</classCode>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="s430558" n="1r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/430558.tif"/>
+      </surface>
+      <surface xml:id="s430559" n="1v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/430559.tif"/>
+      </surface>
+      <surface xml:id="s430560" n="2r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/430560.tif"/>
+      </surface>
+      <surface xml:id="s430561" n="2v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/430561.tif"/>
+      </surface>
+      <surface xml:id="s430562" n="3r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/430562.tif"/>
+      </surface>
+      <surface xml:id="s430563" n="3v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/430563.tif"/>
+      </surface>
+      <surface xml:id="s430564" n="4r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/430564.tif"/>
+      </surface>
+      <surface xml:id="s430565" n="4v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/430565.tif"/>
+      </surface>
+      <surface xml:id="s430566" n="5r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/430566.tif"/>
+      </surface>
+      <surface xml:id="s430567" n="5v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/430567.tif"/>
+      </surface>
+      <surface xml:id="s430568" n="6r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/430568.tif"/>
+      </surface>
+      <surface xml:id="s430569" n="6v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/430569.tif"/>
+      </surface>
+      <surface xml:id="s430570" n="7r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/430570.tif"/>
+      </surface>
+      <surface xml:id="s430571" n="7v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/430571.tif"/>
+      </surface>
+      <surface xml:id="s430572" n="8r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/430572.tif"/>
+      </surface>
+      <surface xml:id="s430573" n="8v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/430573.tif"/>
+      </surface>
+      <surface xml:id="s430574" n="9r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/430574.tif"/>
+      </surface>
+      <surface xml:id="s430575" n="9v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/430575.tif"/>
+      </surface>
+      <surface xml:id="s430576" n="10r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/430576.tif"/>
+      </surface>
+      <surface xml:id="s430577" n="10v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/430577.tif"/>
+      </surface>
+      <surface xml:id="s430578" n="11r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/430578.tif"/>
+      </surface>
+      <surface xml:id="s430579" n="11v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/430579.tif"/>
+      </surface>
+      <surface xml:id="s430580" n="12r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/430580.tif"/>
+      </surface>
+      <surface xml:id="s430581" n="12v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/430581.tif"/>
+      </surface>
+   </facsimile>
+</TEI>

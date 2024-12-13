@@ -1,0 +1,59 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_430195.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Schriftstellerkatalog von St. Ulrich und Afra</title>
+            <title type="sub">Digital object description</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <idno type="unidam-verz_einh">656</idno>
+         <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-658B-4</idno></publicationStmt>
+         <sourceDesc>
+            <msDesc xml:lang="de">
+               <msIdentifier>
+                  <country>Österreich</country>
+                  <settlement>Melk</settlement>
+                  <institution>Benediktiner-Stift</institution>
+                  <repository>Stiftsarchiv</repository>
+                  <idno>Kt. 85 Varia 25 Faszikel 1 Nr. 52</idno>
+               </msIdentifier>
+               <msContents>
+                  <summary>Schriftstellerkatalog von St. Ulrich und Afra in Augsburg. Wohl Beilage zu einem noch nicht zugeordneten Brief an die Brüder Pez.</summary>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <foliation>1r–v.</foliation>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <date notBefore="1702-01-01">nach 1702</date>
+                     <note>Jüngster Eintrag aus 1702.</note>
+                  </origin>
+               </history>
+               <additional>
+                  <listBibl>
+                     <bibl>Zu Schriftstellern: <rs type="bibl" key="bqbibl:r308">Pirmin LINDNER, Memoriale San-Ulricanum sive Compendium vitae et mortis Religiosorum Ord. S. Benedicti liberi et imperialis monasterii ad S. S. Udalricum et Afram Augustae Vindel., qui ab a. 1610–1857 pie in domino obierunt, additis eorum laboribus litterariis. Diöcesanarchiv von Schwaben 8 (1891) 5–6, 9–10, 17–18, 30–32, 37–38, 41–42, 54–56, 59–60; 15 (1897) 161–164, 185–188; 16 (1898) 13–16, 25–28, 42–44</rs>.</bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="RNA">Sammlungen und Objekte</classCode>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="s430195" n="1r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/430195.tif"/>
+      </surface>
+      <surface xml:id="s430196" n="1v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/430196.tif"/>
+      </surface>
+   </facsimile>
+</TEI>

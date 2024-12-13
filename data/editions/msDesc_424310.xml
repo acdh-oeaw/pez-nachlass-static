@@ -1,0 +1,318 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_424310.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Bibliotheks- und Schriftstellerkatalog benediktinischer Schriftsteller in Tegernsee</title>
+            <title type="sub">Digital object description</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <idno type="unidam-verz_einh">523</idno>
+            <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-652F-D</idno>
+         </publicationStmt><notesStmt><note type="relatedCorrespondences">Hueber an BP: 1716-07-22.</note></notesStmt>
+         <sourceDesc>
+            <msDesc xml:lang="de">
+               <msIdentifier>
+                  <country>Österreich</country>
+                  <settlement>Melk</settlement>
+                  <institution>Benediktiner-Stift</institution>
+                  <repository>Stiftsarchiv</repository>
+                  <idno>Kt. 85 Varia 23 Faszikel 1 Nr. 22</idno>
+               </msIdentifier>
+               <msContents>
+                  <summary>Katalog von Büchern benediktinischer Schriftsteller, die in der Bibliothek (und im Turm) von Tegernsee vorhanden sind, darunter einige Tegernseer Schriftsteller. Alphabetisch nach den Vornamen geordnet. Ab S. 52 Schriftsteller vornehmlich der Bayerischen, Salzburgischen und Österreichischen Benediktinerkongregation, nummeriert mit römischen Zahlen. Diese sind gemeinsam mit den Schriftstellern aus Tegernsee als "Personen" namentlich erfasst. Beilage zu Brief Hueber an BP (1716-07-22). Vgl. auch Schriftstellerkatalog in Karton 85 Varia 23, Fasz. 1, Nr. 27.</summary>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <foliation>1–88.</foliation>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <date notBefore="1716-01-01">1716</date>
+                     <note/>
+                  </origin>
+               </history>
+               <additional>
+                  <listBibl>
+                     <bibl>Zu Tegernseer Schriftstellern (Holzapfler, Benedikt von Tegernsee, de Waging, Pregler, Guetrather, Rinswerger, Plaichshirn, Bernhard und Paul Schallhammer, Herschl): <rs type="bibl" key="bqbibl:r568">Pirmin LINDNER, Familia S. Quirini in Tegernsee. Die Äbte und Mönche der Benediktiner-Abtei Tegernsee von den ältesten Zeiten bis zu ihrem Aussterben (1861) und ihr literarischer Nachlass. Oberbayerisches Archiv für vaterländische Geschichte 50 (1897) 18–130; 50 Ergh. (1898) 1–318 </rs>. Zu Cherle: <rs type="bibl" key="bqbibl:r573">Franz MACHILEK, Benedikt Cherle von Thierhaupten (1670–1719) und die Anfänge des "Deutschen Maurinismus", in: Bayern. Vom Stamm zum Staat. Festschrift für Andreas KRAUS zum 80. Geburtstag, hg. von Konrad ACKERMANN–Alois SCHMID–Wilhelm VOLKERT (Schriftenreihe zur bayerischen Landesgeschichte 140, 2 Bde., München 2002) 2 47–63</rs>. Zu Steinbacher: <rs type="bibl" key="bqbibl:r766">Joseph SÄCHERL, Chronik des Benediktiner-Klosters Frauenzell nebst geschichtlichen Nachrichten über Brennberg, Bruckbach, Siegenstein und Süßenbach, Altenthan, Pettenreut, Arrach, Zell, Martins-Neukirchen, Marienstein und Hetzenbach. Verhandlungen des historischen Vereines von Oberpfalz und Regensburg 15 (1853) 257–466</rs>. Zu Indersdorfer, Rambeck, Kimpfler, Schwab, Fürbas: <rs type="bibl" key="bqbibl:r486">Anselm REICHHOLD, Chronik von Scheyern. Von den ersten Anfängen bis zur Gegenwart (Weißenhorn 1998)</rs>. Zu Kibler: <rs type="bibl" key="bqbibl:r767">Albert SIEGMUND, Kibler (Gilles), in: Dictionnaire de spiritualité, ascétique et mystique, doctrine et histoire, 8: Jacob – Kyspenning, hg. von Marcel VILLER et al. (Paris 1974) col. 1721–1723</rs>. Zu Schlager, Probst, Jacobi, Weiß, Reiter, Herterer: <rs type="bibl" key="bqbibl:r294">Magnus SATTLER, Chronik von Andechs (Donauwörth 1877)</rs>. Zu Pfeffer: <rs type="bibl" key="bqbibl:r850">Bernhard MAGNUS, Briefe des P. Felix Pfeffer aus Ottobeuren 10. Oktober 1646 bis 16. Februar 1647. SMGB 2/1 (1881) 345–351; 2/2 (1881) 133–140, 329–351</rs>. Zu Hardter, Wenzl: <rs type="bibl" key="bqbibl:r851">Benno HUBENSTEINER, Die geistliche Stadt. Welt und Leben des Johann Franz Eckher von Kapfing und Liechteneck, Fürstbischofs von Freising (München 1954)</rs>. Zu Rottner: <rs type="bibl" key="bqbibl:r457">Anselm REICHHOLD, 300 Jahre Bayerische Benediktiner-Kongregation im Spiegel der wichtigsten Beschlüsse der Generalkapitel. SMGB 95 (1984) 522–696</rs>. Zu Kobolt: <rs type="bibl" key="bqbibl:r476">Martin RUF, Profeßbuch des Benediktinerstiftes Rott am Inn (Studien und Mitteilungen zur Geschichte des Benediktiner-Ordens und seiner Zweige Erg.bd. 32, St. Ottilien 1991)</rs>. Zu Erhardt, Fesl, Ringmayr: <rs type="bibl" key="bqbibl:r593">Pirmin LINDNER, Fünf Professbücher süddeutscher Benediktiner-Abteien. Beiträge zu einem Monasticon-benedictinum Germaniae, 1: Professbuch der Benediktiner-Abtei Wessobrunn (Kempten–München 1909)</rs>. Zu Rayser: <rs type="bibl" key="bqbibl:r284">Hanna EGGER, Altenburg, in: Germania Benedictina, 3/1: Die benediktinischen Mönchs- und Nonnenklöster in Österreich und Südtirol, hg. von Ulrich FAUST–Waltraud KRASSNIG (St. Ottilien 2000) 213–289</rs>. Zu Junghans: <rs type="bibl" key="bqbibl:r560">Heinrich GENTNER, Geschichte des Benedictinerklosters Weihenstephan bey Freysing. Aus Urkunden angefertiget. Beyträge zur Geschichte, Topographie und Statistik des Erzbisthums München und Freysing 6 (1854) 1–350</rs>. Zu Manicor, Seitz, Rechling: <rs type="bibl" key="bqbibl:r276">Florian C. KINNAST, Album Admontense seu Catalogus religiosorum ordinis S. P. Benedicti in abbatia Admontensi superioris Stiriae anno jubilaeo 1874 viventium et ab anno 1674 pie defunctorum (Graz 1874)</rs>. Zu Brüdern Mezger: <rs type="bibl" key="bqbibl:r765">Benedikt PROBST, Die drei Brüder Mezger. Ein exegetisches Dreigestirn an der alten Salzburger Benediktiner-Universität, in: Miscellanea biblica et orientalia R. P. Athanasio MILLER O. S. B., Secretario Pontificiae Commissionis Biblicae, completis LXX annis oblata, hg. von Adalbert METZINGER (Studia Anselmiana philosophica theologica 27/28, Roma 1951) 443–452</rs>. Zu Keuslin, Pachler, Freyberger: <rs type="bibl" key="bqbibl:r484">Pirmin LINDNER, Professbuch der Benediktiner-Abtei St. Peter in Salzburg (1419–1856). Mitteilungen der Gesellschaft für Salzburger Landeskunde 46 (1906) 1–328</rs>. Zu Stadlmayr: <rs type="bibl" key="bqbibl:r588">Pirmin LINDNER, Fünf Professbücher süddeutscher Benediktiner-Abteien. Beiträge zu einem Monasticon-benedictinum Germaniae, 2: Professbuch der Benediktiner-Abtei Weingarten (Kempten–München 1909)</rs>. Zu Ambling, Halmschmidt, Dietl, Utz: <rs type="bibl" key="bqbibl:r183">Emmanuel J. BAUER, Thomistische Metaphysik an der alten Benediktineruniversität Salzburg. Darstellung und Interpretation einer philosophischen Schule des 17./18. Jahrhunderts (Salzburger Theologische Studien 1, Innsbruck–Wien 1996)</rs>. Zu Reding, Waibl: <rs type="bibl" key="bqbibl:r454">Rudolf HENGGELER, Monasticon-Benedictinum Helvetiae, 3: Profeßbuch der fürstl. Benediktinerabtei U. L. Frau zu Einsiedeln. Festgabe zum tausendjährigen Bestand des Klosters (Zug 1933)</rs>. Zu Pettschacher: <rs type="bibl" key="bqbibl:r529">Benedikt PLANK, St. Lambrecht, in: Germania Benedictina, 3/2: Die benediktinischen Mönchs- und Nonnenklöster in Österreich und Südtirol, hg. von Ulrich FAUST–Waltraud KRASSNIG (St. Ottilien 2001) 318–380</rs>. Zu Ruedorffer: <rs type="bibl" key="bqbibl:r852">Johann DOLL, Seeon, ein bayerisches Inselkloster. Eine Studie zur Geschichte des Benediktinerordens (München–Freiburg im Breisgau 1912)</rs>. Zu Schapperger: <rs type="bibl" key="bqbibl:r550">Hans PÖRNBACHER, Die schönste Kunst im Schreiben. Literaten und Literaturpflege in Seeon von 1600 bis 1800, in: Kloster Seeon. Beiträge zu Geschichte, Kunst und Kultur der ehemaligen Benediktinerabtei, hg. von Hans von MALOTTKI (Weißenhorn 1993) 329–346</rs>. Zu Pestaluz, Grueber, Brandstetter, Wimberger, Büchauer: <rs type="bibl" key="bqbibl:r388">Altman KELLNER, Professbuch des Stiftes Kremsmünster (Kremsmünster 1968)</rs>. Zu Törring, Heller: <rs type="bibl" key="bqbibl:r370">Clemens Anton LASHOFER, Professbuch des Benediktinerstiftes Göttweig. Zur 900-Jahr-Feier der Gründung des Klosters (SMGB Ergbd. 26, St. Ottilien 1983)</rs>. Zu Rassler: <rs type="bibl" key="bqbibl:r599">Pirmin LINDNER, Fünf Professbücher süddeutscher Benediktiner-Abteien. Beiträge zu einem Monasticon-benedictinum Germaniae, 3: Professbuch der Benediktiner-Abtei Zwiefalten (Kempten–München 1910)</rs>. Zu Cäsar: <rs type="bibl" key="bqbibl:r673">Josef HEMMERLE, Germania Benedictina, 2: Die Benediktinerklöster in Bayern (Augsburg 1970)</rs>. Zu Pfeffer, Molitor, Rhöer: <rs type="bibl" key="bqbibl:r449">Pirmin LINDNER, Album Ottoburanum. Die Äbte und Mönche des ehemaligen freien Reichs-Stiftes Ottobeuren, Benediktiner-Ordens in Schwaben und deren literarischer Nachlass von 764 bis zu ihrem Aussterben (1858)</rs>. Zu Behm: <rs type="bibl" key="bqbibl:r853">Erwin MUTH, Münsterschwarzacher Mönche des 17. Jahrhunderts in Österreich und Ungarn. SMGB 121 (2010) 293–320</rs>. Zu Heinlein: <rs type="bibl" key="bqbibl:r571">Gabriel VOGT, Burg und Dorf, Kloster und Schloß Theres am Main. Ein Beitrag zur Geschichte des Dorfes und der ehemaligen Benediktinerabtei St. Vitus zu Theres am Main (Münsterschwarzach 1979)</rs>. Zu Oberascher, Rebiser: <rs type="bibl" key="bqbibl:r425">Pirmin LINDNER, Das Profeßbuch der Benediktinerabtei Mondsee. Archiv für die Geschichte der Diözese Linz. Beilage zum Linzer Diözesanblatt 2 (1905) 133–199</rs>. Zu Tantucci: <rs type="bibl" key="bqbibl:r225">Arcangelo BOSSI, Matricula monachorum Congregationis Casinensis Ordinis S. Benedicti, 1: 1409–1699, hg. von Leandro NOVELLI–Giovanni SPINELLI (Pubblicazioni del Centro Storico Benedettino Italiano 3, Cesena 1983)</rs>. Zu Bridler: <rs type="bibl" key="bqbibl:r521">Rudolf HENGGELER, Monasticon-Benedictinum Helvetiae, 1: Profeßbuch der fürstlichen Benediktinerabtei der Heiligen Gallus und Otmar zu St. Gallen (Zug o.J. [1929])</rs>. Zu Rauscher: <rs type="bibl" key="bqbibl:r849">Günter GARSTENAUER, Beiträge zur Geschichte des Klosters Garsten und der Stadt Steyr, 2: P. Ernest Koch. Biographien. Biographische Denkmäler vom aufgehobenen Stifte Steyr-Garsten getreulich und mühsam aus verschiedenen Dokumenten von einem Ordensprofessen daselbst gesammelt. 1803. Textquelle: Oberösterreichisches Landesarchiv, Stiftsarchiv Garsten, HS 76 und 76a (Sierning 2011)</rs>. Zu Stöger: <rs type="bibl" key="bqbibl:r476">Martin RUF, Professbuch des Benediktinerstiftes Rott am Inn (SMGB Erg.bd. 32, St. Ottilien 1991)</rs>. Zu Wiser: <rs type="bibl" key="bqbibl:r529">Benedikt PLANK, St. Lambrecht, in: Germania Benedictina, 3/2: Die benediktinischen Mönchs- und Nonnenklöster in Österreich und Südtirol, hg. von Ulrich FAUST–Waltraud KRASSNIG (St. Ottilien 2001) 318–380</rs>. Zu Fischer: <rs type="bibl" key="bqbibl:r308">Pirmin LINDNER, Memoriale San-Ulricanum sive Compendium vitae et mortis Religiosorum Ord. S. Benedicti liberi et imperialis monasterii ad S. S. Udalricum et Afram Augustae Vindel., qui ab a. 1610–1857 pie in domino obierunt, additis eorum laboribus litterariis. Diöcesanarchiv von Schwaben 8 (1891) 5–6, 9–10, 17–18, 30–32, 37–38, 41–42, 54–56, 59–60; 15 (1897) 161–164, 185–188; 16 (1898) 13–16, 25–28, 42–44</rs>. Zu Lendlin: <rs type="bibl" key="bqbibl:r444">Pirmin LINDNER, Verzeichnis aller Äbte und der vom Beginne des XVI. Jahrhunderts bis 1861 verstorbenen Mönche der Reichsabtei Ochsenhausen O. S. Bened. Gedenkblatt an deren Gründung im Jahre 1099. Diöcesanarchiv von Schwaben 17 (1899) 97–100, 117–120, 136–138, 154–156, 171–173; 18 (1900) 75–77, 86–91, 191–192</rs>. Zu Brief: <rs type="bibl" key="bqbibl:r018">Christine GLASSNER, Verzeichnis der im Nachlass der Melker Historiker Bernhard und Hieronymus Pez erhaltenen Briefe. SMGB 110 (1999) 195–243</rs>.</bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="RNA">Sammlungen und Objekte</classCode>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="s424310" n="1">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424310.tif"/>
+      </surface>
+      <surface xml:id="s424311" n="2">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424311.tif"/>
+      </surface>
+      <surface xml:id="s424312" n="3">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424312.tif"/>
+      </surface>
+      <surface xml:id="s424313" n="4">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424313.tif"/>
+      </surface>
+      <surface xml:id="s424314" n="5">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424314.tif"/>
+      </surface>
+      <surface xml:id="s424315" n="6">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424315.tif"/>
+      </surface>
+      <surface xml:id="s424316" n="7">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424316.tif"/>
+      </surface>
+      <surface xml:id="s424317" n="8">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424317.tif"/>
+      </surface>
+      <surface xml:id="s424318" n="9">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424318.tif"/>
+      </surface>
+      <surface xml:id="s424319" n="10">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424319.tif"/>
+      </surface>
+      <surface xml:id="s424320" n="11">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424320.tif"/>
+      </surface>
+      <surface xml:id="s424321" n="12">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424321.tif"/>
+      </surface>
+      <surface xml:id="s424322" n="13">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424322.tif"/>
+      </surface>
+      <surface xml:id="s424323" n="14">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424323.tif"/>
+      </surface>
+      <surface xml:id="s424324" n="15">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424324.tif"/>
+      </surface>
+      <surface xml:id="s424325" n="16">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424325.tif"/>
+      </surface>
+      <surface xml:id="s424326" n="17">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424326.tif"/>
+      </surface>
+      <surface xml:id="s424327" n="18">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424327.tif"/>
+      </surface>
+      <surface xml:id="s424328" n="19">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424328.tif"/>
+      </surface>
+      <surface xml:id="s424329" n="20">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424329.tif"/>
+      </surface>
+      <surface xml:id="s424330" n="21">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424330.tif"/>
+      </surface>
+      <surface xml:id="s424331" n="22">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424331.tif"/>
+      </surface>
+      <surface xml:id="s424332" n="23">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424332.tif"/>
+      </surface>
+      <surface xml:id="s424333" n="24">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424333.tif"/>
+      </surface>
+      <surface xml:id="s424334" n="25">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424334.tif"/>
+      </surface>
+      <surface xml:id="s424335" n="26">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424335.tif"/>
+      </surface>
+      <surface xml:id="s424336" n="27">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424336.tif"/>
+      </surface>
+      <surface xml:id="s424337" n="28">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424337.tif"/>
+      </surface>
+      <surface xml:id="s424338" n="29">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424338.tif"/>
+      </surface>
+      <surface xml:id="s424339" n="30">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424339.tif"/>
+      </surface>
+      <surface xml:id="s424340" n="31">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424340.tif"/>
+      </surface>
+      <surface xml:id="s424341" n="32">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424341.tif"/>
+      </surface>
+      <surface xml:id="s424342" n="33">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424342.tif"/>
+      </surface>
+      <surface xml:id="s424343" n="34">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424343.tif"/>
+      </surface>
+      <surface xml:id="s424344" n="35">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424344.tif"/>
+      </surface>
+      <surface xml:id="s424345" n="36">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424345.tif"/>
+      </surface>
+      <surface xml:id="s424346" n="37">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424346.tif"/>
+      </surface>
+      <surface xml:id="s424347" n="38">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424347.tif"/>
+      </surface>
+      <surface xml:id="s424348" n="39">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424348.tif"/>
+      </surface>
+      <surface xml:id="s424349" n="40">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424349.tif"/>
+      </surface>
+      <surface xml:id="s424350" n="41">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424350.tif"/>
+      </surface>
+      <surface xml:id="s424351" n="42">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424351.tif"/>
+      </surface>
+      <surface xml:id="s424352" n="43">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424352.tif"/>
+      </surface>
+      <surface xml:id="s424353" n="44">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424353.tif"/>
+      </surface>
+      <surface xml:id="s424354" n="45">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424354.tif"/>
+      </surface>
+      <surface xml:id="s424355" n="46">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424355.tif"/>
+      </surface>
+      <surface xml:id="s424356" n="47">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424356.tif"/>
+      </surface>
+      <surface xml:id="s424357" n="48">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424357.tif"/>
+      </surface>
+      <surface xml:id="s424358" n="49">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424358.tif"/>
+      </surface>
+      <surface xml:id="s424359" n="50">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424359.tif"/>
+      </surface>
+      <surface xml:id="s424360" n="51">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424360.tif"/>
+      </surface>
+      <surface xml:id="s424361" n="52">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424361.tif"/>
+      </surface>
+      <surface xml:id="s424362" n="53">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424362.tif"/>
+      </surface>
+      <surface xml:id="s424363" n="54">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424363.tif"/>
+      </surface>
+      <surface xml:id="s424364" n="55">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424364.tif"/>
+      </surface>
+      <surface xml:id="s424365" n="56">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424365.tif"/>
+      </surface>
+      <surface xml:id="s424366" n="57">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424366.tif"/>
+      </surface>
+      <surface xml:id="s424367" n="58">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424367.tif"/>
+      </surface>
+      <surface xml:id="s424368" n="59">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424368.tif"/>
+      </surface>
+      <surface xml:id="s424369" n="60">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424369.tif"/>
+      </surface>
+      <surface xml:id="s424370" n="61">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424370.tif"/>
+      </surface>
+      <surface xml:id="s424371" n="62">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424371.tif"/>
+      </surface>
+      <surface xml:id="s424372" n="63">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424372.tif"/>
+      </surface>
+      <surface xml:id="s424373" n="64">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424373.tif"/>
+      </surface>
+      <surface xml:id="s424374" n="65">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424374.tif"/>
+      </surface>
+      <surface xml:id="s424375" n="66">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424375.tif"/>
+      </surface>
+      <surface xml:id="s424376" n="67">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424376.tif"/>
+      </surface>
+      <surface xml:id="s424377" n="68">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424377.tif"/>
+      </surface>
+      <surface xml:id="s424378" n="69">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424378.tif"/>
+      </surface>
+      <surface xml:id="s424379" n="70">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424379.tif"/>
+      </surface>
+      <surface xml:id="s424380" n="71">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424380.tif"/>
+      </surface>
+      <surface xml:id="s424381" n="72">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424381.tif"/>
+      </surface>
+      <surface xml:id="s424382" n="73">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424382.tif"/>
+      </surface>
+      <surface xml:id="s424383" n="74">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424383.tif"/>
+      </surface>
+      <surface xml:id="s424384" n="75">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424384.tif"/>
+      </surface>
+      <surface xml:id="s424385" n="76">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424385.tif"/>
+      </surface>
+      <surface xml:id="s424386" n="77">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424386.tif"/>
+      </surface>
+      <surface xml:id="s424387" n="78">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424387.tif"/>
+      </surface>
+      <surface xml:id="s424388" n="79">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424388.tif"/>
+      </surface>
+      <surface xml:id="s424389" n="80">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424389.tif"/>
+      </surface>
+      <surface xml:id="s424390" n="81">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424390.tif"/>
+      </surface>
+      <surface xml:id="s424391" n="82">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424391.tif"/>
+      </surface>
+      <surface xml:id="s424392" n="83">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424392.tif"/>
+      </surface>
+      <surface xml:id="s424393" n="84">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424393.tif"/>
+      </surface>
+      <surface xml:id="s424394" n="85">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424394.tif"/>
+      </surface>
+      <surface xml:id="s424395" n="86">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424395.tif"/>
+      </surface>
+      <surface xml:id="s424396" n="87">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424396.tif"/>
+      </surface>
+      <surface xml:id="s424397" n="88">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424397.tif"/>
+      </surface>
+   </facsimile>
+</TEI>

@@ -1,0 +1,90 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_412825.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Konzept zu BP, Epistolae apologeticae pro ordine sancti Benedicti</title>
+            <title type="sub">Digital object description</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <idno type="unidam-verz_einh">208</idno>
+         <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-6602-D</idno></publicationStmt>
+         <sourceDesc>
+            <msDesc xml:lang="de">
+               <msIdentifier>
+                  <country>Österreich</country>
+                  <settlement>Melk</settlement>
+                  <institution>Benediktiner-Stift</institution>
+                  <repository>Stiftsarchiv</repository>
+                  <idno>Kt. 07 Patres 10 Faszikel 3 Nr. 11</idno>
+               </msIdentifier>
+               <msContents>
+                  <summary>Konzept zu BP, Epistolae apologeticae pro ordine sancti Benedicti (Kempten 1715) von BP. Am Ende unvollständig, mit zahlreichen Anmerkungen und Streichungen.</summary>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <foliation>1r–6v.</foliation>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <date notBefore="1715-01-01">vor 1715</date>
+                     <note>BPs Epistolae sind 1715 erschienen.</note>
+                  </origin>
+               </history>
+               <additional>
+                  <listBibl>
+                     <bibl>Zu Epistolae: <rs type="bibl" key="bqbibl:r039">Thomas WALLNIG–Thomas STOCKINGER, Die gelehrte Korrespondenz der Brüder Pez. Text, Regesten, Kommentare, 1: 1709–1715 (QIÖG 2/1, Wien–München 2010)</rs>;
+                     <rs type="bibl" key="bqbibl:r040">Thomas WALLNIG, Die "Epistolae apologeticae pro ordine sancti Benedicti" von Bernhard Pez (1715). Beobachtungen und Personenregister, in: Vergangenheit und Vergegenwärtigung. Frühes Mittelalter und europäische Erinnerungskultur, hg. von Helmut REIMITZ–Bernhard ZELLER (Österreichische Akademie der Wissenschaften, Philosophisch-historische Klasse. Denkschriften 373 = Forschungen zur Geschichte des Mittelalters 14, Wien 2009) 9–30</rs>.</bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="RNA">Werke</classCode>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="s412825" n="1r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/412825.tif"/>
+      </surface>
+      <surface xml:id="s412826" n="1v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/412826.tif"/>
+      </surface>
+      <surface xml:id="s412827" n="2r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/412827.tif"/>
+      </surface>
+      <surface xml:id="s412828" n="2v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/412828.tif"/>
+      </surface>
+      <surface xml:id="s412829" n="3r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/412829.tif"/>
+      </surface>
+      <surface xml:id="s412830" n="3v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/412830.tif"/>
+      </surface>
+      <surface xml:id="s412831" n="4r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/412831.tif"/>
+      </surface>
+      <surface xml:id="s412832" n="4v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/412832.tif"/>
+      </surface>
+      <surface xml:id="s412833" n="5r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/412833.tif"/>
+      </surface>
+      <surface xml:id="s412834" n="5v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/412834.tif"/>
+      </surface>
+      <surface xml:id="s412835" n="6r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/412835.tif"/>
+      </surface>
+      <surface xml:id="s412836" n="6v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/412836.tif"/>
+      </surface>
+   </facsimile>
+</TEI>

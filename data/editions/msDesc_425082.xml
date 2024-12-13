@@ -1,0 +1,60 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_425082.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Handschriftenkatalog bzw. Exzerpt aus Galland, Bibliotheca</title>
+            <title type="sub">Digital object description</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <idno type="unidam-verz_einh">551</idno>
+         <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-6541-7</idno></publicationStmt>
+         <sourceDesc>
+            <msDesc xml:lang="de">
+               <msIdentifier>
+                  <country>Österreich</country>
+                  <settlement>Melk</settlement>
+                  <institution>Benediktiner-Stift</institution>
+                  <repository>Stiftsarchiv</repository>
+                  <idno>Kt. 85 Varia 23 Faszikel 1 Nr. 50</idno>
+               </msIdentifier>
+               <msContents>
+                  <summary>Handschriftenkatalog bzw. Exzerpt aus Andreas GALLAND, Bibliotheca veterum patrum (Venedig 1765). Unvollständig, beginnt beim Buchstaben "P" und endet bei "Z", alphabetisch nach Vornamen geordnet.</summary>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <foliation>1r–2v.</foliation>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <date notBefore="1800-01-01" notAfter="1899-12-31">19. Jh.</date>
+                     <note>Undatiert, Hand des 19. Jahrhunderts.</note>
+                  </origin>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="RNA">Sammlungen und Objekte</classCode>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="s425082" n="1r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/425082.tif"/>
+      </surface>
+      <surface xml:id="s425083" n="1v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/425083.tif"/>
+      </surface>
+      <surface xml:id="s425084" n="2r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/425084.tif"/>
+      </surface>
+      <surface xml:id="s425085" n="2v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/425085.tif"/>
+      </surface>
+   </facsimile>
+</TEI>

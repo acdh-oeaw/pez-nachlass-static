@@ -1,0 +1,105 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_429964.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Bio-bibliographische Notizen zu süddeutschen Benediktinerschriftstellern des späten 17. bzw. frühen 18. Jahrhunderts</title>
+            <title type="sub">Digital object description</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <idno type="unidam-verz_einh">644</idno>
+         <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-6658-D</idno></publicationStmt>
+         <sourceDesc>
+            <msDesc xml:lang="de">
+               <msIdentifier>
+                  <country>Österreich</country>
+                  <settlement>Melk</settlement>
+                  <institution>Benediktiner-Stift</institution>
+                  <repository>Stiftsarchiv</repository>
+                  <idno>Kt. 85 Varia 25 Faszikel 1 Nr. 40</idno>
+               </msIdentifier>
+               <msContents>
+                  <summary>Bio-bibliographische Notizen zu süddeutschen und schweizer Benediktinerschriftstellern des späten 17. und frühen 18. Jahrhunderts, Hand BP. Vermerk auf fol. 6v: "Pro Bibliotheca Benedictina".</summary>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <foliation>1r–6v.</foliation>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <date notBefore="1714-01-01">nach 1714</date>
+                     <note>Jüngster Eintrag aus 1714.</note>
+                  </origin>
+               </history>
+               <additional>
+                  <listBibl>
+                     <bibl>Zu Neumann: <rs type="bibl" key="bqbibl:r444">Pirmin LINDNER, Verzeichnis aller Äbte und der vom Beginne des XVI. Jahrhunderts bis 1861 verstorbenen Mönche der Reichsabtei Ochsenhausen O. S. Bened. Gedenkblatt an deren Gründung im Jahre 1099. Diöcesanarchiv von Schwaben 17 (1899) 97–100, 117–120, 136–138, 154–156, 171–173; 18 (1900) 75–77, 86–91, 191–192</rs>. 
+                        Zu Strotz, Lichtenhaimb: <rs type="bibl" key="bqbibl:r529">Benedikt PLANK, St. Lambrecht, in: Germania Benedictina, 3/2: Die benediktinischen Mönchs- und Nonnenklöster in Österreich und Südtirol, hg. von Ulrich FAUST–Waltraud KRASSNIG (St. Ottilien 2001) 318–380</rs>. 
+                        Zu Lendlmayr, Romoser, Pfeiffer: <rs type="bibl" key="bqbibl:r278">Rudolf LIST, Stift Admont 1074–1974. Festschrift zur Neunhundertjahrfeier (Ried im Innkreis 1974)</rs>. 
+                        Zu Mayr, Khamm: <rs type="bibl" key="bqbibl:r308">Pirmin LINDNER, Memoriale San-Ulricanum sive Compendium vitae et mortis Religiosorum Ord. S. Benedicti liberi et imperialis monasterii ad S. S. Udalricum et Afram Augustae Vindel., qui ab a. 1610–1857 pie in domino obierunt, additis eorum laboribus litterariis. Diöcesanarchiv von Schwaben 8 (1891) 5–6, 9–10, 17–18, 30–32, 37–38, 41–42, 54–56, 59–60; 15 (1897) 161–164, 185–188; 16 (1898) 13–16, 25–28, 42–44</rs>. 
+                        Zu Rassler: <rs type="bibl" key="bqbibl:r599">Pirmin LINDNER, Fünf Professbücher süddeutscher Benediktiner-Abteien. Beiträge zu einem Monasticon-benedictinum Germaniae, 3: Professbuch der Benediktiner-Abtei Zwiefalten (Kempten–München 1910)</rs>. 
+                        Zu Reding, Waibel: <rs type="bibl" key="bqbibl:r350">Rudolf HENGGELER, Monasticon-Benedictinum Helvetiae, 3: Profeßbuch der fürstl. Benediktinerabtei U. L. Frau zu Einsiedeln. Festgabe zum tausendjährigen Bestand des Klosters (Zug 1933)</rs>. 
+                        Zu Stockhammer, Kimpfler: <rs type="bibl" key="bqbibl:r486">Anselm REICHHOLD, Chronik von Scheyern. Von den ersten Anfängen bis zur Gegenwart (Weißenhorn 1998)</rs>.
+                        Zu Wenzl, Hardter: <rs type="bibl" key="bqbibl:r851">Benno HUBENSTEINER, Die geistliche Stadt. Welt und Leben des Johann Franz Eckher von Kapfing und Liechteneck, Fürstbischofs von Freising (München 1954)</rs>. 
+                        Zu Wimberger: <rs type="bibl" key="bqbibl:r388">Altman KELLNER, Professbuch des Stiftes Kremsmünster (Kremsmünster 1968)</rs>. 
+                        Zu Widl, Jacobi, König, Weiß: <rs type="bibl" key="bqbibl:r183">Emmanuel J. BAUER, Thomistische Metaphysik an der alten Benediktineruniversität Salzburg. Darstellung und Interpretation einer philosophischen Schule des 17./18. Jahrhunderts (Salzburger Theologische Studien 1, Innsbruck–Wien 1996)</rs>. 
+                        Zu Ruedorffer, Schapperger: <rs type="bibl" key="bqbibl:r852">Johann DOLL, Seeon, ein bayerisches Inselkloster. Eine Studie zur Geschichte des Benediktinerordens (München–Freiburg im Breisgau 1912)</rs>. 
+                        Zu Stadelmayr: <rs type="bibl" key="bqbibl:r588">Pirmin LINDNER, Fünf Professbücher süddeutscher Benediktiner-Abteien. Beiträge zu einem Monasticon-benedictinum Germaniae, 2: Professbuch der Benediktiner-Abtei Weingarten (Kempten–München 1909)</rs>. 
+                        Zu Meichelbeck: <rs type="bibl" key="bqbibl:r319">Pirmin LINDNER, Fünf Professbücher süddeutscher Benediktiner-Abteien. Beiträge zu einem Monasticon-benedictinum Germaniae, 4: Professbuch der Benediktiner-Abtei Benediktbeuern (Kempten–München 1910)</rs>; <rs type="bibl" key="bqbibl:r320">Thomas STOCKINGER, War Karl Meichelbeck ein "deutscher Mauriner"?, in: Europäische Geschichtskulturen um 1700 zwischen Gelehrsamkeit, Politik und Konfession, hg. von Thomas WALLNIG–Thomas STOCKINGER–Ines PEPER–Patrick FISKA (Berlin–Boston 2012) 135–168</rs>.
+                        Zu Steinbacher: <rs type="bibl" key="bqbibl:r766">Joseph SÄCHERL, Chronik des Benediktiner-Klosters Frauenzell nebst geschichtlichen Nachrichten über Brennberg, Bruckbach, Siegenstein und Süßenbach, Altenthan, Pettenreut, Arrach, Zell, Martins-Neukirchen, Marienstein und Hetzenbach. Verhandlungen des historischen Vereines von Oberpfalz und Regensburg 15 (1853) 257–466</rs>. 
+                        Zu Christmann: <rs type="bibl" key="bqbibl:r849">Günter GARSTENAUER, Beiträge zur Geschichte des Klosters Garsten und der Stadt Steyr, 2: P. Ernest Koch. Biographien. Biographische Denkmäler vom aufgehobenen Stifte Steyr-Garsten getreulich und mühsam aus verschiedenen Dokumenten von einem Ordensprofessen daselbst gesammelt. 1803. Textquelle: Oberösterreichisches Landesarchiv, Stiftsarchiv Garsten, HS 76 und 76a (Sierning 2011)</rs>. 
+                        Zu Ringmayr: <rs type="bibl" key="bqbibl:r593">Pirmin LINDNER, Fünf Professbücher süddeutscher Benediktiner-Abteien. Beiträge zu einem Monasticon-benedictinum Germaniae, 1: Professbuch der Benediktiner-Abtei Wessobrunn (Kempten–München 1909)</rs>.</bibl>
+                  </listBibl>
+                  
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="RNA">Werke</classCode>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="s429964" n="1r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/429964.tif"/>
+      </surface>
+      <surface xml:id="s429965" n="1v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/429965.tif"/>
+      </surface>
+      <surface xml:id="s429966" n="2r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/429966.tif"/>
+      </surface>
+      <surface xml:id="s429967" n="2v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/429967.tif"/>
+      </surface>
+      <surface xml:id="s429968" n="3r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/429968.tif"/>
+      </surface>
+      <surface xml:id="s429969" n="3v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/429969.tif"/>
+      </surface>
+      <surface xml:id="s429970" n="4r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/429970.tif"/>
+      </surface>
+      <surface xml:id="s429971" n="4v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/429971.tif"/>
+      </surface>
+      <surface xml:id="s429972" n="5r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/429972.tif"/>
+      </surface>
+      <surface xml:id="s429973" n="5v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/429973.tif"/>
+      </surface>
+      <surface xml:id="s429974" n="6r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/429974.tif"/>
+      </surface>
+      <surface xml:id="s429975" n="6v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/429975.tif"/>
+      </surface>
+   </facsimile>
+</TEI>

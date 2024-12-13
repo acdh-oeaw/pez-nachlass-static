@@ -1,0 +1,115 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_422295.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Manuskript über die Kongregationen im Benediktinerorden</title>
+            <title type="sub">Digital object description</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <idno type="unidam-verz_einh">455</idno>
+         <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-64F9-9</idno></publicationStmt>
+         <sourceDesc>
+            <msDesc xml:lang="de">
+               <msIdentifier>
+                  <country>Österreich</country>
+                  <settlement>Melk</settlement>
+                  <institution>Benediktiner-Stift</institution>
+                  <repository>Stiftsarchiv</repository>
+                  <idno>Kt. 85 Varia 22 Faszikel 1 Nr. 15</idno>
+               </msIdentifier>
+               <msContents>
+                  <summary>Abhandlung über die Kongregationen im Benediktinerorden, Denkschrift für den Prälaten von Admont, Hand Mayer. Deutscher Titel von Katschthaler.</summary>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <foliation>1r–10v.</foliation>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <date notBefore="1800-01-01" notAfter="1899-12-31">19. Jh.</date>
+                     <note>Im Zusammenhang mit der Pez-Forschung im 19. Jahrhundert.</note>
+                  </origin>
+               </history>
+               <additional>
+                  <listBibl>
+                     <bibl>Zu Mayer: <rs type="bibl" key="bqbibl:r065">Catalogus religiosorum ordinis S.P. Benedicti in monasterio Mellicensi (Wien 1855)</rs>. Zu Katschthaler: <rs type="bibl" key="bqbibl:r068">Catalogus religiosorum ordinis S.P. Benedicti in monasterio Mellicensi (Wien 1889)</rs>;
+                        <rs type="bibl" key="bqbibl:r077">Directorium officii divini Benedictino Mellicense (Melk 1922–1947)</rs>;
+                        <rs type="bibl" key="bqbibl:r010">900 Jahre Benediktiner in Melk. Jubiläumsausstellung 1989, Stift Melk, hg. von Ernst BRUCKMÜLLER–Burkhard ELLEGAST–Erwin ROTTER (Melk 1989)</rs>. Zu den Kongregationen vgl. die Beiträge in: <rs type="bibl" key="bqbibl:r233">Germania Benedictina, 1: Die Reformverbände und Kongregationen der Benediktiner im deutschen Sprachraum, hg. von Ulrich FAUST–Franz QUARTHAL (St. Ottilien 1999)</rs>. Zu Admont: <rs type="bibl" key="bqbibl:r279">Hannes P. NASCHENWENG, Admont, in: Germania Benedictina, 3/1: Die benediktinischen Mönchs- und Nonnenklöster in Österreich und Südtirol, hg. von Ulrich FAUST–Waltraud KRASSNIG (St. Ottilien 2000) 71–188</rs>.</bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="RNA">Sammlungen und Objekte</classCode>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="s422295" n="1r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/422295.tif"/>
+      </surface>
+      <surface xml:id="s422296" n="1v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/422296.tif"/>
+      </surface>
+      <surface xml:id="s422297" n="2r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/422297.tif"/>
+      </surface>
+      <surface xml:id="s422298" n="2v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/422298.tif"/>
+      </surface>
+      <surface xml:id="s422299" n="3r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/422299.tif"/>
+      </surface>
+      <surface xml:id="s422300" n="3v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/422300.tif"/>
+      </surface>
+      <surface xml:id="s422301" n="4r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/422301.tif"/>
+      </surface>
+      <surface xml:id="s422302" n="4v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/422302.tif"/>
+      </surface>
+      <surface xml:id="s422303" n="5r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/422303.tif"/>
+      </surface>
+      <surface xml:id="s422304" n="5v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/422304.tif"/>
+      </surface>
+      <surface xml:id="s422305" n="6r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/422305.tif"/>
+      </surface>
+      <surface xml:id="s422306" n="6v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/422306.tif"/>
+      </surface>
+      <surface xml:id="s422307" n="7r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/422307.tif"/>
+      </surface>
+      <surface xml:id="s422308" n="7v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/422308.tif"/>
+      </surface>
+      <surface xml:id="s422309" n="8r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/422309.tif"/>
+      </surface>
+      <surface xml:id="s422310" n="8v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/422310.tif"/>
+      </surface>
+      <surface xml:id="s422311" n="9r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/422311.tif"/>
+      </surface>
+      <surface xml:id="s422312" n="9v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/422312.tif"/>
+      </surface>
+      <surface xml:id="s422313" n="10r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/422313.tif"/>
+      </surface>
+      <surface xml:id="s422314" n="10v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/422314.tif"/>
+      </surface>
+   </facsimile>
+</TEI>

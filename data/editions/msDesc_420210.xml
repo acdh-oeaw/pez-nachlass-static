@@ -1,0 +1,112 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_420210.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Briefauszüge: Martène und Durand an BP</title>
+            <title type="sub">Digital object description</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <idno type="unidam-verz_einh">396</idno>
+         <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-6409-8</idno></publicationStmt><notesStmt><note type="relatedCorrespondences">Martène an BP: 1717-07-09, 1717-09-23, 1718-04-21, 1720 (?), 1731-06-21, 1732-03-14, 1732-12-29. Durand an BP: 1729-03-12, 1729-06-08, 1730-04-12, 1730-11-27, 1732-04-25.</note></notesStmt>
+         <sourceDesc>
+            <msDesc xml:lang="de">
+               <msIdentifier>
+                  <country>Österreich</country>
+                  <settlement>Melk</settlement>
+                  <institution>Benediktiner-Stift</institution>
+                  <repository>Stiftsarchiv</repository>
+                  <idno>Kt. 07 Patres 11 Faszikel 1 Nr. 80 </idno>
+               </msIdentifier>
+               <msContents>
+                  <summary>Auszüge aus den Briefen Martène und Durand an BP, Hand Mayer. Datierungen teilweise irrig.</summary>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <foliation>1r–8v.</foliation>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <date notBefore="1800-01-01" notAfter="1899-12-31">19. Jh.</date>
+                     <note>Im Zusammenhang mit der Pez-Forschung im 19. Jahrhundert.</note>
+                  </origin>
+               </history>
+               <additional>
+                  <listBibl>
+                     <bibl>Zu Mayer: <rs type="bibl" key="bqbibl:r065">Catalogus religiosorum
+                           ordinis S.P. Benedicti in monasterio Mellicensi (Wien 1855)</rs>.</bibl>
+                     <bibl>Zu Briefen: <rs type="bibl" key="bqbibl:r018">Christine GLASSNER,
+                           Verzeichnis der im Nachlass der Melker Historiker Bernhard und Hieronymus
+                           Pez erhaltenen Briefe. SMGB 110 (1999) 195–243</rs>.</bibl>
+                     <bibl>Zu Maurinern: <rs type="bibl" key="bqbibl:r207">Yves CHAUSSY, Matricula
+                           Monachorum Professorum Congregationis S. Mauri in Gallia Ordinis Sancti
+                           Patris Benedicti (Bibliothèque d’histoire et d’archéologie chrétiennes,
+                           Paris 1959)</rs>; <rs type="bibl" key="bqbibl:r218">Jean-Baptiste VANEL,
+                           Les Bénédictins de Saint-Maur à Saint-Germain-des-Prés 1630–1792.
+                           Nécrologe des religieux de la Congrégation de Saint-Maur décédés à
+                           l’Abbaye de Saint-Germain-des-Prés (Paris 1896)</rs>.</bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="RNA">Korrespondenzen</classCode>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="s420210" n="1r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/420210.tif"/>
+      </surface>
+      <surface xml:id="s420211" n="1v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/420211.tif"/>
+      </surface>
+      <surface xml:id="s420212" n="2r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/420212.tif"/>
+      </surface>
+      <surface xml:id="s420213" n="2v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/420213.tif"/>
+      </surface>
+      <surface xml:id="s420214" n="3r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/420214.tif"/>
+      </surface>
+      <surface xml:id="s420215" n="3v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/420215.tif"/>
+      </surface>
+      <surface xml:id="s420216" n="4r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/420216.tif"/>
+      </surface>
+      <surface xml:id="s420217" n="4v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/420217.tif"/>
+      </surface>
+      <surface xml:id="s420218" n="5r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/420218.tif"/>
+      </surface>
+      <surface xml:id="s420219" n="5v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/420219.tif"/>
+      </surface>
+      <surface xml:id="s420220" n="6r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/420220.tif"/>
+      </surface>
+      <surface xml:id="s420221" n="6v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/420221.tif"/>
+      </surface>
+      <surface xml:id="s420222" n="7r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/420222.tif"/>
+      </surface>
+      <surface xml:id="s420223" n="7v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/420223.tif"/>
+      </surface>
+      <surface xml:id="s420224" n="8r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/420224.tif"/>
+      </surface>
+      <surface xml:id="s420225" n="8v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/420225.tif"/>
+      </surface>
+   </facsimile>
+</TEI>

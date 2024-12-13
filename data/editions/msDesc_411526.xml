@@ -1,0 +1,66 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_411526.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Notizen: "Reflexions sur les remarques que Mr. de Valois a pris la peine de faire sur l’Histoire de N. D. de Soissons qu’il a lüe manuscrite, et sur la lettre qu’il a écrite le 30 de Novembre 1675 a D. J. Mabillon sur le sujet de cette histoire"</title>
+            <title type="sub">Digital object description</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <idno type="unidam-verz_einh">170</idno>
+         <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-6457-0</idno></publicationStmt>
+         <sourceDesc>
+            <msDesc xml:lang="de">
+               <msIdentifier>
+                  <country>Österreich</country>
+                  <settlement>Melk</settlement>
+                  <institution>Benediktiner-Stift</institution>
+                  <repository>Stiftsarchiv</repository>
+                  <idno>Kt. 07 Patres 09 Faszikel 2 Nr. 70 </idno>
+               </msIdentifier>
+               <msContents>
+                  <summary>Überlegungen Germains über Anmerkungen Valois' zu seiner Histoire de l'Abbaye royale de Notre-dame de Soissons (Paris 1675), die Valois auch in einem Brief an Mabillon (1675-11-30) angebracht hat. Das Stück steht möglicherweise in Zusammenhang mit BPs Paris-Aufenthalt 1728 und stammt von der Hand eines Mauriners. </summary>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <foliation>1r–2v.</foliation>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <date notBefore="1694-01-01">nach 1694</date>
+                     <note>Germain ist 1694 gestorben.</note>
+                  </origin>
+               </history>
+               <additional>
+                  <listBibl>
+                     <bibl>Zu Maurinern: <rs type="bibl" key="bqbibl:r207">Yves CHAUSSY, Matricula Monachorum Professorum Congregationis S. Mauri in Gallia Ordinis Sancti Patris Benedicti (Bibliothèque d’histoire et d’archéologie chrétiennes, Paris 1959)</rs>;
+                        <rs type="bibl" key="bqbibl:r211">Dom Martène. Histoire de la congrégation de Saint-Maur, hg. von Gaston CHARVIN (Archives de la France monastique 31–35, 42–43, 46–48, 10 Bde., Ligugé–Paris 1928–1954)</rs>. Brief kommt nicht vor in: <rs type="bibl" key="bqbibl:r214">Henri LECLERCQ, Mabillon (2 Bde., Paris 1953–1957)</rs>. Zur Kontroverse: <rs type="bibl" key="bqbibl:r216">Blandine BARRET-KRIEGEL, Jean Mabillon (Les historiens et la monarchie 1, Paris 1988)</rs>.</bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="RNA">Sammlungen und Objekte</classCode>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="s411526" n="1r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/411526.tif"/>
+      </surface>
+      <surface xml:id="s411527" n="1v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/411527.tif"/>
+      </surface>
+      <surface xml:id="s411528" n="2r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/411528.tif"/>
+      </surface>
+      <surface xml:id="s411529" n="2v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/411529.tif"/>
+      </surface>
+   </facsimile>
+</TEI>

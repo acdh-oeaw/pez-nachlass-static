@@ -1,0 +1,77 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_419843.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Briefauszüge: Nickel und Wiesmayr an HP, Scheyb an HP (?), bio-bibliographische Notizen zu Franz Christoph Scheyb</title>
+            <title type="sub">Digital object description</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <idno type="unidam-verz_einh">371</idno>
+         <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-63F4-F</idno></publicationStmt><notesStmt><note type="relatedCorrespondences">Nickel an HP: 1747. Wiesmayr an HP: 1747-03-28. Scheyb an HP (?): 1752-06-26.</note></notesStmt>
+         <sourceDesc>
+            <msDesc xml:lang="de">
+               <msIdentifier>
+                  <country>Österreich</country>
+                  <settlement>Melk</settlement>
+                  <institution>Benediktiner-Stift</institution>
+                  <repository>Stiftsarchiv</repository>
+                  <idno>Kt. 07 Patres 11 Faszikel 1 Nr. 55 </idno>
+               </msIdentifier>
+               <msContents>
+                  <summary>Auszüge aus jeweils einem Brief Nickel und Wiesmayr an HP sowie Scheyb (vermutlich auch) an HP; danach bio-bibliographische Notizen zu Scheyb, Hand Mayer.</summary>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <foliation>1r–2v.</foliation>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <date notBefore="1800-01-01" notAfter="1899-12-31">19. Jh.</date>
+                     <note>Im Zusammenhang mit der Pez-Forschung im 19. Jahrhundert.</note>
+                  </origin>
+               </history>
+               <additional>
+                  <listBibl>
+                     <bibl>Zu Mayer: <rs type="bibl" key="bqbibl:r065">Catalogus religiosorum
+                           ordinis S.P. Benedicti in monasterio Mellicensi (Wien 1855)</rs>.</bibl>
+                     <bibl>Zu Briefen an HP: <rs type="bibl" key="bqbibl:r034">Irene RABL, Briefe an
+                           Hieronymus Pez OSB aus seinem Nachlass im Stiftsarchiv Melk, Karton 7/13:
+                           Verzeichnis und Kurzbiographien der Korrespondenzpartner. SMGB 122 (2011)
+                           327–367</rs>.</bibl>
+                     <bibl>Zu Scheyb: <rs type="bibl" key="bqbibl:r698">Irene HOLZER, Franz
+                           Christoph von Scheyb (1704–1774). Leben und Werk. Ein Beitrag zur
+                           süddeutsch-österreichischen Aufklärung (ungedr. phil. Diss., Wien
+                           1976)</rs>.</bibl>
+                     <bibl>Scheyb-Brief kommt nicht vor in: <rs type="bibl" key="bqbibl:r018">Christine GLASSNER, Verzeichnis der im Nachlass der Melker Historiker
+                           Bernhard und Hieronymus Pez erhaltenen Briefe. SMGB 110 (1999)
+                           195–243</rs>.</bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="RNA">Korrespondenzen</classCode>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="s419843" n="1r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/419843.tif"/>
+      </surface>
+      <surface xml:id="s419844" n="1v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/419844.tif"/>
+      </surface>
+      <surface xml:id="s419845" n="2r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/419845.tif"/>
+      </surface>
+      <surface xml:id="s419846" n="2v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/419846.tif"/>
+      </surface>
+   </facsimile>
+</TEI>

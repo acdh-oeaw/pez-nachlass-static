@@ -1,0 +1,93 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_417254.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Manuskript: Lombard, "Historiae Laurentinae specimen" </title>
+            <title type="sub">Digital object description</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <idno type="unidam-verz_einh">305</idno>
+         <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-64B0-A</idno></publicationStmt>
+         <sourceDesc>
+            <msDesc xml:lang="de">
+               <msIdentifier>
+                  <country>Österreich</country>
+                  <settlement>Melk</settlement>
+                  <institution>Benediktiner-Stift</institution>
+                  <repository>Stiftsarchiv</repository>
+                  <idno>Kt. 07 Patres 10 Faszikel 8 Nr. 44</idno>
+               </msIdentifier>
+               <msContents>
+                  <summary>Hausgeschichte Lombards zu St.-Laurent "Historiae Laurentinae specimen". Am Ende wohl unvollständig. Vgl. auch Materialien zu St.-Laurent in Karton 7 Patres 10, Fasz. 8, Nr. 41, 42 und 43 sowie StiB Melk, Cod. 602.</summary>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <foliation>1r–6v.</foliation>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <date when="1724-01-01">1724</date>
+                     <note/>
+                  </origin>
+               </history>
+               <additional>
+                  <listBibl>
+                     <bibl>Zu Lombard: <rs type="bibl" key="bqbibl:r404">John VAN ENGEN, Rupert von Deutz und das sogenannte Chronicon sancti Laurentii Leodiensis. Zur Geschichte des Investiturstreites in Lüttich. Deutsches Archiv für Erforschung des Mittelalters 35 (1979) 33–81</rs>.
+                        <rs type="bibl" key="bqbibl:r406">Ludwig HAMMERMAYER, Die Forschungszentren der deutschen Benediktiner und ihre Vorhaben, in: Historische Forschung im 18. Jahrhundert: Organisation, Zielsetzung, Ergebnisse. 12. Deutsch-Französisches Historikerkolloquium des Deutschen Historischen Instituts Paris, hg. von Karl HAMMER–Jürgen VOSS (Pariser Historische Studien 13, Bonn 1976) 122–191</rs>;
+                        <rs type="bibl" key="bqbibl:r409">Hubert SILVESTRE, Le Chronicon Sancti Laurentii Leodiensis, dit de Rupert de Deutz: étude critique (Recueil de travaux d’histoire et de philologie 43, Löwen 1952)</rs>. Zu Brief: <rs type="bibl" key="bqbibl:r018">Christine GLASSNER, Verzeichnis der im Nachlass der Melker Historiker Bernhard und Hieronymus Pez erhaltenen Briefe. SMGB 110 (1999) 195–243</rs>.
+                        <rs type="bibl" key="bqbibl:r756">Hubert SILVESTRE, Concernant la première édition des oeuvres de Renier de Saint-Laurent: deux lettres de Dom C. Lombard à Dom B. Pez. Revue Bénédictine 60 (1950) 208–214</rs>. Zu St.-Laurent und zur Bibliothek: <rs type="bibl" key="bqbibl:r403">Ursmer BERLIÈRE, Monasticon belge, 2: Province de Liège (Liège 1962)</rs>;
+                        <rs type="bibl" key="bqbibl:r408">F. PIROT, La bibliothèque de l’abbaye Saint-Laurent de Liège, in: Saint-Laurent de Liège. Eglise, abbaye et hôpital militaire, hg. von Rita LEJEUNE (Lüttich 1968) 125–136</rs>. Zu Cod. 602: <rs type="bibl" key="bqbibl:r019">Christine GLASSNER, Neuzeitliche Handschriften aus dem Nachlass der Brüder Bernhard und Hieronymus Pez in der Bibliothek des Benediktinerstiftes Melk (Österreichische Akademie der Wissenschaften, Philosophisch-historische Klasse. Denkschriften 372 = Veröffentlichungen der Kommission für Schrift- und Buchwesen des Mittelalters, Reihe IV 7, Wien 2008)</rs>.</bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="RNA">Sammlungen und Objekte</classCode>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="s417254" n="1r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/417254.tif"/>
+      </surface>
+      <surface xml:id="s417255" n="1v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/417255.tif"/>
+      </surface>
+      <surface xml:id="s417256" n="2r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/417256.tif"/>
+      </surface>
+      <surface xml:id="s417257" n="2v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/417257.tif"/>
+      </surface>
+      <surface xml:id="s417258" n="3r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/417258.tif"/>
+      </surface>
+      <surface xml:id="s417259" n="3v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/417259.tif"/>
+      </surface>
+      <surface xml:id="s417260" n="4r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/417260.tif"/>
+      </surface>
+      <surface xml:id="s417261" n="4v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/417261.tif"/>
+      </surface>
+      <surface xml:id="s417262" n="5r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/417262.tif"/>
+      </surface>
+      <surface xml:id="s417263" n="5v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/417263.tif"/>
+      </surface>
+      <surface xml:id="s417264" n="6r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/417264.tif"/>
+      </surface>
+      <surface xml:id="s417265" n="6v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/417265.tif"/>
+      </surface>
+   </facsimile>
+</TEI>

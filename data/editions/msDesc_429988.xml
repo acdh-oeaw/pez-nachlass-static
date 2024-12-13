@@ -1,0 +1,84 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_429988.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Bibliothekskatalog eines unbekannten Klosters (?)</title>
+            <title type="sub">Digital object description</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <idno type="unidam-verz_einh">645</idno>
+         <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-6582-D</idno></publicationStmt>
+         <sourceDesc>
+            <msDesc xml:lang="de">
+               <msIdentifier>
+                  <country>Österreich</country>
+                  <settlement>Melk</settlement>
+                  <institution>Benediktiner-Stift</institution>
+                  <repository>Stiftsarchiv</repository>
+                  <idno>Kt. 85 Varia 25 Faszikel 1 Nr. 41</idno>
+               </msIdentifier>
+               <msContents>
+                  <summary>Bibliothekskatalog eines unbekannten Klosters (?), mehrere Hände mit späteren Nachträgen, möglicherweise Liste von werken von Benediktinerschriftstellern. Hand Edlinger (?).</summary>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <foliation>1r–6v.</foliation>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <date notBefore="1713-01-01">nach 1713</date>
+                     <note>Jüngster Eintrag von 1713.</note>
+                  </origin>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="RNA">Sammlungen und Objekte</classCode>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="s429988" n="1r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/429988.tif"/>
+      </surface>
+      <surface xml:id="s429989" n="1v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/429989.tif"/>
+      </surface>
+      <surface xml:id="s429990" n="2r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/429990.tif"/>
+      </surface>
+      <surface xml:id="s429991" n="2v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/429991.tif"/>
+      </surface>
+      <surface xml:id="s429992" n="3r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/429992.tif"/>
+      </surface>
+      <surface xml:id="s429993" n="3v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/429993.tif"/>
+      </surface>
+      <surface xml:id="s429994" n="4r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/429994.tif"/>
+      </surface>
+      <surface xml:id="s429995" n="4v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/429995.tif"/>
+      </surface>
+      <surface xml:id="s429996" n="5r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/429996.tif"/>
+      </surface>
+      <surface xml:id="s429997" n="5v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/429997.tif"/>
+      </surface>
+      <surface xml:id="s429998" n="6r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/429998.tif"/>
+      </surface>
+      <surface xml:id="s429999" n="6v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/429999.tif"/>
+      </surface>
+   </facsimile>
+</TEI>

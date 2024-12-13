@@ -1,0 +1,71 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_424301.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Handschriftennotizen zu St. Gallen</title>
+            <title type="sub">Digital object description</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <idno type="unidam-verz_einh">521</idno>
+         <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-652D-F</idno></publicationStmt>
+         <sourceDesc>
+            <msDesc xml:lang="de">
+               <msIdentifier>
+                  <country>Österreich</country>
+                  <settlement>Melk</settlement>
+                  <institution>Benediktiner-Stift</institution>
+                  <repository>Stiftsarchiv</repository>
+                  <idno>Kt. 85 Varia 23 Faszikel 1 Nr. 20</idno>
+               </msIdentifier>
+               <msContents>
+                  <summary>Notizen zu St. Galler Handschriften, unterteilt in die Gebiete Hagiographie, Gesetzestexte, Metrik und Grammatik. Vermerk auf fol. 3v: "Ballet 1 fl. 12 x.".</summary>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <foliation>1r–3v.</foliation>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <date notBefore="1700-01-01" notAfter="1750-01-01">Erste Hälfte 18. Jahrhundert</date>
+                     <note>Undatiert.</note>
+                  </origin>
+               </history>
+               <additional>
+                  <listBibl>
+                     <bibl>Zu St. Gallen: <rs type="bibl" key="bqbibl:r521">Rudolf HENGGELER, Monasticon-Benedictinum Helvetiae, 1: Profeßbuch der fürstlichen Benediktinerabtei der Heiligen Gallus und Otmar zu St. Gallen (Zug o.J. [1929])</rs>. Zu St. Galler Handschriften: <rs type="bibl" key="bqbibl:r844">Gustav SCHERRER, Verzeichniss der Handschriften der Stiftsbibliothek von St. Gallen (Halle 1875)</rs>.</bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="RNA">Sammlungen und Objekte</classCode>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="s424301" n="1r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424301.tif"/>
+      </surface>
+      <surface xml:id="s424302" n="1v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424302.tif"/>
+      </surface>
+      <surface xml:id="s424303" n="2r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424303.tif"/>
+      </surface>
+      <surface xml:id="s424304" n="2v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424304.tif"/>
+      </surface>
+      <surface xml:id="s424305" n="3r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424305.tif"/>
+      </surface>
+      <surface xml:id="s424306" n="3v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424306.tif"/>
+      </surface>
+   </facsimile>
+</TEI>

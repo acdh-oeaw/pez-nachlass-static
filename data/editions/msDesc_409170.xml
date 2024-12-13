@@ -1,0 +1,76 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_409170.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Notizen, Werkskatalog zu Ziegelbauer</title>
+            <title type="sub">Digital object description</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <idno type="unidam-verz_einh">65</idno>
+         <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-6429-4</idno></publicationStmt>
+         <sourceDesc>
+            <msDesc xml:lang="de">
+               <msIdentifier>
+                  <country>Österreich</country>
+                  <settlement>Melk</settlement>
+                  <institution>Benediktiner-Stift</institution>
+                  <repository>Stiftsarchiv</repository>
+                  <idno>Kt. 07 Patres 09 Faszikel 1 Nr. 47 </idno>
+               </msIdentifier>
+               <msContents>
+                  <summary>Biographische Notizen und Werkskatalog zu Ziegelbauer, verfasst als Nachruf seitens der Olmützer Akademie vermutlich bald nach seinem Tod 1750.</summary>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <foliation>1r–3v.</foliation>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <date notBefore-iso="1750-01-01" notAfter-iso="1760-01-01">nach 1750</date>
+                     <note>Wohl kurz nach dessen Tod angelegt.</note>
+                  </origin>
+               </history>
+               <additional>
+                  <listBibl>
+                     <bibl>Zu Ziegelbauer: <rs type="bibl" key="bqbibl:r743">Martin RUF, P. Magnoald Ziegelbauer OSB (1688–1750). Ein Gelehrtenleben des Barocks. Ellwanger Jahrbuch 32 (1987/88) 85–108</rs>.</bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="RNA">Sammlungen und Objekte</classCode>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <listChange>
+            <change when-iso="2021-09-05" resp="#twallnig">added date</change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="s409170" n="1r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/409170.tif"/>
+      </surface>
+      <surface xml:id="s409171" n="1v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/409171.tif"/>
+      </surface>
+      <surface xml:id="s409172" n="2r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/409172.tif"/>
+      </surface>
+      <surface xml:id="s409173" n="2v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/409173.tif"/>
+      </surface>
+      <surface xml:id="s409174" n="3r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/409174.tif"/>
+      </surface>
+      <surface xml:id="s409175" n="3v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/409175.tif"/>
+      </surface>
+   </facsimile>
+</TEI>

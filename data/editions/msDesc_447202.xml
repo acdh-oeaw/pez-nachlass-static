@@ -1,0 +1,71 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_447202.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Exzerpt, Handschriftenkatalog von St. Emmeram zu Regensburg</title>
+            <title type="sub">Digital object description</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <idno type="unidam-verz_einh">747</idno>
+         <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-6666-D</idno></publicationStmt>
+         <sourceDesc>
+            <msDesc xml:lang="de">
+               <msIdentifier>
+                  <country>Österreich</country>
+                  <settlement>Melk</settlement>
+                  <institution>Benediktiner-Stift</institution>
+                  <repository>Stiftsarchiv</repository>
+                  <idno>Kt. 85 Varia 30 Faszikel 1 Nr. 08</idno>
+               </msIdentifier>
+               <msContents>
+                  <summary>Exzerpt aus dem Handschriftenkatalog von St. Emmeram zu Regensburg, Hand BP. Der Katalog wurde 1500 von Menger verfasst (= heute BStB München, Clm 14675). Vgl. 1. Teil des Katalogs in Karton 85 Varia 23, Fasz. 1, Nr. 35.</summary>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <foliation>9–14.</foliation>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <date notAfter="1735-03-28">Zu Lebzeiten BPs.</date>
+                     <note>Undatiert.</note>
+                  </origin>
+               </history>
+               <additional>
+                  <listBibl>
+                     <bibl>Zu Menger und seinem Katalog: <rs type="bibl" key="bqbibl:r514">Bernhard BISCHOFF, Mittelalterliche Studien. Ausgewählte Aufsätze zur Schriftkunde und Literaturgeschichte (3 Bde., Stuttgart 1966–1981)</rs>. Zu Clm 14675: <rs type="bibl" key="bqbibl:r879">Karl HALM–Georg von LAUBMANN–Wilhelm MEYER, Catalogus codicum manu scriptorum Bibliothecae Regiae Monacensis, 4/2: Catalogus codicum Latinorum Bibliothecae Regiae Monacensis. Secundum Andreae Schmelleri Indices, 2/2: Codices latinos (Clm) 11001–15028 complectens (München 1876)</rs>.</bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="RNA">Werke</classCode>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="s447202" n="9">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/447202.tif"/>
+      </surface>
+      <surface xml:id="s447203" n="10">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/447203.tif"/>
+      </surface>
+      <surface xml:id="s447204" n="11">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/447204.tif"/>
+      </surface>
+      <surface xml:id="s447205" n="12">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/447205.tif"/>
+      </surface>
+      <surface xml:id="s447206" n="13">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/447206.tif"/>
+      </surface>
+      <surface xml:id="s447207" n="14">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/447207.tif"/>
+      </surface>
+   </facsimile>
+</TEI>

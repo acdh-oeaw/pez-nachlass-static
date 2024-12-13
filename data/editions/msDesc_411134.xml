@@ -1,0 +1,61 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_411134.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Brief: Kinter an Katschthaler (?)</title>
+            <title type="sub">Digital object description</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <idno type="unidam-verz_einh">149</idno>
+         <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-6452-5</idno></publicationStmt>
+         <sourceDesc>
+            <msDesc xml:lang="de">
+               <msIdentifier>
+                  <country>Österreich</country>
+                  <settlement>Melk</settlement>
+                  <institution>Benediktiner-Stift</institution>
+                  <repository>Stiftsarchiv</repository>
+                  <idno>Kt. 07 Patres 09 Faszikel 2 Nr. 49 </idno>
+               </msIdentifier>
+               <msContents>
+                  <summary>Brief Kinter wohl an Katschthaler (Raigern, 1895-04-20). Sendet Briefkopien von Knauer zurück.</summary>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <foliation>1r–v.</foliation>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <date when="1895-04-20">1895-04-20</date>
+                     <note>Im Zusammenhang mit der Pez-Forschung um 1900.</note>
+                  </origin>
+               </history>
+               <additional>
+                  <listBibl>
+                     <bibl>Zu Raigern: <rs type="bibl" key="bqbibl:r461">Martin RUF, Die Geschichtsschreibung im Stift Raigern seit der Barockzeit und die Anfänge der "Studien und Mitteilungen", in: Tausend Jahre Benediktiner in den Klöstern Břevnov, Braunau und Rohr, hg. von Johannes HOFMANN (SMGB Erg.bd. 33, St. Ottilien 1993) 591–610</rs>. Zu Katschthaler: <rs type="bibl" key="bqbibl:r068">Catalogus religiosorum ordinis S.P. Benedicti in monasterio Mellicensi (Wien 1889)</rs>;
+                        <rs type="bibl" key="bqbibl:r077">Directorium officii divini Benedictino Mellicense (Melk 1922–1947)</rs>;
+                        <rs type="bibl" key="bqbibl:r010">900 Jahre Benediktiner in Melk. Jubiläumsausstellung 1989, Stift Melk, hg. von Ernst BRUCKMÜLLER–Burkhard ELLEGAST–Erwin ROTTER (Melk 1989)</rs>. Zum Schottenkloster: <rs type="bibl" key="bqbibl:r565">Cölestin RAPF–Heinrich FERENCZY, Wien, Schotten, in: Germania Benedictina, 3/3: Die benediktinischen Mönchs- und Nonnenklöster in Österreich und Südtirol, hg. von Ulrich FAUST–Waltraud KRASSNIG (St. Ottilien 2002) 779–817</rs>.</bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="RNA">Sammlungen und Objekte</classCode>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="s411134" n="1r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/411134.tif"/>
+      </surface>
+      <surface xml:id="s411135" n="1v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/411135.tif"/>
+      </surface>
+   </facsimile>
+</TEI>

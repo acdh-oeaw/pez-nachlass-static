@@ -1,0 +1,61 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_422757.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Bibliographische Notizen zu Bucelin</title>
+            <title type="sub">Digital object description</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <idno type="unidam-verz_einh">467</idno>
+         <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-6503-D</idno></publicationStmt>
+         <sourceDesc>
+            <msDesc xml:lang="de">
+               <msIdentifier>
+                  <country>Österreich</country>
+                  <settlement>Melk</settlement>
+                  <institution>Benediktiner-Stift</institution>
+                  <repository>Stiftsarchiv</repository>
+                  <idno>Kt. 85 Varia 22 Faszikel 2 Nr. 02</idno>
+               </msIdentifier>
+               <msContents>
+                  <summary>Bibliographische Notizen zu Bucelin.</summary>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <foliation>1r–v.</foliation>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <date notBefore="1800-01-01" notAfter="1899-12-31">19. Jh.</date>
+                     <note>Undatiert.</note>
+                  </origin>
+               </history>
+               <additional>
+                  <listBibl>
+                     <bibl>Zu Bucelin: <rs type="bibl" key="bqbibl:r220">Claudia Maria NEESEN, Gabriel Bucelin OSB (1599–1681). Leben und historiographisches Werk (Stuttgarter historische Studien zur Landes- und Wirtschaftsgeschichte 3, Ostfildern 2003)</rs>;
+                        <rs type="bibl" key="bqbibl:r221">Thomas STUMP, Pater Gabriel Bucelin, 1599–1681, in: Festschrift zur 900-Jahr-Feier des Klosters 1056–1956. Ein Beitrag zur Geistes- und Gütergeschichte der Abtei, hg. von Gebhard SPAHR (Weingarten 1956) 370–395</rs>;
+                        <rs type="bibl" key="bqbibl:r222">Alfons M. ZIMMERMANN, P. Gabriel Bucelin als Hagiograph des Benediktinerordens, in: Festschrift zur 900-Jahr-Feier des Klosters 1056–1956. Ein Beitrag zur Geistes- und Gütergeschichte der Abtei, hg. von Gebhard SPAHR (Weingarten 1956) 396–400</rs>.</bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="RNA">Sammlungen und Objekte</classCode>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="s422757" n="1r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/422757.tif"/>
+      </surface>
+      <surface xml:id="s422758" n="1v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/422758.tif"/>
+      </surface>
+   </facsimile>
+</TEI>

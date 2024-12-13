@@ -1,0 +1,84 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_410340.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Notizen, Werkskatalog zu Caramuel y Lobkowitz</title>
+            <title type="sub">Digital object description</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <idno type="unidam-verz_einh">85</idno>
+         <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-6437-4</idno></publicationStmt>
+         <sourceDesc>
+            <msDesc xml:lang="de">
+               <msIdentifier>
+                  <country>Österreich</country>
+                  <settlement>Melk</settlement>
+                  <institution>Benediktiner-Stift</institution>
+                  <repository>Stiftsarchiv</repository>
+                  <idno>Kt. 07 Patres 09 Faszikel 1 Nr. 67 </idno>
+               </msIdentifier>
+               <msContents>
+                  <summary>Biographie und systematischer Werkskatalog des Juan Caramuel y Lobkowitz. Biographie inc. "F. Joannes Caramuel Lobkowitz Laurentio Caramuele nobili Lutzemburgensi et domina Catharina Frissaea, Lobkowitziae clarae in Germania domus propagine, Matriti natus est 23. die Maii anno 1606. In pueritiae omnis mathematicarum artium amore ita vehementer exarsit etc." Werkskatalog: "Librorum editorum seriem dabimus ex catalogo, quem ipse confecit et sub rhythmicae initium evulgari curavit, ordine aliquantulum immutato. Latina haec sunt grammatici argumenti etc." Es folgen "Dialectici autem et philosophici", "Mathematici", "Theologici argumenti sunt sequentia", "Iuridica sive civilis sive canonici argumenti haec, aut iuridico-historica", "Historia sacra aut profana" und Bücher auf Spanisch. Dann ein Nachtrag: "De aliis nos ipse, cum Romae nunc sit, reddidit certiores".  Am Schluß noch einige Titel späterer Werke von anderer Hand hinzugefügt.</summary>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <foliation>1r–5v.</foliation>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <date notBefore="1671-12-31">nach 1671</date>
+                     <note>Biographie und Werkkatalog Stand von ca. 1671.</note>
+                  </origin>
+               </history>
+               <additional>
+                  <listBibl>
+                     <bibl>Zu Lobkowitz: <rs type="bibl" key="bqbibl:r746">Anselm Maria ALBAREDA, La Congregació benedictina de Montserrat a l’Austria i a la Bohèmia (segles XVIIè – XIXè). Analecta Montserratensia 5 (1922) 11–280</rs>;
+                        <rs type="bibl" key="bqbibl:r747">Julián VELARDE LOMBRAÑA, Juan Caramuel, vida y obra (Colección El Basilisco, Oviedo 1989)</rs>.</bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="RNA">Sammlungen und Objekte</classCode>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="s410340" n="1r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/410340.tif"/>
+      </surface>
+      <surface xml:id="s410341" n="1v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/410341.tif"/>
+      </surface>
+      <surface xml:id="s410342" n="2r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/410342.tif"/>
+      </surface>
+      <surface xml:id="s410343" n="2v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/410343.tif"/>
+      </surface>
+      <surface xml:id="s410344" n="3r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/410344.tif"/>
+      </surface>
+      <surface xml:id="s410345" n="3v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/410345.tif"/>
+      </surface>
+      <surface xml:id="s410346" n="4r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/410346.tif"/>
+      </surface>
+      <surface xml:id="s410347" n="4v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/410347.tif"/>
+      </surface>
+      <surface xml:id="s410348" n="5r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/410348.tif"/>
+      </surface>
+      <surface xml:id="s410349" n="5v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/410349.tif"/>
+      </surface>
+   </facsimile>
+</TEI>

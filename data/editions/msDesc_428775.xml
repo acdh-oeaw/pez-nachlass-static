@@ -1,0 +1,109 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_428775.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Manuskript: Abhandlung über die Berechnung der kirchlichen Feste </title>
+            <title type="sub">Digital object description</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <idno type="unidam-verz_einh">605</idno>
+         <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-6563-1</idno></publicationStmt>
+         <sourceDesc>
+            <msDesc xml:lang="de">
+               <msIdentifier>
+                  <country>Österreich</country>
+                  <settlement>Melk</settlement>
+                  <institution>Benediktiner-Stift</institution>
+                  <repository>Stiftsarchiv</repository>
+                  <idno>Kt. 85 Varia 25 Faszikel 1 Nr. 01</idno>
+               </msIdentifier>
+               <msContents>
+                  <summary>Abhandlung "Computus fratris Petri de Rosenheim" über die Berechnung der kirchlichen Feste, darin auch etliche Umrechnungstabellen. Pergament.</summary>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <foliation>1r–9v.</foliation>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <date notBefore="1418-01-01">nach 1418</date>
+                     <note>1418 wird Petrus von Rosenheim Prior in Melk, wo er bis 1426 als Reform-Prior, Cursor biblicus und Magister studentium tätig ist. </note>
+                  </origin>
+               </history>
+               <additional>
+                  <listBibl>
+                     <bibl>Zu Petrus von Rosenheim: <rs type="bibl" key="bqbibl:r014">Meta BRUCK, Profeßbuch des Klosters Melk, 1: 1418–1452. Die Äbte von 1418–1483. Stift Melk. Geschichte und Gegenwart 4 (1985) 79–202</rs>;
+                        <rs type="bibl" key="bqbibl:r032">Meta NIEDERKORN-BRUCK, Die Melker Reform im Spiegel der Visitationen (Mitteilungen des Instituts für Österreichische Geschichtsforschung Erg.bd. 30, Wien–München 1994)</rs>;
+                        <rs type="bibl" key="bqbibl:r874">Franz Xaver THOMA, Petrus von Rosenheim O. S. B. Ein Beitrag zur Melker Reformbewegung. SMGB 45 (1927) 94–222</rs>.</bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="RNA">Sammlungen und Objekte</classCode>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="s428775" n="1r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/428775.tif"/>
+      </surface>
+      <surface xml:id="s428776" n="1v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/428776.tif"/>
+      </surface>
+      <surface xml:id="s428777" n="2r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/428777.tif"/>
+      </surface>
+      <surface xml:id="s428778" n="2v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/428778.tif"/>
+      </surface>
+      <surface xml:id="s428779" n="3r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/428779.tif"/>
+      </surface>
+      <surface xml:id="s428780" n="3v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/428780.tif"/>
+      </surface>
+      <surface xml:id="s428781" n="4r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/428781.tif"/>
+      </surface>
+      <surface xml:id="s428782" n="4v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/428782.tif"/>
+      </surface>
+      <surface xml:id="s428783" n="5r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/428783.tif"/>
+      </surface>
+      <surface xml:id="s428784" n="5v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/428784.tif"/>
+      </surface>
+      <surface xml:id="s428785" n="6r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/428785.tif"/>
+      </surface>
+      <surface xml:id="s428786" n="6v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/428786.tif"/>
+      </surface>
+      <surface xml:id="s428787" n="7r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/428787.tif"/>
+      </surface>
+      <surface xml:id="s428788" n="7v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/428788.tif"/>
+      </surface>
+      <surface xml:id="s428789" n="8r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/428789.tif"/>
+      </surface>
+      <surface xml:id="s428790" n="8v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/428790.tif"/>
+      </surface>
+      <surface xml:id="s428791" n="9r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/428791.tif"/>
+      </surface>
+      <surface xml:id="s428792" n="9v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/428792.tif"/>
+      </surface>
+   </facsimile>
+</TEI>

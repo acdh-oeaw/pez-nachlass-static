@@ -1,0 +1,77 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_413143.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Abschrift eines Briefes, vermutlich Gerhochs von Reichersberg</title>
+            <title type="sub">Digital object description</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <idno type="unidam-verz_einh">236</idno>
+         <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-647E-5</idno></publicationStmt>
+         <sourceDesc>
+            <msDesc xml:lang="de">
+               <msIdentifier>
+                  <country>Österreich</country>
+                  <settlement>Melk</settlement>
+                  <institution>Benediktiner-Stift</institution>
+                  <repository>Stiftsarchiv</repository>
+                  <idno>Kt. 07 Patres 10 Faszikel 3 Nr. 39 </idno>
+               </msIdentifier>
+               <msContents>
+                  <summary>Abschrift eines Briefes, der Gerhoch von Reichersberg zugeschrieben werden kann und in ÖNB Wien, Cod. 1754 fol. 144r–149v (vormals Mondseer Cod.) überliefert ist. Auf der Abschrift ist vermerkt, dass der Brief in der Handschrift auf einen Brief Gerhochs an eine Unbekannte folgt, der mit "Rogas et rogando cogis filia in Christo karissima" (fol. 135r–144r) beginnt und den BP in seinem Thesaurus anecdotorum novissimus, 6 (Augsburg 1729) abgedruckt hat.</summary>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <foliation>1r–4v.</foliation>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <date notBefore="1700-01-01" notAfter="1750-01-01">Erste Hälfte 18. Jahrhundert</date>
+                     <note>Undatiert.</note>
+                  </origin>
+               </history>
+               <additional>
+                  <listBibl>
+                     <bibl>Zu dem unbekannten Brief: <rs type="bibl" key="bqbibl:r471">Peter CLASSEN, Gerhoch von Reichersberg. Eine Biographie mit einem Anhang über die Quellen, ihre handschriftliche Überlieferung und ihre Chronologie (Wiesbaden 1960) 463</rs>. Zum Thesaurus: <rs type="bibl" key="bqbibl:r019">Christine GLASSNER, Der "Thesaurus anecdotorum novissimus" des Melker Benediktiners Bernhard Pez. SMGB 113 (2002) 341–370</rs>. Zu Cod. 1754: <rs type="bibl" key="bqbibl:r768">Tabulae codicum manu scriptorum praeter graecos et orientales in Bibliotheca Palatina Vindobonensi asservatorum, 1: Cod. 1–2000, ed. Academia Caesarea Vindobonensis (Wien 1864)</rs>.</bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="RNA">Sammlungen und Objekte</classCode>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="s413143" n="1r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/413143.tif"/>
+      </surface>
+      <surface xml:id="s413144" n="1v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/413144.tif"/>
+      </surface>
+      <surface xml:id="s413145" n="2r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/413145.tif"/>
+      </surface>
+      <surface xml:id="s413146" n="2v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/413146.tif"/>
+      </surface>
+      <surface xml:id="s413147" n="3r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/413147.tif"/>
+      </surface>
+      <surface xml:id="s413148" n="3v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/413148.tif"/>
+      </surface>
+      <surface xml:id="s413149" n="4r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/413149.tif"/>
+      </surface>
+      <surface xml:id="s413150" n="4v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/413150.tif"/>
+      </surface>
+   </facsimile>
+</TEI>

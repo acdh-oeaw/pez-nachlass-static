@@ -1,0 +1,65 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_434099.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Briefabschrift: Gerhoch von Reichersberg an Bernhard von Clairvaux</title>
+            <title type="sub">Digital object description</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <idno type="unidam-verz_einh">707</idno>
+         <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-65B6-3</idno></publicationStmt>
+         <sourceDesc>
+            <msDesc xml:lang="de">
+               <msIdentifier>
+                  <country>Österreich</country>
+                  <settlement>Melk</settlement>
+                  <institution>Benediktiner-Stift</institution>
+                  <repository>Stiftsarchiv</repository>
+                  <idno>Kt. 85 Varia 28 Faszikel 2 Nr. 19</idno>
+               </msIdentifier>
+               <msContents>
+                  <summary>Abschrift eines Briefes Gerhochs von Reichersberg an Bernhard von Clairvaux (aus 1147), wohl Hand Mayer, mit Anmerkungen. Laut Anmerkung auf fol. 1r war ein Cod. aus Ottobeuren Vorlage zu dieser Abschrift, Classen (vgl. Literaturfeld) nennt jedoch lediglich Cod. London, Brit. Mus. add. mss. 22634 und Cod. Melk 395.</summary>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <foliation>1r–2v.</foliation>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <date notBefore="1800-01-01" notAfter="1899-12-31">19. Jh.</date>
+                     <note>Wohl in Zusammenhang mit der Pez-Forschung im 19. Jahrhundert.</note>
+                  </origin>
+               </history>
+               <additional>
+                  <listBibl>
+                     <bibl>Zu Mayer: <rs type="bibl" key="bqbibl:r065">Catalogus religiosorum ordinis S.P. Benedicti in monasterio Mellicensi (Wien 1855)</rs>. Zu Gerhoch von Reichersberg und Brief an Bernhard von Clairvaux: <rs type="bibl" key="bqbibl:r471">Peter CLASSEN, Gerhoch von Reichersberg. Eine Biographie mit einem Anhang über die Quellen, ihre handschriftliche Überlieferung und ihre Chronologie (Wiesbaden 1960)</rs>.</bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="RNA">Sammlungen und Objekte</classCode>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="s434099" n="1r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/434099.tif"/>
+      </surface>
+      <surface xml:id="s434100" n="1v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/434100.tif"/>
+      </surface>
+      <surface xml:id="s434101" n="2r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/434101.tif"/>
+      </surface>
+      <surface xml:id="s434102" n="2v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/434102.tif"/>
+      </surface>
+   </facsimile>
+</TEI>

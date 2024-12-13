@@ -1,0 +1,101 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_434205.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Abschrift: Gerhoch von Reichersberg, "Libellus de ordine donorum Sancti Spiritus"</title>
+            <title type="sub">Digital object description</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <idno type="unidam-verz_einh">711</idno>
+         <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-65BA-F</idno></publicationStmt>
+         <sourceDesc>
+            <msDesc xml:lang="de">
+               <msIdentifier>
+                  <country>Österreich</country>
+                  <settlement>Melk</settlement>
+                  <institution>Benediktiner-Stift</institution>
+                  <repository>Stiftsarchiv</repository>
+                  <idno>Kt. 85 Varia 28 Faszikel 2 Nr. 23 </idno>
+               </msIdentifier>
+               <msContents>
+                  <summary>Abschrift "Libellus de ordine donorum Sancti Spiritus" von Gerhoch von Reichersberg, wohl Hand Mayer, mit Anmerkungen.</summary>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <foliation>1r–8v.</foliation>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <date notBefore="1800-01-01" notAfter="1899-12-31">19. Jh.</date>
+                     <note>Wohl in Zusammenhang mit der Pez-Forschung im 19. Jahrhundert.</note>
+                  </origin>
+               </history>
+               <additional>
+                  <listBibl>
+                     <bibl>Zu Mayer: <rs type="bibl" key="bqbibl:r065">Catalogus religiosorum ordinis S.P. Benedicti in monasterio Mellicensi (Wien 1855)</rs>. Zu Gerhoch von Reichersberg und "Libellus de ordine donorum Sancti Spiritus": <rs type="bibl" key="bqbibl:r471">Peter CLASSEN, Gerhoch von Reichersberg. Eine Biographie mit einem Anhang über die Quellen, ihre handschriftliche Überlieferung und ihre Chronologie (Wiesbaden 1960)</rs>.</bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="RNA">Sammlungen und Objekte</classCode>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="s434205" n="1r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/434205.tif"/>
+      </surface>
+      <surface xml:id="s434206" n="1v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/434206.tif"/>
+      </surface>
+      <surface xml:id="s434207" n="2r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/434207.tif"/>
+      </surface>
+      <surface xml:id="s434208" n="2v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/434208.tif"/>
+      </surface>
+      <surface xml:id="s434209" n="3r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/434209.tif"/>
+      </surface>
+      <surface xml:id="s434210" n="3v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/434210.tif"/>
+      </surface>
+      <surface xml:id="s434211" n="4r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/434211.tif"/>
+      </surface>
+      <surface xml:id="s434212" n="4v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/434212.tif"/>
+      </surface>
+      <surface xml:id="s434213" n="5r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/434213.tif"/>
+      </surface>
+      <surface xml:id="s434214" n="5v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/434214.tif"/>
+      </surface>
+      <surface xml:id="s434215" n="6r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/434215.tif"/>
+      </surface>
+      <surface xml:id="s434216" n="6v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/434216.tif"/>
+      </surface>
+      <surface xml:id="s434217" n="7r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/434217.tif"/>
+      </surface>
+      <surface xml:id="s434218" n="7v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/434218.tif"/>
+      </surface>
+      <surface xml:id="s434219" n="8r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/434219.tif"/>
+      </surface>
+      <surface xml:id="s434220" n="8v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/434220.tif"/>
+      </surface>
+   </facsimile>
+</TEI>

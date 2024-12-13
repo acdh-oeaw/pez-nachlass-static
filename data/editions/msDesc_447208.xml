@@ -1,0 +1,71 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_447208.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Manuskript: Fragmentarisches Konzept BPs zu Dissertatio apologetico-literaria</title>
+            <title type="sub">Digital object description</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <idno type="unidam-verz_einh">748</idno>
+         <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-6667-C</idno></publicationStmt>
+         <sourceDesc>
+            <msDesc xml:lang="de">
+               <msIdentifier>
+                  <country>Österreich</country>
+                  <settlement>Melk</settlement>
+                  <institution>Benediktiner-Stift</institution>
+                  <repository>Stiftsarchiv</repository>
+                  <idno>Kt. 85 Varia 30 Faszikel 1 Nr. 09</idno>
+               </msIdentifier>
+               <msContents>
+                  <summary>Fragmentarisches Konzept von BPs Dissertatio apologetico-literaria gegen "Angelus Fonteius", d. h. Gentilotti. Vgl. weiteres Fragment zur Dissertatio apologetico-literaria in Karton 7 Patres 9, Fasz. 1, Nr. 52.</summary>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <foliation>1r–3v.</foliation>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <date notBefore="1717-01-01">um 1717</date>
+                     <note/>
+                  </origin>
+               </history>
+               <additional>
+                  <listBibl>
+                     <bibl>Zur Auseinandersetzung zwischen BP und Gentilotti: <rs type="bibl" key="bqbibl:r187">Ines PEPER, Il carteggio erudito di Giovanni Benedetto Gentilotti d'Engelsbrunn (1672-1725), bibliotecario imperiale, in: Le carte vive. Epistolari e carteggi nel Settecento. Atti del primo Convegno internazionale di studi del Centro di Ricerca sugli Epistolari del Settecento, Verona, 4-6 dicembre 2008, hg. von Corrado VIOLA (Biblioteca del XVIII secolo 16, Roma 2011) 479–487</rs>.</bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="RNA">Werke</classCode>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="s447208" n="1r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/447208.tif"/>
+      </surface>
+      <surface xml:id="s447209" n="1v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/447209.tif"/>
+      </surface>
+      <surface xml:id="s447210" n="2r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/447210.tif"/>
+      </surface>
+      <surface xml:id="s447211" n="2v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/447211.tif"/>
+      </surface>
+      <surface xml:id="s447212" n="3r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/447212.tif"/>
+      </surface>
+      <surface xml:id="s447213" n="3v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/447213.tif"/>
+      </surface>
+   </facsimile>
+</TEI>

@@ -1,0 +1,101 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_416713.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Bibliothekskatalog zu St.-Allyre bei Clermont-Ferrand</title>
+            <title type="sub">Digital object description</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <idno type="unidam-verz_einh">267</idno>
+         <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-648D-3</idno></publicationStmt>
+         <sourceDesc>
+            <msDesc xml:lang="de">
+               <msIdentifier>
+                  <country>Österreich</country>
+                  <settlement>Melk</settlement>
+                  <institution>Benediktiner-Stift</institution>
+                  <repository>Stiftsarchiv</repository>
+                  <idno>Kt. 07 Patres 10 Faszikel 8 Nr. 06</idno>
+               </msIdentifier>
+               <msContents>
+                  <summary>Bibliothekskatalog "In Bibliotheca S. Illidii Claromontensis in Arvernia". Zu St.-Allyre vgl. auch Bibliothekskatalog in Karton 7 Patres 10, Fasz. 8, Nr. 10 sowie Handschriftenkataloge und -notizen in Karton 7 Patres 10, Fasz. 8, Nr. 11 und Karton 85 Varia 23, Fasz. 1, Nr. 47.</summary>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <foliation>1r–8v.</foliation>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <date notBefore="1666-01-01">nach 1666</date>
+                     <note>Jüngster Eintrag im Katalog von 1666.</note>
+                  </origin>
+               </history>
+               <additional>
+                  <listBibl>
+                     <bibl>Zu Handschriften von St.-Allyre: <rs type="bibl" key="bqbibl:r778">Camille COUDERC, Manuscrits de la bibliothèque de Clermont-Ferrand, in: Catalogue général des manuscrits des bibliothèques publiques des départements, 14 (Paris 1890) 1–213</rs>.</bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="RNA">Sammlungen und Objekte</classCode>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="s416713" n="1r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/416713.tif"/>
+      </surface>
+      <surface xml:id="s416714" n="1v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/416714.tif"/>
+      </surface>
+      <surface xml:id="s416715" n="2r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/416715.tif"/>
+      </surface>
+      <surface xml:id="s416716" n="2v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/416716.tif"/>
+      </surface>
+      <surface xml:id="s416717" n="3r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/416717.tif"/>
+      </surface>
+      <surface xml:id="s416718" n="3v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/416718.tif"/>
+      </surface>
+      <surface xml:id="s416719" n="4r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/416719.tif"/>
+      </surface>
+      <surface xml:id="s416720" n="4v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/416720.tif"/>
+      </surface>
+      <surface xml:id="s416721" n="5r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/416721.tif"/>
+      </surface>
+      <surface xml:id="s416722" n="5v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/416722.tif"/>
+      </surface>
+      <surface xml:id="s416723" n="6r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/416723.tif"/>
+      </surface>
+      <surface xml:id="s416724" n="6v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/416724.tif"/>
+      </surface>
+      <surface xml:id="s416725" n="7r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/416725.tif"/>
+      </surface>
+      <surface xml:id="s416726" n="7v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/416726.tif"/>
+      </surface>
+      <surface xml:id="s416727" n="8r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/416727.tif"/>
+      </surface>
+      <surface xml:id="s416728" n="8v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/416728.tif"/>
+      </surface>
+   </facsimile>
+</TEI>

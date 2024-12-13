@@ -1,0 +1,102 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_429212.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Bio-bibliographische Notizen zu Otloh von St. Emmeram und anderen benediktinischen Schriftstellern</title>
+            <title type="sub">Digital object description</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <idno type="unidam-verz_einh">635</idno>
+         <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-657A-8</idno></publicationStmt>
+         <sourceDesc>
+            <msDesc xml:lang="de">
+               <msIdentifier>
+                  <country>Österreich</country>
+                  <settlement>Melk</settlement>
+                  <institution>Benediktiner-Stift</institution>
+                  <repository>Stiftsarchiv</repository>
+                  <idno>Kt. 85 Varia 25 Faszikel 1 Nr. 31</idno>
+               </msIdentifier>
+               <msContents>
+                  <summary>Bio-bibliographische Notizen zu Othlo von St. Emmeram und anderen benediktinischen Schriftstellern (hauptsächlich aus St. Emmeram).</summary>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <foliation>1r–8v.</foliation>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <date notBefore="1700-01-01" notAfter="1750-01-01">Erste Hälfte 18. Jahrhundert</date>
+                     <note>Undatiert.</note>
+                  </origin>
+               </history>
+               <additional>
+                  <listBibl>
+                     <bibl>Zu St. Emmeram: <rs type="bibl" key="bqbibl:r513">Bernhard BISCHOFF, Literarisches und künstlerisches Leben in St. Emmeram während des frühen und hohen Mittelalters. SMGB 51 (1933) 102–142</rs>;
+                        <rs type="bibl" key="bqbibl:r515">Benedikt BRAUNMÜLLER, Reihe der Äbte von St. Emmeram in Regensburg. SMGB 4/2 (1883) 118–134</rs>. Zu Otloh von St. Emmeram: <rs type="bibl" key="bqbibl:r175">Hedwig RÖCKELEIN, Otloh von St. Emmeram, in: Lexikon des Mittelalters, 6 (München 1993) col. 1559–1560</rs>.</bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="RNA">Sammlungen und Objekte</classCode>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="s429212" n="1r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/429212.tif"/>
+      </surface>
+      <surface xml:id="s429213" n="1v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/429213.tif"/>
+      </surface>
+      <surface xml:id="s429214" n="2r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/429214.tif"/>
+      </surface>
+      <surface xml:id="s429215" n="2v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/429215.tif"/>
+      </surface>
+      <surface xml:id="s429216" n="3r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/429216.tif"/>
+      </surface>
+      <surface xml:id="s429217" n="3v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/429217.tif"/>
+      </surface>
+      <surface xml:id="s429218" n="4r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/429218.tif"/>
+      </surface>
+      <surface xml:id="s429219" n="4v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/429219.tif"/>
+      </surface>
+      <surface xml:id="s429220" n="5r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/429220.tif"/>
+      </surface>
+      <surface xml:id="s429221" n="5v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/429221.tif"/>
+      </surface>
+      <surface xml:id="s429222" n="6r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/429222.tif"/>
+      </surface>
+      <surface xml:id="s429223" n="6v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/429223.tif"/>
+      </surface>
+      <surface xml:id="s429224" n="7r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/429224.tif"/>
+      </surface>
+      <surface xml:id="s429225" n="7v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/429225.tif"/>
+      </surface>
+      <surface xml:id="s429226" n="8r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/429226.tif"/>
+      </surface>
+      <surface xml:id="s429227" n="8v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/429227.tif"/>
+      </surface>
+   </facsimile>
+</TEI>

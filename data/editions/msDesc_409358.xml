@@ -1,0 +1,113 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_409358.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Exzerpt aus Anatomia Societatis Jesu</title>
+            <title type="sub">Digital object description</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <idno type="unidam-verz_einh">76</idno>
+         <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-642F-E</idno></publicationStmt>
+         <sourceDesc>
+            <msDesc xml:lang="de">
+               <msIdentifier>
+                  <country>Österreich</country>
+                  <settlement>Melk</settlement>
+                  <institution>Benediktiner-Stift</institution>
+                  <repository>Stiftsarchiv</repository>
+                  <idno>Kt. 07 Patres 09 Faszikel 1 Nr. 58 </idno>
+               </msIdentifier>
+               <msContents>
+                  <summary>Exzerpt aus Anatomia Societatis Jesu seu Probatio spiritus Jesuitarum, item arcana imperii Jesuitarum etc. (o.O. 1642): Artificium Jesuiticum iuvenes in Societatem illicendi 99–102. Möglicherweise in Zusammenhang mit den Epistolae apologeticae. Vgl. auch Karton 7 Patres 9, Fasz. 1, Nr. 56, 57.</summary>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <foliation>1r–10v.</foliation>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <date when="1715-01-01">um 1715</date>
+                     <note>Undatiert.</note>
+                  </origin>
+               </history>
+               <additional>
+                  <listBibl>
+                     <bibl>Zu Epistolae apologeticae: <rs type="bibl" key="bqbibl:r040">Thomas WALLNIG, Die "Epistolae apologeticae pro ordine sancti Benedicti" von Bernhard Pez (1715). Beobachtungen und Personenregister, in: Vergangenheit und Vergegenwärtigung. Frühes Mittelalter und europäische Erinnerungskultur, hg. von Helmut REIMITZ–Bernhard ZELLER (Österreichische Akademie der Wissenschaften, Philosophisch-historische Klasse. Denkschriften 373 = Forschungen zur Geschichte des Mittelalters 14, Wien 2009) 9–30</rs>.</bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="RNA">Sammlungen und Objekte</classCode>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="s409358" n="1r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/409358.tif"/>
+      </surface>
+      <surface xml:id="s409359" n="1v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/409359.tif"/>
+      </surface>
+      <surface xml:id="s409360" n="2r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/409360.tif"/>
+      </surface>
+      <surface xml:id="s409361" n="2v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/409361.tif"/>
+      </surface>
+      <surface xml:id="s409362" n="3r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/409362.tif"/>
+      </surface>
+      <surface xml:id="s409363" n="3v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/409363.tif"/>
+      </surface>
+      <surface xml:id="s409364" n="4r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/409364.tif"/>
+      </surface>
+      <surface xml:id="s409365" n="4v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/409365.tif"/>
+      </surface>
+      <surface xml:id="s409366" n="5r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/409366.tif"/>
+      </surface>
+      <surface xml:id="s409367" n="5v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/409367.tif"/>
+      </surface>
+      <surface xml:id="s409368" n="6r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/409368.tif"/>
+      </surface>
+      <surface xml:id="s409369" n="6v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/409369.tif"/>
+      </surface>
+      <surface xml:id="s409370" n="7r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/409370.tif"/>
+      </surface>
+      <surface xml:id="s409371" n="7v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/409371.tif"/>
+      </surface>
+      <surface xml:id="s409372" n="8r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/409372.tif"/>
+      </surface>
+      <surface xml:id="s409373" n="8v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/409373.tif"/>
+      </surface>
+      <surface xml:id="s409374" n="9r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/409374.tif"/>
+      </surface>
+      <surface xml:id="s409375" n="9v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/409375.tif"/>
+      </surface>
+      <surface xml:id="s409376" n="10r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/409376.tif"/>
+      </surface>
+      <surface xml:id="s409377" n="10v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/409377.tif"/>
+      </surface>
+   </facsimile>
+</TEI>

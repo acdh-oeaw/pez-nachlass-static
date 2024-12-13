@@ -1,0 +1,69 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_406650.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Brief: Waldmüller an BP</title>
+            <title type="sub">Digital object description</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <idno type="unidam-verz_einh">22</idno>
+         <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-6385-C</idno></publicationStmt>
+         <sourceDesc>
+            <msDesc xml:lang="de">
+               <msIdentifier>
+                  <country>Österreich</country>
+                  <settlement>Melk</settlement>
+                  <institution>Benediktiner-Stift</institution>
+                  <repository>Stiftsarchiv</repository>
+                  <idno>Kt. 07 Patres 09 Faszikel 1 Nr. 06 </idno>
+               </msIdentifier>
+               <msContents>
+                  <summary>Brief (oder Briefabschrift) Waldmüller an BP. Ein Blatt "Notanda" (2r–2v), wohl Beilage dazu. Im Zusammenhang mit den "Capitula" von Teilen des Melker Konvents gegen Abt Dietmayr. Zu den "Capitula" vgl. auch Karton 3 Äbte 6, Fasz. 2.</summary>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <foliation>1r–2v.</foliation>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <date when="1723-01-21">1723-01-21</date>
+                     <note/>
+                  </origin>
+               </history>
+               <additional>
+                  <listBibl>
+                     <bibl>Der Brief scheint nicht auf bei: <rs type="bibl" key="bqbibl:r018">Christine GLASSNER, Verzeichnis der im Nachlass der Melker Historiker
+                           Bernhard und Hieronymus Pez erhaltenen Briefe. SMGB 110 (1999)
+                           195–243</rs>. </bibl>
+                     <bibl>Zu den "Capitula" des Melker Konvents: <rs type="bibl" key="bqbibl:r023">Hugo HANTSCH, Bernhard Pez und Abt Berthold Dietmayr (MIÖG 71, Wien
+                           1963) 128–139</rs>.</bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="RNA">Korrespondenzen</classCode>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="s406650" n="1r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/406650.tif"/>
+      </surface>
+      <surface xml:id="s406651" n="1v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/406651.tif"/>
+      </surface>
+      <surface xml:id="s406652" n="2r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/406652.tif"/>
+      </surface>
+      <surface xml:id="s406653" n="2v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/406653.tif"/>
+      </surface>
+   </facsimile>
+</TEI>

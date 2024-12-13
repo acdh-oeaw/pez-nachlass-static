@@ -1,0 +1,125 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_431692.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Deutsche Regesten zu Pez-Briefen</title>
+            <title type="sub">Digital object description</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <idno type="unidam-verz_einh">682</idno>
+         <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-6415-A</idno></publicationStmt><notesStmt><note type="relatedCorrespondences">Gentilotti an BP: 1712-08-17, 1714-09-26, 1715-02-23, 1715-03-27, 1715-04-17, 1715-07-15, 1715-11-30, 1716-01-04, 1716-07-04, 1716-10-31, 1716-11-14, 1721-11-01, 1722-01-17, 1722-02-07, 1722-02-28, 1722-03-28, 1722-06-20. Garelli an BP: 1720-10-19, 1725-08-04, 1729-01-23. Struve an BP: 1717-03-25. Buder an BP: 1722-07-01, 1722-11-20. Mencke an BP: 1719-12-01. Zeno an BP: 1722-09-23. Liebknecht an BP: 1734-04-14. Iselin: 1722-02-26. Meichelbeck an BP: 1715-12-19, 1717-10-20, 1718-01-05, 1718-03-22, 1720-09-02. 1721-12-12, 1723-07-30, 1725-03-27, 1731-04-05, 1732-03-11. Passionei an BP: 1722-01-12. Quirini an BP: 1731-03-20. Schannat an BP: 1721-03-22, 1721-03-30, 1721-04-06, 1721-04-18, 1721-06-16, 1721-08-10, 1721-08-13, 1721-10-25, 1721-12-12, 1722-02-13, 1722-07-21, 1722-10-23, 1722-11-17, 1723-07-20, 1724-01-28, 1725-08-03, 1725-12-07, 1726-02-15, 1726-03-15, 1726-07-19, 1727-09-23, 1730-02-25, 1730-09-01, 1732-12-15, 1733-12-05, 1734-12-07. Schwarz an BP: 1728-02-26. Spannagel an BP: 1730-07-07.</note></notesStmt>
+         <sourceDesc>
+            <msDesc xml:lang="de">
+               <msIdentifier>
+                  <country>Österreich</country>
+                  <settlement>Melk</settlement>
+                  <institution>Benediktiner-Stift</institution>
+                  <repository>Stiftsarchiv</repository>
+                  <idno>Kt. 85 Varia 25 Faszikel 1 Nr. 78 </idno>
+               </msIdentifier>
+               <msContents>
+                  <summary>Deutsche Regesten von Briefen meist weltlicher Gelehrter an BP, Hand Mayer? Datierungen teilweise irrig.</summary>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <foliation>1r–6v.</foliation>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <date notBefore="1800-01-01" notAfter="1899-12-31">19. Jh.</date>
+                     <note>Im Zusammenhang mit der Pez-Forschung im 19. Jahrhundert.</note>
+                  </origin>
+               </history>
+               <additional>
+                  <listBibl>
+                     <bibl>Zu Briefen: <rs type="bibl" key="bqbibl:r018">Christine GLASSNER,
+                           Verzeichnis der im Nachlass der Melker Historiker Bernhard und Hieronymus
+                           Pez erhaltenen Briefe. SMGB 110 (1999) 195–243</rs>.</bibl>
+                     <bibl>Zu Gentilotti, Struve, Buder, Mencke, Zeno, Passionei, Schannat,
+                        Spannagel: <rs type="bibl" key="bqbibl:r008">Stefan BENZ, Zwischen Tradition
+                           und Kritik. Katholische Geschichtsschreibung im barocken Heiligen
+                           Römischen Reich (Historische Studien 473, Husum 2003)</rs>.</bibl>
+                     <bibl>Zu Meichelbeck: <rs type="bibl" key="bqbibl:r320">Thomas STOCKINGER, War
+                           Karl Meichelbeck ein "deutscher Mauriner"?, in: Europäische
+                           Geschichtskulturen um 1700 zwischen Gelehrsamkeit, Politik und
+                           Konfession, hg. von Thomas WALLNIG–Thomas STOCKINGER–Ines PEPER–Patrick
+                           FISKA (Berlin–Boston 2012) 135–168</rs>.</bibl>
+                     <bibl>Zu Garelli: <rs type="bibl" key="bqbibl:r190">Laurenz STREBL, Die barocke
+                           Bibliothek (1663–1739), in: Geschichte der Österreichischen
+                           Nationalbibliothek, 1: Die Hofbibliothek (1368–1922), hg. von Josef
+                           STUMMVOLL (Museion. Veröffentlichungen der Österreichischen
+                           Nationalbibliothek N. F., Zweite Reihe: Allgemeine Veröffentlichungen
+                           3/1, Wien 1968) 163–217</rs>.</bibl>
+                     <bibl>Zu Liebknecht: <rs type="bibl" key="bqbibl:r198">Andreas KLEINERT,
+                           Naturwissenschaften und Mathematik in Gießen im 18. Jahrhundert, in:
+                           Form, Zahl, Ordnung: Studien zur Wissenschafts- und Technikgeschichte.
+                           Festschrift für Ivo SCHNEIDER zum 65. Geburtstag, hg. von Rudolf
+                           SEISING–Menso FOLKERTS–Ulf HASHAGEN (Boethius Band 48, Stuttgart 2004)
+                           563–576</rs>.</bibl>
+                     <bibl>Zu Iselin: <rs type="bibl" key="bqbibl:r196">Fritz HEITZ, Johann Rudolf
+                           Iselin 1705–1779. Ein Beitrag zur Geschichte der schweizerischen
+                           Historiographie des 18. Jahrhunderts (Basler Beiträge zur
+                           Geschichtswissenschaft 32, Basel 1949)</rs>.</bibl>
+                     <bibl>Zu Quirini: <rs type="bibl" key="bqbibl:r707">Friedrich LAUCHERT, Zu den
+                           wissenschaftlichen Bestrebungen des P. Oliverius Legipontius (O. S. B.).
+                           Seine Beziehungen zu dem Cardinal Angelo Maria Quirini (O. S. B.).
+                           Studien und Mittheilungen aus dem Benedictiner- und dem
+                           Cistercienser-Orden mit besonderer Berücksichtigung der Ordensgeschichte
+                           und Statistik 23 (1902) 432–439</rs>.</bibl>
+                     <bibl>Zu Schwarz: <rs type="bibl" key="bqbibl:r195">Gunda WERNER–Eleonore
+                           SCHMIDT-HERRLING, Die Bibliotheken der Universität Altdorf (Beiheft zum
+                           Zentralblatt für Bibliothekswesen 69, Wiesbaden 1968)</rs>.</bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="RNA">Korrespondenzen</classCode>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="s431692" n="1r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431692.tif"/>
+      </surface>
+      <surface xml:id="s431693" n="1v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431693.tif"/>
+      </surface>
+      <surface xml:id="s431694" n="2r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431694.tif"/>
+      </surface>
+      <surface xml:id="s431695" n="2v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431695.tif"/>
+      </surface>
+      <surface xml:id="s431696" n="3r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431696.tif"/>
+      </surface>
+      <surface xml:id="s431697" n="3v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431697.tif"/>
+      </surface>
+      <surface xml:id="s431698" n="4r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431698.tif"/>
+      </surface>
+      <surface xml:id="s431699" n="4v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431699.tif"/>
+      </surface>
+      <surface xml:id="s431700" n="5r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431700.tif"/>
+      </surface>
+      <surface xml:id="s431701" n="5v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431701.tif"/>
+      </surface>
+      <surface xml:id="s431702" n="6r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431702.tif"/>
+      </surface>
+      <surface xml:id="s431703" n="6v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/431703.tif"/>
+      </surface>
+   </facsimile>
+</TEI>

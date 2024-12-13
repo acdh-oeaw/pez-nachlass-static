@@ -1,0 +1,114 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_429329.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Manuskript: "De Petro Blesense"</title>
+            <title type="sub">Digital object description</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <idno type="unidam-verz_einh">640</idno>
+         <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-657F-3</idno></publicationStmt>
+         <sourceDesc>
+            <msDesc xml:lang="de">
+               <msIdentifier>
+                  <country>Österreich</country>
+                  <settlement>Melk</settlement>
+                  <institution>Benediktiner-Stift</institution>
+                  <repository>Stiftsarchiv</repository>
+                  <idno>Kt. 85 Varia 25 Faszikel 1 Nr. 36</idno>
+               </msIdentifier>
+               <msContents>
+                  <summary>Manuskript mit dem Titel "De Petro Blesense", beinhaltet eine Praefatio sowie Auszüge aus einigen Briefen des Petrus von Blois. Französische Hand.</summary>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <foliation>1r–10v.</foliation>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <date notBefore="1700-01-01" notAfter="1750-01-01">Erste Hälfte 18. Jahrhundert</date>
+                     <note>Undatiert.</note>
+                  </origin>
+               </history>
+               <additional>
+                  <listBibl>
+                     <bibl>Zu den Briefen: <rs type="bibl" key="bqbibl:r659">The late letters of Peter of Blois, ed. von Elizabeth REVELL (Auctores Britannici medii aevi 13, Oxford 1993)</rs>;
+                        <rs type="bibl" key="bqbibl:r660">Lena WAHLGREN, The letter collections of Peter of Blois. Studies in the manuscript tradition (Acta Universitatis Gothoburgensis: Studia Graeca et Latina Gothoburgensia 58, Göteborg 1993)</rs>.</bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="RNA">Sammlungen und Objekte</classCode>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="s429329" n="1r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/429329.tif"/>
+      </surface>
+      <surface xml:id="s429330" n="1v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/429330.tif"/>
+      </surface>
+      <surface xml:id="s429331" n="2r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/429331.tif"/>
+      </surface>
+      <surface xml:id="s429332" n="2v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/429332.tif"/>
+      </surface>
+      <surface xml:id="s429333" n="3r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/429333.tif"/>
+      </surface>
+      <surface xml:id="s429334" n="3v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/429334.tif"/>
+      </surface>
+      <surface xml:id="s429335" n="4r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/429335.tif"/>
+      </surface>
+      <surface xml:id="s429336" n="4v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/429336.tif"/>
+      </surface>
+      <surface xml:id="s429337" n="5r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/429337.tif"/>
+      </surface>
+      <surface xml:id="s429338" n="5v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/429338.tif"/>
+      </surface>
+      <surface xml:id="s429339" n="6r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/429339.tif"/>
+      </surface>
+      <surface xml:id="s429340" n="6v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/429340.tif"/>
+      </surface>
+      <surface xml:id="s429341" n="7r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/429341.tif"/>
+      </surface>
+      <surface xml:id="s429342" n="7v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/429342.tif"/>
+      </surface>
+      <surface xml:id="s429343" n="8r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/429343.tif"/>
+      </surface>
+      <surface xml:id="s429344" n="8v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/429344.tif"/>
+      </surface>
+      <surface xml:id="s429345" n="9r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/429345.tif"/>
+      </surface>
+      <surface xml:id="s429346" n="9v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/429346.tif"/>
+      </surface>
+      <surface xml:id="s429347" n="10r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/429347.tif"/>
+      </surface>
+      <surface xml:id="s429348" n="10v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/429348.tif"/>
+      </surface>
+   </facsimile>
+</TEI>

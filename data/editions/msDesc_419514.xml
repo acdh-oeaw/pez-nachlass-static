@@ -1,0 +1,89 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_419514.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Manuskript: Hausgeschichte von Rott am Inn</title>
+            <title type="sub">Digital object description</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <idno type="unidam-verz_einh">357</idno>
+         <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-6620-B</idno></publicationStmt><notesStmt><note type="relatedCorrespondences">Dullinger an BP: 1716-02-06.</note></notesStmt>
+         <sourceDesc>
+            <msDesc xml:lang="de">
+               <msIdentifier>
+                  <country>Österreich</country>
+                  <settlement>Melk</settlement>
+                  <institution>Benediktiner-Stift</institution>
+                  <repository>Stiftsarchiv</repository>
+                  <idno>Kt. 07 Patres 11 Faszikel 1 Nr. 41 </idno>
+               </msIdentifier>
+               <msContents>
+                  <summary>Hausgeschichte von Rott am Inn: "Monasterii Rotensis OSB in Superiore Bavaria anno 1073 fundati historica descriptio", nicht zu verwechseln mit dem Kloster St. Veit an der Rott, Hand Mayer. Das Original war eine Beilage zu Brief Dullinger an BP.</summary>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <foliation>1r–6v.</foliation>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <date notBefore="1800-01-01" notAfter="1899-12-31">19. Jh.</date>
+                     <note>Im Zusammenhang mit der Pez-Forschung im 19. Jahrhundert.</note>
+                  </origin>
+               </history>
+               <additional>
+                  <listBibl>
+                     <bibl>Zu Mayer: <rs type="bibl" key="bqbibl:r065">Catalogus religiosorum ordinis S.P. Benedicti in monasterio Mellicensi (Wien 1855)</rs>. Zu Rott am Inn: <rs type="bibl" key="bqbibl:r476">Martin RUF, Professbuch des Benediktinerstiftes Rott am Inn (SMGB Erg.bd. 32, St. Ottilien 1991)</rs>.</bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="RNA">Werke</classCode>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="s419514" n="1r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/419514.tif"/>
+      </surface>
+      <surface xml:id="s419515" n="1v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/419515.tif"/>
+      </surface>
+      <surface xml:id="s419516" n="2r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/419516.tif"/>
+      </surface>
+      <surface xml:id="s419517" n="2v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/419517.tif"/>
+      </surface>
+      <surface xml:id="s419518" n="3r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/419518.tif"/>
+      </surface>
+      <surface xml:id="s419519" n="3v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/419519.tif"/>
+      </surface>
+      <surface xml:id="s419520" n="4r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/419520.tif"/>
+      </surface>
+      <surface xml:id="s419521" n="4v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/419521.tif"/>
+      </surface>
+      <surface xml:id="s419522" n="5r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/419522.tif"/>
+      </surface>
+      <surface xml:id="s419523" n="5v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/419523.tif"/>
+      </surface>
+      <surface xml:id="s419524" n="6r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/419524.tif"/>
+      </surface>
+      <surface xml:id="s419525" n="6v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/419525.tif"/>
+      </surface>
+   </facsimile>
+</TEI>

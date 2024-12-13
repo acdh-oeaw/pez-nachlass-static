@@ -1,0 +1,126 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_425333.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Werkskatalog des Trithemius; Abschrift</title>
+            <title type="sub">Digital object description</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <idno type="unidam-verz_einh">566</idno>
+         <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-654D-B</idno></publicationStmt>
+         <sourceDesc>
+            <msDesc xml:lang="de">
+               <msIdentifier>
+                  <country>Österreich</country>
+                  <settlement>Melk</settlement>
+                  <institution>Benediktiner-Stift</institution>
+                  <repository>Stiftsarchiv</repository>
+                  <idno>Kt. 85 Varia 23 Faszikel 2 Nr. 08 </idno>
+               </msIdentifier>
+               <msContents>
+                  <summary>Werkskatalog des Trithemius mit dem Titel: "Libri Trithemii in annorum classes distributi iuxta computum continuatoris Chronici Sponheimensis". Nach dem Erscheinungs- bzw. Fertigstellungsjahr geordnet, beginnend 1484. Ab fol. 10r Abschrift des Werkskatalogs aus spätem 19. bzw. frühen 20. Jahrhundert, Hand Mayer.</summary>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <foliation>1r–12v.</foliation>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <date notBefore="1900-01-01">um 1900</date>
+                     <note>In Zusammenhang mit der Pez-Forschung um 1900.</note>
+                  </origin>
+               </history>
+               <additional>
+                  <listBibl>
+                     <bibl>Zu Mayer: <rs type="bibl" key="bqbibl:r065">Catalogus religiosorum ordinis S.P. Benedicti in monasterio Mellicensi (Wien 1855)</rs>. Zu Trithemius: <rs type="bibl" key="bqbibl:r499">Klaus ARNOLD, Johannes Trithemius (1462–1516) (Quellen und Forschungen zur Geschichte des Bistums und Hochstifts Würzburg 23, Würzburg 1991)</rs>;
+                        <rs type="bibl" key="bqbibl:r500">Ivo FISCHER, Der Nachlaß des Abtes Johannes Trithemius von St. Jakob in Würzburg. Archiv des Historischen Vereins von Unterfranken und Aschaffenburg 67 (1928) 41–82</rs>.</bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="RNA">Sammlungen und Objekte</classCode>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="s425333" n="1r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/425333.tif"/>
+      </surface>
+      <surface xml:id="s425334" n="1v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/425334.tif"/>
+      </surface>
+      <surface xml:id="s425335" n="2r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/425335.tif"/>
+      </surface>
+      <surface xml:id="s425336" n="2v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/425336.tif"/>
+      </surface>
+      <surface xml:id="s425337" n="3r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/425337.tif"/>
+      </surface>
+      <surface xml:id="s425338" n="3v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/425338.tif"/>
+      </surface>
+      <surface xml:id="s425339" n="4r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/425339.tif"/>
+      </surface>
+      <surface xml:id="s425340" n="4v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/425340.tif"/>
+      </surface>
+      <surface xml:id="s425341" n="5r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/425341.tif"/>
+      </surface>
+      <surface xml:id="s425342" n="5v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/425342.tif"/>
+      </surface>
+      <surface xml:id="s425343" n="6r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/425343.tif"/>
+      </surface>
+      <surface xml:id="s425344" n="6v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/425344.tif"/>
+      </surface>
+      <surface xml:id="s425345" n="7r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/425345.tif"/>
+      </surface>
+      <surface xml:id="s425346" n="7v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/425346.tif"/>
+      </surface>
+      <surface xml:id="s425347" n="8r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/425347.tif"/>
+      </surface>
+      <surface xml:id="s425348" n="8v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/425348.tif"/>
+      </surface>
+      <surface xml:id="s425349" n="9r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/425349.tif"/>
+      </surface>
+      <surface xml:id="s425350" n="9v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/425350.tif"/>
+      </surface>
+      <surface xml:id="s425351" n="10r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/425351.tif"/>
+      </surface>
+      <surface xml:id="s425352" n="10v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/425352.tif"/>
+      </surface>
+      <surface xml:id="s425353" n="11r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/425353.tif"/>
+      </surface>
+      <surface xml:id="s425354" n="11v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/425354.tif"/>
+      </surface>
+      <surface xml:id="s425355" n="12r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/425355.tif"/>
+      </surface>
+      <surface xml:id="s425356" n="12v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/425356.tif"/>
+      </surface>
+   </facsimile>
+</TEI>

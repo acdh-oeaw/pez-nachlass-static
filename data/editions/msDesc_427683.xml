@@ -1,0 +1,61 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_427683.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Manuskript: Abhandlung über das Alter des Mönchtums</title>
+            <title type="sub">Digital object description</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <idno type="unidam-verz_einh">600</idno>
+         <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-6562-2</idno></publicationStmt>
+         <sourceDesc>
+            <msDesc xml:lang="de">
+               <msIdentifier>
+                  <country>Österreich</country>
+                  <settlement>Melk</settlement>
+                  <institution>Benediktiner-Stift</institution>
+                  <repository>Stiftsarchiv</repository>
+                  <idno>Kt. 85 Varia 24 Faszikel 2 Nr. 13</idno>
+               </msIdentifier>
+               <msContents>
+                  <summary>Abhandlung über das Alter des Mönchtums mit dem Titel: "Reponse a la censure de ce qui est imprimé au commencement de l'abregé de l'histoire de l'ordre de St. Benoit touchant l'antiquité de l'etat monastique", am Ende unvollständig. Auf Französisch, französische Hand (wohl Mauriner).</summary>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <foliation>1r–v.</foliation>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <date notBefore="1700-01-01" notAfter="1750-01-01">Erste Hälfte 18. Jahrhundert</date>
+                     <note>Undatiert.</note>
+                  </origin>
+               </history>
+               <additional>
+                  <listBibl>
+                     <bibl>Zur Thematik: <rs type="bibl" key="bqbibl:r008">Stefan BENZ, Zwischen Tradition und Kritik. Katholische Geschichtsschreibung im barocken Heiligen Römischen Reich (Historische Studien 473, Husum 2003)</rs>;
+                        <rs type="bibl" key="bqbibl:r016">Patrick FISKA, Zu Leben und Werk des Melker Benediktiners Anselm Schramb (1658-1720). Mit der Edition seiner Briefkorrespondenz. SMGB 122 (2011) 201–306</rs>;
+                        <rs type="bibl" key="bqbibl:r873">Thomas STOCKINGER, Factualité historique, preuve juridique, autorité patristique: stratégies d'argumentation dans les controverses érudites en milieu ecclésiastique, in: Dom Jean Mabillon, figure majeure de l'Europe des lettres. Actes des deux colloques du tricentenaire de la mort de dom Mabillon, Abbaye de Solesmes, 18–19 mai 2007, Palais de l'Institut, Paris, 7–8 décembre 2007, hg. von Jean LECLANT–André VAUCHEZ–Daniel-Odon HUREL (Paris 2010) 709–733</rs>.</bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="RNA">Sammlungen und Objekte</classCode>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="s427683" n="1r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/427683.tif"/>
+      </surface>
+      <surface xml:id="s427684" n="1v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/427684.tif"/>
+      </surface>
+   </facsimile>
+</TEI>

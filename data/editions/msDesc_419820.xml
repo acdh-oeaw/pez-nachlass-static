@@ -1,0 +1,112 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_419820.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Briefauszüge: Hanthaler an BP und HP, Wieser an BP</title>
+            <title type="sub">Digital object description</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <idno type="unidam-verz_einh">370</idno>
+         <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-63F3-0</idno></publicationStmt><notesStmt><note type="relatedCorrespondences">Hanthaler an BP: 1723-09-21, 1723-10-10. Hanthaler an BP und HP: 1724-06-25. Hanthaler an HP: 1724-08-31, 1728-09-03, 1739-03-24, 1739-05-01, 1740-06-01, 1740-08-31, 1741-07-26, 1744-12-21, 1746-01-28, 1747-07-24, 1750-09-30. Wieser an BP: 1726-09-17.</note></notesStmt>
+         <sourceDesc>
+            <msDesc xml:lang="de">
+               <msIdentifier>
+                  <country>Österreich</country>
+                  <settlement>Melk</settlement>
+                  <institution>Benediktiner-Stift</institution>
+                  <repository>Stiftsarchiv</repository>
+                  <idno>Kt. 07 Patres 11 Faszikel 1 Nr. 54 </idno>
+               </msIdentifier>
+               <msContents>
+                  <summary>Auszüge aus den Briefen Hanthaler und Wieser an BP und HP, Hand Mayer. Datierungen teilweise irrig.</summary>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <foliation>1r–8v.</foliation>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <date notBefore="1800-01-01" notAfter="1899-12-31">19. Jh.</date>
+                     <note>Im Zusammenhang mit der Pez-Forschung im 19. Jahrhundert.</note>
+                  </origin>
+               </history>
+               <additional>
+                  <listBibl>
+                     <bibl>Zu Mayer: <rs type="bibl" key="bqbibl:r065">Catalogus religiosorum
+                           ordinis S.P. Benedicti in monasterio Mellicensi (Wien 1855)</rs>.</bibl>
+                     <bibl>Zu Hanthaler und Wieser: <rs type="bibl" key="bqbibl:r398">Eugen MÜLLER,
+                           Profeßbuch des Zisterzienserstiftes Lilienfeld (SMGB Erg.bd. 38, St.
+                           Ottilien 1996)</rs>.</bibl>
+                     <bibl>Zu Hanthaler-Briefen: <rs type="bibl" key="bqbibl:r399">Alkuin Volker
+                           SCHACHENMAYR, Chrysostomus Hanthalers Briefe an die Brüder Pez (ungedr.
+                           Magisterarbeit am Institut für Österreichische Geschichtsforschung, Wien
+                           2010)</rs>.</bibl>
+                     <bibl>Zu Wieser-Brief: <rs type="bibl" key="bqbibl:r018">Christine GLASSNER,
+                           Verzeichnis der im Nachlass der Melker Historiker Bernhard und Hieronymus
+                           Pez erhaltenen Briefe. SMGB 110 (1999) 195–243</rs>.</bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="RNA">Korrespondenzen</classCode>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="s419820" n="1r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/419820.tif"/>
+      </surface>
+      <surface xml:id="s419821" n="1v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/419821.tif"/>
+      </surface>
+      <surface xml:id="s419822" n="2r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/419822.tif"/>
+      </surface>
+      <surface xml:id="s419823" n="2v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/419823.tif"/>
+      </surface>
+      <surface xml:id="s419824" n="3r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/419824.tif"/>
+      </surface>
+      <surface xml:id="s419825" n="3v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/419825.tif"/>
+      </surface>
+      <surface xml:id="s419826" n="4r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/419826.tif"/>
+      </surface>
+      <surface xml:id="s419827" n="4v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/419827.tif"/>
+      </surface>
+      <surface xml:id="s419828" n="5r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/419828.tif"/>
+      </surface>
+      <surface xml:id="s419829" n="5v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/419829.tif"/>
+      </surface>
+      <surface xml:id="s419830" n="6r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/419830.tif"/>
+      </surface>
+      <surface xml:id="s419831" n="6v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/419831.tif"/>
+      </surface>
+      <surface xml:id="s419832" n="7r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/419832.tif"/>
+      </surface>
+      <surface xml:id="s419833" n="7v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/419833.tif"/>
+      </surface>
+      <surface xml:id="s419834" n="8r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/419834.tif"/>
+      </surface>
+      <surface xml:id="s419835" n="8v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/419835.tif"/>
+      </surface>
+   </facsimile>
+</TEI>

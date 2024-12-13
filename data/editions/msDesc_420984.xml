@@ -1,0 +1,59 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_420984.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Schriftstellerkatalog von Niederaltaich</title>
+            <title type="sub">Digital object description</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <idno type="unidam-verz_einh">419</idno>
+         <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-64E2-2</idno></publicationStmt><notesStmt><note type="relatedCorrespondences">Haiden an BP: 1711-05-01.</note></notesStmt>
+         <sourceDesc>
+            <msDesc xml:lang="de">
+               <msIdentifier>
+                  <country>Österreich</country>
+                  <settlement>Melk</settlement>
+                  <institution>Benediktiner-Stift</institution>
+                  <repository>Stiftsarchiv</repository>
+                  <idno>Kt. 07 Patres 11 Faszikel 3 Nr. 07</idno>
+               </msIdentifier>
+               <msContents>
+                  <summary>Schriftstellerkatalog von Niederaltaich, wahrscheinlich Beilage zu Brief Haiden an BP (1711-05-01). Vgl. eine Abschrift von Theodor Mayer aus dem 19. Jahrhundert in Karton 7 Patres 11, Fasz. 1, Nr. 20. </summary>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <foliation>1r–v.</foliation>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <date when="1711-01-01">um 1711</date>
+                     <note>Undatiert.</note>
+                  </origin>
+               </history>
+               <additional>
+                  <listBibl>
+                     <bibl>Zu Brief: <rs type="bibl" key="bqbibl:r039">Thomas WALLNIG–Thomas STOCKINGER, Die gelehrte Korrespondenz der Brüder Pez. Text, Regesten, Kommentare, 1: 1709–1715 (QIÖG 2/1, Wien–München 2010)</rs>. Zu Schriftstellern aus Niederaltaich: <rs type="bibl" key="bqbibl:r437">Georg STADTMÜLLER–Bonifaz PFISTER, Geschichte der Abtei Niederaltaich 741–1971 (Ottobeuren–Augsburg 1971)</rs>.</bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="RNA">Sammlungen und Objekte</classCode>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="s420984" n="1r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/420984.tif"/>
+      </surface>
+      <surface xml:id="s420985" n="1v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/420985.tif"/>
+      </surface>
+   </facsimile>
+</TEI>

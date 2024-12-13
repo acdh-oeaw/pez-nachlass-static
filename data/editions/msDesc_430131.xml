@@ -1,0 +1,84 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_430131.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Bio-bibliographische Notizen BPs zu spanischen Benediktinern bzw. Exzerpt aus Antonio, Bibliotheca hispana</title>
+            <title type="sub">Digital object description</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <idno type="unidam-verz_einh">651</idno>
+         <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-665A-B</idno></publicationStmt>
+         <sourceDesc>
+            <msDesc xml:lang="de">
+               <msIdentifier>
+                  <country>Österreich</country>
+                  <settlement>Melk</settlement>
+                  <institution>Benediktiner-Stift</institution>
+                  <repository>Stiftsarchiv</repository>
+                  <idno>Kt. 85 Varia 25 Faszikel 1 Nr. 47</idno>
+               </msIdentifier>
+               <msContents>
+                  <summary>Bio-bibliographische Notizen zu spanischen Benediktinern des 16. und 17. Jh. bzw. Exzerpt aus Nicolás ANTONIO, Bibliotheca hispana sive hispanorum (2 Bde., Rom 1672) mit Seitenangaben. Hand BP. </summary>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <foliation>1–12.</foliation>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <date notAfter="1735-03-28">Zu Lebzeiten BPs.</date>
+                     <note>Undatiert.</note>
+                  </origin>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="RNA">Werke</classCode>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="s430131" n="1">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/430131.tif"/>
+      </surface>
+      <surface xml:id="s430132" n="2">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/430132.tif"/>
+      </surface>
+      <surface xml:id="s430133" n="3">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/430133.tif"/>
+      </surface>
+      <surface xml:id="s430134" n="4">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/430134.tif"/>
+      </surface>
+      <surface xml:id="s430135" n="5">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/430135.tif"/>
+      </surface>
+      <surface xml:id="s430136" n="6">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/430136.tif"/>
+      </surface>
+      <surface xml:id="s430137" n="7">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/430137.tif"/>
+      </surface>
+      <surface xml:id="s430138" n="8">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/430138.tif"/>
+      </surface>
+      <surface xml:id="s430139" n="9">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/430139.tif"/>
+      </surface>
+      <surface xml:id="s430140" n="10">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/430140.tif"/>
+      </surface>
+      <surface xml:id="s430141" n="11">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/430141.tif"/>
+      </surface>
+      <surface xml:id="s430142" n="12">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/430142.tif"/>
+      </surface>
+   </facsimile>
+</TEI>

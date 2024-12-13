@@ -1,0 +1,65 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_409074.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Akten: Kaiserliches Reskript an Heindl, BP, Wengemayr, Hueber</title>
+            <title type="sub">Digital object description</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <idno type="unidam-verz_einh">60</idno>
+         <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-6424-9</idno></publicationStmt>
+         <sourceDesc>
+            <msDesc xml:lang="de">
+               <msIdentifier>
+                  <country>Österreich</country>
+                  <settlement>Melk</settlement>
+                  <institution>Benediktiner-Stift</institution>
+                  <repository>Stiftsarchiv</repository>
+                  <idno>Kt. 07 Patres 09 Faszikel 1 Nr. 42 </idno>
+               </msIdentifier>
+               <msContents>
+                  <summary>Kaiserliches Reskript (1723-02-08) an Haindl, BP, Wengemayr, Hueber. Vgl. drei weitere Ausfertigungen in Karton 3 Äbte 6, Fasz. 2.</summary>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <foliation>1r–2v.</foliation>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <date when="1723-02-08">1723-02-08</date>
+                     <note/>
+                  </origin>
+               </history>
+               <additional>
+                  <listBibl>
+                     <bibl>Zu den "Capitula" des Melker Konvents: <rs type="bibl" key="bqbibl:r023">Hugo HANTSCH, Bernhard Pez und Abt Berthold Dietmayr. MIÖG 71 (1963) 128–139</rs>.</bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="RNA">Sammlungen und Objekte</classCode>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="s409074" n="1r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/409074.tif"/>
+      </surface>
+      <surface xml:id="s409075" n="1v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/409075.tif"/>
+      </surface>
+      <surface xml:id="s409076" n="2r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/409076.tif"/>
+      </surface>
+      <surface xml:id="s409077" n="2v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/409077.tif"/>
+      </surface>
+   </facsimile>
+</TEI>

@@ -1,0 +1,77 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_420297.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Abschrift des Traktats "De sacrosancta eucharistia" gegen Berengar von Tours</title>
+            <title type="sub">Digital object description</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <idno type="unidam-verz_einh">401</idno>
+         <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-64D9-D</idno></publicationStmt>
+         <sourceDesc>
+            <msDesc xml:lang="de">
+               <msIdentifier>
+                  <country>Österreich</country>
+                  <settlement>Melk</settlement>
+                  <institution>Benediktiner-Stift</institution>
+                  <repository>Stiftsarchiv</repository>
+                  <idno>Kt. 07 Patres 11 Faszikel 1 Nr. 85</idno>
+               </msIdentifier>
+               <msContents>
+                  <summary>Abschrift eines Traktats "De sacrosancta eucharistia" aus der Bibliothek Wiblingen, wendet sich gegen die Lehren Berengars von der Eucharistie. Hand Mayer.</summary>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <foliation>1r–4v.</foliation>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <date notBefore="1800-01-01" notAfter="1899-12-31">19. Jh.</date>
+                     <note/>
+                  </origin>
+               </history>
+               <additional>
+                  <listBibl>
+                     <bibl>Zu Lehren Berengars: <rs type="bibl" key="bqbibl:r802">Herman SELDERHUIS, Die Lehre von der Eucharistie aus Sicht der reformatorischen Theologen und die Rezeption der Schriften des Berengar von Tours in der Frühen Neuzeit, in: Divina officia. Liturgie und Frömmigkeit im Mittelalter. Ausstellung der Herzog August Bibliothek Wolfenbüttel und des Dom-Museums Hildesheim in der Biblioteca Augusta vom 28. November 2004 bis 31. Juli 2005, hg. von Patrizia CARMASSI (Ausstellungskataloge der Herzog August Bibliothek 83, Wolfenbüttel 2004) 318–340</rs>. Zur Wiblinger Bibliothek: <rs type="bibl" key="bqbibl:r595">Heribert HUMMEL, Bibliotheca Wiblingana. Aus Scriptorium und Bibliothek der ehemaligen Benediktinerabtei Wiblingen. SMGB 89 (1978) 510–570</rs>.</bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="RNA">Sammlungen und Objekte</classCode>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="s420297" n="1r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/420297.tif"/>
+      </surface>
+      <surface xml:id="s420298" n="1v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/420298.tif"/>
+      </surface>
+      <surface xml:id="s420299" n="2r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/420299.tif"/>
+      </surface>
+      <surface xml:id="s420300" n="2v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/420300.tif"/>
+      </surface>
+      <surface xml:id="s420301" n="3r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/420301.tif"/>
+      </surface>
+      <surface xml:id="s420302" n="3v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/420302.tif"/>
+      </surface>
+      <surface xml:id="s420303" n="4r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/420303.tif"/>
+      </surface>
+      <surface xml:id="s420304" n="4v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/420304.tif"/>
+      </surface>
+   </facsimile>
+</TEI>

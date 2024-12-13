@@ -1,0 +1,77 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_410805.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Schriftstellerkatalog von St.-Evre zu Toul</title>
+            <title type="sub">Digital object description</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <idno type="unidam-verz_einh">111</idno>
+         <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-644A-F</idno></publicationStmt><notesStmt><note type="relatedCorrespondences">D'Auzécourt an BP: 1716-08-16.</note></notesStmt>
+         <sourceDesc>
+            <msDesc xml:lang="de">
+               <msIdentifier>
+                  <country>Österreich</country>
+                  <settlement>Melk</settlement>
+                  <institution>Benediktiner-Stift</institution>
+                  <repository>Stiftsarchiv</repository>
+                  <idno>Kt. 07 Patres 09 Faszikel 2 Nr. 10 </idno>
+               </msIdentifier>
+               <msContents>
+                  <summary>Schriftstellerkatalog von St.-Evre zu Toul: "Auctores litterarii, qui in antiqua et celebri abbatia S. Apri Tullensi floruerunt". Nach Bleistiftvermerk auf fol. 1r Original "1716-08-16, d'Auzécourt, Toul". Dazu der Ordnungsvermerk "609". Original (StiA Melk, Karton 7 Patres 7, enthält Band 2 der Pezbriefe, fol. 610r–611v) zu dieser Abschrift Beilage zu d'Auzécourt an BP (1716-08-16). </summary>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <foliation>1r–4v.</foliation>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <date when="1900-01-01">um 1900</date>
+                     <note>Abschrift im Zusammenhang mit der Pez-Forschung um 1900.</note>
+                  </origin>
+               </history>
+               <additional>
+                  <listBibl>
+                     <bibl>Zu St.-Evre in Toul: <rs type="bibl" key="bqbibl:r518">Francine ROZE, L’abbaye de Saint-Evre de Toul au Haut Moyen Age. Le Pays Lorrain 61/2 (1981) 73–83</rs>. Zu Brief: <rs type="bibl" key="bqbibl:r018">Christine GLASSNER, Verzeichnis der im Nachlass der Melker Historiker Bernhard und Hieronymus Pez erhaltenen Briefe. SMGB 110 (1999) 195–243</rs>.</bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="RNA">Sammlungen und Objekte</classCode>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="s410805" n="1r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/410805.tif"/>
+      </surface>
+      <surface xml:id="s410806" n="1v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/410806.tif"/>
+      </surface>
+      <surface xml:id="s410807" n="2r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/410807.tif"/>
+      </surface>
+      <surface xml:id="s410808" n="2v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/410808.tif"/>
+      </surface>
+      <surface xml:id="s410809" n="3r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/410809.tif"/>
+      </surface>
+      <surface xml:id="s410810" n="3v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/410810.tif"/>
+      </surface>
+      <surface xml:id="s410811" n="4r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/410811.tif"/>
+      </surface>
+      <surface xml:id="s410812" n="4v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/410812.tif"/>
+      </surface>
+   </facsimile>
+</TEI>

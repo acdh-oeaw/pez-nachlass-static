@@ -1,0 +1,125 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_409272.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Manuskript: Fragmentarisches Konzept BPs zu Dissertatio apologetico-literaria</title>
+            <title type="sub">Digital object description</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <idno type="unidam-verz_einh">70</idno>
+         <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-65F9-8</idno></publicationStmt>
+         <sourceDesc>
+            <msDesc xml:lang="de">
+               <msIdentifier>
+                  <country>Österreich</country>
+                  <settlement>Melk</settlement>
+                  <institution>Benediktiner-Stift</institution>
+                  <repository>Stiftsarchiv</repository>
+                  <idno>Kt. 07 Patres  09 Faszikel 1 Nr. 52</idno>
+               </msIdentifier>
+               <msContents>
+                  <summary>Fragmentarisches Konzept von BPs Dissertatio apologetico-literaria gegen "Angelus Fonteius", d. h. Gentilotti. Auf 1r Bleistiftnotiz Katschthalers "In casu Fontei (Gentilotti)". Vgl. weiteres Fragment zur Dissertatio apologetico-literaria in Karton 85 Varia 30, Fasz. 1, Nr. 9.</summary>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <foliation>1r–12v.</foliation>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <date notBefore="1717-01-01">um 1717</date>
+                     <note/>
+                  </origin>
+               </history>
+               <additional>
+                  <listBibl>
+                     <bibl>Zur Auseinandersetzung zwischen BP und Gentilotti: <rs type="bibl" key="bqbibl:r187">Ines PEPER, Il carteggio erudito di Giovanni Benedetto Gentilotti d'Engelsbrunn (1672-1725), bibliotecario imperiale, in: Le carte vive. Epistolari e carteggi nel Settecento. Atti del primo Convegno internazionale di studi del Centro di Ricerca sugli Epistolari del Settecento, Verona, 4-6 dicembre 2008, hg. von Corrado VIOLA (Biblioteca del XVIII secolo 16, Roma 2011) 479–487</rs>.</bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="RNA">Werke</classCode>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="s409272" n="1r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/409272.tif"/>
+      </surface>
+      <surface xml:id="s409273" n="1v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/409273.tif"/>
+      </surface>
+      <surface xml:id="s409274" n="2r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/409274.tif"/>
+      </surface>
+      <surface xml:id="s409275" n="2v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/409275.tif"/>
+      </surface>
+      <surface xml:id="s409276" n="3r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/409276.tif"/>
+      </surface>
+      <surface xml:id="s409277" n="3v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/409277.tif"/>
+      </surface>
+      <surface xml:id="s409278" n="4r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/409278.tif"/>
+      </surface>
+      <surface xml:id="s409279" n="4v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/409279.tif"/>
+      </surface>
+      <surface xml:id="s409280" n="5r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/409280.tif"/>
+      </surface>
+      <surface xml:id="s409281" n="5v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/409281.tif"/>
+      </surface>
+      <surface xml:id="s409282" n="6r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/409282.tif"/>
+      </surface>
+      <surface xml:id="s409283" n="6v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/409283.tif"/>
+      </surface>
+      <surface xml:id="s409284" n="7r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/409284.tif"/>
+      </surface>
+      <surface xml:id="s409285" n="7v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/409285.tif"/>
+      </surface>
+      <surface xml:id="s409286" n="8r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/409286.tif"/>
+      </surface>
+      <surface xml:id="s409287" n="8v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/409287.tif"/>
+      </surface>
+      <surface xml:id="s409288" n="9r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/409288.tif"/>
+      </surface>
+      <surface xml:id="s409289" n="9v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/409289.tif"/>
+      </surface>
+      <surface xml:id="s409290" n="10r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/409290.tif"/>
+      </surface>
+      <surface xml:id="s409291" n="10v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/409291.tif"/>
+      </surface>
+      <surface xml:id="s409292" n="11r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/409292.tif"/>
+      </surface>
+      <surface xml:id="s409293" n="11v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/409293.tif"/>
+      </surface>
+      <surface xml:id="s409294" n="12r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/409294.tif"/>
+      </surface>
+      <surface xml:id="s409295" n="12v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/409295.tif"/>
+      </surface>
+   </facsimile>
+</TEI>

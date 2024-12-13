@@ -1,0 +1,65 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_446856.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Exzerpte HPs aus Mabillon, Sancti Bernardi abbatis primi Clarae-Vallensis opera omnia</title>
+            <title type="sub">Digital object description</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <idno type="unidam-verz_einh">733</idno>
+         <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-6664-F</idno></publicationStmt>
+         <sourceDesc>
+            <msDesc xml:lang="de">
+               <msIdentifier>
+                  <country>Österreich</country>
+                  <settlement>Melk</settlement>
+                  <institution>Benediktiner-Stift</institution>
+                  <repository>Stiftsarchiv</repository>
+                  <idno>Kt. 85 Varia 27 Faszikel 2 Nr. 06 </idno>
+               </msIdentifier>
+               <msContents>
+                  <summary>Exzerpte HPs aus Sancti Bernardi abbatis primi Clarae-Vallensis Opera omnia, hg. von Jean MABILLON (2 Bde., Paris 1690), hier u.a. "De conversione ad clericos sermo seu liber". Vgl. selbe Hand in Karton 85 Varia 27, Fasz. 2, Nr. 1, 2, 3, 4, 5. Trotz des gegenüber früheren Textproben abweichenden Schriftbildes ist bei diesem Stück sowie den weiteren Stücken dieses Faszikels aufgrund der Datums- und Altersangaben von einer Verfasserschaft HPs auszugehen, zumal zu diesem Zeitpunkt kein anderer gleichaltriger Mönch in Melk anwesend war.</summary>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <foliation>1r–2v.</foliation>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <date notBefore="1759-06-27">um 1759</date>
+                     <note>Auf fol. 1r: "Coepta die 27. Junii an. 1759".</note>
+                  </origin>
+               </history>
+               <additional>
+                  <listBibl>
+                     <bibl>Zu gedruckten Werken von Ambrosius: <rs type="bibl" key="bqbibl:r649">Jaques-Paul MIGNE, Patrologiae Cursus completus, Series latina (221 Bde., Paris 1844–1855; hier Bde. 182 bis 183)</rs>.</bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="RNA">Werke</classCode>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="s446856" n="1r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/446856.tif"/>
+      </surface>
+      <surface xml:id="s446857" n="1v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/446857.tif"/>
+      </surface>
+      <surface xml:id="s446858" n="2r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/446858.tif"/>
+      </surface>
+      <surface xml:id="s446859" n="2v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/446859.tif"/>
+      </surface>
+   </facsimile>
+</TEI>

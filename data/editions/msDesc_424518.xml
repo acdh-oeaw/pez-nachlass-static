@@ -1,0 +1,222 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_424518.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Abschriften und Exzerpte BPs aus Handschriften und Druckwerken zu einer Vielzahl von französischen, italienischen und belgischen (klösterlichen) Bibliotheken</title>
+            <title type="sub">Digital object description</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <idno type="unidam-verz_einh">531</idno>
+         <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-6637-2</idno></publicationStmt>
+         <sourceDesc>
+            <msDesc xml:lang="de">
+               <msIdentifier>
+                  <country>Österreich</country>
+                  <settlement>Melk</settlement>
+                  <institution>Benediktiner-Stift</institution>
+                  <repository>Stiftsarchiv</repository>
+                  <idno>Kt. 85 Varia 23 Faszikel 1 Nr. 30</idno>
+               </msIdentifier>
+               <msContents>
+                  <summary>Abschriften und Exzerpte BPs aus Anton SANDER, Bibliotheca belgica manuscripta (2 Bde., Lille 1641–1643), Vincent BARRAL, Chronologia sanctorum et aliorum virorum illustrium ac abbatum sacrae insulae Lerinensis (Lyon 1613) sowie aus Katalogen von Jean Mabillon ("Catalogi Mabillonio"), Bernard de Montfaucon und Thierry Ruinart zu einer Vielzahl von französischen, italienischen und belgischen (klösterlichen) Bibliotheken. Am Beginn unvollständig, beginnt erst mit S. 21. Vgl. auch Karton 85 Varia 23, Fasz. 1, Nr. 40. Das Stück steht möglicherweise in Zusammenhang mit BPs Paris-Aufenthalt 1728.</summary>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <foliation>21–56, 69–84, 84a–84b, 85–88.</foliation>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <date notAfter="1735-03-28">Zu Lebzeiten BPs.</date>
+                     <note>Undatiert.</note>
+                  </origin>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="RNA">Werke</classCode>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="s424518" n="21">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424518.tif"/>
+      </surface>
+      <surface xml:id="s424519" n="22">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424519.tif"/>
+      </surface>
+      <surface xml:id="s424520" n="23">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424520.tif"/>
+      </surface>
+      <surface xml:id="s424521" n="24">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424521.tif"/>
+      </surface>
+      <surface xml:id="s424522" n="25">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424522.tif"/>
+      </surface>
+      <surface xml:id="s424523" n="26">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424523.tif"/>
+      </surface>
+      <surface xml:id="s424524" n="27">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424524.tif"/>
+      </surface>
+      <surface xml:id="s424525" n="28">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424525.tif"/>
+      </surface>
+      <surface xml:id="s424526" n="29">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424526.tif"/>
+      </surface>
+      <surface xml:id="s424527" n="30">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424527.tif"/>
+      </surface>
+      <surface xml:id="s424528" n="31">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424528.tif"/>
+      </surface>
+      <surface xml:id="s424529" n="32">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424529.tif"/>
+      </surface>
+      <surface xml:id="s424530" n="33">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424530.tif"/>
+      </surface>
+      <surface xml:id="s424531" n="34">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424531.tif"/>
+      </surface>
+      <surface xml:id="s424532" n="35">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424532.tif"/>
+      </surface>
+      <surface xml:id="s424533" n="36">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424533.tif"/>
+      </surface>
+      <surface xml:id="s424534" n="37">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424534.tif"/>
+      </surface>
+      <surface xml:id="s424535" n="38">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424535.tif"/>
+      </surface>
+      <surface xml:id="s424536" n="39">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424536.tif"/>
+      </surface>
+      <surface xml:id="s424537" n="40">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424537.tif"/>
+      </surface>
+      <surface xml:id="s424538" n="41">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424538.tif"/>
+      </surface>
+      <surface xml:id="s424539" n="42">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424539.tif"/>
+      </surface>
+      <surface xml:id="s424540" n="43">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424540.tif"/>
+      </surface>
+      <surface xml:id="s424541" n="44">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424541.tif"/>
+      </surface>
+      <surface xml:id="s424542" n="45">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424542.tif"/>
+      </surface>
+      <surface xml:id="s424543" n="46">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424543.tif"/>
+      </surface>
+      <surface xml:id="s424544" n="47">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424544.tif"/>
+      </surface>
+      <surface xml:id="s424545" n="48">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424545.tif"/>
+      </surface>
+      <surface xml:id="s424546" n="49">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424546.tif"/>
+      </surface>
+      <surface xml:id="s424547" n="50">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424547.tif"/>
+      </surface>
+      <surface xml:id="s424548" n="51">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424548.tif"/>
+      </surface>
+      <surface xml:id="s424549" n="52">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424549.tif"/>
+      </surface>
+      <surface xml:id="s424550" n="53">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424550.tif"/>
+      </surface>
+      <surface xml:id="s424551" n="54">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424551.tif"/>
+      </surface>
+      <surface xml:id="s424552" n="55">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424552.tif"/>
+      </surface>
+      <surface xml:id="s424553" n="56">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424553.tif"/>
+      </surface>
+      <surface xml:id="s424554" n="69">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424554.tif"/>
+      </surface>
+      <surface xml:id="s424555" n="70">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424555.tif"/>
+      </surface>
+      <surface xml:id="s424556" n="71">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424556.tif"/>
+      </surface>
+      <surface xml:id="s424557" n="72">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424557.tif"/>
+      </surface>
+      <surface xml:id="s424558" n="73">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424558.tif"/>
+      </surface>
+      <surface xml:id="s424559" n="74">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424559.tif"/>
+      </surface>
+      <surface xml:id="s424560" n="75">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424560.tif"/>
+      </surface>
+      <surface xml:id="s424561" n="76">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424561.tif"/>
+      </surface>
+      <surface xml:id="s424562" n="77">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424562.tif"/>
+      </surface>
+      <surface xml:id="s424563" n="78">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424563.tif"/>
+      </surface>
+      <surface xml:id="s424564" n="79">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424564.tif"/>
+      </surface>
+      <surface xml:id="s424565" n="80">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424565.tif"/>
+      </surface>
+      <surface xml:id="s424566" n="81">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424566.tif"/>
+      </surface>
+      <surface xml:id="s424567" n="82">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424567.tif"/>
+      </surface>
+      <surface xml:id="s424568" n="83">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424568.tif"/>
+      </surface>
+      <surface xml:id="s424569" n="84">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424569.tif"/>
+      </surface>
+      <surface xml:id="s424570" n="84a">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424570.tif"/>
+      </surface>
+      <surface xml:id="s424571" n="84b">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424571.tif"/>
+      </surface>
+      <surface xml:id="s424572" n="85">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424572.tif"/>
+      </surface>
+      <surface xml:id="s424573" n="86">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424573.tif"/>
+      </surface>
+      <surface xml:id="s424574" n="87">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424574.tif"/>
+      </surface>
+      <surface xml:id="s424575" n="88">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424575.tif"/>
+      </surface>
+   </facsimile>
+</TEI>

@@ -1,0 +1,77 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_418844.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Bio-bibliographische Notiz zu Angelomus von Luxeuil</title>
+            <title type="sub">Digital object description</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <idno type="unidam-verz_einh">318</idno>
+         <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-64B7-3</idno></publicationStmt>
+         <sourceDesc>
+            <msDesc xml:lang="de">
+               <msIdentifier>
+                  <country>Österreich</country>
+                  <settlement>Melk</settlement>
+                  <institution>Benediktiner-Stift</institution>
+                  <repository>Stiftsarchiv</repository>
+                  <idno>Kt. 07 Patres 11 Faszikel 1 Nr. 02</idno>
+               </msIdentifier>
+               <msContents>
+                  <summary>Bio-bibliographische Notiz zu Angelomus von Luxeuil, Hand Mayer.</summary>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <foliation>1r–4v.</foliation>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <date notBefore="1800-01-01" notAfter="1899-12-31">19. Jh.</date>
+                     <note>Im Zusammenhang mit der Pez-Forschung im 19. Jahrhundert.</note>
+                  </origin>
+               </history>
+               <additional>
+                  <listBibl>
+                     <bibl>Zu Angelomus von Luxeuil: <rs type="bibl" key="bqbibl:r168">Fidel RÄDLE, Angelomus von Luxeuil, in: Lexikon des Mittelalters, 1 (München–Zürich 1980) col. 619 </rs>. Zu Mayer: <rs type="bibl" key="bqbibl:r065">Catalogus religiosorum ordinis S.P. Benedicti in monasterio Mellicensi (Wien 1855)</rs>.</bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="RNA">Sammlungen und Objekte</classCode>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="s418844" n="1r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/418844.tif"/>
+      </surface>
+      <surface xml:id="s418845" n="1v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/418845.tif"/>
+      </surface>
+      <surface xml:id="s418846" n="2r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/418846.tif"/>
+      </surface>
+      <surface xml:id="s418847" n="2v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/418847.tif"/>
+      </surface>
+      <surface xml:id="s418848" n="3r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/418848.tif"/>
+      </surface>
+      <surface xml:id="s418849" n="3v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/418849.tif"/>
+      </surface>
+      <surface xml:id="s418850" n="4r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/418850.tif"/>
+      </surface>
+      <surface xml:id="s418851" n="4v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/418851.tif"/>
+      </surface>
+   </facsimile>
+</TEI>

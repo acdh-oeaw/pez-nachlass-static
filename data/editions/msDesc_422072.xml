@@ -1,0 +1,113 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_422072.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Abschrift: "Fastorum abbatiae S. Martini Coloniae epideigma"</title>
+            <title type="sub">Digital object description</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <idno type="unidam-verz_einh">444</idno>
+         <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-64F2-0</idno></publicationStmt>
+         <sourceDesc>
+            <msDesc xml:lang="de">
+               <msIdentifier>
+                  <country>Österreich</country>
+                  <settlement>Melk</settlement>
+                  <institution>Benediktiner-Stift</institution>
+                  <repository>Stiftsarchiv</repository>
+                  <idno>Kt. 85 Varia 22 Faszikel 1 Nr. 04</idno>
+               </msIdentifier>
+               <msContents>
+                  <summary>Abschrift des Manuskripts "Fastorum abbatiae S. Martini Coloniae epideigma heroicum a P[riore] S[ancti] M[artini]" in Karton 7 Patres 10, Fasz. 3, Nr. 31. Möglicherweise in Zusammenhang mit der Chronik von Groß St. Martin, die Legipont angefertigt hat. </summary>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <foliation>1r–10v.</foliation>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <date notBefore="1800-01-01" notAfter="1899-12-31">19. Jh.</date>
+                     <note>Im Zusammenhang mit der Pez-Forschung im 19. Jahrhundert.</note>
+                  </origin>
+               </history>
+               <additional>
+                  <listBibl>
+                     <bibl>Zu Groß St. Martin: <rs type="bibl" key="bqbibl:r385">Peter OPLADEN, Groß St. Martin. Geschichte einer stadtkölnischen Abtei (Studien zur Kölner Kirchengeschichte 2, Düsseldorf 1954)</rs>. Zu Legipont und seiner Verbindung zu BP: <rs type="bibl" key="bqbibl:r008">Stefan BENZ, Zwischen Tradition und Kritik. Katholische Geschichtsschreibung im barocken Heiligen Römischen Reich (Historische Studien 473, Husum 2003)</rs>.</bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="RNA">Sammlungen und Objekte</classCode>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="s422072" n="1r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/422072.tif"/>
+      </surface>
+      <surface xml:id="s422073" n="1v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/422073.tif"/>
+      </surface>
+      <surface xml:id="s422074" n="2r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/422074.tif"/>
+      </surface>
+      <surface xml:id="s422075" n="2v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/422075.tif"/>
+      </surface>
+      <surface xml:id="s422076" n="3r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/422076.tif"/>
+      </surface>
+      <surface xml:id="s422077" n="3v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/422077.tif"/>
+      </surface>
+      <surface xml:id="s422078" n="4r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/422078.tif"/>
+      </surface>
+      <surface xml:id="s422079" n="4v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/422079.tif"/>
+      </surface>
+      <surface xml:id="s422080" n="5r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/422080.tif"/>
+      </surface>
+      <surface xml:id="s422081" n="5v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/422081.tif"/>
+      </surface>
+      <surface xml:id="s422082" n="6r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/422082.tif"/>
+      </surface>
+      <surface xml:id="s422083" n="6v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/422083.tif"/>
+      </surface>
+      <surface xml:id="s422084" n="7r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/422084.tif"/>
+      </surface>
+      <surface xml:id="s422085" n="7v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/422085.tif"/>
+      </surface>
+      <surface xml:id="s422086" n="8r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/422086.tif"/>
+      </surface>
+      <surface xml:id="s422087" n="8v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/422087.tif"/>
+      </surface>
+      <surface xml:id="s422088" n="9r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/422088.tif"/>
+      </surface>
+      <surface xml:id="s422089" n="9v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/422089.tif"/>
+      </surface>
+      <surface xml:id="s422090" n="10r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/422090.tif"/>
+      </surface>
+      <surface xml:id="s422091" n="10v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/422091.tif"/>
+      </surface>
+   </facsimile>
+</TEI>

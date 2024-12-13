@@ -1,0 +1,109 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_423062.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Druckvorlage: Johann von Ellenbogen, "Vita venerabilium monachorum monasterii sui"</title>
+            <title type="sub">Digital object description</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <idno type="unidam-verz_einh">478</idno>
+         <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-6633-6</idno></publicationStmt>
+         <sourceDesc>
+            <msDesc xml:lang="de">
+               <msIdentifier>
+                  <country>Österreich</country>
+                  <settlement>Melk</settlement>
+                  <institution>Benediktiner-Stift</institution>
+                  <repository>Stiftsarchiv</repository>
+                  <idno>Kt. 85 Varia 22 Faszikel 2 Nr. 13</idno>
+               </msIdentifier>
+               <msContents>
+                  <summary>Druckvorlage Johann von Ellenbogen, "Vita venerabilium monachorum monasterii sui", gedruckt in BP, Bibliotheca ascetica antiquo-nova, 8 (Regensburg 1725). Aus einer nicht identifizierten Handschrift der Universitätsbibliothek Basel, mit Anweisungen für den Drucker, Hand BP.</summary>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <foliation>1r–9v.</foliation>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <date notAfter="1725-12-31">vor 1725</date>
+                     <note>BPs Bibliotheca ascetica Band 8 ist 1725 erschienen.</note>
+                  </origin>
+               </history>
+               <additional>
+                  <listBibl>
+                     <bibl>Zu Johann von Ellenbogen: <rs type="bibl" key="bqbibl:r583">Stephan ACHT, Zur Geschichte des Klosters und der Äbte von Waldsassen. Beiträge zur Geschichte des Bistums Regensburg 38 (2004) 23–75</rs>;
+                        <rs type="bibl" key="bqbibl:r584">Franz BINHACK, Die Äbte des Cisterzienser-Stiftes Waldsassen von 1133 bis 1506 (Eichstätt 1887)</rs>;
+                        <rs type="bibl" key="bqbibl:r586">Georg SCHROTT, Mittelalterliche Geschichtsschreibung und ihre neuzeitliche Rezeption im Kloster Waldsassen. SMGB 107 (1996) 397–425</rs>. Zu BPs Werken: <rs type="bibl" key="bqbibl:r009">Koloman SCHÖNHOFER, P. Bernhard Pez (22.2.1683–27.3.1735), P. Hieronymus Pez (24.2.1685–14.10.1762), Benediktiner von Melk (Leben, Bedeutung und Werke) (ungedr. theol. Dipl.Arb., Innsbruck 1973)</rs>.</bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="RNA">Werke</classCode>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="s423062" n="1r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/423062.tif"/>
+      </surface>
+      <surface xml:id="s423063" n="1v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/423063.tif"/>
+      </surface>
+      <surface xml:id="s423064" n="2r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/423064.tif"/>
+      </surface>
+      <surface xml:id="s423065" n="2v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/423065.tif"/>
+      </surface>
+      <surface xml:id="s423066" n="3r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/423066.tif"/>
+      </surface>
+      <surface xml:id="s423067" n="3v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/423067.tif"/>
+      </surface>
+      <surface xml:id="s423068" n="4r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/423068.tif"/>
+      </surface>
+      <surface xml:id="s423069" n="4v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/423069.tif"/>
+      </surface>
+      <surface xml:id="s423070" n="5r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/423070.tif"/>
+      </surface>
+      <surface xml:id="s423071" n="5v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/423071.tif"/>
+      </surface>
+      <surface xml:id="s423072" n="6r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/423072.tif"/>
+      </surface>
+      <surface xml:id="s423073" n="6v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/423073.tif"/>
+      </surface>
+      <surface xml:id="s423074" n="7r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/423074.tif"/>
+      </surface>
+      <surface xml:id="s423075" n="7v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/423075.tif"/>
+      </surface>
+      <surface xml:id="s423076" n="8r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/423076.tif"/>
+      </surface>
+      <surface xml:id="s423077" n="8v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/423077.tif"/>
+      </surface>
+      <surface xml:id="s423078" n="9r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/423078.tif"/>
+      </surface>
+      <surface xml:id="s423079" n="9v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/423079.tif"/>
+      </surface>
+   </facsimile>
+</TEI>

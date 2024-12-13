@@ -1,0 +1,155 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_432665.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Abschrift aus Alexandre, Panoplia adversus haereses</title>
+            <title type="sub">Digital object description</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <idno type="unidam-verz_einh">686</idno>
+         <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-65A4-7</idno></publicationStmt>
+         <sourceDesc>
+            <msDesc xml:lang="de">
+               <msIdentifier>
+                  <country>Österreich</country>
+                  <settlement>Melk</settlement>
+                  <institution>Benediktiner-Stift</institution>
+                  <repository>Stiftsarchiv</repository>
+                  <idno>Kt. 85 Varia 28 Faszikel 1 Nr. 02</idno>
+               </msIdentifier>
+               <msContents>
+                  <summary>Abschrift aus Natalis (Noel) ALEXANDRE, Panoplia adversus haereses (Paris 1680) [in: Selecta historiae ecclesiasticae capita], wohl Hand Bonneth. Vgl. auch Abschriften in Karton 85 Varia 28, Fasz. 1, Nr. 1.</summary>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <foliation>1–24, 24a–b, 25–32.</foliation>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <date notBefore="1733-01-01">um 1733</date>
+                     <note>Vgl. Abschrift aus 1733 in Karton 85 Varia 28, Fasz. 1, Nr. 1.</note>
+                  </origin>
+               </history>
+               <additional>
+                  <listBibl>
+                     <bibl>Zu Bonneth: <rs type="bibl" key="bqbibl:r019"> Christine GLASSNER, Der "Thesaurus anecdotorum novissimus" des Melker Benediktiners Bernhard Pez. SMGB 113 (2002) 341–370</rs>.</bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="RNA">Sammlungen und Objekte</classCode>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="s432665" n="1">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/432665.tif"/>
+      </surface>
+      <surface xml:id="s432666" n="2">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/432666.tif"/>
+      </surface>
+      <surface xml:id="s432667" n="3">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/432667.tif"/>
+      </surface>
+      <surface xml:id="s432668" n="4">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/432668.tif"/>
+      </surface>
+      <surface xml:id="s432669" n="5">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/432669.tif"/>
+      </surface>
+      <surface xml:id="s432670" n="6">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/432670.tif"/>
+      </surface>
+      <surface xml:id="s432671" n="7">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/432671.tif"/>
+      </surface>
+      <surface xml:id="s432672" n="8">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/432672.tif"/>
+      </surface>
+      <surface xml:id="s432673" n="9">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/432673.tif"/>
+      </surface>
+      <surface xml:id="s432674" n="10">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/432674.tif"/>
+      </surface>
+      <surface xml:id="s432675" n="11">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/432675.tif"/>
+      </surface>
+      <surface xml:id="s432676" n="12">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/432676.tif"/>
+      </surface>
+      <surface xml:id="s432677" n="13">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/432677.tif"/>
+      </surface>
+      <surface xml:id="s432678" n="14">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/432678.tif"/>
+      </surface>
+      <surface xml:id="s432679" n="15">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/432679.tif"/>
+      </surface>
+      <surface xml:id="s432680" n="16">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/432680.tif"/>
+      </surface>
+      <surface xml:id="s432681" n="17">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/432681.tif"/>
+      </surface>
+      <surface xml:id="s432682" n="18">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/432682.tif"/>
+      </surface>
+      <surface xml:id="s432683" n="19">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/432683.tif"/>
+      </surface>
+      <surface xml:id="s432684" n="20">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/432684.tif"/>
+      </surface>
+      <surface xml:id="s432685" n="21">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/432685.tif"/>
+      </surface>
+      <surface xml:id="s432686" n="22">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/432686.tif"/>
+      </surface>
+      <surface xml:id="s432687" n="23">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/432687.tif"/>
+      </surface>
+      <surface xml:id="s432688" n="24">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/432688.tif"/>
+      </surface>
+      <surface xml:id="s432689" n="24a">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/432689.tif"/>
+      </surface>
+      <surface xml:id="s432690" n="24b">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/432690.tif"/>
+      </surface>
+      <surface xml:id="s432691" n="25">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/432691.tif"/>
+      </surface>
+      <surface xml:id="s432692" n="26">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/432692.tif"/>
+      </surface>
+      <surface xml:id="s432693" n="27">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/432693.tif"/>
+      </surface>
+      <surface xml:id="s432694" n="28">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/432694.tif"/>
+      </surface>
+      <surface xml:id="s432695" n="29">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/432695.tif"/>
+      </surface>
+      <surface xml:id="s432696" n="30">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/432696.tif"/>
+      </surface>
+      <surface xml:id="s432697" n="31">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/432697.tif"/>
+      </surface>
+      <surface xml:id="s432698" n="32">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/432698.tif"/>
+      </surface>
+   </facsimile>
+</TEI>

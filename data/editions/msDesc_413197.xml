@@ -1,0 +1,54 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_413197.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Fragmentarische Abschrift BPs aus einer lateinischen Verschronik zum frühen 14. Jahrhundert</title>
+            <title type="sub">Digital object description</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <idno type="unidam-verz_einh">241</idno>
+         <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-6614-9</idno></publicationStmt>
+         <sourceDesc>
+            <msDesc xml:lang="de">
+               <msIdentifier>
+                  <country>Österreich</country>
+                  <settlement>Melk</settlement>
+                  <institution>Benediktiner-Stift</institution>
+                  <repository>Stiftsarchiv</repository>
+                  <idno>Kt. 07 Patres 10 Faszikel 3 Nr. 44</idno>
+               </msIdentifier>
+               <msContents>
+                  <summary>Fragment einer Abschrift BPs aus einer Chronik zum frühen 14. Jahrhundert. Incipit "Millenio tricentensis bis quatuor annis in Maio mense rex Albertus perit ense. Perque ducem Suevum Johannem rumor in aevum", unvollständig, zu den Jahren 1305 bis 1313.</summary>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <foliation>1r–v.</foliation>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <date notAfter="1735-03-28">Zu Lebzeiten BPs.</date>
+                     <note>Undatiert.</note>
+                  </origin>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="RNA">Werke</classCode>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="s413197" n="1r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/413197.tif"/>
+      </surface>
+      <surface xml:id="s413198" n="1v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/413198.tif"/>
+      </surface>
+   </facsimile>
+</TEI>

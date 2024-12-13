@@ -1,0 +1,87 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_419953.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Briefauszüge: Passionei und Sinzendorf an BP</title>
+            <title type="sub">Digital object description</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <idno type="unidam-verz_einh">382</idno>
+         <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-63FC-7</idno></publicationStmt><notesStmt><note type="relatedCorrespondences">Passionei an BP: 1722-01-12, 1722-04-13, 1722-06-03, 1722-10-07, 1725-08-06. Sinzendorf an BP: 1731-02-13.</note></notesStmt>
+         <sourceDesc>
+            <msDesc xml:lang="de">
+               <msIdentifier>
+                  <country>Österreich</country>
+                  <settlement>Melk</settlement>
+                  <institution>Benediktiner-Stift</institution>
+                  <repository>Stiftsarchiv</repository>
+                  <idno>Kt. 07 Patres 11 Faszikel 1 Nr. 66 </idno>
+               </msIdentifier>
+               <msContents>
+                  <summary>Auszüge aus den Briefen Passionei und Sinzendorf an BP, Hand Mayer. Datierungen teilweise irrig.</summary>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <foliation>1r–4v.</foliation>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <date notBefore="1800-01-01" notAfter="1899-12-31">19. Jh.</date>
+                     <note>Im Zusammenhang mit der Pez-Forschung im 19. Jahrhundert.</note>
+                  </origin>
+               </history>
+               <additional>
+                  <listBibl>
+                     <bibl>Zu Mayer: <rs type="bibl" key="bqbibl:r065">Catalogus religiosorum
+                           ordinis S.P. Benedicti in monasterio Mellicensi (Wien 1855)</rs>.</bibl>
+                     <bibl>Zu Passionei: <rs type="bibl" key="bqbibl:r700">Alberto CARACCIOLO,
+                           Domenico Passionei. Tra Roma e la repubblica delle lettere (Roma
+                           1968)</rs>.</bibl>
+                     <bibl>Zu Sinzendorf: <rs type="bibl" key="bqbibl:r189">Rudolf REINHARDT,
+                           Konvertiten und deren Nachkommen in der Reichskirche der Frühen Neuzeit.
+                           Rottenburger Jahrbuch für Kirchengeschichte 8 (1989) 9–37</rs>.</bibl>
+                     <bibl>Zu Briefen: <rs type="bibl" key="bqbibl:r018">Christine GLASSNER,
+                           Verzeichnis der im Nachlass der Melker Historiker Bernhard und Hieronymus
+                           Pez erhaltenen Briefe. SMGB 110 (1999) 195–243</rs>.</bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="RNA">Korrespondenzen</classCode>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="s419953" n="1r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/419953.tif"/>
+      </surface>
+      <surface xml:id="s419954" n="1v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/419954.tif"/>
+      </surface>
+      <surface xml:id="s419955" n="2r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/419955.tif"/>
+      </surface>
+      <surface xml:id="s419956" n="2v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/419956.tif"/>
+      </surface>
+      <surface xml:id="s419957" n="3r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/419957.tif"/>
+      </surface>
+      <surface xml:id="s419958" n="3v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/419958.tif"/>
+      </surface>
+      <surface xml:id="s419959" n="4r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/419959.tif"/>
+      </surface>
+      <surface xml:id="s419960" n="4v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/419960.tif"/>
+      </surface>
+   </facsimile>
+</TEI>

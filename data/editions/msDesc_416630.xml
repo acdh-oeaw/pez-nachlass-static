@@ -1,0 +1,83 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_416630.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Bibliographische Notizen mit Verweisen auf (Melker) Handschriften</title>
+            <title type="sub">Digital object description</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <idno type="unidam-verz_einh">262</idno>
+         <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-6488-8</idno></publicationStmt>
+         <sourceDesc>
+            <msDesc xml:lang="de">
+               <msIdentifier>
+                  <country>Österreich</country>
+                  <settlement>Melk</settlement>
+                  <institution>Benediktiner-Stift</institution>
+                  <repository>Stiftsarchiv</repository>
+                  <idno>Kt. 07 Patres 10 Faszikel 8 Nr. 01</idno>
+               </msIdentifier>
+               <msContents>
+                  <summary>Bibliographische Notizen mit Verweisen auf Melker Handschriften des Mittelalters, zum Teil geodnet nach Autoren. Der Bezug zu Melk ergibt sich einerseits aus dem Zusatz "Mellic." bei den Signaturen der Handschriften, andererseits aus dem Vermerk "Mellicensia" von einer Hand um 1900 auf fol. 5v. </summary>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <foliation>1r–5v.</foliation>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <date notBefore="1700-01-01" notAfter="1750-01-01">Erste Hälfte 18. Jahrhundert</date>
+                     <note>Undatiert.</note>
+                  </origin>
+               </history>
+               <additional>
+                  <listBibl>
+                     <bibl>Zu Melker Handschriften bis 1400: <rs type="bibl" key="bqbibl:r021">Christine GLASSNER–Alois HAIDINGER, Inventar der Handschriften des Benediktinerstiftes Melk, Teil 1: Von den Anfängen bis ca. 1400 (Österreichische Akademie der Wissenschaften, Philosophisch-historische Klasse. Denkschriften 285 = Veröffentlichungen der Kommission für Schrift- und Buchwesen des Mittelalters, Reihe II 8/1, 2 Bde., Wien 2000)</rs>.</bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="RNA">Sammlungen und Objekte</classCode>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="s416630" n="1r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/416630.tif"/>
+      </surface>
+      <surface xml:id="s416631" n="1v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/416631.tif"/>
+      </surface>
+      <surface xml:id="s416632" n="2r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/416632.tif"/>
+      </surface>
+      <surface xml:id="s416633" n="2v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/416633.tif"/>
+      </surface>
+      <surface xml:id="s416634" n="3r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/416634.tif"/>
+      </surface>
+      <surface xml:id="s416635" n="3v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/416635.tif"/>
+      </surface>
+      <surface xml:id="s416636" n="4r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/416636.tif"/>
+      </surface>
+      <surface xml:id="s416637" n="4v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/416637.tif"/>
+      </surface>
+      <surface xml:id="s416638" n="5r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/416638.tif"/>
+      </surface>
+      <surface xml:id="s416639" n="5v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/416639.tif"/>
+      </surface>
+   </facsimile>
+</TEI>

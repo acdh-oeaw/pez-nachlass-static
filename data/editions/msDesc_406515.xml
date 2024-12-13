@@ -1,0 +1,144 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_406515.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Manuskript: Kathrein, "P. Anselm Schramb von Melk und der Mauriner Massuet"</title>
+            <title type="sub">Digital object description</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <idno type="unidam-verz_einh">10</idno>
+         <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-641C-3</idno></publicationStmt>
+         <sourceDesc>
+            <msDesc xml:lang="de">
+               <msIdentifier>
+                  <country>Österreich</country>
+                  <settlement>Melk</settlement>
+                  <institution>Benediktiner-Stift</institution>
+                  <repository>Stiftsarchiv</repository>
+                  <idno>Kt. 07 Patres 09 Faszikel 1 Nr. 02</idno>
+               </msIdentifier>
+               <msContents>
+                  <summary>Manuskript einer ungedruckten Abhandlung von Kathrein zu zehn Briefen Schramb an Massuet mit Einleitung, Anmerkungen und Kommentaren. </summary>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <foliation>1r–7v, 10r–13v, 13ar–v, 13br–v, 14r–23v (1r–13v, 13br–23v nur recto-Seiten digitalisiert: alle Verso-Seiten unbeschrieben).</foliation>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <date when="1894-01-01">um 1894</date>
+                     <note>Wahrscheinlich im Zuge von Kathreins Paris-Aufenthalt 1894 entstanden (vgl. Datierung zu Karton 7 Patres 9, Fasz. 1, Nr. 1). </note>
+                  </origin>
+               </history>
+               <additional>
+                  <listBibl>
+                     <bibl>Zu Kathrein: <rs type="bibl" key="bqbibl:r068">Catalogus religiosorum
+                           ordinis S.P. Benedicti in monasterio Mellicensi (Wien 1887, 1889)</rs>;
+                           <rs type="bibl" key="bqbibl:r072">Directorium officii divini Benedictino
+                           Mellicense (Melk 1922–1931)</rs>.</bibl>
+                     <bibl>Zu Schramb: <rs type="bibl" key="bqbibl:r016">Patrick FISKA, Zu Leben und
+                           Werk des Melker Benediktiners Anselm Schramb (1658–1720). Mit einer
+                           Edition seiner Briefkorrespondenz. SMBG 122 (2011) 201–306</rs>; <rs type="bibl" key="bqbibl:r039">Thomas WALLNIG–Thomas STOCKINGER, Die
+                           gelehrte Korrespondenz der Brüder Pez. Text, Regesten, Kommentare, 1:
+                           1709–1715 (QIÖG 2/1, Wien–München 2010)</rs>.</bibl>
+                     <bibl>Zur Befassung Kathreins mit der Thematik: <rs type="bibl" key="bqbibl:r184">Ignaz E. KATHREIN, Aus dem Briefverkehr deutscher
+                           Gelehrten mit den Benedictinern der Congregation von St. Maur und deren
+                           Beziehungen zu den literarischen und und religiösen Bewegungen des 18.
+                           Jahrhunderts. SMBG 23 (1902) 111–126, 386–403, 625–631; 24 (1903)
+                           175–184, 446–466</rs>.</bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="RNA">Sammlungen und Objekte</classCode>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="s406515" n="1r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/406515.tif"/>
+      </surface>
+      <surface xml:id="s406516" n="2r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/406516.tif"/>
+      </surface>
+      <surface xml:id="s406517" n="3r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/406517.tif"/>
+      </surface>
+      <surface xml:id="s406518" n="4r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/406518.tif"/>
+      </surface>
+      <surface xml:id="s406519" n="5r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/406519.tif"/>
+      </surface>
+      <surface xml:id="s406520" n="6r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/406520.tif"/>
+      </surface>
+      <surface xml:id="s406521" n="7r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/406521.tif"/>
+      </surface>
+      <surface xml:id="s406522" n="10r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/406522.tif"/>
+      </surface>
+      <surface xml:id="s406523" n="11r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/406523.tif"/>
+      </surface>
+      <surface xml:id="s406524" n="11v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/406524.tif"/>
+      </surface>
+      <surface xml:id="s406525" n="12r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/406525.tif"/>
+      </surface>
+      <surface xml:id="s406526" n="13r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/406526.tif"/>
+      </surface>
+      <surface xml:id="s406527" n="13aar">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/406527.tif"/>
+      </surface>
+      <surface xml:id="s406528" n="13ar">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/406528.tif"/>
+      </surface>
+      <surface xml:id="s406529" n="13av">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/406529.tif"/>
+      </surface>
+      <surface xml:id="s406530" n="13br">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/406530.tif"/>
+      </surface>
+      <surface xml:id="s406531" n="14r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/406531.tif"/>
+      </surface>
+      <surface xml:id="s406532" n="15r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/406532.tif"/>
+      </surface>
+      <surface xml:id="s406533" n="16r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/406533.tif"/>
+      </surface>
+      <surface xml:id="s406534" n="17r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/406534.tif"/>
+      </surface>
+      <surface xml:id="s406535" n="18r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/406535.tif"/>
+      </surface>
+      <surface xml:id="s406536" n="19r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/406536.tif"/>
+      </surface>
+      <surface xml:id="s406537" n="20r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/406537.tif"/>
+      </surface>
+      <surface xml:id="s406538" n="21r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/406538.tif"/>
+      </surface>
+      <surface xml:id="s406539" n="22r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/406539.tif"/>
+      </surface>
+      <surface xml:id="s406540" n="23r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/406540.tif"/>
+      </surface>
+   </facsimile>
+</TEI>

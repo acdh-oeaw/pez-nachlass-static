@@ -1,0 +1,77 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_424659.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Handschriften- und Bibliotheksnotizen zu Rheinsberg</title>
+            <title type="sub">Digital object description</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <idno type="unidam-verz_einh">538</idno>
+         <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-653A-0</idno></publicationStmt>
+         <sourceDesc>
+            <msDesc xml:lang="de">
+               <msIdentifier>
+                  <country>Österreich</country>
+                  <settlement>Melk</settlement>
+                  <institution>Benediktiner-Stift</institution>
+                  <repository>Stiftsarchiv</repository>
+                  <idno>Kt. 85 Varia 23 Faszikel 1 Nr. 37</idno>
+               </msIdentifier>
+               <msContents>
+                  <summary>Handschriften- und Bibliotheksnotizen zur Bibliothek Friedrichs II. auf Schloss Rheinsberg, zusammengestellt 1737. Friedrich lebte von 1736–1740 in Rheinsberg.</summary>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <foliation>1r–4v.</foliation>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <date notBefore="1737-01-01">1737</date>
+                     <note/>
+                  </origin>
+               </history>
+               <additional>
+                  <listBibl>
+                     <bibl>Zu Friedrich dem Großen und seiner Bibliothek: <rs type="bibl" key="bqbibl:r232">Friedrich der Große – Potsdamer Ausgabe, hg. von Anne BAILLOT (Philosophische Schriften 6, Berlin 2007)</rs>.</bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="RNA">Sammlungen und Objekte</classCode>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="s424659" n="1r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424659.tif"/>
+      </surface>
+      <surface xml:id="s424660" n="1v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424660.tif"/>
+      </surface>
+      <surface xml:id="s424661" n="2r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424661.tif"/>
+      </surface>
+      <surface xml:id="s424662" n="2v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424662.tif"/>
+      </surface>
+      <surface xml:id="s424663" n="3r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424663.tif"/>
+      </surface>
+      <surface xml:id="s424664" n="3v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424664.tif"/>
+      </surface>
+      <surface xml:id="s424665" n="4r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424665.tif"/>
+      </surface>
+      <surface xml:id="s424666" n="4v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/424666.tif"/>
+      </surface>
+   </facsimile>
+</TEI>

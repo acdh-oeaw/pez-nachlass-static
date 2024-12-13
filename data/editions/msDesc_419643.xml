@@ -1,0 +1,73 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_419643.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Briefauszüge: Lombard an BP</title>
+            <title type="sub">Digital object description</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <idno type="unidam-verz_einh">362</idno>
+         <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-63EB-A</idno></publicationStmt><notesStmt><note type="relatedCorrespondences">Lombard an BP: 1719-01-10, 1730-08-24, 1731-12-12.</note></notesStmt>
+         <sourceDesc>
+            <msDesc xml:lang="de">
+               <msIdentifier>
+                  <country>Österreich</country>
+                  <settlement>Melk</settlement>
+                  <institution>Benediktiner-Stift</institution>
+                  <repository>Stiftsarchiv</repository>
+                  <idno>Kt. 07 Patres 11 Faszikel 1 Nr. 46 </idno>
+               </msIdentifier>
+               <msContents>
+                  <summary>Auszüge aus den Briefen Lombard an BP, Hand Mayer. Datierungen teilweise irrig.</summary>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <foliation>1r–2v.</foliation>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <date notBefore="1800-01-01" notAfter="1899-12-31">19. Jh.</date>
+                     <note>Im Zusammenhang mit der Pez-Forschung im 19. Jahrhundert.</note>
+                  </origin>
+               </history>
+               <additional>
+                  <listBibl>
+                     <bibl>Zu Mayer: <rs type="bibl" key="bqbibl:r065">Catalogus religiosorum
+                           ordinis S.P. Benedicti in monasterio Mellicensi (Wien 1855)</rs>.</bibl>
+                     <bibl>Zu Lombard: <rs type="bibl" key="bqbibl:r409">Hubert SILVESTRE, Le
+                           Chronicon Sancti Laurentii Leodiensis, dit de Rupert de Deutz: étude
+                           critique (Recueil de travaux d’histoire et de philologie 43, Löwen
+                           1952)</rs>.</bibl>
+                     <bibl>Zu Briefen: <rs type="bibl" key="bqbibl:r018">Christine GLASSNER,
+                           Verzeichnis der im Nachlass der Melker Historiker Bernhard und Hieronymus
+                           Pez erhaltenen Briefe. SMGB 110 (1999) 195–243</rs>.</bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="RNA">Korrespondenzen</classCode>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="s419643" n="1r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/419643.tif"/>
+      </surface>
+      <surface xml:id="s419644" n="1v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/419644.tif"/>
+      </surface>
+      <surface xml:id="s419645" n="2r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/419645.tif"/>
+      </surface>
+      <surface xml:id="s419646" n="2v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/419646.tif"/>
+      </surface>
+   </facsimile>
+</TEI>

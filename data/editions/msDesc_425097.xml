@@ -1,0 +1,83 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_425097.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Schriftstellerkatalog zu Weihenstephan</title>
+            <title type="sub">Digital object description</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <idno type="unidam-verz_einh">555</idno>
+         <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-6545-3</idno></publicationStmt><notesStmt><note type="relatedCorrespondences">Junghans an BP: 1716-10-04.</note></notesStmt>
+         <sourceDesc>
+            <msDesc xml:lang="de">
+               <msIdentifier>
+                  <country>Österreich</country>
+                  <settlement>Melk</settlement>
+                  <institution>Benediktiner-Stift</institution>
+                  <repository>Stiftsarchiv</repository>
+                  <idno>Kt. 85 Varia 23 Faszikel 1 Nr. 54</idno>
+               </msIdentifier>
+               <msContents>
+                  <summary>Schriftstellerkatalog von Weihenstephan, Hand Junghans. Beilage zu Brief Junghans an BP (1716-10-04).</summary>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <foliation>1r–5r, 6v.</foliation>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <date notBefore="1716-01-01">1716</date>
+                     <note/>
+                  </origin>
+               </history>
+               <additional>
+                  <listBibl>
+                     <bibl>Zu Schriftstellern: <rs type="bibl" key="bqbibl:r560">Heinrich GENTNER, Geschichte des Benedictinerklosters Weihenstephan bey Freysing. Aus Urkunden angefertiget. Beyträge zur Geschichte, Topographie und Statistik des Erzbisthums München und Freysing 6 (1854) 1–350</rs>. Zu Brief: <rs type="bibl" key="bqbibl:r018">Christine GLASSNER, Verzeichnis der im Nachlass der Melker Historiker Bernhard und Hieronymus Pez erhaltenen Briefe. SMGB 110 (1999) 195–243</rs>.</bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="RNA">Sammlungen und Objekte</classCode>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="s425097" n="1r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/425097.tif"/>
+      </surface>
+      <surface xml:id="s425098" n="1v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/425098.tif"/>
+      </surface>
+      <surface xml:id="s425099" n="2r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/425099.tif"/>
+      </surface>
+      <surface xml:id="s425100" n="2v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/425100.tif"/>
+      </surface>
+      <surface xml:id="s425101" n="3r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/425101.tif"/>
+      </surface>
+      <surface xml:id="s425102" n="3v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/425102.tif"/>
+      </surface>
+      <surface xml:id="s425103" n="4r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/425103.tif"/>
+      </surface>
+      <surface xml:id="s425104" n="4v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/425104.tif"/>
+      </surface>
+      <surface xml:id="s425105" n="5r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/425105.tif"/>
+      </surface>
+      <surface xml:id="s425106" n="6v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/425106.tif"/>
+      </surface>
+   </facsimile>
+</TEI>

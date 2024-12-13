@@ -1,0 +1,72 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_447454.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Exzerpt aus Kircher, Oedipus Aegyptiacus</title>
+            <title type="sub">Digital object description</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <idno type="unidam-verz_einh">755</idno>
+         <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-65D1-4</idno></publicationStmt>
+         <sourceDesc>
+            <msDesc xml:lang="de">
+               <msIdentifier>
+                  <country>Österreich</country>
+                  <settlement>Melk</settlement>
+                  <institution>Benediktiner-Stift</institution>
+                  <repository>Stiftsarchiv</repository>
+                  <idno>Kt. 85 Varia 30 Faszikel 1 Nr. 16</idno>
+               </msIdentifier>
+               <msContents>
+                  <summary>Exzerpt aus Athanasius KIRCHER, Oedipus Aegyptiacus (3 Bde., Rom 1652–1655), beinhaltet die Inhaltsverzeichnisse ("synopsis") zu Tom. I–III, ohne Seitenangaben.</summary>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <foliation>1r–4v.</foliation>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <date notBefore="1700-01-01" notAfter="1750-01-01">Erste Hälfte 18. Jahrhundert</date>
+                     <note>Undatiert.</note>
+                  </origin>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="RNA">Sammlungen und Objekte</classCode>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="s447454" n="1r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/447454.tif"/>
+      </surface>
+      <surface xml:id="s447455" n="1v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/447455.tif"/>
+      </surface>
+      <surface xml:id="s447456" n="2r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/447456.tif"/>
+      </surface>
+      <surface xml:id="s447457" n="2v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/447457.tif"/>
+      </surface>
+      <surface xml:id="s447458" n="3r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/447458.tif"/>
+      </surface>
+      <surface xml:id="s447459" n="3v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/447459.tif"/>
+      </surface>
+      <surface xml:id="s447460" n="4r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/447460.tif"/>
+      </surface>
+      <surface xml:id="s447461" n="4v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/447461.tif"/>
+      </surface>
+   </facsimile>
+</TEI>

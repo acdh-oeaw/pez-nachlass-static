@@ -1,0 +1,61 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_425088.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Abschrift des Hildebrandliedes aus Kasseler Handschrift</title>
+            <title type="sub">Digital object description</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <idno type="unidam-verz_einh">553</idno>
+         <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-6543-5</idno></publicationStmt>
+         <sourceDesc>
+            <msDesc xml:lang="de">
+               <msIdentifier>
+                  <country>Österreich</country>
+                  <settlement>Melk</settlement>
+                  <institution>Benediktiner-Stift</institution>
+                  <repository>Stiftsarchiv</repository>
+                  <idno>Kt. 85 Varia 23 Faszikel 1 Nr. 52</idno>
+               </msIdentifier>
+               <msContents>
+                  <summary>Abschrift des Hildebrandliedes ("Specimen scripturae codicis cassellani vetustissimi"), der Vermerk stammt von der Hand Eckharts. Die ursprünglich aus Fulda stammende Handschrift wurde um 1715 von Eckhart in der fürstlichen Landesbibliothek zu Kassel (heute Universitätsbibliothek Ms. theol. 54) entdeckt. Später veröffentlichte Eckhart das dort eingebundene Fragment als Faksimile in: Johann Georg ECKHART, Commentarii de rebus Franciae Orientalis et episcopatus VVirceburgensis (Würzburg 1729).</summary>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <foliation>1r–v.</foliation>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <date notBefore="1715-01-01">nach 1715</date>
+                     <note>Undatiert. Eckhart entdeckte die Handschrift 1715.</note>
+                  </origin>
+               </history>
+               <additional>
+                  <listBibl>
+                     <bibl>Zum Hildebrandlied (Faksimile): <rs type="bibl" key="bqbibl:r619">Das Hildebrandlied: Faksimile der Kasseler Handschrift, hg. von Hartmut BROSZINSKI (Kasseler Semesterbücher – Pretiosa Cassellana 1, Kassel 2004)</rs>;
+                        <rs type="bibl" key="bqbibl:r621">John Sidney GROSECLOSE–Brian MURDOCH, Die althochdeutschen poetischen Denkmäler (Sammlung Metzler, Abt. D: Literaturgeschichte 140, Stuttgart 1976)</rs>. Zu Eckhart: <rs type="bibl" key="bqbibl:r013">Stefan BENZ, Johann Georg von Eckhart (1674–1730), in: Fränkische Lebensbilder. Fünfzehnter Band, hg. von Alfred WENDEHORST (Veröffentlichungen der Gesellschaft für Fränkische Geschichte, Reihe VII A 15, Neustadt an der Aisch 1993) 135–156</rs>;
+                        <rs type="bibl" key="bqbibl:r689">Thomas WALLNIG, Johann Georg Eckhart als Verwerter von Leibniz' Kollektaneen: Geschichtsforscher in höfischen Diensten oder gelehrter Beamter?, in: Leibniz als Sammler und Verwerter historischer Quellen, hg. von Nora GÄDEKE (Wolfenbüttel 2012) 189–210</rs>. Zu Ms. theol. 54: <rs type="bibl" key="bqbibl:r868">Konrad WIEDEMANN, Manuscripta theologica: Die Handschriften in Folio (Die Handschriften der Gesamthochschul-Bibliothek Kassel, Landesbibliothek und Murhardsche Bibliothek der Stadt Kassel 1/1, Wiesbaden 1994)</rs>.</bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="RNA">Sammlungen und Objekte</classCode>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="s425088" n="1r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/425088.tif"/>
+      </surface>
+      <surface xml:id="s425089" n="1v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/425089.tif"/>
+      </surface>
+   </facsimile>
+</TEI>

@@ -1,0 +1,114 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_420053.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Briefauszüge: Apronian Hueber an BP</title>
+            <title type="sub">Digital object description</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <idno type="unidam-verz_einh">386</idno>
+         <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-6400-1</idno></publicationStmt><notesStmt><note type="relatedCorrespondences">Hueber an BP: 1717-05-08 (irrig: 1718-01-20), 1718-01-24, 1718-10-22, 1723-06-08, 1725-04-14, 1728-03-12, 1737-01-18.</note></notesStmt>
+         <sourceDesc>
+            <msDesc xml:lang="de">
+               <msIdentifier>
+                  <country>Österreich</country>
+                  <settlement>Melk</settlement>
+                  <institution>Benediktiner-Stift</institution>
+                  <repository>Stiftsarchiv</repository>
+                  <idno>Kt. 07 Patres 11 Faszikel 1 Nr. 70 </idno>
+               </msIdentifier>
+               <msContents>
+                  <summary>Auszüge aus Briefen Hueber an BP, Hand Mayer. Datierungen teilweise irrig.</summary>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <foliation>1r–8v.</foliation>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <date notBefore="1800-01-01" notAfter="1899-12-31">19. Jh.</date>
+                     <note>Im Zusammenhang mit der Pez-Forschung im 19. Jahrhundert.</note>
+                  </origin>
+               </history>
+               <additional>
+                  <listBibl>
+                     <bibl>Zu Mayer: <rs type="bibl" key="bqbibl:r065">Catalogus religiosorum
+                           ordinis S.P. Benedicti in monasterio Mellicensi (Wien 1855)</rs>.</bibl>
+                     <bibl>Zu Mehrerau: <rs type="bibl" key="bqbibl:r419">Pirmin LINDNER, Album
+                           Augiae Brigantinae. Album von Mehrerau bei Bregenz, enthaltend die Äbte
+                           und Mönche der ehemaligen Benediktiner-Abtei Mehrerau vom Jahre 1097 bis
+                           zu ihrem Aussterben (1856) und deren literarischen Nachlass.
+                           Jahres-Bericht des Vorarlberger Museum-Vereines 41 (1902) 31–107</rs>;
+                           <rs type="bibl" key="bqbibl:r420">Alois NIEDERSTÄTTER, Mehrerau, in:
+                           Germania Benedictina, 3/2: Die benediktinischen Mönchs- und Nonnenklöster
+                           in Österreich und Südtirol, hg. von Ulrich FAUST–Waltraud KRASSNIG (St.
+                           Ottilien 2001) 491–525</rs>.</bibl>
+                     <bibl>Zu Briefen: <rs type="bibl" key="bqbibl:r018">Christine GLASSNER,
+                           Verzeichnis der im Nachlass der Melker Historiker Bernhard und Hieronymus
+                           Pez erhaltenen Briefe. SMGB 110 (1999) 195–243</rs>.</bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="RNA">Korrespondenzen</classCode>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="s420053" n="1r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/420053.tif"/>
+      </surface>
+      <surface xml:id="s420054" n="1v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/420054.tif"/>
+      </surface>
+      <surface xml:id="s420055" n="2r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/420055.tif"/>
+      </surface>
+      <surface xml:id="s420056" n="2v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/420056.tif"/>
+      </surface>
+      <surface xml:id="s420057" n="3r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/420057.tif"/>
+      </surface>
+      <surface xml:id="s420058" n="3v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/420058.tif"/>
+      </surface>
+      <surface xml:id="s420059" n="4r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/420059.tif"/>
+      </surface>
+      <surface xml:id="s420060" n="4v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/420060.tif"/>
+      </surface>
+      <surface xml:id="s420061" n="5r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/420061.tif"/>
+      </surface>
+      <surface xml:id="s420062" n="5v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/420062.tif"/>
+      </surface>
+      <surface xml:id="s420063" n="6r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/420063.tif"/>
+      </surface>
+      <surface xml:id="s420064" n="6v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/420064.tif"/>
+      </surface>
+      <surface xml:id="s420065" n="7r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/420065.tif"/>
+      </surface>
+      <surface xml:id="s420066" n="7v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/420066.tif"/>
+      </surface>
+      <surface xml:id="s420067" n="8r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/420067.tif"/>
+      </surface>
+      <surface xml:id="s420068" n="8v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/420068.tif"/>
+      </surface>
+   </facsimile>
+</TEI>

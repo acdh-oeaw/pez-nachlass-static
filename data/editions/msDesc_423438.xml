@@ -1,0 +1,60 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_423438.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Abschrift: Montivillanus (Perkhofer?), Epitaph auf Treffler</title>
+            <title type="sub">Digital object description</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <idno type="unidam-verz_einh">494</idno>
+         <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-6514-A</idno></publicationStmt><notesStmt><note type="relatedCorrespondences">Meichelbeck an BP: 1716-10-04.</note></notesStmt>
+         <sourceDesc>
+            <msDesc xml:lang="de">
+               <msIdentifier>
+                  <country>Österreich</country>
+                  <settlement>Melk</settlement>
+                  <institution>Benediktiner-Stift</institution>
+                  <repository>Stiftsarchiv</repository>
+                  <idno>Kt. 85 Varia 22 Faszikel 3 Nr. 09 </idno>
+               </msIdentifier>
+               <msContents>
+                  <summary>Abschrift des Epitaphs auf Treffler (gest. 1565). Zu Treffler vgl. die Abschrift von Montivillanus' Lobgedicht in Karton 85 Varia 22, Fasz. 3, Nr. 10. Später abgedruckt in Karl MEICHELBECK, Chronicon Benedictoburanum (2 Bde., München 1751–1753). Beilage zu Brief Meichelbeck an BP (1716-10-04).</summary>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <foliation>1r–v.</foliation>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <date notBefore="1716-01-01">1716</date>
+                     <note/>
+                  </origin>
+               </history>
+               <additional>
+                  <listBibl>
+                     <bibl>Zu Treffler: <rs type="bibl" key="bqbibl:r837">Josef HEMMERLE, Das Bistum Augsburg, 1: Die Benediktinerabtei Benediktbeuern (Germania Sacra N. F. 28, Die Bistümer der Kirchenprovinz Mainz, Berlin–New York 1991)</rs>;
+                        <rs type="bibl" key="bqbibl:r319">Pirmin LINDNER, Fünf Professbücher süddeutscher Benediktiner-Abteien. Beiträge zu einem Monasticon-benedictinum Germaniae, 4: Professbuch der Benediktiner-Abtei Benediktbeuern (Kempten–München 1910)</rs>. Zu Meichelbeck: <rs type="bibl" key="bqbibl:r320">Thomas STOCKINGER, War Karl Meichelbeck ein "deutscher Mauriner"?, in: Europäische Geschichtskulturen um 1700 zwischen Gelehrsamkeit, Politik und Konfession, hg. von Thomas WALLNIG–Thomas STOCKINGER–Ines PEPER–Patrick FISKA (Berlin–Boston 2012) 135–168</rs>. Zu Brief: <rs type="bibl" key="bqbibl:r018">Christine GLASSNER, Verzeichnis der im Nachlass der Melker Historiker Bernhard und Hieronymus Pez erhaltenen Briefe. SMGB 110 (1999) 195–243</rs>.</bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="RNA">Sammlungen und Objekte</classCode>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="s423438" n="1r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/423438.tif"/>
+      </surface>
+      <surface xml:id="s423439" n="1v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/423439.tif"/>
+      </surface>
+   </facsimile>
+</TEI>

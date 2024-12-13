@@ -1,0 +1,108 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_409136.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Abschrift: Fragment einer Abhandlung "De ratione status" </title>
+            <title type="sub">Digital object description</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <idno type="unidam-verz_einh">62</idno>
+         <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-6426-7</idno></publicationStmt>
+         <sourceDesc>
+            <msDesc xml:lang="de">
+               <msIdentifier>
+                  <country>Österreich</country>
+                  <settlement>Melk</settlement>
+                  <institution>Benediktiner-Stift</institution>
+                  <repository>Stiftsarchiv</repository>
+                  <idno>Kt. 07 Patres 09 Faszikel 1 Nr. 44 </idno>
+               </msIdentifier>
+               <msContents>
+                  <summary>Fragment einer Abhandlung "De ratione status" o. Ä., umfassend Puncta 2 "De divisione rationis status" bis 12 "Quare christiani et catholici reges et principes dicantur falsa ratione status uti?" Antiprotestantisch, wendet sich gegen Machiavelli. Am Anfang fehlt der erste Punkt, am Ende reißt der Text mitten im Satz ab. Wahrscheinlich Abschrift; Original (aus schulischem Kontext?) nicht auzuschließen.</summary>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <foliation>1r–10v.</foliation>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <date notBefore="1720-01-01" notAfter="1729-12-31">1720er Jahre (?)</date>
+                     <note>Undatiert.</note>
+                  </origin>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="RNA">Sammlungen und Objekte</classCode>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="s409136" n="1r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/409136.tif"/>
+      </surface>
+      <surface xml:id="s409137" n="1v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/409137.tif"/>
+      </surface>
+      <surface xml:id="s409138" n="2r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/409138.tif"/>
+      </surface>
+      <surface xml:id="s409139" n="2v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/409139.tif"/>
+      </surface>
+      <surface xml:id="s409140" n="3r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/409140.tif"/>
+      </surface>
+      <surface xml:id="s409141" n="3v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/409141.tif"/>
+      </surface>
+      <surface xml:id="s409142" n="4r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/409142.tif"/>
+      </surface>
+      <surface xml:id="s409143" n="4v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/409143.tif"/>
+      </surface>
+      <surface xml:id="s409144" n="5r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/409144.tif"/>
+      </surface>
+      <surface xml:id="s409145" n="5v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/409145.tif"/>
+      </surface>
+      <surface xml:id="s409146" n="6r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/409146.tif"/>
+      </surface>
+      <surface xml:id="s409147" n="6v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/409147.tif"/>
+      </surface>
+      <surface xml:id="s409148" n="7r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/409148.tif"/>
+      </surface>
+      <surface xml:id="s409149" n="7v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/409149.tif"/>
+      </surface>
+      <surface xml:id="s409150" n="8r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/409150.tif"/>
+      </surface>
+      <surface xml:id="s409151" n="8v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/409151.tif"/>
+      </surface>
+      <surface xml:id="s409152" n="9r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/409152.tif"/>
+      </surface>
+      <surface xml:id="s409153" n="9v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/409153.tif"/>
+      </surface>
+      <surface xml:id="s409154" n="10r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/409154.tif"/>
+      </surface>
+      <surface xml:id="s409155" n="10v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/409155.tif"/>
+      </surface>
+   </facsimile>
+</TEI>

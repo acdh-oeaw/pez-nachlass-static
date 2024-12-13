@@ -1,0 +1,90 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_417345.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Manuskript: Hausgeschichte von Niederaltaich</title>
+            <title type="sub">Digital object description</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <idno type="unidam-verz_einh">308</idno>
+         <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-64B3-7</idno></publicationStmt><notesStmt><note type="relatedCorrespondences">Haiden an BP: 1711-05-01.</note></notesStmt>
+         <sourceDesc>
+            <msDesc xml:lang="de">
+               <msIdentifier>
+                  <country>Österreich</country>
+                  <settlement>Melk</settlement>
+                  <institution>Benediktiner-Stift</institution>
+                  <repository>Stiftsarchiv</repository>
+                  <idno>Kt. 07 Patres 10 Faszikel 8 Nr. 47</idno>
+               </msIdentifier>
+               <msContents>
+                  <summary>Auszug aus einer Hausgeschichte von Niederaltaich "De institutione seu fundatione monasterii Altahensis inferioris", enthaltend die Gründungsgeschichte und eine Beschreibung der 26 Altäre. Ob eine Beziehung zu Haidens Hausgeschichte, Tausend-jähriges jubel-fest des closters Niederaltaich (Regensburg 1732), besteht, ist nicht klar. Materialien zur Hausgeschichte hat Haiden in einem Brief an BP (1711-05-01) nach Melk versandt.</summary>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <foliation>1r–6v.</foliation>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <date notBefore="1500-01-01" notAfter="1599-12-31">ca. 16. Jh.</date>
+                     <note/>
+                  </origin>
+               </history>
+               <additional>
+                  <listBibl>
+                     <bibl>Zu Niederaltaich: <rs type="bibl" key="bqbibl:r590">Josef HEMMERLE, Germania Benedictina, 2: Die Benediktinerklöster in Bayern (Augsburg 1970)</rs>;
+                        <rs type="bibl" key="bqbibl:r437">Georg STADTMÜLLER–Bonifaz PFISTER, Geschichte der Abtei Niederaltaich 741–1971 (Ottobeuren–Augsburg 1971)</rs>. Zu Haiden, seiner Hausgeschichte und dem Brief: <rs type="bibl" key="bqbibl:r039">Thomas WALLNIG–Thomas STOCKINGER, Die gelehrte Korrespondenz der Brüder Pez. Text, Regesten, Kommentare, 1: 1709–1715 (QIÖG 2/1, Wien–München 2010)</rs>.</bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="RNA">Sammlungen und Objekte</classCode>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="s417345" n="1r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/417345.tif"/>
+      </surface>
+      <surface xml:id="s417346" n="1v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/417346.tif"/>
+      </surface>
+      <surface xml:id="s417347" n="2r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/417347.tif"/>
+      </surface>
+      <surface xml:id="s417348" n="2v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/417348.tif"/>
+      </surface>
+      <surface xml:id="s417349" n="3r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/417349.tif"/>
+      </surface>
+      <surface xml:id="s417350" n="3v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/417350.tif"/>
+      </surface>
+      <surface xml:id="s417351" n="4r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/417351.tif"/>
+      </surface>
+      <surface xml:id="s417352" n="4v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/417352.tif"/>
+      </surface>
+      <surface xml:id="s417353" n="5r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/417353.tif"/>
+      </surface>
+      <surface xml:id="s417354" n="5v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/417354.tif"/>
+      </surface>
+      <surface xml:id="s417355" n="6r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/417355.tif"/>
+      </surface>
+      <surface xml:id="s417356" n="6v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/417356.tif"/>
+      </surface>
+   </facsimile>
+</TEI>

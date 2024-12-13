@@ -1,0 +1,139 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_420078.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Briefauszüge: Sandi und Vignola an BP; Schriftsteller- und Handschriftenkatalog von S. Giustina</title>
+            <title type="sub">Digital object description</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <idno type="unidam-verz_einh">388</idno>
+         <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-6402-F</idno></publicationStmt><notesStmt><note type="relatedCorrespondences">Sandi an BP: 1717-04-01, 1717-08-13, 1720-01-25, 1721-08-15, 1722-02-20, 1730-05-25, 1733-01-17. Vignola an BP: Undatiert.</note></notesStmt>
+         <sourceDesc>
+            <msDesc xml:lang="de">
+               <msIdentifier>
+                  <country>Österreich</country>
+                  <settlement>Melk</settlement>
+                  <institution>Benediktiner-Stift</institution>
+                  <repository>Stiftsarchiv</repository>
+                  <idno>Kt. 07 Patres 11 Faszikel 1 Nr. 72 </idno>
+               </msIdentifier>
+               <msContents>
+                  <summary>Auszüge aus Briefen Sandi und Vignola an BP, auf fol. 3r–v Schriftstellerkatalog von S. Giustina, zum größten Teil entsprechen die Angaben Mariano ARMELLINI, Bibliotheca Benedictino-Casinensis sive Scriptorum Casinensis congregationis alias S. Justinae Patavinae (2 Bde., Assisi 1731–1736); sowie auf fol. 4r Handschriftenkatalog, Hand Mayer. Datierungen teilweise irrig.</summary>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <foliation>1r–10v.</foliation>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <date notBefore="1800-01-01" notAfter="1899-12-31">19. Jh.</date>
+                     <note>Im Zusammenhang mit der Pez-Forschung im 19. Jahrhundert.</note>
+                  </origin>
+               </history>
+               <additional>
+                  <listBibl>
+                     <bibl>Zu Mayer: <rs type="bibl" key="bqbibl:r065">Catalogus religiosorum
+                           ordinis S.P. Benedicti in monasterio Mellicensi (Wien 1855)</rs>.</bibl>
+                     <bibl>Zu Schriftstellern der Cassinenser Kongregation: <rs type="bibl" key="bqbibl:r225">Arcangelo BOSSI, Matricula monachorum Congregationis
+                           Casinensis Ordinis S. Benedicti, 1: 1409–1699, hg. von Leandro
+                           NOVELLI–Giovanni SPINELLI (Pubblicazioni del Centro Storico Benedettino
+                           Italiano 3, Cesena 1983)</rs>.</bibl>
+                     <bibl>Zu S. Giustina: <rs type="bibl" key="bqbibl:r235">Barbara KILIAN, S.
+                           Giustina in Padua. Benediktinische Sakralarchitektur zwischen Tradition
+                           und Anspruch (Europäische Hochschulschriften, Reihe XXVIII:
+                           Kunstgeschichte 296, Frankfurt am Main et al. 1997)</rs>; <rs type="bibl" key="bqbibl:r236">Tommaso Domenico LECCISOTTI, La Congregazione
+                           benedettina di S. Giustina e la riforma della Chiesa al secolo XV.
+                           Archivio della R. Deputazione romana di Storia patria 67 (1944)
+                           451–469</rs>.</bibl>
+                     <bibl>Zu Handschriften aus S. Giustina: <rs type="bibl" key="bqbibl:r238">Francesco TROLESE, Padova, Biblioteca del Monumento Nazionale di Santa
+                           Giustina, in: I manoscritti medievali di Padova e provincia. Padova,
+                           Accademia Galileiana, Archivio di Stato, Biblioteca Civica, Biblioteca
+                           dell’Orto Botanico, Biblioteca di Santa Giustina, Biblioteca Pinali
+                           Monselice, Biblioteca Comunale Teolo, Biblioteca di Santa Maria di
+                           Praglia, hg. von Leonardo GRANATA (Biblioteche e archivi 9 = Manoscritti
+                           medievali del Veneto 2, Venezia–Tavarnuzze 2002)
+                        XLIII–XLVIII</rs>.</bibl>
+                     <bibl>Zu Sandi und Vignola: <rs type="bibl" key="bqbibl:r237">Francesco
+                           Ludovico MASCHIETTO, Biblioteca e bibliotecari di S. Giustina di Padova
+                           (1697–1827) (Miscellanea erudita 34, Padova 1981)</rs>.</bibl>
+                     <bibl>Zu Briefen: <rs type="bibl" key="bqbibl:r018">Christine GLASSNER,
+                           Verzeichnis der im Nachlass der Melker Historiker Bernhard und Hieronymus
+                           Pez erhaltenen Briefe. SMGB 110 (1999) 195–243</rs>.</bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="RNA">Korrespondenzen</classCode>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="s420078" n="1r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/420078.tif"/>
+      </surface>
+      <surface xml:id="s420079" n="1v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/420079.tif"/>
+      </surface>
+      <surface xml:id="s420080" n="2r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/420080.tif"/>
+      </surface>
+      <surface xml:id="s420081" n="2v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/420081.tif"/>
+      </surface>
+      <surface xml:id="s420082" n="3r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/420082.tif"/>
+      </surface>
+      <surface xml:id="s420083" n="3v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/420083.tif"/>
+      </surface>
+      <surface xml:id="s420084" n="4r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/420084.tif"/>
+      </surface>
+      <surface xml:id="s420085" n="4v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/420085.tif"/>
+      </surface>
+      <surface xml:id="s420086" n="5r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/420086.tif"/>
+      </surface>
+      <surface xml:id="s420087" n="5v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/420087.tif"/>
+      </surface>
+      <surface xml:id="s420088" n="6r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/420088.tif"/>
+      </surface>
+      <surface xml:id="s420089" n="6v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/420089.tif"/>
+      </surface>
+      <surface xml:id="s420090" n="7r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/420090.tif"/>
+      </surface>
+      <surface xml:id="s420091" n="7v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/420091.tif"/>
+      </surface>
+      <surface xml:id="s420092" n="8r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/420092.tif"/>
+      </surface>
+      <surface xml:id="s420093" n="8v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/420093.tif"/>
+      </surface>
+      <surface xml:id="s420094" n="9r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/420094.tif"/>
+      </surface>
+      <surface xml:id="s420095" n="9v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/420095.tif"/>
+      </surface>
+      <surface xml:id="s420096" n="10r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/420096.tif"/>
+      </surface>
+      <surface xml:id="s420097" n="10v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/420097.tif"/>
+      </surface>
+   </facsimile>
+</TEI>

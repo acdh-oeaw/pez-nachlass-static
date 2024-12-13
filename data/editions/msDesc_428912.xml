@@ -1,0 +1,60 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_428912.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Handschriftennotizen zu verschiedenen französischen Klosterbibliotheken; bio-bibliographische Notizen zu mittelalterlichen Autoren</title>
+            <title type="sub">Digital object description</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <idno type="unidam-verz_einh">622</idno>
+         <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-656F-5</idno></publicationStmt>
+         <sourceDesc>
+            <msDesc xml:lang="de">
+               <msIdentifier>
+                  <country>Österreich</country>
+                  <settlement>Melk</settlement>
+                  <institution>Benediktiner-Stift</institution>
+                  <repository>Stiftsarchiv</repository>
+                  <idno>Kt. 85 Varia 25 Faszikel 1 Nr. 18</idno>
+               </msIdentifier>
+               <msContents>
+                  <summary>Handschriftennotizen zu verschiedenen französischen Klosterbibliotheken bzw. bio-bibliographische Notizen zu mittelalterlichen Autoren, Hand Massuet. </summary>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <foliation>1r–2v.</foliation>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <date notAfter="1716-01-11">vor 1716</date>
+                     <note>Massuet ist 1716 gestorben.</note>
+                  </origin>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="RNA">Sammlungen und Objekte</classCode>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="s428912" n="1r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/428912.tif"/>
+      </surface>
+      <surface xml:id="s428913" n="1v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/428913.tif"/>
+      </surface>
+      <surface xml:id="s428914" n="2r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/428914.tif"/>
+      </surface>
+      <surface xml:id="s428915" n="2v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/428915.tif"/>
+      </surface>
+   </facsimile>
+</TEI>

@@ -1,0 +1,65 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_410574.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Schriftstellerkatalog von S. Nicolò dell' Arena, Catania</title>
+            <title type="sub">Digital object description</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <idno type="unidam-verz_einh">96</idno>
+         <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-6440-9</idno></publicationStmt>
+         <sourceDesc>
+            <msDesc xml:lang="de">
+               <msIdentifier>
+                  <country>Österreich</country>
+                  <settlement>Melk</settlement>
+                  <institution>Benediktiner-Stift</institution>
+                  <repository>Stiftsarchiv</repository>
+                  <idno>Kt. 07 Patres 09 Faszikel 1 Nr. 78 </idno>
+               </msIdentifier>
+               <msContents>
+                  <summary>Schriftstellerkatalog "Viri docti ex monasterio S. Nicolai Catanensi in Scicilia [sic]". </summary>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <foliation>1r–2v.</foliation>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <date notBefore="1700-01-01" notAfter="1799-12-31">18. Jh.</date>
+                     <note>Undatiert.</note>
+                  </origin>
+               </history>
+               <additional>
+                  <listBibl>
+                     <bibl>Zum Kloster S. Nicolò: <rs type="bibl" key="bqbibl:r225">Arcangelo BOSSI, Matricula monachorum Congregationis Casinensis Ordinis S. Benedicti, 1: 1409–1699, hg. von Leandro NOVELLI–Giovanni SPINELLI (Pubblicazioni del Centro Storico Benedettino Italiano 3, Cesena 1983)</rs>.</bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="RNA">Sammlungen und Objekte</classCode>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="s410574" n="1r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/410574.tif"/>
+      </surface>
+      <surface xml:id="s410575" n="1v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/410575.tif"/>
+      </surface>
+      <surface xml:id="s410576" n="2r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/410576.tif"/>
+      </surface>
+      <surface xml:id="s410577" n="2v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/410577.tif"/>
+      </surface>
+   </facsimile>
+</TEI>

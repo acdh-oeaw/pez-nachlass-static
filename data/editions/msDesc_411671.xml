@@ -1,0 +1,65 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_411671.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Manuskript: "Humillima petita pro gratiosa caesarea confirmatione a Mellicensibus submississime oblata et a futuro abbate observanda" </title>
+            <title type="sub">Digital object description</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <idno type="unidam-verz_einh">186</idno>
+         <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-6460-5</idno></publicationStmt>
+         <sourceDesc>
+            <msDesc xml:lang="de">
+               <msIdentifier>
+                  <country>Österreich</country>
+                  <settlement>Melk</settlement>
+                  <institution>Benediktiner-Stift</institution>
+                  <repository>Stiftsarchiv</repository>
+                  <idno>Kt. 07 Patres 09 Faszikel 2 Nr. 86 </idno>
+               </msIdentifier>
+               <msContents>
+                  <summary>"Humillima petita pro gratiosa caesarea confirmatione a Mellicensibus submississime oblata et a futuro abbate observanda". Inhalt im Zusammenhang mit der Auseinandersetzung zwischen BP und Abt Dietmayr 1722/1723. Am Ende unvollständig. Zu den "Capitula" vgl. auch Karton 7 Patres 9, Fasz. 1, Nr. 26 bis 34 sowie Karton 3 Äbte 6, Fasz. 2.</summary>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <foliation>1r–2v.</foliation>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <date when="1723-01-01">um 1723</date>
+                     <note>Vermutlich zeitgenössische Abschrift. </note>
+                  </origin>
+               </history>
+               <additional>
+                  <listBibl>
+                     <bibl>Zu den "Capitula" des Melker Konvents: <rs type="bibl" key="bqbibl:r023">Hugo HANTSCH, Bernhard Pez und Abt Berthold Dietmayr. MIÖG 71 (1963) 128–139</rs>.</bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="RNA">Sammlungen und Objekte</classCode>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="s411671" n="1r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/411671.tif"/>
+      </surface>
+      <surface xml:id="s411672" n="1v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/411672.tif"/>
+      </surface>
+      <surface xml:id="s411673" n="2r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/411673.tif"/>
+      </surface>
+      <surface xml:id="s411674" n="2v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/411674.tif"/>
+      </surface>
+   </facsimile>
+</TEI>

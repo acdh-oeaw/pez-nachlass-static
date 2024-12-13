@@ -1,0 +1,90 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_425397.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Werkskatalog des Trithemius mit Kommentaren aus der Sekundärliteratur</title>
+            <title type="sub">Digital object description</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <idno type="unidam-verz_einh">568</idno>
+         <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-654F-9</idno></publicationStmt>
+         <sourceDesc>
+            <msDesc xml:lang="de">
+               <msIdentifier>
+                  <country>Österreich</country>
+                  <settlement>Melk</settlement>
+                  <institution>Benediktiner-Stift</institution>
+                  <repository>Stiftsarchiv</repository>
+                  <idno>Kt. 85 Varia 23 Faszikel 2 Nr. 10</idno>
+               </msIdentifier>
+               <msContents>
+                  <summary>Werkskatalog des Trithemius ohne Titel, mit Kommentaren aus der Sekundärliteratur u.a. aus Antonio POSSEVINO, Apparatus sacer (3 Bde., Venedig 1603–1606), Arnold WION, Lignum vitae (5 Bde., Venedig 1595) und wohl Conrad GESNER, Bibliotheca universalis (4 Bde., Zürich 1545–1555). Unvollständig, beginnt mit fol. 3r.</summary>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <foliation>1r–6v.</foliation>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <date notBefore="1700-01-01" notAfter="1750-01-01">Erste Hälfte 18. Jahrhundert</date>
+                     <note>Undatiert.</note>
+                  </origin>
+               </history>
+               <additional>
+                  <listBibl>
+                     <bibl>Zu Trithemius: <rs type="bibl" key="bqbibl:r499">Klaus ARNOLD, Johannes Trithemius (1462–1516) (Quellen und Forschungen zur Geschichte des Bistums und Hochstifts Würzburg 23, Würzburg 1991)</rs>;
+                        <rs type="bibl" key="bqbibl:r500">Ivo FISCHER, Der Nachlaß des Abtes Johannes Trithemius von St. Jakob in Würzburg. Archiv des Historischen Vereins von Unterfranken und Aschaffenburg 67 (1928) 41–82</rs>.</bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="RNA">Sammlungen und Objekte</classCode>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="s425397" n="1r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/425397.tif"/>
+      </surface>
+      <surface xml:id="s425398" n="1v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/425398.tif"/>
+      </surface>
+      <surface xml:id="s425399" n="2r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/425399.tif"/>
+      </surface>
+      <surface xml:id="s425400" n="2v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/425400.tif"/>
+      </surface>
+      <surface xml:id="s425401" n="3r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/425401.tif"/>
+      </surface>
+      <surface xml:id="s425402" n="3v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/425402.tif"/>
+      </surface>
+      <surface xml:id="s425403" n="4r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/425403.tif"/>
+      </surface>
+      <surface xml:id="s425404" n="4v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/425404.tif"/>
+      </surface>
+      <surface xml:id="s425405" n="5r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/425405.tif"/>
+      </surface>
+      <surface xml:id="s425406" n="5v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/425406.tif"/>
+      </surface>
+      <surface xml:id="s425407" n="6r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/425407.tif"/>
+      </surface>
+      <surface xml:id="s425408" n="6v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/425408.tif"/>
+      </surface>
+   </facsimile>
+</TEI>

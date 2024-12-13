@@ -1,0 +1,102 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_423402.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Exzerpte aus: Tengnagel, Vetera monumenta contra schismaticos iam olim pro Gregorio VII.; Gretser, Divi Bambergenses; Gretser, Volumen epistolarum</title>
+            <title type="sub">Digital object description</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <idno type="unidam-verz_einh">491</idno>
+         <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-6511-D</idno></publicationStmt><notesStmt><note type="relatedCorrespondences">Beilage zu Buchels an BP: 1719-12-03.</note></notesStmt>
+         <sourceDesc>
+            <msDesc xml:lang="de">
+               <msIdentifier>
+                  <country>Österreich</country>
+                  <settlement>Melk</settlement>
+                  <institution>Benediktiner-Stift</institution>
+                  <repository>Stiftsarchiv</repository>
+                  <idno>Kt. 85 Varia 22 Faszikel 3 Nr. 06</idno>
+               </msIdentifier>
+               <msContents>
+                  <summary>Exzerpte aus: Sebastian TENGNAGEL, Vetera monumenta contra schismaticos iam olim pro Gregorio VII. (Ingolstadt 1612), Jacob GRETSER, Divi Bambergenses (Ingolstadt 1611) und Jacob GRETSER, Volumen epistolarum (Ingolstadt 1613), Hand Buchels. In Zusammenhang mit dem Codex Udalrici. Eine Inhaltsübersicht des Cod., den BP in einer Zwettler Handschrift gefunden hatte und edieren wollte, wurde in BP, Conspectus insignis Codicis Diplomatico-Historico-Epistularis Udalrici Babenbergensis (o.O. 1716) publiziert. Daraus entspann sich die Kontroverse mit Gentilotti. In dem vorliegenden Stück liefert Buchels eine Liste der bei Gretser edierten Briefe; BP lagen nicht alle Werke Gretsers vor. Vermerk Katschthaler: "In Tengnagels Monum. edierte Briefe wegen des Conspectus Udalrici 1716". Beilage zu Buchels an BP (1719-12-03).</summary>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <foliation>1r–8v.</foliation>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <date notBefore="1719-01-01">1719</date>
+                     <note/>
+                  </origin>
+               </history>
+               <additional>
+                  <listBibl>
+                     <bibl>Zur Kontroverse zwischen BP und Gentilotti: <rs type="bibl" key="bqbibl:r187">Ines PEPER, Il carteggio erudito di Giovanni Benedetto Gentilotti d’Engelsbrunn (1672–1725), bibliotecario imperiale, in: Le carte vive. Epistolari e carteggi nel Settecento. Atti del primo Convegno internazionale di studi del Centro di Ricerca sugli Epistolari del Settecento, Verona, 4–6 dicembre 2008, hg. von Corrado VIOLA (Biblioteca del XVIII secolo 16, Roma 2011) 479–487</rs>;
+                        <rs type="bibl" key="bqbibl:r009">Koloman SCHÖNHOFER, P. Bernhard Pez (22.2.1683–27.3.1735), P. Hieronymus Pez (24.2.1685–14.10.1762), Benediktiner von Melk (Leben, Bedeutung und Werke) (ungedr. theol. Dipl.Arb., Innsbruck 1973)</rs>. Zu Brief: <rs type="bibl" key="bqbibl:r018">Christine GLASSNER, Verzeichnis der im Nachlass der Melker Historiker Bernhard und Hieronymus Pez erhaltenen Briefe. SMGB 110 (1999) 195–243</rs>.</bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="RNA">Sammlungen und Objekte</classCode>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="s423402" n="1r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/423402.tif"/>
+      </surface>
+      <surface xml:id="s423403" n="1v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/423403.tif"/>
+      </surface>
+      <surface xml:id="s423404" n="2r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/423404.tif"/>
+      </surface>
+      <surface xml:id="s423405" n="2v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/423405.tif"/>
+      </surface>
+      <surface xml:id="s423406" n="3r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/423406.tif"/>
+      </surface>
+      <surface xml:id="s423407" n="3v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/423407.tif"/>
+      </surface>
+      <surface xml:id="s423408" n="4r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/423408.tif"/>
+      </surface>
+      <surface xml:id="s423409" n="4v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/423409.tif"/>
+      </surface>
+      <surface xml:id="s423410" n="5r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/423410.tif"/>
+      </surface>
+      <surface xml:id="s423411" n="5v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/423411.tif"/>
+      </surface>
+      <surface xml:id="s423412" n="6r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/423412.tif"/>
+      </surface>
+      <surface xml:id="s423413" n="6v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/423413.tif"/>
+      </surface>
+      <surface xml:id="s423414" n="7r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/423414.tif"/>
+      </surface>
+      <surface xml:id="s423415" n="7v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/423415.tif"/>
+      </surface>
+      <surface xml:id="s423416" n="8r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/423416.tif"/>
+      </surface>
+      <surface xml:id="s423417" n="8v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/423417.tif"/>
+      </surface>
+   </facsimile>
+</TEI>

@@ -1,0 +1,62 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_421165.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Bibliographische Notizen zu (Cassinenser) Konzilspublikationen</title>
+            <title type="sub">Digital object description</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <idno type="unidam-verz_einh">422</idno>
+         <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-64E5-F</idno></publicationStmt><notesStmt><note type="relatedCorrespondences">Buchels an BP (?): undatiert.</note></notesStmt>
+         <sourceDesc>
+            <msDesc xml:lang="de">
+               <msIdentifier>
+                  <country>Österreich</country>
+                  <settlement>Melk</settlement>
+                  <institution>Benediktiner-Stift</institution>
+                  <repository>Stiftsarchiv</repository>
+                  <idno>Kt. 07 Patres 11 Faszikel 3 Nr. 10</idno>
+               </msIdentifier>
+               <msContents>
+                  <summary>Bibliographische Notizen zu Konzils-Publikationen der Cassinenser Kongregation aus dem 16. und 17. Jahrhundert. Am Ende Brieftext und Unterschrift (Kürzel) von Buchels.</summary>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <foliation>1r–v.</foliation>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <date notBefore="1700-01-01" notAfter="1750-01-01">Erste Hälfte 18. Jahrhundert</date>
+                     <note>Undatiert.</note>
+                  </origin>
+               </history>
+               <additional>
+                  <listBibl>
+                     <bibl>Zu Cassinensern: <rs type="bibl" key="bqbibl:r225">Arcangelo BOSSI, Matricula monachorum Congregationis Casinensis Ordinis S. Benedicti, 1: 1409–1699, hg. von Leandro NOVELLI–Giovanni SPINELLI (Pubblicazioni del Centro Storico Benedettino Italiano 3, Cesena 1983)</rs>;
+                        <rs type="bibl" key="bqbibl:r227">Tommaso Domenico LECCISOTTI, Congregationis S. Iustinae de Padua O. S. B. ordinationes capitulorum generalium (2 Bde., Miscellanea Cassinese 16–17, Montecassino 1939)</rs>;
+                        <rs type="bibl" key="bqbibl:r226">Raphael MOLITOR, Aus der Rechtsgeschichte benediktinischer Verbände. Untersuchungen und Skizzen (3 Bde., Münster 1928–1933)</rs>;
+                        <rs type="bibl" key="bqbibl:r229">Massimo ZAGGIA, Tra Mantova e la Sicilia nel Cinquecento (Biblioteca mantovana 2, 3 Bde., Firenze 2003)</rs>.</bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="RNA">Sammlungen und Objekte</classCode>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="s421165" n="1r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/421165.tif"/>
+      </surface>
+      <surface xml:id="s421166" n="1v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/421166.tif"/>
+      </surface>
+   </facsimile>
+</TEI>

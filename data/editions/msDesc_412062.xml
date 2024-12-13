@@ -1,0 +1,169 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_412062.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Briefkonzept: BP an Apronian Hueber </title>
+            <title type="sub">Digital object description</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <idno type="unidam-verz_einh">194</idno>
+         <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-63DC-B</idno></publicationStmt>
+         <sourceDesc>
+            <msDesc xml:lang="de">
+               <msIdentifier>
+                  <country>Österreich</country>
+                  <settlement>Melk</settlement>
+                  <institution>Benediktiner-Stift</institution>
+                  <repository>Stiftsarchiv</repository>
+                  <idno>Kt. 07 Patres 09 Faszikel 2 Nr. 94 </idno>
+               </msIdentifier>
+               <msContents>
+                  <summary>Konzept eines Brief(traktates) BP an Hueber. Inhalt im Zusammenhang mit der Kontroverse zwischen BP und Hansiz.</summary>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <foliation>1–36.</foliation>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <date when="1730-01-01">um 1730</date>
+                     <note/>
+                  </origin>
+               </history>
+               <additional>
+                  <listBibl>
+                     <bibl>Zu Brief: <rs type="bibl" key="bqbibl:r018">Christine GLASSNER,
+                           Verzeichnis der im Nachlass der Melker Historiker Bernhard und Hieronymus
+                           Pez erhaltenen Briefe. SMGB 110 (1999) 195–243</rs>.</bibl>
+                     <bibl>Zur Kontroverse zwischen BP und Hansiz: <rs type="bibl" key="bqbibl:r008">Stefan BENZ, Zwischen Tradition und Kritik. Katholische
+                           Geschichtsschreibung im barocken Heiligen Römischen Reich (Historische
+                           Studien 473, Husum 2003)</rs>; <rs type="bibl" key="bqbibl:r009">Koloman
+                           SCHÖNHOFER, P. Bernhard Pez (22.2.1683–27.3.1735), P. Hieronymus Pez
+                           (24.2.1685–14.10.1762), Benediktiner von Melk (Leben, Bedeutung und
+                           Werke) (ungedr. theol. Dipl.Arb., Innsbruck 1973)</rs>.</bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="RNA">Korrespondenzen</classCode>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="s412062" n="1">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/412062.tif"/>
+      </surface>
+      <surface xml:id="s412063" n="2">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/412063.tif"/>
+      </surface>
+      <surface xml:id="s412064" n="3">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/412064.tif"/>
+      </surface>
+      <surface xml:id="s412065" n="4">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/412065.tif"/>
+      </surface>
+      <surface xml:id="s412066" n="5">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/412066.tif"/>
+      </surface>
+      <surface xml:id="s412067" n="6">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/412067.tif"/>
+      </surface>
+      <surface xml:id="s412068" n="7">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/412068.tif"/>
+      </surface>
+      <surface xml:id="s412069" n="8">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/412069.tif"/>
+      </surface>
+      <surface xml:id="s412070" n="9">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/412070.tif"/>
+      </surface>
+      <surface xml:id="s412071" n="10">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/412071.tif"/>
+      </surface>
+      <surface xml:id="s412072" n="11">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/412072.tif"/>
+      </surface>
+      <surface xml:id="s412073" n="12">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/412073.tif"/>
+      </surface>
+      <surface xml:id="s412074" n="13">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/412074.tif"/>
+      </surface>
+      <surface xml:id="s412075" n="14">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/412075.tif"/>
+      </surface>
+      <surface xml:id="s412076" n="15">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/412076.tif"/>
+      </surface>
+      <surface xml:id="s412077" n="16">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/412077.tif"/>
+      </surface>
+      <surface xml:id="s412078" n="17">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/412078.tif"/>
+      </surface>
+      <surface xml:id="s412079" n="18">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/412079.tif"/>
+      </surface>
+      <surface xml:id="s412080" n="19">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/412080.tif"/>
+      </surface>
+      <surface xml:id="s412081" n="20">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/412081.tif"/>
+      </surface>
+      <surface xml:id="s412082" n="21">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/412082.tif"/>
+      </surface>
+      <surface xml:id="s412083" n="22">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/412083.tif"/>
+      </surface>
+      <surface xml:id="s412084" n="23">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/412084.tif"/>
+      </surface>
+      <surface xml:id="s412085" n="24">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/412085.tif"/>
+      </surface>
+      <surface xml:id="s412086" n="25">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/412086.tif"/>
+      </surface>
+      <surface xml:id="s412087" n="26">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/412087.tif"/>
+      </surface>
+      <surface xml:id="s412088" n="27">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/412088.tif"/>
+      </surface>
+      <surface xml:id="s412089" n="28">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/412089.tif"/>
+      </surface>
+      <surface xml:id="s412090" n="29">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/412090.tif"/>
+      </surface>
+      <surface xml:id="s412091" n="30">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/412091.tif"/>
+      </surface>
+      <surface xml:id="s412092" n="31">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/412092.tif"/>
+      </surface>
+      <surface xml:id="s412093" n="32">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/412093.tif"/>
+      </surface>
+      <surface xml:id="s412094" n="33">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/412094.tif"/>
+      </surface>
+      <surface xml:id="s412095" n="34">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/412095.tif"/>
+      </surface>
+      <surface xml:id="s412096" n="35">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/412096.tif"/>
+      </surface>
+      <surface xml:id="s412097" n="36">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/412097.tif"/>
+      </surface>
+   </facsimile>
+</TEI>

@@ -1,0 +1,78 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_428880.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Bio-bibliographische Notizen zu Autoren der Melker Reform</title>
+            <title type="sub">Digital object description</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <idno type="unidam-verz_einh">618</idno>
+         <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-6653-2</idno></publicationStmt>
+         <sourceDesc>
+            <msDesc xml:lang="de">
+               <msIdentifier>
+                  <country>Österreich</country>
+                  <settlement>Melk</settlement>
+                  <institution>Benediktiner-Stift</institution>
+                  <repository>Stiftsarchiv</repository>
+                  <idno>Kt. 85 Varia 25 Faszikel 1 Nr. 14</idno>
+               </msIdentifier>
+               <msContents>
+                  <summary>Bio-bibliographische Notizen zu Autoren der Melker Reform, Hand BP?</summary>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <foliation>1r–4v.</foliation>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <date notAfter="1735-03-28">Zu Lebzeiten BPs.</date>
+                     <note>Undatiert.</note>
+                  </origin>
+               </history>
+               <additional>
+                  <listBibl>
+                     <bibl>Zur Melker Reform: <rs type="bibl" key="bqbibl:r032">Meta NIEDERKORN-BRUCK, Die Melker Reform im Spiegel der Visitationen (Mitteilungen des Instituts für Österreichische Geschichtsforschung Erg.bd. 30, Wien–München 1994)</rs>;
+                        <rs type="bibl" key="bqbibl:r874">Franz Xaver THOMA, Petrus von Rosenheim O. S. B. Ein Beitrag zur Melker Reformbewegung. Studien und Mitteilungen zur Geschichte des Benediktiner-Ordens und seiner Zweige 45 (1927) 94–222</rs>.</bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="RNA">Werke</classCode>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="s428880" n="1r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/428880.tif"/>
+      </surface>
+      <surface xml:id="s428881" n="1v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/428881.tif"/>
+      </surface>
+      <surface xml:id="s428882" n="2r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/428882.tif"/>
+      </surface>
+      <surface xml:id="s428883" n="2v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/428883.tif"/>
+      </surface>
+      <surface xml:id="s428884" n="3r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/428884.tif"/>
+      </surface>
+      <surface xml:id="s428885" n="3v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/428885.tif"/>
+      </surface>
+      <surface xml:id="s428886" n="4r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/428886.tif"/>
+      </surface>
+      <surface xml:id="s428887" n="4v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/428887.tif"/>
+      </surface>
+   </facsimile>
+</TEI>

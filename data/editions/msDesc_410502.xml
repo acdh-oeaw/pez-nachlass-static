@@ -1,0 +1,113 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_410502.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Manuskript, Abschrift: "Epistola laudatoria, qua laudantur viri duo doctissimi germani Bernardus et Hieronymus Pezii" </title>
+            <title type="sub">Digital object description</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <idno type="unidam-verz_einh">92</idno>
+         <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-643D-E</idno></publicationStmt>
+         <sourceDesc>
+            <msDesc xml:lang="de">
+               <msIdentifier>
+                  <country>Österreich</country>
+                  <settlement>Melk</settlement>
+                  <institution>Benediktiner-Stift</institution>
+                  <repository>Stiftsarchiv</repository>
+                  <idno>Kt. 07 Patres 09 Faszikel 1 Nr. 74 </idno>
+               </msIdentifier>
+               <msContents>
+                  <summary>"Epistola laudatoria, qua laudantur viri duo doctissimi germani Bernardus et Hieronymus Pezii". Originaltext zu Leben und Werken der Brüder Pez nach Erscheinen des "Thesaurus", während der Kontroverse mit Hansiz entstanden. (Vorgeblicher) Verfasser ist ein Melker, nicht BP oder HP. Auf 1r Bleistiftvermerk Katschthaler: "cf. Zglb-Legp III 466–476". Vgl. Originaltext in Karton 7 Patres 9, Fasz. 2, Nr. 91.</summary>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <foliation>1r–10v.</foliation>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <date notBefore="1800-01-01" notAfter="1899-12-31">19. Jh.</date>
+                     <note>Abschrift aus dem 19. Jh., Text scheint aber noch zu Lebzeiten von BP entstanden zu sein (um 1733).</note>
+                  </origin>
+               </history>
+               <additional>
+                  <listBibl>
+                     <bibl>Zu Leben und Werken: <rs type="bibl" key="bqbibl:r009">Koloman SCHÖNHOFER, P. Bernhard Pez (22.2.1683–27.3.1735), P. Hieronymus Pez (24.2.1685–14.10.1762), Benediktiner von Melk (Leben, Bedeutung und Werke) (ungedr. theol. Dipl.Arb., Innsbruck 1973)</rs>. Zur Kontroverse zwischen BP und Hansiz: &gt;;<rs type="bibl" key="bqbibl:r008">Stefan BENZ, Zwischen Tradition und Kritik. Katholische Geschichtsschreibung im barocken Heiligen Römischen Reich (Historische Studien 473, Husum 2003)</rs>.</bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="RNA">Sammlungen und Objekte</classCode>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="s410502" n="1r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/410502.tif"/>
+      </surface>
+      <surface xml:id="s410503" n="1v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/410503.tif"/>
+      </surface>
+      <surface xml:id="s410504" n="2r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/410504.tif"/>
+      </surface>
+      <surface xml:id="s410505" n="2v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/410505.tif"/>
+      </surface>
+      <surface xml:id="s410506" n="3r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/410506.tif"/>
+      </surface>
+      <surface xml:id="s410507" n="3v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/410507.tif"/>
+      </surface>
+      <surface xml:id="s410508" n="4r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/410508.tif"/>
+      </surface>
+      <surface xml:id="s410509" n="4v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/410509.tif"/>
+      </surface>
+      <surface xml:id="s410510" n="5r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/410510.tif"/>
+      </surface>
+      <surface xml:id="s410511" n="5v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/410511.tif"/>
+      </surface>
+      <surface xml:id="s410512" n="6r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/410512.tif"/>
+      </surface>
+      <surface xml:id="s410513" n="6v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/410513.tif"/>
+      </surface>
+      <surface xml:id="s410514" n="7r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/410514.tif"/>
+      </surface>
+      <surface xml:id="s410515" n="7v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/410515.tif"/>
+      </surface>
+      <surface xml:id="s410516" n="8r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/410516.tif"/>
+      </surface>
+      <surface xml:id="s410517" n="8v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/410517.tif"/>
+      </surface>
+      <surface xml:id="s410518" n="9r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/410518.tif"/>
+      </surface>
+      <surface xml:id="s410519" n="9v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/410519.tif"/>
+      </surface>
+      <surface xml:id="s410520" n="10r">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/410520.tif"/>
+      </surface>
+      <surface xml:id="s410521" n="10v">
+         <graphic url="https://id.acdh.oeaw.ac.at/pez-nachlass/410521.tif"/>
+      </surface>
+   </facsimile>
+</TEI>
