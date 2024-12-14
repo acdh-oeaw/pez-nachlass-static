@@ -37,6 +37,7 @@ for x in doc.any_xpath(".//tei:person[@xml:id]"):
         gnd = False
     if gnd:
         new_node = ET.Element("{http://www.tei-c.org/ns/1.0}idno")
+        new_node.attrib["type"] = "gnd"
         new_node.text = gnd.split(" ")[0]
         x.insert(1, new_node)
 doc.tree_to_file(listperson)
