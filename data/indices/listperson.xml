@@ -17,16 +17,6 @@
       <body>
          <p>Some text here.</p>
          <listPerson>
-            <person xml:id="person__">
-               <persName>
-                  <persName type="pref"/>
-                  <persName>
-                     <forename/>
-                  </persName>
-               </persName>
-               <ptr target="https://id.acdh.oeaw.ac.at/pez/pez-nachlass/msDesc_428817.xml"
-                    type="urheber"/>
-            </person>
             <person xml:id="person__1">
                <persName>
                   <persName type="pref">Berthold Dietmayr</persName>
