@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_458382.xml">
    <teiHeader>
       <fileDesc>
@@ -233,7 +234,75 @@
          </sourceDesc>
       </fileDesc>
       <profileDesc>
-         <textClass>
+         <abstract><listPerson><person xml:id="person__17" role="urheber">
+               <persName>Pez, Hieronymus</persName>
+               </person>
+            <person xml:id="person__57" role="behandelte">
+               <persName>Kropff, Martin</persName>
+               </person>
+            <person xml:id="person__130" role="urheber">
+               <persName>Hausdorf, Rupert</persName>
+               </person>
+            <person xml:id="person__424" role="urheber">
+               <persName>Rambeck, Ägydius</persName>
+               </person>
+            <person xml:id="person__2634" role="urheber">
+               <persName>Dullinger, Wolfgang</persName>
+               <idno type="gnd">http://d-nb.info/gnd/129756423</idno>
+               </person>
+            <person xml:id="person__3271" role="behandelte">
+               <persName>Inzaghi, Eugen</persName>
+               </person>
+            <person xml:id="person__3272" role="urheber">
+               <persName>Fichtner, Theodor</persName>
+               </person>
+            <person xml:id="person__3273" role="urheber">
+               <persName>Fritsch, Bonifaz</persName>
+               </person>
+            <person xml:id="person__3274" role="urheber">
+               <persName>Zdir, Georg</persName>
+               </person>
+            <person xml:id="person__3275" role="urheber">
+               <persName>Seyfried, Johannes VII.</persName>
+               </person>
+            <person xml:id="person__3276" role="urheber">
+               <persName>Magger (?), Placid</persName>
+               </person>
+            <person xml:id="person__3278" role="urheber">
+               <persName>Ferdinand I.</persName>
+               </person>
+            <person xml:id="person__3279" role="urheber">
+               <persName>Ernst von Österreich</persName>
+               </person>
+            <person xml:id="person__3280" role="urheber">
+               <persName>Rudolf II.</persName>
+               </person>
+            <person xml:id="person__3281" role="urheber">
+               <persName>Ferdinand II.</persName>
+               </person>
+            <person xml:id="person__3282" role="urheber">
+               <persName>Ferdinand III.</persName>
+               </person>
+            <person xml:id="person__3283" role="urheber">
+               <persName>Geiger, Martin</persName>
+               </person>
+            <person xml:id="person__3284" role="urheber">
+               <persName>Felix "Capue"</persName>
+               </person>
+            <person xml:id="person__3285" role="behandelte">
+               <persName>Windhag, Joachim</persName>
+               </person>
+            <person xml:id="person__3286" role="urheber">
+               <persName>Leopold I.</persName>
+               </person>
+            <person xml:id="person__3287" role="urheber">
+               <persName>Sauer, Gabriel</persName>
+               </person>
+            <person xml:id="person__3288" role="urheber">
+               <persName>Harrach, Ernst von</persName>
+               <idno type="gnd">http://d-nb.info/gnd/104209356</idno>
+               </person>
+            </listPerson></abstract><textClass>
             <classCode scheme="RNA">Werke</classCode>
          </textClass>
       </profileDesc>

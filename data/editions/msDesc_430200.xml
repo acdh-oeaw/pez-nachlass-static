@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_430200.xml">
    <teiHeader>
       <fileDesc>
@@ -43,7 +44,38 @@
          </sourceDesc>
       </fileDesc>
       <profileDesc>
-         <textClass>
+         <abstract><listPerson><person xml:id="person__985" role="behandelte">
+               <persName>Engelbert von Admont</persName>
+               </person>
+            <person xml:id="person__2642" role="behandelte">
+               <persName>Körzinger, Augustin</persName>
+               </person>
+            <person xml:id="person__2643" role="behandelte">
+               <persName>Sengmiller, Edmund</persName>
+               </person>
+            <person xml:id="person__2644" role="behandelte">
+               <persName>Weichlein, Roman</persName>
+               </person>
+            <person xml:id="person__2645" role="behandelte">
+               <persName>Gletle, Johannes Baptist</persName>
+               <idno type="gnd">http://d-nb.info/gnd/103894993</idno>
+               </person>
+            <person xml:id="person__2646" role="behandelte">
+               <persName>Turner, Albert</persName>
+               </person>
+            <person xml:id="person__2647" role="behandelte">
+               <persName>Schopf, Meinrad</persName>
+               </person>
+            <person xml:id="person__2648" role="behandelte">
+               <persName>Bernhard von Garsten</persName>
+               </person>
+            <person xml:id="person__2649" role="behandelte">
+               <persName>Freidl, Maximilian</persName>
+               </person>
+            <person xml:id="person__2650" role="behandelte">
+               <persName>Langpartner, Rupert</persName>
+               </person>
+            </listPerson></abstract><textClass>
             <classCode scheme="RNA">Sammlungen und Objekte</classCode>
          </textClass>
       </profileDesc>

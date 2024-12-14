@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_424576.xml">
    <teiHeader>
       <fileDesc>
@@ -43,7 +44,28 @@
          </sourceDesc>
       </fileDesc>
       <profileDesc>
-         <textClass>
+         <abstract><listPerson><person xml:id="person__8" role="behandelte">
+               <persName>Martène, Edmond</persName>
+               </person>
+            <person xml:id="person__15" role="behandelte">
+               <persName>Massuet, René</persName>
+               </person>
+            <person xml:id="person__16" role="urheber">
+               <persName>Pez, Bernhard</persName>
+               </person>
+            <person xml:id="person__81" role="behandelte">
+               <persName>Montfaucon, Bernard de</persName>
+               </person>
+            <person xml:id="person__173" role="behandelte">
+               <persName>Roussel, Guillaume</persName>
+               </person>
+            <person xml:id="person__213" role="behandelte">
+               <persName>Le Gallois, Antoine-Paul</persName>
+               </person>
+            <person xml:id="person__250" role="behandelte">
+               <persName>Martin, Claude</persName>
+               </person>
+            </listPerson></abstract><textClass>
             <classCode scheme="RNA">Werke</classCode>
          </textClass>
       </profileDesc>

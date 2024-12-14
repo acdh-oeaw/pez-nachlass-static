@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_421165.xml">
    <teiHeader>
       <fileDesc>
@@ -46,7 +47,16 @@
          </sourceDesc>
       </fileDesc>
       <profileDesc>
-         <textClass>
+         <abstract><listPerson><person xml:id="person__162" role="behandelte">
+               <persName>Buchels, Johann</persName>
+               <idno type="gnd">http://d-nb.info/gnd/135655706</idno>
+               <idno type="GND">http://d-nb.info/gnd/135655706</idno>
+               </person>
+            <person xml:id="person__1274" role="behandelte">
+               <persName>Caffarelli, Simplicio</persName>
+               <idno type="gnd">http://d-nb.info/gnd/1089637853</idno>
+               </person>
+            </listPerson></abstract><textClass>
             <classCode scheme="RNA">Sammlungen und Objekte</classCode>
          </textClass>
       </profileDesc>

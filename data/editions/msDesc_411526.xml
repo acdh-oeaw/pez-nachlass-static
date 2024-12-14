@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_411526.xml">
    <teiHeader>
       <fileDesc>
@@ -44,7 +45,18 @@
          </sourceDesc>
       </fileDesc>
       <profileDesc>
-         <textClass>
+         <abstract><listPerson><person xml:id="person__32" role="behandelte">
+               <persName>Mabillon, Jean</persName>
+               </person>
+            <person xml:id="person__34" role="urheber">
+               <persName>Germain, Michel</persName>
+               <idno type="gnd">http://d-nb.info/gnd/119148676</idno>
+               <idno type="GND">http://d-nb.info/gnd/119148676</idno>
+               </person>
+            <person xml:id="person__122" role="behandelte">
+               <persName>Valois, Adrien de</persName>
+               </person>
+            </listPerson></abstract><textClass>
             <classCode scheme="RNA">Sammlungen und Objekte</classCode>
          </textClass>
       </profileDesc>

@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_413015.xml">
    <teiHeader>
       <fileDesc>
@@ -38,7 +39,100 @@
          </sourceDesc>
       </fileDesc>
       <profileDesc>
-         <textClass>
+         <abstract><listPerson><person xml:id="person__16" role="urheber">
+               <persName>Pez, Bernhard</persName>
+               </person>
+            <person xml:id="person__359" role="behandelte">
+               <persName>Walahfrid Strabo</persName>
+               </person>
+            <person xml:id="person__360" role="behandelte">
+               <persName>Ermenrich von Ellwangen</persName>
+               </person>
+            <person xml:id="person__365" role="behandelte">
+               <persName>Berno von Reichenau</persName>
+               </person>
+            <person xml:id="person__972" role="behandelte">
+               <persName>Rudolf von Fulda</persName>
+               </person>
+            <person xml:id="person__1021" role="behandelte">
+               <persName>Hl. Bonifatius (Wynfreth) von Mainz</persName>
+               </person>
+            <person xml:id="person__1022" role="behandelte">
+               <persName>Ludger von Mimigardfort</persName>
+               </person>
+            <person xml:id="person__1024" role="behandelte">
+               <persName>Eigil von Fulda</persName>
+               </person>
+            <person xml:id="person__1025" role="behandelte">
+               <persName>Candidus von Fulda</persName>
+               </person>
+            <person xml:id="person__1026" role="behandelte">
+               <persName>Heimo von Fulda</persName>
+               </person>
+            <person xml:id="person__1027" role="behandelte">
+               <persName>Hrabanus Maurus von Fulda</persName>
+               </person>
+            <person xml:id="person__1031" role="behandelte">
+               <persName>Werembert von St. Gallen</persName>
+               </person>
+            <person xml:id="person__1032" role="behandelte">
+               <persName>Meginhard von Fulda</persName>
+               </person>
+            <person xml:id="person__1034" role="behandelte">
+               <persName>Rembert von Hamburg</persName>
+               </person>
+            <person xml:id="person__1036" role="behandelte">
+               <persName>Winbercht von Hersfeld</persName>
+               </person>
+            <person xml:id="person__1037" role="behandelte">
+               <persName>Robert von Lurenburg</persName>
+               </person>
+            <person xml:id="person__1038" role="behandelte">
+               <persName>Bovo von Corvey</persName>
+               </person>
+            <person xml:id="person__1039" role="behandelte">
+               <persName>Adalbert von Ellwangen</persName>
+               </person>
+            <person xml:id="person__1041" role="behandelte">
+               <persName>Hildebert von Mainz</persName>
+               </person>
+            <person xml:id="person__1042" role="behandelte">
+               <persName>Widukind von Corvey</persName>
+               </person>
+            <person xml:id="person__1043" role="behandelte">
+               <persName>Hl. Hrotsvit von Gandersheim</persName>
+               </person>
+            <person xml:id="person__1044" role="behandelte">
+               <persName>Otloh von Fulda</persName>
+               </person>
+            <person xml:id="person__1045" role="behandelte">
+               <persName>Uffo Frisius</persName>
+               </person>
+            <person xml:id="person__1046" role="behandelte">
+               <persName>Hl. Maurus von Pécs</persName>
+               </person>
+            <person xml:id="person__1047" role="behandelte">
+               <persName>Meginfried von Fulda</persName>
+               </person>
+            <person xml:id="person__1048" role="behandelte">
+               <persName>Arnold Saxo</persName>
+               </person>
+            <person xml:id="person__1049" role="behandelte">
+               <persName>Theoderich von St. Alban</persName>
+               </person>
+            <person xml:id="person__1140" role="behandelte">
+               <persName>Wandalbert von Prüm</persName>
+               </person>
+            <person xml:id="person__1752" role="behandelte">
+               <persName>Ruthard von Fulda</persName>
+               </person>
+            <person xml:id="person__1865" role="behandelte">
+               <persName>Konrad</persName>
+               </person>
+            <person xml:id="person__2921" role="behandelte">
+               <persName>Einhard</persName>
+               </person>
+            </listPerson></abstract><textClass>
             <classCode scheme="RNA">Werke</classCode>
          </textClass>
       </profileDesc>

@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_497995.xml">
    <teiHeader>
       <fileDesc>
@@ -369,7 +370,237 @@
          </sourceDesc>
       </fileDesc>
       <profileDesc>
-         <textClass>
+         <abstract><listPerson><person xml:id="person__4" role="urheber">
+               <persName>Hueber, Apronian</persName>
+               </person>
+            <person xml:id="person__7" role="urheber">
+               <persName>Durand, Ursin</persName>
+               <idno type="gnd">http://d-nb.info/gnd/14396156X</idno>
+               <idno type="GND">http://d-nb.info/gnd/14396156X</idno>
+               </person>
+            <person xml:id="person__8" role="urheber">
+               <persName>Martène, Edmond</persName>
+               </person>
+            <person xml:id="person__12" role="urheber">
+               <persName>Schannat, Johann Friedrich</persName>
+               </person>
+            <person xml:id="person__15" role="urheber">
+               <persName>Massuet, René</persName>
+               </person>
+            <person xml:id="person__16" role="behandelte">
+               <persName>Pez, Bernhard</persName>
+               </person>
+            <person xml:id="person__17" role="behandelte">
+               <persName>Pez, Hieronymus</persName>
+               </person>
+            <person xml:id="person__18" role="urheber">
+               <persName>Bessel, Gottfried</persName>
+               <idno type="gnd">http://d-nb.info/gnd/118662562</idno>
+               <idno type="GND">http://d-nb.info/gnd/118662562</idno>
+               </person>
+            <person xml:id="person__19" role="urheber">
+               <persName>Legipont, Oliver</persName>
+               </person>
+            <person xml:id="person__20" role="behandelte">
+               <persName>Katschthaler, Eduard Ernst</persName>
+               </person>
+            <person xml:id="person__22" role="urheber">
+               <persName>Herrgott, Marquard</persName>
+               </person>
+            <person xml:id="person__25" role="urheber">
+               <persName>Gentilotti, Johann Benedikt</persName>
+               <idno type="gnd">http://d-nb.info/gnd/115629203</idno>
+               </person>
+            <person xml:id="person__26" role="urheber">
+               <persName>Eckhart, Johann Georg</persName>
+               <idno type="gnd">http://d-nb.info/gnd/1090340923</idno>
+               <idno type="GND">http://d-nb.info/gnd/118958461</idno>
+               </person>
+            <person xml:id="person__30" role="urheber">
+               <persName>Müller, Moritz</persName>
+               </person>
+            <person xml:id="person__32" role="urheber">
+               <persName>Mabillon, Jean</persName>
+               </person>
+            <person xml:id="person__49" role="urheber">
+               <persName>Meichelbeck, Karl</persName>
+               </person>
+            <person xml:id="person__53" role="urheber">
+               <persName>Wydemann, Leopold</persName>
+               </person>
+            <person xml:id="person__55" role="urheber">
+               <persName>Priger, Candidus</persName>
+               </person>
+            <person xml:id="person__62" role="urheber">
+               <persName>Hanthaler, Chrysostomus</persName>
+               <idno type="gnd">http://d-nb.info/gnd/130099864</idno>
+               </person>
+            <person xml:id="person__87" role="urheber">
+               <persName>Calmet, Augustin</persName>
+               <idno type="gnd">http://d-nb.info/gnd/118666665</idno>
+               <idno type="GND">http://d-nb.info/gnd/118666665</idno>
+               </person>
+            <person xml:id="person__99" role="urheber">
+               <persName>D'Auzécourt, Amand</persName>
+               </person>
+            <person xml:id="person__114" role="urheber">
+               <persName>Hueber, Philibert</persName>
+               </person>
+            <person xml:id="person__126" role="urheber">
+               <persName>Pisant, Louis</persName>
+               </person>
+            <person xml:id="person__128" role="urheber">
+               <persName>Lombard, Célestin</persName>
+               </person>
+            <person xml:id="person__145" role="urheber">
+               <persName>Schretl, Karlmann</persName>
+               </person>
+            <person xml:id="person__151" role="urheber">
+               <persName>Haiden, Placidus</persName>
+               <idno type="gnd">http://d-nb.info/gnd/10015669X</idno>
+               <idno type="GND">http://d-nb.info/gnd/10015669X</idno>
+               </person>
+            <person xml:id="person__153" role="urheber">
+               <persName>Krez, Albert</persName>
+               </person>
+            <person xml:id="person__154" role="urheber">
+               <persName>Egger, Felix</persName>
+               <idno type="gnd">http://d-nb.info/gnd/100120296</idno>
+               </person>
+            <person xml:id="person__162" role="urheber">
+               <persName>Buchels, Johann</persName>
+               <idno type="gnd">http://d-nb.info/gnd/135655706</idno>
+               <idno type="GND">http://d-nb.info/gnd/135655706</idno>
+               </person>
+            <person xml:id="person__232" role="urheber">
+               <persName>Bougis, Simon</persName>
+               </person>
+            <person xml:id="person__480" role="urheber">
+               <persName>Schenck, Hermann</persName>
+               </person>
+            <person xml:id="person__664" role="urheber">
+               <persName>Poncet, Jean Baptist</persName>
+               </person>
+            <person xml:id="person__813" role="urheber">
+               <persName>Zödl, Gregor</persName>
+               </person>
+            <person xml:id="person__910" role="urheber">
+               <persName>Driesch, Gerhard Cornelius</persName>
+               <idno type="gnd">http://d-nb.info/gnd/100836127</idno>
+               </person>
+            <person xml:id="person__913" role="urheber">
+               <persName>L'Orefice, Celestino</persName>
+               </person>
+            <person xml:id="person__928" role="urheber">
+               <persName>Wieser, Chrysostomus</persName>
+               </person>
+            <person xml:id="person__933" role="urheber">
+               <persName>Freschot, Casimir</persName>
+               <idno type="gnd">http://d-nb.info/gnd/128597771</idno>
+               <idno type="GND">http://d-nb.info/gnd/187126097</idno>
+               </person>
+            <person xml:id="person__997" role="urheber">
+               <persName>Bartenstein, Johann Christoph</persName>
+               <idno type="gnd">http://d-nb.info/gnd/118657372</idno>
+               <idno type="GND">http://d-nb.info/gnd/129929719</idno>
+               </person>
+            <person xml:id="person__1055" role="urheber">
+               <persName>Kammerlander, Hermann</persName>
+               </person>
+            <person xml:id="person__1099" role="urheber">
+               <persName>Hutchinson, Dunstan</persName>
+               </person>
+            <person xml:id="person__1119" role="urheber">
+               <persName>Widow, Konrad</persName>
+               </person>
+            <person xml:id="person__1130" role="urheber">
+               <persName>Pliemel, Adrian</persName>
+               </person>
+            <person xml:id="person__2621" role="urheber">
+               <persName>Armellini, Mariano</persName>
+               <idno type="gnd">http://d-nb.info/gnd/137934793</idno>
+               <idno type="GND">http://d-nb.info/gnd/160552079</idno>
+               </person>
+            <person xml:id="person__2863" role="urheber">
+               <persName>Christen, Frowin</persName>
+               </person>
+            <person xml:id="person__2944" role="urheber">
+               <persName>Schwitter, Gerold</persName>
+               </person>
+            <person xml:id="person__3170" role="urheber">
+               <persName>Le Texier, François</persName>
+               </person>
+            <person xml:id="person__3410" role="urheber">
+               <persName>Bischoff, Basil</persName>
+               </person>
+            <person xml:id="person__3413" role="urheber">
+               <persName>Thier, Theodor</persName>
+               </person>
+            <person xml:id="person__3444" role="urheber">
+               <persName>Kirchstetter, Engelbert</persName>
+               </person>
+            <person xml:id="person__3484" role="urheber">
+               <persName>Frere, Claudius</persName>
+               <idno type="gnd">http://d-nb.info/gnd/130878065</idno>
+               </person>
+            <person xml:id="person__3485" role="urheber">
+               <persName>Franck, Bernhard</persName>
+               <idno type="gnd">http://d-nb.info/gnd/1089634641</idno>
+               </person>
+            <person xml:id="person__3486" role="urheber">
+               <persName>Eck, Johann Baptist</persName>
+               <idno type="gnd">http://d-nb.info/gnd/1012184307</idno>
+               </person>
+            <person xml:id="person__3487" role="urheber">
+               <persName>Krenner, Rupert</persName>
+               </person>
+            <person xml:id="person__3488" role="urheber">
+               <persName>Höppel, Mauritius</persName>
+               </person>
+            <person xml:id="person__3489" role="urheber">
+               <persName>Teschler, Cölestin</persName>
+               </person>
+            <person xml:id="person__3490" role="urheber">
+               <persName>Gaeta, Erasmo</persName>
+               <idno type="gnd">http://d-nb.info/gnd/110614144X</idno>
+               </person>
+            <person xml:id="person__3491" role="urheber">
+               <persName>Schmincke, Johann Hermann</persName>
+               </person>
+            <person xml:id="person__3492" role="urheber">
+               <persName>Lacodre, Gabriel</persName>
+               </person>
+            <person xml:id="person__3493" role="urheber">
+               <persName>Tasche, Louis</persName>
+               </person>
+            <person xml:id="person__3494" role="urheber">
+               <persName>Martin, Jacques</persName>
+               </person>
+            <person xml:id="person__3495" role="urheber">
+               <persName>Carpentier, Pierre</persName>
+               <idno type="gnd">http://d-nb.info/gnd/174128827</idno>
+               <idno type="GND">http://d-nb.info/gnd/174128827</idno>
+               </person>
+            <person xml:id="person__3496" role="urheber">
+               <persName>Daniel, Petrus</persName>
+               <idno type="gnd">http://d-nb.info/gnd/101087934</idno>
+               </person>
+            <person xml:id="person__3497" role="urheber">
+               <persName>Koilbin, Johannes Georg</persName>
+               </person>
+            <person xml:id="person__3498" role="urheber">
+               <persName>Thiroux, Jean</persName>
+               </person>
+            <person xml:id="person__3499" role="urheber">
+               <persName>Boyer, Jacques</persName>
+               </person>
+            <person xml:id="person__3500" role="urheber">
+               <persName>Anceaume, François</persName>
+               </person>
+            <person xml:id="person__3501" role="urheber">
+               <persName>Stuer, Johannes</persName>
+               </person>
+            </listPerson></abstract><textClass>
             <classCode scheme="RNA">Korrespondenzen</classCode>
          </textClass>
       </profileDesc>

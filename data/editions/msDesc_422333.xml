@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_422333.xml">
    <teiHeader>
       <fileDesc>
@@ -45,7 +46,136 @@
          </sourceDesc>
       </fileDesc>
       <profileDesc>
-         <textClass>
+         <abstract><listPerson><person xml:id="person__32" role="behandelte">
+               <persName>Mabillon, Jean</persName>
+               </person>
+            <person xml:id="person__34" role="behandelte">
+               <persName>Germain, Michel</persName>
+               <idno type="gnd">http://d-nb.info/gnd/119148676</idno>
+               <idno type="GND">http://d-nb.info/gnd/119148676</idno>
+               </person>
+            <person xml:id="person__81" role="behandelte">
+               <persName>Montfaucon, Bernard de</persName>
+               </person>
+            <person xml:id="person__134" role="behandelte">
+               <persName>Gerberon, Gabriel</persName>
+               <idno type="gnd">http://d-nb.info/gnd/123622778</idno>
+               <idno type="GND">http://d-nb.info/gnd/123622778</idno>
+               </person>
+            <person xml:id="person__179" role="behandelte">
+               <persName>Ruinart, Thierry</persName>
+               </person>
+            <person xml:id="person__181" role="behandelte">
+               <persName>Langelé, Jacques</persName>
+               </person>
+            <person xml:id="person__182" role="behandelte">
+               <persName>Lopin, Jacques</persName>
+               </person>
+            <person xml:id="person__186" role="behandelte">
+               <persName>Bulteau, Louis</persName>
+               <idno type="gnd">http://d-nb.info/gnd/100063403</idno>
+               <idno type="GND">http://d-nb.info/gnd/18297295X</idno>
+               </person>
+            <person xml:id="person__199" role="behandelte">
+               <persName>Sainte-Marthe, Denis</persName>
+               </person>
+            <person xml:id="person__200" role="behandelte">
+               <persName>Martianay, Jean</persName>
+               </person>
+            <person xml:id="person__208" role="behandelte">
+               <persName>Le Nourry, Nicolas</persName>
+               </person>
+            <person xml:id="person__210" role="behandelte">
+               <persName>Du Frische, Jacques</persName>
+               </person>
+            <person xml:id="person__219" role="behandelte">
+               <persName>Blampin, Thomas</persName>
+               <idno type="gnd">http://d-nb.info/gnd/14047269X</idno>
+               <idno type="GND">http://d-nb.info/gnd/183766377</idno>
+               </person>
+            <person xml:id="person__228" role="behandelte">
+               <persName>Delfau, Francois</persName>
+               <idno type="gnd">http://d-nb.info/gnd/129603953</idno>
+               <idno type="GND">http://d-nb.info/gnd/187138648</idno>
+               </person>
+            <person xml:id="person__230" role="behandelte">
+               <persName>Morillon, Julien Gatien</persName>
+               </person>
+            <person xml:id="person__232" role="behandelte">
+               <persName>Bougis, Simon</persName>
+               </person>
+            <person xml:id="person__236" role="behandelte">
+               <persName>Tachon, Christophe</persName>
+               </person>
+            <person xml:id="person__240" role="behandelte">
+               <persName>Garet, Jean</persName>
+               <idno type="gnd">http://d-nb.info/gnd/1019312491</idno>
+               <idno type="GND">http://d-nb.info/gnd/1089611749</idno>
+               </person>
+            <person xml:id="person__244" role="behandelte">
+               <persName>Bretagne, Claude</persName>
+               <idno type="gnd">http://d-nb.info/gnd/100431879</idno>
+               </person>
+            <person xml:id="person__248" role="behandelte">
+               <persName>Bastide, Philippe</persName>
+               <idno type="gnd">http://d-nb.info/gnd/130220434</idno>
+               <idno type="GND">http://d-nb.info/gnd/130220434</idno>
+               </person>
+            <person xml:id="person__249" role="behandelte">
+               <persName>Mège, Antoine Joseph</persName>
+               </person>
+            <person xml:id="person__250" role="behandelte">
+               <persName>Martin, Claude</persName>
+               </person>
+            <person xml:id="person__253" role="behandelte">
+               <persName>Chantelou, Claude</persName>
+               <idno type="gnd">http://d-nb.info/gnd/1055271953</idno>
+               </person>
+            <person xml:id="person__254" role="behandelte">
+               <persName>Mathoud, Charles Hugues</persName>
+               </person>
+            <person xml:id="person__257" role="behandelte">
+               <persName>Pommeraye, Jean Francois</persName>
+               </person>
+            <person xml:id="person__258" role="behandelte">
+               <persName>Janvier, René Ambroise</persName>
+               </person>
+            <person xml:id="person__259" role="behandelte">
+               <persName>Vaillant, Guillaume Hugues</persName>
+               </person>
+            <person xml:id="person__260" role="behandelte">
+               <persName>Planchette, Jean Bernard</persName>
+               </person>
+            <person xml:id="person__265" role="behandelte">
+               <persName>Thévart, Francois Anselme</persName>
+               </person>
+            <person xml:id="person__266" role="behandelte">
+               <persName>Brosse, Louis Gabriel</persName>
+               </person>
+            <person xml:id="person__270" role="behandelte">
+               <persName>Bugnot, Louis Gabriel</persName>
+               <idno type="gnd">http://d-nb.info/gnd/1028098553</idno>
+               </person>
+            <person xml:id="person__278" role="behandelte">
+               <persName>D'Achery, Jean Luc</persName>
+               <idno type="gnd">http://d-nb.info/gnd/10009872X</idno>
+               </person>
+            <person xml:id="person__280" role="behandelte">
+               <persName>Millet, Simon Germain</persName>
+               </person>
+            <person xml:id="person__283" role="behandelte">
+               <persName>Quatremaire, Jean Robert</persName>
+               </person>
+            <person xml:id="person__290" role="behandelte">
+               <persName>Le Contat, Jérome Joachim</persName>
+               </person>
+            <person xml:id="person__310" role="behandelte">
+               <persName>Ménard, Nicolas Hugues</persName>
+               </person>
+            <person xml:id="person__311" role="behandelte">
+               <persName>Rainssant, Jean Firmin</persName>
+               </person>
+            </listPerson></abstract><textClass>
             <classCode scheme="RNA">Sammlungen und Objekte</classCode>
          </textClass>
       </profileDesc>

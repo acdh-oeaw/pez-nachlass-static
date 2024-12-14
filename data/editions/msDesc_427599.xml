@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_427599.xml">
    <teiHeader>
       <fileDesc>
@@ -44,7 +45,40 @@
          </sourceDesc>
       </fileDesc>
       <profileDesc>
-         <textClass>
+         <abstract><listPerson><person xml:id="person__16" role="urheber">
+               <persName>Pez, Bernhard</persName>
+               </person>
+            <person xml:id="person__2535" role="behandelte">
+               <persName>Manfredus de la Cruce</persName>
+               </person>
+            <person xml:id="person__2536" role="behandelte">
+               <persName>Bernhardus Baptizatus</persName>
+               </person>
+            <person xml:id="person__2537" role="behandelte">
+               <persName>"Theophilus" (Autor der Vita S. Nicolai de Prussia)</persName>
+               </person>
+            <person xml:id="person__2538" role="behandelte">
+               <persName>Gregor Hyrte</persName>
+               </person>
+            <person xml:id="person__2539" role="behandelte">
+               <persName>Benedikt Engler</persName>
+               </person>
+            <person xml:id="person__2540" role="behandelte">
+               <persName>Hermann ("Heinrich") von Stockhausen</persName>
+               </person>
+            <person xml:id="person__2541" role="behandelte">
+               <persName>Anton Schnackenburg</persName>
+               </person>
+            <person xml:id="person__2542" role="behandelte">
+               <persName>Johannes von Oldenstadt</persName>
+               </person>
+            <person xml:id="person__2543" role="behandelte">
+               <persName>Jean Jouffroy</persName>
+               </person>
+            <person xml:id="person__2544" role="behandelte">
+               <persName>Johannes Legatius</persName>
+               </person>
+            </listPerson></abstract><textClass>
             <classCode scheme="RNA">Werke</classCode>
          </textClass>
       </profileDesc>

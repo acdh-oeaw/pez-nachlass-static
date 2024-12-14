@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_430558.xml">
    <teiHeader>
       <fileDesc>
@@ -44,7 +45,58 @@
          </sourceDesc>
       </fileDesc>
       <profileDesc>
-         <textClass>
+         <abstract><listPerson><person xml:id="person__2700" role="behandelte">
+               <persName>Bacchini, Benedetto</persName>
+               <idno type="gnd">http://d-nb.info/gnd/104119691</idno>
+               <idno type="GND">http://d-nb.info/gnd/104119691</idno>
+               </person>
+            <person xml:id="person__2705" role="behandelte">
+               <persName>Castelli, Benedetto</persName>
+               <idno type="gnd">http://d-nb.info/gnd/11887067X</idno>
+               <idno type="GND">http://d-nb.info/gnd/11887067X</idno>
+               </person>
+            <person xml:id="person__2706" role="behandelte">
+               <persName>Settala, Benedetto</persName>
+               </person>
+            <person xml:id="person__2707" role="behandelte">
+               <persName>Piacentino, Bernardo</persName>
+               </person>
+            <person xml:id="person__2710" role="behandelte">
+               <persName>Benedictus a S. Germano</persName>
+               </person>
+            <person xml:id="person__2712" role="behandelte">
+               <persName>Luchini, Benedetto</persName>
+               </person>
+            <person xml:id="person__2713" role="behandelte">
+               <persName>Spagnoli, Giovanni Battista ("Mantuanus")</persName>
+               </person>
+            <person xml:id="person__2714" role="behandelte">
+               <persName>Bartolomeo di Paterniano</persName>
+               </person>
+            <person xml:id="person__2715" role="behandelte">
+               <persName>Bartolomeo Cepolla (Cipolla)</persName>
+               </person>
+            <person xml:id="person__2716" role="behandelte">
+               <persName>Guidi, Benedetto</persName>
+               <idno type="gnd">http://d-nb.info/gnd/10429597X</idno>
+               <idno type="GND">http://d-nb.info/gnd/179782975</idno>
+               </person>
+            <person xml:id="person__2717" role="behandelte">
+               <persName>Dell'Uva, Benedetto</persName>
+               <idno type="gnd">http://d-nb.info/gnd/1060527065</idno>
+               </person>
+            <person xml:id="person__2718" role="behandelte">
+               <persName>Benedetto "Agrigenti"</persName>
+               </person>
+            <person xml:id="person__3048" role="behandelte">
+               <persName>Benedictus Maioricensis</persName>
+               </person>
+            <person xml:id="person__3064" role="behandelte">
+               <persName>Canofilo, Benedetto</persName>
+               <idno type="gnd">http://d-nb.info/gnd/10313123X</idno>
+               <idno type="GND">http://d-nb.info/gnd/10313123X</idno>
+               </person>
+            </listPerson></abstract><textClass>
             <classCode scheme="RNA">Sammlungen und Objekte</classCode>
          </textClass>
       </profileDesc>

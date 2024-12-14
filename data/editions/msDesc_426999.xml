@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_426999.xml">
    <teiHeader>
       <fileDesc>
@@ -44,7 +45,706 @@
          </sourceDesc>
       </fileDesc>
       <profileDesc>
-         <textClass>
+         <abstract><listPerson><person xml:id="person__2" role="behandelte">
+               <persName>Gottfried von Admont</persName>
+               </person>
+            <person xml:id="person__3" role="behandelte">
+               <persName>Irimbert von Admont</persName>
+               </person>
+            <person xml:id="person__16" role="urheber">
+               <persName>Pez, Bernhard</persName>
+               </person>
+            <person xml:id="person__47" role="behandelte">
+               <persName>Rupert von Deutz</persName>
+               </person>
+            <person xml:id="person__315" role="behandelte">
+               <persName>Reiner von Lüttich</persName>
+               </person>
+            <person xml:id="person__319" role="behandelte">
+               <persName>Laurentius von Durham</persName>
+               </person>
+            <person xml:id="person__726" role="behandelte">
+               <persName>Petrus Cellensis</persName>
+               </person>
+            <person xml:id="person__892" role="behandelte">
+               <persName>Wolfhelm von Brauweiler</persName>
+               </person>
+            <person xml:id="person__957" role="behandelte">
+               <persName>Lambert von Legia</persName>
+               </person>
+            <person xml:id="person__964" role="behandelte">
+               <persName>Udalschalk von St. Ulrich und Afra zu Augsburg</persName>
+               </person>
+            <person xml:id="person__965" role="behandelte">
+               <persName>Ekkehard von Aura</persName>
+               </person>
+            <person xml:id="person__968" role="behandelte">
+               <persName>Hl. Elisabeth von Schönau</persName>
+               </person>
+            <person xml:id="person__970" role="behandelte">
+               <persName>Ekbert von Schönau</persName>
+               </person>
+            <person xml:id="person__971" role="behandelte">
+               <persName>Roger von Fulda</persName>
+               </person>
+            <person xml:id="person__973" role="behandelte">
+               <persName>Hl. Hildegard von Bingen</persName>
+               </person>
+            <person xml:id="person__977" role="behandelte">
+               <persName>Anonymus (OSB Weingarten)</persName>
+               </person>
+            <person xml:id="person__979" role="behandelte">
+               <persName>Otto von St. Blasien</persName>
+               </person>
+            <person xml:id="person__1066" role="behandelte">
+               <persName>Hl. Frowin von Engelberg</persName>
+               </person>
+            <person xml:id="person__1340" role="behandelte">
+               <persName>Hildebert von Lavardin</persName>
+               </person>
+            <person xml:id="person__1658" role="behandelte">
+               <persName>Anonymus (Biograph Hl. Cuthbert)</persName>
+               </person>
+            <person xml:id="person__1950" role="behandelte">
+               <persName>Odilo von St.-Médard</persName>
+               </person>
+            <person xml:id="person__1960" role="behandelte">
+               <persName>Anonymus (OSB St.-Vaast zu Arras)</persName>
+               </person>
+            <person xml:id="person__1994" role="behandelte">
+               <persName>Andreas Leucander von Ramsey</persName>
+               </person>
+            <person xml:id="person__2005" role="behandelte">
+               <persName>Dietrich von Hersfeld</persName>
+               </person>
+            <person xml:id="person__2014" role="behandelte">
+               <persName>Robert von Waulsort</persName>
+               </person>
+            <person xml:id="person__2058" role="behandelte">
+               <persName>Folchard von Lobbes</persName>
+               </person>
+            <person xml:id="person__2095" role="behandelte">
+               <persName>Bernhard von Corvey</persName>
+               </person>
+            <person xml:id="person__2115" role="behandelte">
+               <persName>Petrus Diaconus</persName>
+               </person>
+            <person xml:id="person__2137" role="behandelte">
+               <persName>Ezzo von St. Stephan zu Würzburg</persName>
+               </person>
+            <person xml:id="person__2141" role="behandelte">
+               <persName>Ordericus Vitalis</persName>
+               </person>
+            <person xml:id="person__2150" role="behandelte">
+               <persName>Sigebert von Gembloux</persName>
+               </person>
+            <person xml:id="person__2169" role="behandelte">
+               <persName>Hugo von Vezelay</persName>
+               </person>
+            <person xml:id="person__2181" role="behandelte">
+               <persName>Reiner von Ponza</persName>
+               </person>
+            <person xml:id="person__2182" role="behandelte">
+               <persName>Anonymus (OSB Savignac-Les-Eglises)</persName>
+               </person>
+            <person xml:id="person__2183" role="behandelte">
+               <persName>Anscher von St.-Riquier</persName>
+               </person>
+            <person xml:id="person__2184" role="behandelte">
+               <persName>Anonymus (OSB Malmesbury, Biograph Hl. Aldhelm von Sherborne)</persName>
+               </person>
+            <person xml:id="person__2185" role="behandelte">
+               <persName>Oderisius Casinensis</persName>
+               </person>
+            <person xml:id="person__2186" role="behandelte">
+               <persName>Hl. Reinhard von Reinhausen</persName>
+               </person>
+            <person xml:id="person__2187" role="behandelte">
+               <persName>Hl. Benno von Meißen</persName>
+               </person>
+            <person xml:id="person__2189" role="behandelte">
+               <persName>Herrand von Halberstadt</persName>
+               </person>
+            <person xml:id="person__2190" role="behandelte">
+               <persName>Marsilia von St.-Amand zu Rouen</persName>
+               </person>
+            <person xml:id="person__2191" role="behandelte">
+               <persName>Gulielmus Andrensis</persName>
+               </person>
+            <person xml:id="person__2192" role="behandelte">
+               <persName>Richer von Waulsort</persName>
+               </person>
+            <person xml:id="person__2193" role="behandelte">
+               <persName>Rudolf Tortarius</persName>
+               </person>
+            <person xml:id="person__2194" role="behandelte">
+               <persName>Franko von Afflighem</persName>
+               </person>
+            <person xml:id="person__2195" role="behandelte">
+               <persName>Thietmar von Helmarshausen</persName>
+               </person>
+            <person xml:id="person__2196" role="behandelte">
+               <persName>Anselm von Canterbury</persName>
+               </person>
+            <person xml:id="person__2197" role="behandelte">
+               <persName>Hl. Hugo von Cluny</persName>
+               </person>
+            <person xml:id="person__2198" role="behandelte">
+               <persName>Folchard von Bertincourt</persName>
+               </person>
+            <person xml:id="person__2199" role="behandelte">
+               <persName>Gregor von Montecassino</persName>
+               </person>
+            <person xml:id="person__2200" role="behandelte">
+               <persName>Bernhard von Montecassino (Aygler)</persName>
+               </person>
+            <person xml:id="person__2201" role="behandelte">
+               <persName>Gotzelin von Bertincourt</persName>
+               </person>
+            <person xml:id="person__2202" role="behandelte">
+               <persName>Faritius Tuscus</persName>
+               </person>
+            <person xml:id="person__2203" role="behandelte">
+               <persName>Giselbert von Westminster</persName>
+               </person>
+            <person xml:id="person__2204" role="behandelte">
+               <persName>Nikolaus von Soissons</persName>
+               </person>
+            <person xml:id="person__2205" role="behandelte">
+               <persName>Berengosius von St. Maximin zu Trier</persName>
+               </person>
+            <person xml:id="person__2206" role="behandelte">
+               <persName>Hl. Bruno von Segni</persName>
+               </person>
+            <person xml:id="person__2207" role="behandelte">
+               <persName>Andreas von Chezal-Benoit</persName>
+               </person>
+            <person xml:id="person__2208" role="behandelte">
+               <persName>Gilo von Cluny</persName>
+               </person>
+            <person xml:id="person__2209" role="behandelte">
+               <persName>Odo von Cambrai</persName>
+               </person>
+            <person xml:id="person__2210" role="behandelte">
+               <persName>Herbert Losinga</persName>
+               </person>
+            <person xml:id="person__2211" role="behandelte">
+               <persName>Dominicus von S. Salvador de Ona zu Burgos</persName>
+               </person>
+            <person xml:id="person__2212" role="behandelte">
+               <persName>Anselm von Gembloux</persName>
+               </person>
+            <person xml:id="person__2213" role="behandelte">
+               <persName>Leo Marsicanus</persName>
+               </person>
+            <person xml:id="person__2214" role="behandelte">
+               <persName>Guido Casinensis</persName>
+               </person>
+            <person xml:id="person__2215" role="behandelte">
+               <persName>Turgot von Durham</persName>
+               </person>
+            <person xml:id="person__2216" role="behandelte">
+               <persName>Rainaldus Casinensis</persName>
+               </person>
+            <person xml:id="person__2217" role="behandelte">
+               <persName>Gaufridus Grossus</persName>
+               </person>
+            <person xml:id="person__2218" role="behandelte">
+               <persName>Paschalis II.</persName>
+               </person>
+            <person xml:id="person__2219" role="behandelte">
+               <persName>Gelasius II.</persName>
+               </person>
+            <person xml:id="person__2220" role="behandelte">
+               <persName>Florentius von Worcester</persName>
+               </person>
+            <person xml:id="person__2221" role="behandelte">
+               <persName>Eadmer von Canterbury</persName>
+               </person>
+            <person xml:id="person__2222" role="behandelte">
+               <persName>Rudolf von St.-Trond</persName>
+               </person>
+            <person xml:id="person__2223" role="behandelte">
+               <persName>Alexander von Canterbury</persName>
+               </person>
+            <person xml:id="person__2224" role="behandelte">
+               <persName>Rainald von Cluny</persName>
+               </person>
+            <person xml:id="person__2225" role="behandelte">
+               <persName>Edmund von Canterbury</persName>
+               </person>
+            <person xml:id="person__2226" role="behandelte">
+               <persName>Honorius Augustodunensis</persName>
+               </person>
+            <person xml:id="person__2227" role="behandelte">
+               <persName>Johannes Tiburtinus</persName>
+               </person>
+            <person xml:id="person__2228" role="behandelte">
+               <persName>Robert von Reims</persName>
+               </person>
+            <person xml:id="person__2229" role="behandelte">
+               <persName>Noboas von Montecassino</persName>
+               </person>
+            <person xml:id="person__2230" role="behandelte">
+               <persName>Clarius</persName>
+               </person>
+            <person xml:id="person__2231" role="behandelte">
+               <persName>Amrand du Chastel von Marchiennes</persName>
+               </person>
+            <person xml:id="person__2232" role="behandelte">
+               <persName>Gualbert von Marchiennes</persName>
+               </person>
+            <person xml:id="person__2233" role="behandelte">
+               <persName>Milo Crispinus</persName>
+               </person>
+            <person xml:id="person__2234" role="behandelte">
+               <persName>Alnot von Canterbury</persName>
+               </person>
+            <person xml:id="person__2235" role="behandelte">
+               <persName>Theobald von Bèze</persName>
+               </person>
+            <person xml:id="person__2236" role="behandelte">
+               <persName>Benedikt von Gloucester</persName>
+               </person>
+            <person xml:id="person__2237" role="behandelte">
+               <persName>Golscher von St. Matthias zu Trier</persName>
+               </person>
+            <person xml:id="person__2238" role="behandelte">
+               <persName>Calixt II.</persName>
+               </person>
+            <person xml:id="person__2239" role="behandelte">
+               <persName>Arnulf von Rochester</persName>
+               </person>
+            <person xml:id="person__2240" role="behandelte">
+               <persName>Rupert von Limburg</persName>
+               </person>
+            <person xml:id="person__2241" role="behandelte">
+               <persName>Udalrich von Babenberg</persName>
+               </person>
+            <person xml:id="person__2242" role="behandelte">
+               <persName>Mauritius von Catania</persName>
+               </person>
+            <person xml:id="person__2243" role="behandelte">
+               <persName>Gottfried von Vendôme</persName>
+               </person>
+            <person xml:id="person__2244" role="behandelte">
+               <persName>Lucas von Kornelimünster</persName>
+               </person>
+            <person xml:id="person__2248" role="behandelte">
+               <persName>Arnulfus "Cluniacensis"</persName>
+               </person>
+            <person xml:id="person__2249" role="behandelte">
+               <persName>Anonymus (Autor "Historia translationis S. Honorinae")</persName>
+               </person>
+            <person xml:id="person__2250" role="behandelte">
+               <persName>Giselbertus Cluniacensis</persName>
+               </person>
+            <person xml:id="person__2251" role="behandelte">
+               <persName>Petrus von Poitiers</persName>
+               </person>
+            <person xml:id="person__2252" role="behandelte">
+               <persName>Osbert von Clare</persName>
+               </person>
+            <person xml:id="person__2253" role="behandelte">
+               <persName>Hugo von Rouen</persName>
+               </person>
+            <person xml:id="person__2254" role="behandelte">
+               <persName>Hugo von Fleury</persName>
+               </person>
+            <person xml:id="person__2255" role="behandelte">
+               <persName>Stephan von Autun</persName>
+               </person>
+            <person xml:id="person__2256" role="behandelte">
+               <persName>Ulrich von Konstanz</persName>
+               </person>
+            <person xml:id="person__2258" role="behandelte">
+               <persName>Pandulphus Casinensis</persName>
+               </person>
+            <person xml:id="person__2259" role="behandelte">
+               <persName>Stephan Harding</persName>
+               </person>
+            <person xml:id="person__2260" role="behandelte">
+               <persName>Johannes von Bèze</persName>
+               </person>
+            <person xml:id="person__2261" role="behandelte">
+               <persName>Rainaldus Andrenssis</persName>
+               </person>
+            <person xml:id="person__2262" role="behandelte">
+               <persName>Suger von St.-Denis</persName>
+               </person>
+            <person xml:id="person__2263" role="behandelte">
+               <persName>Anonymus (OSB St.-Pierre-au-mont-Blandin, Biograph Hl. Gudwal)</persName>
+               </person>
+            <person xml:id="person__2264" role="behandelte">
+               <persName>Anonymus (OSB Göttweig, Biograph Hl. Altmann)</persName>
+               </person>
+            <person xml:id="person__2265" role="behandelte">
+               <persName>Heinrich von Corvey</persName>
+               </person>
+            <person xml:id="person__2266" role="behandelte">
+               <persName>Drogo von Laon</persName>
+               </person>
+            <person xml:id="person__2267" role="behandelte">
+               <persName>Hermann von St.-Martin zu Tournai</persName>
+               </person>
+            <person xml:id="person__2269" role="behandelte">
+               <persName>Rodulf von St.-Trond</persName>
+               </person>
+            <person xml:id="person__2270" role="behandelte">
+               <persName>Theoderich von St. Martin zu Trier</persName>
+               </person>
+            <person xml:id="person__2271" role="behandelte">
+               <persName>Bernhard von Toledo</persName>
+               </person>
+            <person xml:id="person__2272" role="behandelte">
+               <persName>Anonymus (Autor "Historia translationis S. Guthlaci")</persName>
+               </person>
+            <person xml:id="person__2275" role="behandelte">
+               <persName>Konrad von Hirsau</persName>
+               </person>
+            <person xml:id="person__2276" role="behandelte">
+               <persName>Robert von Shrewsbury</persName>
+               </person>
+            <person xml:id="person__2277" role="behandelte">
+               <persName>Nalgod von Cluny</persName>
+               </person>
+            <person xml:id="person__2278" role="behandelte">
+               <persName>Ebo von Michelsberg</persName>
+               </person>
+            <person xml:id="person__2279" role="behandelte">
+               <persName>Thiemo von Michelsberg zu Bamberg</persName>
+               </person>
+            <person xml:id="person__2280" role="behandelte">
+               <persName>Wilhelm von Malmesbury</persName>
+               </person>
+            <person xml:id="person__2281" role="behandelte">
+               <persName>Hariulf von Altenburg</persName>
+               </person>
+            <person xml:id="person__2282" role="behandelte">
+               <persName>Petrus Abaelard</persName>
+               </person>
+            <person xml:id="person__2283" role="behandelte">
+               <persName>Matthias von Vendôme</persName>
+               </person>
+            <person xml:id="person__2284" role="behandelte">
+               <persName>Hugo von Fouilloy</persName>
+               </person>
+            <person xml:id="person__2285" role="behandelte">
+               <persName>Adelbert von Heidenheim</persName>
+               </person>
+            <person xml:id="person__2286" role="behandelte">
+               <persName>Laurentius von Lüttich</persName>
+               </person>
+            <person xml:id="person__2287" role="behandelte">
+               <persName>Teulfus von Morigny</persName>
+               </person>
+            <person xml:id="person__2288" role="behandelte">
+               <persName>Wazelinus von Lüttich</persName>
+               </person>
+            <person xml:id="person__2290" role="behandelte">
+               <persName>"Baldewinus San-Remigianus"</persName>
+               </person>
+            <person xml:id="person__2291" role="behandelte">
+               <persName>Hl. Malachias von Armagh</persName>
+               </person>
+            <person xml:id="person__2292" role="behandelte">
+               <persName>Hl. Ernst von Zwiefalten</persName>
+               </person>
+            <person xml:id="person__2293" role="behandelte">
+               <persName>Serlo von Savigny</persName>
+               </person>
+            <person xml:id="person__2294" role="behandelte">
+               <persName>Anonymus (OSB Admont, Biograph sel. Gebehard)</persName>
+               </person>
+            <person xml:id="person__2295" role="behandelte">
+               <persName>Anonymus (OSB Zwiefalten, Biograph Hl. Ernst von Zwiefalten)</persName>
+               </person>
+            <person xml:id="person__2296" role="behandelte">
+               <persName>Robert von Dunstable</persName>
+               </person>
+            <person xml:id="person__2297" role="behandelte">
+               <persName>Alexander von Telese</persName>
+               </person>
+            <person xml:id="person__2298" role="behandelte">
+               <persName>Johannes von Tours</persName>
+               </person>
+            <person xml:id="person__2299" role="behandelte">
+               <persName>Anonymus (OSB Anchin)</persName>
+               </person>
+            <person xml:id="person__2300" role="behandelte">
+               <persName>Hermannus "Monachus"</persName>
+               </person>
+            <person xml:id="person__2301" role="behandelte">
+               <persName>Galterius von St.-Mellon</persName>
+               </person>
+            <person xml:id="person__2302" role="behandelte">
+               <persName>Theobald von Paris</persName>
+               </person>
+            <person xml:id="person__2303" role="behandelte">
+               <persName>Anselm von Laon</persName>
+               </person>
+            <person xml:id="person__2304" role="behandelte">
+               <persName>Radulf von Cluny</persName>
+               </person>
+            <person xml:id="person__2306" role="behandelte">
+               <persName>Anonymus (Autor Wunderbericht Hl. Gregor)</persName>
+               </person>
+            <person xml:id="person__2307" role="behandelte">
+               <persName>Gratian von Chiusi</persName>
+               </person>
+            <person xml:id="person__2308" role="behandelte">
+               <persName>Potho von Prüm</persName>
+               </person>
+            <person xml:id="person__2309" role="behandelte">
+               <persName>Hl. Macarius von Würzburg</persName>
+               </person>
+            <person xml:id="person__2310" role="behandelte">
+               <persName>Johannes von Hexham</persName>
+               </person>
+            <person xml:id="person__2311" role="behandelte">
+               <persName>Arnold von Bonneval</persName>
+               </person>
+            <person xml:id="person__2312" role="behandelte">
+               <persName>Petrus Mauritius (Venerabilis) von Montboissier</persName>
+               </person>
+            <person xml:id="person__2313" role="behandelte">
+               <persName>Radulf von Flavigny-sur-Ozerain</persName>
+               </person>
+            <person xml:id="person__2314" role="behandelte">
+               <persName>Wibald von Stablo</persName>
+               </person>
+            <person xml:id="person__2315" role="behandelte">
+               <persName>Geoffroy von Louroux</persName>
+               </person>
+            <person xml:id="person__2316" role="behandelte">
+               <persName>Hadrian IV.</persName>
+               </person>
+            <person xml:id="person__2317" role="behandelte">
+               <persName>Nikolaus von St. Alban</persName>
+               </person>
+            <person xml:id="person__2318" role="behandelte">
+               <persName>Anonymus (OSB Fulda, Arvodulf?)</persName>
+               </person>
+            <person xml:id="person__2319" role="behandelte">
+               <persName>Gunther von St.-Amand</persName>
+               </person>
+            <person xml:id="person__2320" role="behandelte">
+               <persName>Richard von Cluny</persName>
+               </person>
+            <person xml:id="person__2321" role="behandelte">
+               <persName>Thomas von Monmouth</persName>
+               </person>
+            <person xml:id="person__2324" role="behandelte">
+               <persName>Anonymus (OSB Werden, "Rythmiographus" Hl. Liudger)</persName>
+               </person>
+            <person xml:id="person__2325" role="behandelte">
+               <persName>Bertrand von Chaise-Dieu</persName>
+               </person>
+            <person xml:id="person__2326" role="behandelte">
+               <persName>Anonymus (OSB Lobbes, Historiograph)</persName>
+               </person>
+            <person xml:id="person__2327" role="behandelte">
+               <persName>Erchenfried von Melk</persName>
+               </person>
+            <person xml:id="person__2328" role="behandelte">
+               <persName>Johannes Berardus von San Clemente a Casauria</persName>
+               </person>
+            <person xml:id="person__2329" role="behandelte">
+               <persName>Symeon von Durham</persName>
+               </person>
+            <person xml:id="person__2330" role="behandelte">
+               <persName>Marquard von Fulda</persName>
+               </person>
+            <person xml:id="person__2332" role="behandelte">
+               <persName>Raphold von Würzburg</persName>
+               </person>
+            <person xml:id="person__2333" role="behandelte">
+               <persName>Ortlieb von Neresheim</persName>
+               </person>
+            <person xml:id="person__2334" role="behandelte">
+               <persName>Wolbero von St. Pantaleon zu Köln</persName>
+               </person>
+            <person xml:id="person__2335" role="behandelte">
+               <persName>Odo de Dioglio</persName>
+               </person>
+            <person xml:id="person__2336" role="behandelte">
+               <persName>Hl. Otto von Ariano</persName>
+               </person>
+            <person xml:id="person__2337" role="behandelte">
+               <persName>Nicohlas von Durham</persName>
+               </person>
+            <person xml:id="person__2338" role="behandelte">
+               <persName>Bravonius von Worcester</persName>
+               </person>
+            <person xml:id="person__2339" role="behandelte">
+               <persName>Walter von Melrose</persName>
+               </person>
+            <person xml:id="person__2340" role="behandelte">
+               <persName>Anonymus (Biograph Hl. Marianus Scotus)</persName>
+               </person>
+            <person xml:id="person__2341" role="behandelte">
+               <persName>Hl. Thomas Becket</persName>
+               </person>
+            <person xml:id="person__2342" role="behandelte">
+               <persName>Benedikt von Peterborough</persName>
+               </person>
+            <person xml:id="person__2343" role="behandelte">
+               <persName>Galfried</persName>
+               </person>
+            <person xml:id="person__2344" role="behandelte">
+               <persName>Anonymus (OSB Marchiennes, Biograph Hl. Richtrudis)</persName>
+               </person>
+            <person xml:id="person__2346" role="behandelte">
+               <persName>Wilhelm von Ramsey</persName>
+               </person>
+            <person xml:id="person__2347" role="behandelte">
+               <persName>Berthold von Zwiefalten</persName>
+               </person>
+            <person xml:id="person__2348" role="behandelte">
+               <persName>Robert von Swaffham</persName>
+               </person>
+            <person xml:id="person__2351" role="behandelte">
+               <persName>Anonymus (Autor "Chronicon Saxonicum")</persName>
+               </person>
+            <person xml:id="person__2352" role="behandelte">
+               <persName>Martin von León</persName>
+               </person>
+            <person xml:id="person__2353" role="behandelte">
+               <persName>Johannes von Bertincourt</persName>
+               </person>
+            <person xml:id="person__2354" role="behandelte">
+               <persName>Robert von Torigni</persName>
+               </person>
+            <person xml:id="person__2355" role="behandelte">
+               <persName>Heinrich I. von Brüssel</persName>
+               </person>
+            <person xml:id="person__2356" role="behandelte">
+               <persName>Gregor VIII.</persName>
+               </person>
+            <person xml:id="person__2357" role="behandelte">
+               <persName>Ordonius von Cellanova</persName>
+               </person>
+            <person xml:id="person__2358" role="behandelte">
+               <persName>Anonymus (Biograph Hl. Kunigunde)</persName>
+               </person>
+            <person xml:id="person__2359" role="behandelte">
+               <persName>Gaufredus Vosiensis</persName>
+               </person>
+            <person xml:id="person__2360" role="behandelte">
+               <persName>Wilhelm von Blois</persName>
+               </person>
+            <person xml:id="person__2361" role="behandelte">
+               <persName>Wilhelm von Canterbury</persName>
+               </person>
+            <person xml:id="person__2362" role="behandelte">
+               <persName>Herrad von Landsberg</persName>
+               </person>
+            <person xml:id="person__2363" role="behandelte">
+               <persName>Christian von St. Severi</persName>
+               </person>
+            <person xml:id="person__2364" role="behandelte">
+               <persName>Richard von Devizes</persName>
+               </person>
+            <person xml:id="person__2365" role="behandelte">
+               <persName>Alexander (de Insula) von Corvey</persName>
+               </person>
+            <person xml:id="person__2366" role="behandelte">
+               <persName>Andras Sylvius von Marchiennes</persName>
+               </person>
+            <person xml:id="person__2367" role="behandelte">
+               <persName>Petrus Mirmet</persName>
+               </person>
+            <person xml:id="person__2368" role="behandelte">
+               <persName>Stephan von Tournai</persName>
+               </person>
+            <person xml:id="person__2370" role="behandelte">
+               <persName>Helinand von Froidmont</persName>
+               </person>
+            <person xml:id="person__2371" role="behandelte">
+               <persName>Alan von Tewkesbury</persName>
+               </person>
+            <person xml:id="person__2373" role="behandelte">
+               <persName>Dudechin von Disibodenberg</persName>
+               </person>
+            <person xml:id="person__2374" role="behandelte">
+               <persName>Theodoricus Danus</persName>
+               </person>
+            <person xml:id="person__2375" role="behandelte">
+               <persName>Hl. Joachim von Fiore</persName>
+               </person>
+            <person xml:id="person__2376" role="behandelte">
+               <persName>Rainer von Pomposa</persName>
+               </person>
+            <person xml:id="person__2377" role="behandelte">
+               <persName>Gervasius von Dover</persName>
+               </person>
+            <person xml:id="person__2379" role="behandelte">
+               <persName>Johannes de Alta Villa</persName>
+               </person>
+            <person xml:id="person__2380" role="behandelte">
+               <persName>Reginald von Canterbury</persName>
+               </person>
+            <person xml:id="person__2381" role="behandelte">
+               <persName>Thomas von Ely</persName>
+               </person>
+            <person xml:id="person__2382" role="behandelte">
+               <persName>Hl. Relindis von Berg bei Neuburg</persName>
+               </person>
+            <person xml:id="person__2383" role="behandelte">
+               <persName>Hl. Wilhelm von St.-Thierry</persName>
+               </person>
+            <person xml:id="person__2384" role="behandelte">
+               <persName>Egilward von Würzburg</persName>
+               </person>
+            <person xml:id="person__2385" role="behandelte">
+               <persName>Simon von Bertincourt</persName>
+               </person>
+            <person xml:id="person__2386" role="behandelte">
+               <persName>Richard Pluto von Canterbury</persName>
+               </person>
+            <person xml:id="person__2387" role="behandelte">
+               <persName>Blandinus von Catania</persName>
+               </person>
+            <person xml:id="person__2388" role="behandelte">
+               <persName>Balderich von Bourgueil</persName>
+               </person>
+            <person xml:id="person__2390" role="behandelte">
+               <persName>Cono von Regensburg</persName>
+               </person>
+            <person xml:id="person__2391" role="behandelte">
+               <persName>Nikolaus von Clairvaux</persName>
+               </person>
+            <person xml:id="person__2392" role="behandelte">
+               <persName>Heloisa von Paraklet</persName>
+               </person>
+            <person xml:id="person__2393" role="behandelte">
+               <persName>Odo von Canterbury</persName>
+               </person>
+            <person xml:id="person__2395" role="behandelte">
+               <persName>Anonymus (Biograph Hl. Gundbert)</persName>
+               </person>
+            <person xml:id="person__2396" role="behandelte">
+               <persName>Reginald von Durham</persName>
+               </person>
+            <person xml:id="person__2397" role="behandelte">
+               <persName>Anonymus (OSB Ely, Chronograph)</persName>
+               </person>
+            <person xml:id="person__2399" role="behandelte">
+               <persName>Anonymus (OSB Corbeny, Autor Wunderbericht Hl. Marculf)</persName>
+               </person>
+            <person xml:id="person__2400" role="behandelte">
+               <persName>Hl. Hugo von Poitiers</persName>
+               </person>
+            <person xml:id="person__2404" role="behandelte">
+               <persName>Guibert-Martin von Gembloux</persName>
+               </person>
+            <person xml:id="person__2484" role="behandelte">
+               <persName>Johannes von Peterborough</persName>
+               </person>
+            <person xml:id="person__3519" role="behandelte">
+               <persName>Bernhard von Cluny (Morlas)</persName>
+               </person>
+            </listPerson></abstract><textClass>
             <classCode scheme="RNA">Werke</classCode>
          </textClass>
       </profileDesc>

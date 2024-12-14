@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_413171.xml">
    <teiHeader>
       <fileDesc>
@@ -43,7 +44,59 @@
          </sourceDesc>
       </fileDesc>
       <profileDesc>
-         <textClass>
+         <abstract><listPerson><person xml:id="person__16" role="urheber">
+               <persName>Pez, Bernhard</persName>
+               </person>
+            <person xml:id="person__163" role="behandelte">
+               <persName>Trithemius, Johannes</persName>
+               </person>
+            <person xml:id="person__397" role="behandelte">
+               <persName>Stengel, Karl</persName>
+               </person>
+            <person xml:id="person__398" role="behandelte">
+               <persName>Ernst von Pardubitz</persName>
+               </person>
+            <person xml:id="person__399" role="behandelte">
+               <persName>Niggel, Erhard</persName>
+               </person>
+            <person xml:id="person__400" role="behandelte">
+               <persName>Sfondrati, Coelestin</persName>
+               </person>
+            <person xml:id="person__403" role="behandelte">
+               <persName>Werner von Ellerbach</persName>
+               </person>
+            <person xml:id="person__404" role="behandelte">
+               <persName>Staupitz, Johann</persName>
+               </person>
+            <person xml:id="person__405" role="behandelte">
+               <persName>Corner, David Gregor</persName>
+               <idno type="gnd">http://d-nb.info/gnd/104242450</idno>
+               </person>
+            <person xml:id="person__406" role="behandelte">
+               <persName>Vogl, Cölestin</persName>
+               </person>
+            <person xml:id="person__407" role="behandelte">
+               <persName>Hl. Marianus Scotus</persName>
+               </person>
+            <person xml:id="person__408" role="behandelte">
+               <persName>Konrad von Raitenbuch</persName>
+               </person>
+            <person xml:id="person__409" role="behandelte">
+               <persName>Heinrich (OSB Zwiefalten)</persName>
+               </person>
+            <person xml:id="person__410" role="behandelte">
+               <persName>Hl. Wilhelm von Hirsau</persName>
+               </person>
+            <person xml:id="person__411" role="behandelte">
+               <persName>Albrecht von Bonstetten</persName>
+               </person>
+            <person xml:id="person__412" role="behandelte">
+               <persName>Griesherr, Johannes</persName>
+               </person>
+            <person xml:id="person__691" role="behandelte">
+               <persName>Ruben, Leonhard</persName>
+               </person>
+            </listPerson></abstract><textClass>
             <classCode scheme="RNA">Werke</classCode>
          </textClass>
       </profileDesc>

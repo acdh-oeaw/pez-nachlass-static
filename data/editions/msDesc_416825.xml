@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_416825.xml">
    <teiHeader>
       <fileDesc>
@@ -47,7 +48,70 @@
          </sourceDesc>
       </fileDesc>
       <profileDesc>
-         <textClass>
+         <abstract><listPerson><person xml:id="person__128" role="urheber">
+               <persName>Lombard, Célestin</persName>
+               </person>
+            <person xml:id="person__315" role="behandelte">
+               <persName>Reiner von Lüttich</persName>
+               </person>
+            <person xml:id="person__699" role="behandelte">
+               <persName>Lambert von St.-Laurent zu Lüttich</persName>
+               </person>
+            <person xml:id="person__700" role="behandelte">
+               <persName>Ludwig von St.-Laurent zu Lüttich</persName>
+               </person>
+            <person xml:id="person__701" role="behandelte">
+               <persName>Falchalin von St.-Laurent zu Lüttich</persName>
+               </person>
+            <person xml:id="person__702" role="behandelte">
+               <persName>Heribrand von St.-Laurent zu Lüttich</persName>
+               </person>
+            <person xml:id="person__705" role="behandelte">
+               <persName>Robert von St.-Laurent zu Lüttich</persName>
+               </person>
+            <person xml:id="person__707" role="behandelte">
+               <persName>Gislebert von St.-Laurent zu Lüttich</persName>
+               </person>
+            <person xml:id="person__708" role="behandelte">
+               <persName>Johannes de Iride</persName>
+               </person>
+            <person xml:id="person__711" role="behandelte">
+               <persName>DeeKuius, Johannes</persName>
+               </person>
+            <person xml:id="person__712" role="behandelte">
+               <persName>Johannes Stabulaus</persName>
+               </person>
+            <person xml:id="person__713" role="behandelte">
+               <persName>Adrian von St.-Laurent zu Lüttich</persName>
+               </person>
+            <person xml:id="person__714" role="behandelte">
+               <persName>Lambertus de Stipite</persName>
+               </person>
+            <person xml:id="person__716" role="behandelte">
+               <persName>Bartholomäus de Longchamps</persName>
+               </person>
+            <person xml:id="person__717" role="behandelte">
+               <persName>Vliermael, Nicolas</persName>
+               </person>
+            <person xml:id="person__718" role="behandelte">
+               <persName>Berselius, Paschasius</persName>
+               </person>
+            <person xml:id="person__719" role="behandelte">
+               <persName>Johannes de Waha</persName>
+               </person>
+            <person xml:id="person__798" role="behandelte">
+               <persName>David von St.-Laurent zu Lüttich</persName>
+               </person>
+            <person xml:id="person__799" role="behandelte">
+               <persName>Engelbert von St.-Laurent zu Lüttich</persName>
+               </person>
+            <person xml:id="person__2286" role="behandelte">
+               <persName>Laurentius von Lüttich</persName>
+               </person>
+            <person xml:id="person__2288" role="behandelte">
+               <persName>Wazelinus von Lüttich</persName>
+               </person>
+            </listPerson></abstract><textClass>
             <classCode scheme="RNA">Sammlungen und Objekte</classCode>
          </textClass>
       </profileDesc>

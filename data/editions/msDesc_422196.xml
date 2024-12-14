@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_422196.xml">
    <teiHeader>
       <fileDesc>
@@ -43,7 +44,122 @@
          </sourceDesc>
       </fileDesc>
       <profileDesc>
-         <textClass>
+         <abstract><listPerson><person xml:id="person__16" role="urheber">
+               <persName>Pez, Bernhard</persName>
+               </person>
+            <person xml:id="person__988" role="behandelte">
+               <persName>Lang, Andreas</persName>
+               </person>
+            <person xml:id="person__1329" role="behandelte">
+               <persName>Eberhard I. von Michelsberg zu Bamberg</persName>
+               </person>
+            <person xml:id="person__1344" role="behandelte">
+               <persName>Adelhelm von Michelsberg zu Bamberg</persName>
+               </person>
+            <person xml:id="person__1345" role="behandelte">
+               <persName>Ekbert von Michelsberg zu Bamberg</persName>
+               </person>
+            <person xml:id="person__1346" role="behandelte">
+               <persName>Willo von Michelsberg zu Bamberg</persName>
+               </person>
+            <person xml:id="person__1348" role="behandelte">
+               <persName>Gumpert von Michelsberg zu Bamberg</persName>
+               </person>
+            <person xml:id="person__1349" role="behandelte">
+               <persName>Wolfram I.</persName>
+               </person>
+            <person xml:id="person__1350" role="behandelte">
+               <persName>Hermann I.</persName>
+               </person>
+            <person xml:id="person__1351" role="behandelte">
+               <persName>Helmerich von Michelsberg zu Bamberg</persName>
+               </person>
+            <person xml:id="person__1353" role="behandelte">
+               <persName>Wolfram II.</persName>
+               </person>
+            <person xml:id="person__1354" role="behandelte">
+               <persName>Ulrich I.</persName>
+               </person>
+            <person xml:id="person__1355" role="behandelte">
+               <persName>Herold von MIchelsberg zu Bamberg</persName>
+               </person>
+            <person xml:id="person__1356" role="behandelte">
+               <persName>Hartung I.</persName>
+               </person>
+            <person xml:id="person__1357" role="behandelte">
+               <persName>Uto II.</persName>
+               </person>
+            <person xml:id="person__1358" role="behandelte">
+               <persName>Uto I.</persName>
+               </person>
+            <person xml:id="person__1359" role="behandelte">
+               <persName>Friedrich von Michelsberg zu Bamberg</persName>
+               </person>
+            <person xml:id="person__1360" role="behandelte">
+               <persName>Ulrich II.</persName>
+               </person>
+            <person xml:id="person__1361" role="behandelte">
+               <persName>Volcold (OSB Bamberg - Michelsberg)</persName>
+               </person>
+            <person xml:id="person__1362" role="behandelte">
+               <persName>Hermann II.</persName>
+               </person>
+            <person xml:id="person__1363" role="behandelte">
+               <persName>Walter von Stolzenroth</persName>
+               </person>
+            <person xml:id="person__1364" role="behandelte">
+               <persName>Dietrich von Wiesenthau</persName>
+               </person>
+            <person xml:id="person__1365" role="behandelte">
+               <persName>Otto von Fuchs</persName>
+               </person>
+            <person xml:id="person__1366" role="behandelte">
+               <persName>Wilhelm von Wolfersdorf</persName>
+               </person>
+            <person xml:id="person__1367" role="behandelte">
+               <persName>Lambert (von) Zollner</persName>
+               </person>
+            <person xml:id="person__1368" role="behandelte">
+               <persName>Johann I. von Fuchs</persName>
+               </person>
+            <person xml:id="person__1369" role="behandelte">
+               <persName>Conrad von Wanbach</persName>
+               </person>
+            <person xml:id="person__1370" role="behandelte">
+               <persName>Hartung II. Pfersfelder</persName>
+               </person>
+            <person xml:id="person__1371" role="behandelte">
+               <persName>Johann II. von Akkon</persName>
+               </person>
+            <person xml:id="person__1372" role="behandelte">
+               <persName>Eberhard III. von Venlo</persName>
+               </person>
+            <person xml:id="person__1373" role="behandelte">
+               <persName>Haug, Ulrich</persName>
+               <idno type="gnd">http://d-nb.info/gnd/133577996</idno>
+               </person>
+            <person xml:id="person__1374" role="behandelte">
+               <persName>Prechtlein, Wolfgang</persName>
+               </person>
+            <person xml:id="person__1660" role="behandelte">
+               <persName>Trumwinus von Michelsberg zu Bamberg</persName>
+               </person>
+            <person xml:id="person__1796" role="behandelte">
+               <persName>Iso von Michelsberg zu Bamberg</persName>
+               </person>
+            <person xml:id="person__2920" role="behandelte">
+               <persName>Eberhard II. von Michelsberg zu Bamberg</persName>
+               </person>
+            <person xml:id="person__2924" role="behandelte">
+               <persName>Heinrich von Michelsberg zu Bamberg</persName>
+               </person>
+            <person xml:id="person__2929" role="behandelte">
+               <persName>Rado von Michelsberg zu Bamberg</persName>
+               </person>
+            <person xml:id="person__2933" role="behandelte">
+               <persName>Rupert von Michelsberg zu Bamberg</persName>
+               </person>
+            </listPerson></abstract><textClass>
             <classCode scheme="RNA">Werke</classCode>
          </textClass>
       </profileDesc>

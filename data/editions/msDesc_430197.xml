@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_430197.xml">
    <teiHeader>
       <fileDesc>
@@ -44,7 +45,37 @@
          </sourceDesc>
       </fileDesc>
       <profileDesc>
-         <textClass>
+         <abstract><listPerson><person xml:id="person__4" role="urheber">
+               <persName>Hueber, Apronian</persName>
+               </person>
+            <person xml:id="person__16" role="behandelte">
+               <persName>Pez, Bernhard</persName>
+               </person>
+            <person xml:id="person__863" role="behandelte">
+               <persName>Böschung, Heinrich</persName>
+               </person>
+            <person xml:id="person__864" role="behandelte">
+               <persName>Finck, Vinzenz</persName>
+               </person>
+            <person xml:id="person__865" role="behandelte">
+               <persName>Kiefer, Fintan</persName>
+               </person>
+            <person xml:id="person__866" role="behandelte">
+               <persName>Delsberg, Urs Graf</persName>
+               </person>
+            <person xml:id="person__867" role="behandelte">
+               <persName>Caesar, Heinrich</persName>
+               </person>
+            <person xml:id="person__868" role="behandelte">
+               <persName>Schwaller, Benedikt</persName>
+               </person>
+            <person xml:id="person__2641" role="behandelte">
+               <persName>Briat von Delsberg, Maurus</persName>
+               </person>
+            <person xml:id="person__2913" role="urheber">
+               <persName>Acklin, Vinzenz</persName>
+               </person>
+            </listPerson></abstract><textClass>
             <classCode scheme="RNA">Sammlungen und Objekte</classCode>
          </textClass>
       </profileDesc>

@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_407391.xml">
    <teiHeader>
       <fileDesc>
@@ -44,7 +45,22 @@
          </sourceDesc>
       </fileDesc>
       <profileDesc>
-         <textClass>
+         <abstract><listPerson><person xml:id="person__12" role="behandelte">
+               <persName>Schannat, Johann Friedrich</persName>
+               </person>
+            <person xml:id="person__26" role="behandelte">
+               <persName>Eckhart, Johann Georg</persName>
+               <idno type="gnd">http://d-nb.info/gnd/1090340923</idno>
+               <idno type="GND">http://d-nb.info/gnd/118958461</idno>
+               </person>
+            <person xml:id="person__27" role="behandelte">
+               <persName>Hahn, Franz Joseph</persName>
+               <idno type="gnd">http://d-nb.info/gnd/118979272</idno>
+               </person>
+            <person xml:id="person__28" role="behandelte">
+               <persName>Leibniz, Gottfried Wilhelm</persName>
+               </person>
+            </listPerson></abstract><textClass>
             <classCode scheme="RNA">Sammlungen und Objekte</classCode>
          </textClass>
       </profileDesc>

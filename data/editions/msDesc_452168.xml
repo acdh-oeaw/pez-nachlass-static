@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_452168.xml">
    <teiHeader>
       <fileDesc>
@@ -145,7 +146,99 @@
          </sourceDesc>
       </fileDesc>
       <profileDesc>
-         <textClass>
+         <abstract><listPerson><person xml:id="person__16" role="urheber">
+               <persName>Pez, Bernhard</persName>
+               </person>
+            <person xml:id="person__49" role="urheber">
+               <persName>Meichelbeck, Karl</persName>
+               </person>
+            <person xml:id="person__53" role="urheber">
+               <persName>Wydemann, Leopold</persName>
+               </person>
+            <person xml:id="person__780" role="behandelte">
+               <persName>Sandi, Giuseppe Maria</persName>
+               </person>
+            <person xml:id="person__1129" role="urheber">
+               <persName>Gropp, Ignaz</persName>
+               <idno type="gnd">http://d-nb.info/gnd/11686639X</idno>
+               <idno type="GND">http://d-nb.info/gnd/179433997</idno>
+               </person>
+            <person xml:id="person__1146" role="urheber">
+               <persName>Otloh von St. Emmeram</persName>
+               </person>
+            <person xml:id="person__1340" role="urheber">
+               <persName>Hildebert von Lavardin</persName>
+               </person>
+            <person xml:id="person__1825" role="urheber">
+               <persName>Heriger von Lobbes</persName>
+               </person>
+            <person xml:id="person__2170" role="urheber">
+               <persName>Theofried von Echternach</persName>
+               </person>
+            <person xml:id="person__2274" role="urheber">
+               <persName>Petrus von Montecassino</persName>
+               </person>
+            <person xml:id="person__2440" role="urheber">
+               <persName>Alexander IV.</persName>
+               </person>
+            <person xml:id="person__2566" role="behandelte">
+               <persName>Johannes Gerson</persName>
+               </person>
+            <person xml:id="person__2923" role="urheber">
+               <persName>Gottschalk von Benediktbeuren</persName>
+               </person>
+            <person xml:id="person__3196" role="urheber">
+               <persName>Vignola, Attilio</persName>
+               </person>
+            <person xml:id="person__3197" role="urheber">
+               <persName>Peterle, Paul</persName>
+               </person>
+            <person xml:id="person__3198" role="urheber">
+               <persName>Heinrich Arnoldi von Alfeld</persName>
+               </person>
+            <person xml:id="person__3199" role="behandelte">
+               <persName>Moser, Ludwig</persName>
+               </person>
+            <person xml:id="person__3200" role="urheber">
+               <persName>Teuzo "Florentinus"</persName>
+               </person>
+            <person xml:id="person__3201" role="urheber">
+               <persName>Fatavus (Fastidius "Britannicus")</persName>
+               </person>
+            <person xml:id="person__3202" role="urheber">
+               <persName>Petrus von Brüssel</persName>
+               </person>
+            <person xml:id="person__3203" role="urheber">
+               <persName>Bernold von Konstanz</persName>
+               </person>
+            <person xml:id="person__3205" role="urheber">
+               <persName>Stephanus Fridolin</persName>
+               </person>
+            <person xml:id="person__3206" role="urheber">
+               <persName>Guilelmus "Cardinalis tituli S. Clementis"</persName>
+               </person>
+            <person xml:id="person__3207" role="urheber">
+               <persName>Johannes Zachariae</persName>
+               </person>
+            <person xml:id="person__3208" role="urheber">
+               <persName>Alexis de Siregno</persName>
+               </person>
+            <person xml:id="person__3209" role="urheber">
+               <persName>Jakob von Lodi</persName>
+               </person>
+            <person xml:id="person__3210" role="urheber">
+               <persName>Theodor Kerkering</persName>
+               </person>
+            <person xml:id="person__3211" role="urheber">
+               <persName>Leonardus de Datis "Florentinus"</persName>
+               </person>
+            <person xml:id="person__3212" role="urheber">
+               <persName>Johannes de Serravalle</persName>
+               </person>
+            <person xml:id="person__3213" role="behandelte">
+               <persName>Petrus de Alliaco</persName>
+               </person>
+            </listPerson></abstract><textClass>
             <classCode scheme="RNA">Werke</classCode>
          </textClass>
       </profileDesc>

@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_424118.xml">
    <teiHeader>
       <fileDesc>
@@ -43,7 +44,130 @@
          </sourceDesc>
       </fileDesc>
       <profileDesc>
-         <textClass>
+         <abstract><listPerson><person xml:id="person__457" role="behandelte">
+               <persName>Müller, Konrad</persName>
+               </person>
+            <person xml:id="person__1435" role="behandelte">
+               <persName>Müller, Gerold</persName>
+               </person>
+            <person xml:id="person__1436" role="behandelte">
+               <persName>Lindau, Beda</persName>
+               </person>
+            <person xml:id="person__1437" role="behandelte">
+               <persName>Ledergerw, Benedikt</persName>
+               </person>
+            <person xml:id="person__1438" role="behandelte">
+               <persName>Keller, Rupert</persName>
+               </person>
+            <person xml:id="person__1439" role="behandelte">
+               <persName>Rogg, Joseph</persName>
+               </person>
+            <person xml:id="person__1440" role="behandelte">
+               <persName>Letter, Joachim</persName>
+               </person>
+            <person xml:id="person__1441" role="behandelte">
+               <persName>Knopflin, Fintan</persName>
+               </person>
+            <person xml:id="person__1442" role="behandelte">
+               <persName>Düggelin, Urs</persName>
+               <idno type="gnd">http://d-nb.info/gnd/187819394</idno>
+               </person>
+            <person xml:id="person__1443" role="behandelte">
+               <persName>Greuth, Basil von</persName>
+               </person>
+            <person xml:id="person__1444" role="behandelte">
+               <persName>Kienberger, Leontius</persName>
+               </person>
+            <person xml:id="person__1445" role="behandelte">
+               <persName>Schindler, Cölestin</persName>
+               </person>
+            <person xml:id="person__1446" role="behandelte">
+               <persName>Tina, Bonifaz de la</persName>
+               </person>
+            <person xml:id="person__1447" role="behandelte">
+               <persName>Vogler, Meinrad</persName>
+               </person>
+            <person xml:id="person__1448" role="behandelte">
+               <persName>Wurmer, Johann Baptist</persName>
+               </person>
+            <person xml:id="person__1449" role="behandelte">
+               <persName>Zumstein, Martin</persName>
+               </person>
+            <person xml:id="person__1451" role="behandelte">
+               <persName>Zurlauben, Augustin</persName>
+               </person>
+            <person xml:id="person__1452" role="behandelte">
+               <persName>Graff, Ambros</persName>
+               </person>
+            <person xml:id="person__1453" role="behandelte">
+               <persName>Natter, Hieronymus</persName>
+               </person>
+            <person xml:id="person__1454" role="behandelte">
+               <persName>Effinger, Roman</persName>
+               <idno type="gnd">http://d-nb.info/gnd/1089633270</idno>
+               </person>
+            <person xml:id="person__1455" role="behandelte">
+               <persName>Fleckenstein, Ildephons</persName>
+               <idno type="gnd">http://d-nb.info/gnd/1089633289</idno>
+               </person>
+            <person xml:id="person__1456" role="behandelte">
+               <persName>Besler von Wattingen, Karl</persName>
+               </person>
+            <person xml:id="person__1457" role="behandelte">
+               <persName>Rusconi, Bernhard</persName>
+               </person>
+            <person xml:id="person__1458" role="behandelte">
+               <persName>Schedler, Petrus</persName>
+               </person>
+            <person xml:id="person__1459" role="behandelte">
+               <persName>Waldmann, Gallus</persName>
+               </person>
+            <person xml:id="person__1460" role="behandelte">
+               <persName>Meixner, Felix</persName>
+               </person>
+            <person xml:id="person__1461" role="behandelte">
+               <persName>Reble, Theophil</persName>
+               </person>
+            <person xml:id="person__1462" role="behandelte">
+               <persName>Hartmann, Franz</persName>
+               </person>
+            <person xml:id="person__1463" role="behandelte">
+               <persName>Buochmann, Jakob</persName>
+               </person>
+            <person xml:id="person__1464" role="behandelte">
+               <persName>Zellger, Remigius</persName>
+               </person>
+            <person xml:id="person__1465" role="behandelte">
+               <persName>Trautsch, Maximilian</persName>
+               </person>
+            <person xml:id="person__1466" role="behandelte">
+               <persName>Weiniger, Gabriel</persName>
+               </person>
+            <person xml:id="person__1467" role="behandelte">
+               <persName>Vettiger, Nikolaus</persName>
+               </person>
+            <person xml:id="person__1468" role="behandelte">
+               <persName>Landtwing, Michael</persName>
+               </person>
+            <person xml:id="person__1469" role="behandelte">
+               <persName>Ebbe, Felix</persName>
+               </person>
+            <person xml:id="person__1470" role="behandelte">
+               <persName>Freuler, Fridolin</persName>
+               </person>
+            <person xml:id="person__1471" role="behandelte">
+               <persName>Engist, Stephan</persName>
+               </person>
+            <person xml:id="person__1472" role="behandelte">
+               <persName>Baumgarten, Laurenz</persName>
+               </person>
+            <person xml:id="person__1473" role="behandelte">
+               <persName>Schiel, Anton</persName>
+               </person>
+            <person xml:id="person__3427" role="behandelte">
+               <persName>Leu, Gregor</persName>
+               </person>
+            </listPerson></abstract><textClass>
             <classCode scheme="RNA">Sammlungen und Objekte</classCode>
          </textClass>
       </profileDesc>

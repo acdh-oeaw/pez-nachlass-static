@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_418979.xml">
    <teiHeader>
       <fileDesc>
@@ -45,7 +46,66 @@
          </sourceDesc>
       </fileDesc>
       <profileDesc>
-         <textClass>
+         <abstract><listPerson><person xml:id="person__442" role="behandelte">
+               <persName>Iten, Basil</persName>
+               </person>
+            <person xml:id="person__679" role="behandelte">
+               <persName>Groten, Beda</persName>
+               <idno type="gnd">http://d-nb.info/gnd/172107407</idno>
+               </person>
+            <person xml:id="person__680" role="behandelte">
+               <persName>Konrad von Brauweiler</persName>
+               </person>
+            <person xml:id="person__681" role="behandelte">
+               <persName>Artopäus, Heribert</persName>
+               </person>
+            <person xml:id="person__682" role="behandelte">
+               <persName>Münch (Munch), Johann Heinrich</persName>
+               </person>
+            <person xml:id="person__686" role="behandelte">
+               <persName>Franken, Matthias</persName>
+               <idno type="gnd">http://d-nb.info/gnd/172890462</idno>
+               </person>
+            <person xml:id="person__689" role="behandelte">
+               <persName>Volmar, Caspar</persName>
+               </person>
+            <person xml:id="person__815" role="urheber">
+               <persName>Mayer, Theodor</persName>
+               </person>
+            <person xml:id="person__846" role="behandelte">
+               <persName>Lauffen, Roman</persName>
+               </person>
+            <person xml:id="person__848" role="behandelte">
+               <persName>Harzer de Salenstein, Sebastian</persName>
+               </person>
+            <person xml:id="person__849" role="behandelte">
+               <persName>Oederlin, Benedikt</persName>
+               </person>
+            <person xml:id="person__850" role="behandelte">
+               <persName>Fortman, Nikolaus</persName>
+               </person>
+            <person xml:id="person__851" role="behandelte">
+               <persName>Ello von Brauweiler</persName>
+               </person>
+            <person xml:id="person__852" role="behandelte">
+               <persName>Wolphelm von Brauweiler</persName>
+               </person>
+            <person xml:id="person__854" role="behandelte">
+               <persName>Münster, Andreas</persName>
+               </person>
+            <person xml:id="person__855" role="behandelte">
+               <persName>Adami, Adam</persName>
+               </person>
+            <person xml:id="person__856" role="behandelte">
+               <persName>Heister, Petrus</persName>
+               </person>
+            <person xml:id="person__857" role="behandelte">
+               <persName>Breuer, Philipp</persName>
+               </person>
+            <person xml:id="person__2658" role="behandelte">
+               <persName>Zumbrunnen, Fridolin</persName>
+               </person>
+            </listPerson></abstract><textClass>
             <classCode scheme="RNA">Sammlungen und Objekte</classCode>
          </textClass>
       </profileDesc>

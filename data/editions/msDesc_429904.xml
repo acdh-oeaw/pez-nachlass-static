@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_429904.xml">
    <teiHeader>
       <fileDesc>
@@ -43,7 +44,119 @@
          </sourceDesc>
       </fileDesc>
       <profileDesc>
-         <textClass>
+         <abstract><listPerson><person xml:id="person__16" role="behandelte">
+               <persName>Pez, Bernhard</persName>
+               </person>
+            <person xml:id="person__156" role="behandelte">
+               <persName>Ò, Severino de</persName>
+               </person>
+            <person xml:id="person__394" role="behandelte">
+               <persName>Grillo, Angelo</persName>
+               <idno type="gnd">http://d-nb.info/gnd/1090010273</idno>
+               <idno type="GND">http://d-nb.info/gnd/119159899</idno>
+               </person>
+            <person xml:id="person__428" role="behandelte">
+               <persName>Wion, Arnold</persName>
+               </person>
+            <person xml:id="person__2590" role="behandelte">
+               <persName>Rusconi, Ambrogio</persName>
+               </person>
+            <person xml:id="person__2592" role="behandelte">
+               <persName>Amaltea, Adriano</persName>
+               </person>
+            <person xml:id="person__2593" role="behandelte">
+               <persName>Busenello, Alessandro</persName>
+               </person>
+            <person xml:id="person__2594" role="behandelte">
+               <persName>Ugone, Alessio</persName>
+               </person>
+            <person xml:id="person__2595" role="behandelte">
+               <persName>Villagut, Alfonso</persName>
+               </person>
+            <person xml:id="person__2596" role="behandelte">
+               <persName>Riciardetti, Gregorio</persName>
+               </person>
+            <person xml:id="person__2597" role="behandelte">
+               <persName>Gatta, Pietro Paulo della</persName>
+               </person>
+            <person xml:id="person__2599" role="behandelte">
+               <persName>Ferrari, Ambrogio</persName>
+               <idno type="gnd">http://d-nb.info/gnd/100754171</idno>
+               <idno type="GND">http://d-nb.info/gnd/100754171</idno>
+               </person>
+            <person xml:id="person__2600" role="behandelte">
+               <persName>Cazzani, Anastasio</persName>
+               </person>
+            <person xml:id="person__2601" role="behandelte">
+               <persName>Galdioli, Anastasio</persName>
+               </person>
+            <person xml:id="person__2602" role="behandelte">
+               <persName>Suessa, Andrea de</persName>
+               </person>
+            <person xml:id="person__2603" role="behandelte">
+               <persName>Arcioni, Andrea</persName>
+               </person>
+            <person xml:id="person__2604" role="behandelte">
+               <persName>Rayneri, Andrea</persName>
+               </person>
+            <person xml:id="person__2605" role="behandelte">
+               <persName>Cottone, Antonio</persName>
+               <idno type="gnd">http://d-nb.info/gnd/12469876X</idno>
+               </person>
+            <person xml:id="person__2606" role="behandelte">
+               <persName>Bauco, Apollinare a</persName>
+               </person>
+            <person xml:id="person__2607" role="behandelte">
+               <persName>Bucci da Lunato, Arcangelo</persName>
+               </person>
+            <person xml:id="person__2608" role="behandelte">
+               <persName>Villalonga, Arsenio</persName>
+               </person>
+            <person xml:id="person__2609" role="behandelte">
+               <persName>Loschi, Agostino</persName>
+               </person>
+            <person xml:id="person__2610" role="behandelte">
+               <persName>Papasidera, Agostino</persName>
+               </person>
+            <person xml:id="person__2611" role="behandelte">
+               <persName>Augustinus "Anglus"</persName>
+               </person>
+            <person xml:id="person__2612" role="behandelte">
+               <persName>Augustinus "Florentinus"</persName>
+               </person>
+            <person xml:id="person__2613" role="behandelte">
+               <persName>Lampugnani, Agostino</persName>
+               </person>
+            <person xml:id="person__2614" role="behandelte">
+               <persName>Fagiis (Faggi), Angelo de</persName>
+               <idno type="gnd">http://d-nb.info/gnd/100404170</idno>
+               </person>
+            <person xml:id="person__2616" role="behandelte">
+               <persName>Cherubini, Angelo Maria</persName>
+               <idno type="gnd">http://d-nb.info/gnd/100079601</idno>
+               <idno type="GND">http://d-nb.info/gnd/1089646992</idno>
+               </person>
+            <person xml:id="person__2617" role="behandelte">
+               <persName>Nuce, Angelo de</persName>
+               </person>
+            <person xml:id="person__2618" role="behandelte">
+               <persName>Arcioni, Angelo Maria</persName>
+               </person>
+            <person xml:id="person__2619" role="behandelte">
+               <persName>Perfetto, Angelo</persName>
+               </person>
+            <person xml:id="person__2620" role="behandelte">
+               <persName>Paioli, Anselmo</persName>
+               </person>
+            <person xml:id="person__2621" role="urheber">
+               <persName>Armellini, Mariano</persName>
+               <idno type="gnd">http://d-nb.info/gnd/137934793</idno>
+               <idno type="GND">http://d-nb.info/gnd/160552079</idno>
+               </person>
+            <person xml:id="person__3124" role="behandelte">
+               <persName>Petra, Angelo</persName>
+               </person>
+            </listPerson></abstract><textClass>
             <classCode scheme="RNA">Sammlungen und Objekte</classCode>
          </textClass>
       </profileDesc>

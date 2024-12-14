@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_460370.xml">
    <teiHeader>
       <fileDesc>
@@ -169,7 +170,101 @@
          </sourceDesc>
       </fileDesc>
       <profileDesc>
-         <textClass>
+         <abstract><listPerson><person xml:id="person__8" role="urheber">
+               <persName>Martène, Edmond</persName>
+               </person>
+            <person xml:id="person__28" role="urheber">
+               <persName>Leibniz, Gottfried Wilhelm</persName>
+               </person>
+            <person xml:id="person__53" role="urheber">
+               <persName>Wydemann, Leopold</persName>
+               </person>
+            <person xml:id="person__124" role="behandelte">
+               <persName>Hl. Bernhard von Clairvaux</persName>
+               <idno type="gnd">https://d-nb.info/gnd/118509810</idno>
+               </person>
+            <person xml:id="person__316" role="behandelte">
+               <persName>Hl. Alkuin</persName>
+               </person>
+            <person xml:id="person__322" role="behandelte">
+               <persName>Hl. Beda Venerabilis</persName>
+               </person>
+            <person xml:id="person__333" role="urheber">
+               <persName>Gerhoch von Reichersberg</persName>
+               </person>
+            <person xml:id="person__815" role="urheber">
+               <persName>Mayer, Theodor</persName>
+               </person>
+            <person xml:id="person__1133" role="urheber">
+               <persName>Tesenbacher, Christian</persName>
+               </person>
+            <person xml:id="person__1526" role="urheber">
+               <persName>Krinner, Roman</persName>
+               </person>
+            <person xml:id="person__1540" role="urheber">
+               <persName>Johannes von Speyer</persName>
+               </person>
+            <person xml:id="person__1552" role="urheber">
+               <persName>Friedrich II. "der Große"</persName>
+               </person>
+            <person xml:id="person__1746" role="urheber">
+               <persName>Theodulf von Orléans</persName>
+               </person>
+            <person xml:id="person__1797" role="behandelte">
+               <persName>Paschaius Radbertus</persName>
+               </person>
+            <person xml:id="person__2987" role="urheber">
+               <persName>Wagner, Peter</persName>
+               </person>
+            <person xml:id="person__3289" role="urheber">
+               <persName>Volcuin von Sittichenbach</persName>
+               </person>
+            <person xml:id="person__3290" role="urheber">
+               <persName>Cölestin II.</persName>
+               </person>
+            <person xml:id="person__3291" role="urheber">
+               <persName>Eugen III.</persName>
+               </person>
+            <person xml:id="person__3292" role="urheber">
+               <persName>Florus von Lyon</persName>
+               </person>
+            <person xml:id="person__3293" role="urheber">
+               <persName>Lutingus</persName>
+               </person>
+            <person xml:id="person__3294" role="urheber">
+               <persName>Nikolaus von Dolein</persName>
+               </person>
+            <person xml:id="person__3295" role="urheber">
+               <persName>Johann III. von Eych</persName>
+               </person>
+            <person xml:id="person__3296" role="urheber">
+               <persName>Mascov, Johann Jakob</persName>
+               </person>
+            <person xml:id="person__3297" role="urheber">
+               <persName>Gregor von Montesacro</persName>
+               </person>
+            <person xml:id="person__3298" role="urheber">
+               <persName>Nikolaus von Clamanges</persName>
+               </person>
+            <person xml:id="person__3299" role="urheber">
+               <persName>Pietro Delfino</persName>
+               </person>
+            <person xml:id="person__3300" role="urheber">
+               <persName>Ugolinus Verinus</persName>
+               </person>
+            <person xml:id="person__3301" role="urheber">
+               <persName>Salutati, Coluccio</persName>
+               </person>
+            <person xml:id="person__3302" role="behandelte">
+               <persName>Nikolaus von Myra</persName>
+               </person>
+            <person xml:id="person__3303" role="behandelte">
+               <persName>Johannes Gelenius</persName>
+               </person>
+            <person xml:id="person__3304" role="behandelte">
+               <persName>Aegidius Gelenius</persName>
+               </person>
+            </listPerson></abstract><textClass>
             <classCode scheme="RNA">Werke</classCode>
          </textClass>
       </profileDesc>

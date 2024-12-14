@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_425097.xml">
    <teiHeader>
       <fileDesc>
@@ -43,7 +44,40 @@
          </sourceDesc>
       </fileDesc>
       <profileDesc>
-         <textClass>
+         <abstract><listPerson><person xml:id="person__16" role="behandelte">
+               <persName>Pez, Bernhard</persName>
+               </person>
+            <person xml:id="person__822" role="behandelte">
+               <persName>Eberhard II. von Weihenstephan</persName>
+               </person>
+            <person xml:id="person__825" role="behandelte">
+               <persName>Karrer, Thomas</persName>
+               </person>
+            <person xml:id="person__826" role="behandelte">
+               <persName>Mayr, Daniel</persName>
+               </person>
+            <person xml:id="person__1505" role="urheber">
+               <persName>Junghans, Korbinian</persName>
+               </person>
+            <person xml:id="person__1554" role="behandelte">
+               <persName>Kiener, Benedikt</persName>
+               </person>
+            <person xml:id="person__1555" role="behandelte">
+               <persName>Naisl, Ämilian</persName>
+               </person>
+            <person xml:id="person__1556" role="behandelte">
+               <persName>Konrad II. von Weihenstephan</persName>
+               </person>
+            <person xml:id="person__1557" role="behandelte">
+               <persName>Christoph Schleicher</persName>
+               </person>
+            <person xml:id="person__1558" role="behandelte">
+               <persName>Feichtmayr, Sixtus</persName>
+               </person>
+            <person xml:id="person__2927" role="behandelte">
+               <persName>Maurus von Weihenstephan</persName>
+               </person>
+            </listPerson></abstract><textClass>
             <classCode scheme="RNA">Sammlungen und Objekte</classCode>
          </textClass>
       </profileDesc>

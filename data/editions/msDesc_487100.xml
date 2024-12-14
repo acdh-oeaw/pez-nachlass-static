@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_487100.xml">
    <teiHeader>
       <fileDesc>
@@ -43,7 +44,52 @@
          </sourceDesc>
       </fileDesc>
       <profileDesc>
-         <textClass>
+         <abstract><listPerson><person xml:id="person__16" role="urheber">
+               <persName>Pez, Bernhard</persName>
+               </person>
+            <person xml:id="person__32" role="behandelte">
+               <persName>Mabillon, Jean</persName>
+               </person>
+            <person xml:id="person__278" role="behandelte">
+               <persName>D'Achery, Jean Luc</persName>
+               <idno type="gnd">http://d-nb.info/gnd/10009872X</idno>
+               </person>
+            <person xml:id="person__1610" role="behandelte">
+               <persName>Hl. Isidor von Sevilla</persName>
+               </person>
+            <person xml:id="person__1630" role="behandelte">
+               <persName>Hl. Ildephons von Toledo</persName>
+               </person>
+            <person xml:id="person__2115" role="behandelte">
+               <persName>Petrus Diaconus</persName>
+               </person>
+            <person xml:id="person__2150" role="behandelte">
+               <persName>Sigebert von Gembloux</persName>
+               </person>
+            <person xml:id="person__2226" role="behandelte">
+               <persName>Honorius Augustodunensis</persName>
+               </person>
+            <person xml:id="person__2867" role="behandelte">
+               <persName>Hl. Hieronymus</persName>
+               </person>
+            <person xml:id="person__3371" role="behandelte">
+               <persName>Gennadius von Marseille</persName>
+               </person>
+            <person xml:id="person__3372" role="behandelte">
+               <persName>Heinrich von Gent (Gandavensis)</persName>
+               </person>
+            <person xml:id="person__3373" role="behandelte">
+               <persName>Anonymus (OSB Melk)</persName>
+               </person>
+            <person xml:id="person__3374" role="behandelte">
+               <persName>Le Mire, Aubert</persName>
+               </person>
+            <person xml:id="person__3375" role="behandelte">
+               <persName>Fabricius, Albert</persName>
+               <idno type="gnd">http://d-nb.info/gnd/100099459</idno>
+               <idno type="GND">http://d-nb.info/gnd/100099459</idno>
+               </person>
+            </listPerson></abstract><textClass>
             <classCode scheme="RNA">Werke</classCode>
          </textClass>
       </profileDesc>

@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_425707.xml">
    <teiHeader>
       <fileDesc>
@@ -44,7 +45,53 @@
          </sourceDesc>
       </fileDesc>
       <profileDesc>
-         <textClass>
+         <abstract><listPerson><person xml:id="person__4" role="urheber">
+               <persName>Hueber, Apronian</persName>
+               </person>
+            <person xml:id="person__16" role="behandelte">
+               <persName>Pez, Bernhard</persName>
+               </person>
+            <person xml:id="person__436" role="behandelte">
+               <persName>Kiefer, Anton</persName>
+               </person>
+            <person xml:id="person__869" role="behandelte">
+               <persName>Herzberg, Gregor</persName>
+               </person>
+            <person xml:id="person__870" role="behandelte">
+               <persName>Staal, Johann Baptist</persName>
+               </person>
+            <person xml:id="person__871" role="behandelte">
+               <persName>Bröchin, Vitalis</persName>
+               </person>
+            <person xml:id="person__872" role="behandelte">
+               <persName>Ammann, Ägidius</persName>
+               </person>
+            <person xml:id="person__873" role="behandelte">
+               <persName>Honegger, Bonaventura</persName>
+               </person>
+            <person xml:id="person__874" role="behandelte">
+               <persName>Böglin, Joachim</persName>
+               </person>
+            <person xml:id="person__875" role="behandelte">
+               <persName>Greutter, Anselm</persName>
+               </person>
+            <person xml:id="person__1562" role="behandelte">
+               <persName>Gink, Dominikus</persName>
+               </person>
+            <person xml:id="person__1563" role="behandelte">
+               <persName>Reutti, Augustin</persName>
+               </person>
+            <person xml:id="person__1565" role="behandelte">
+               <persName>Senn, Benedikt</persName>
+               </person>
+            <person xml:id="person__1566" role="behandelte">
+               <persName>Baron, Maurus</persName>
+               <idno type="gnd">http://d-nb.info/gnd/1071364588</idno>
+               </person>
+            <person xml:id="person__2913" role="urheber">
+               <persName>Acklin, Vinzenz</persName>
+               </person>
+            </listPerson></abstract><textClass>
             <classCode scheme="RNA">Sammlungen und Objekte</classCode>
          </textClass>
       </profileDesc>

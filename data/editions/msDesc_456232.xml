@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_456232.xml">
    <teiHeader>
       <fileDesc>
@@ -104,7 +105,188 @@
          </sourceDesc>
       </fileDesc>
       <profileDesc>
-         <textClass>
+         <abstract><listPerson><person xml:id="person__4" role="urheber">
+               <persName>Hueber, Apronian</persName>
+               </person>
+            <person xml:id="person__16" role="urheber">
+               <persName>Pez, Bernhard</persName>
+               </person>
+            <person xml:id="person__360" role="urheber">
+               <persName>Ermenrich von Ellwangen</persName>
+               </person>
+            <person xml:id="person__365" role="urheber">
+               <persName>Berno von Reichenau</persName>
+               </person>
+            <person xml:id="person__411" role="urheber">
+               <persName>Albrecht von Bonstetten</persName>
+               </person>
+            <person xml:id="person__815" role="urheber">
+               <persName>Mayer, Theodor</persName>
+               </person>
+            <person xml:id="person__973" role="urheber">
+               <persName>Hl. Hildegard von Bingen</persName>
+               </person>
+            <person xml:id="person__1139" role="urheber">
+               <persName>Notker Balbulus</persName>
+               </person>
+            <person xml:id="person__1167" role="urheber">
+               <persName>Robert (Ruotpert) von Metz</persName>
+               </person>
+            <person xml:id="person__1399" role="urheber">
+               <persName>Hetto von Basel</persName>
+               </person>
+            <person xml:id="person__1746" role="urheber">
+               <persName>Theodulf von Orléans</persName>
+               </person>
+            <person xml:id="person__1747" role="urheber">
+               <persName>Benedikt von Aniane</persName>
+               </person>
+            <person xml:id="person__1774" role="urheber">
+               <persName>Grimald von St. Gallen</persName>
+               </person>
+            <person xml:id="person__2187" role="urheber">
+               <persName>Hl. Benno von Meißen</persName>
+               </person>
+            <person xml:id="person__2275" role="urheber">
+               <persName>Konrad von Hirsau</persName>
+               </person>
+            <person xml:id="person__3172" role="urheber">
+               <persName>Hl. Koloman</persName>
+               </person>
+            <person xml:id="person__3228" role="urheber">
+               <persName>Tatto von St. Gallen</persName>
+               </person>
+            <person xml:id="person__3229" role="urheber">
+               <persName>Reinhard von Mundrich</persName>
+               </person>
+            <person xml:id="person__3230" role="urheber">
+               <persName>Henricus Waldenburg</persName>
+               </person>
+            <person xml:id="person__3231" role="urheber">
+               <persName>Heinrich von St. Stephan zu Konstanz</persName>
+               </person>
+            <person xml:id="person__3232" role="urheber">
+               <persName>Arnold de Wollhusen</persName>
+               </person>
+            <person xml:id="person__3233" role="urheber">
+               <persName>Niklaus (Niklas) von Wyle</persName>
+               </person>
+            <person xml:id="person__3234" role="urheber">
+               <persName>Johannes von Watt</persName>
+               </person>
+            <person xml:id="person__3235" role="urheber">
+               <persName>Georg Richli</persName>
+               </person>
+            <person xml:id="person__3236" role="urheber">
+               <persName>Johannes Polraus</persName>
+               </person>
+            <person xml:id="person__3237" role="urheber">
+               <persName>Francesco Filelfo</persName>
+               </person>
+            <person xml:id="person__3238" role="urheber">
+               <persName>Thuringus Fricker de Brugg</persName>
+               </person>
+            <person xml:id="person__3239" role="urheber">
+               <persName>Johannes Henricus Bodmer</persName>
+               </person>
+            <person xml:id="person__3240" role="urheber">
+               <persName>Michael Cristan</persName>
+               </person>
+            <person xml:id="person__3241" role="urheber">
+               <persName>Guido von Rochfort</persName>
+               </person>
+            <person xml:id="person__3242" role="urheber">
+               <persName>Matthias von Speyer</persName>
+               </person>
+            <person xml:id="person__3243" role="urheber">
+               <persName>Antonius "Laudensis"</persName>
+               </person>
+            <person xml:id="person__3244" role="urheber">
+               <persName>Ulrich Iuvalt</persName>
+               </person>
+            <person xml:id="person__3245" role="urheber">
+               <persName>Marquard Brisacher</persName>
+               </person>
+            <person xml:id="person__3246" role="urheber">
+               <persName>Marquardus de Lapide</persName>
+               </person>
+            <person xml:id="person__3247" role="urheber">
+               <persName>Ludovius Rad</persName>
+               </person>
+            <person xml:id="person__3248" role="urheber">
+               <persName>Konrad Schoch</persName>
+               </person>
+            <person xml:id="person__3249" role="urheber">
+               <persName>Sforza, Ascanio Maria</persName>
+               </person>
+            <person xml:id="person__3250" role="urheber">
+               <persName>Beccaria, Giovanni</persName>
+               <idno type="gnd">http://d-nb.info/gnd/124800270</idno>
+               </person>
+            <person xml:id="person__3251" role="urheber">
+               <persName>Sforza, Galeazzo Maria</persName>
+               </person>
+            <person xml:id="person__3252" role="urheber">
+               <persName>Bartholomäus de Welden</persName>
+               </person>
+            <person xml:id="person__3253" role="urheber">
+               <persName>Achatius Mornauer</persName>
+               </person>
+            <person xml:id="person__3254" role="urheber">
+               <persName>Petrus Siculus</persName>
+               </person>
+            <person xml:id="person__3255" role="urheber">
+               <persName>Martin von Weißenburg</persName>
+               </person>
+            <person xml:id="person__3256" role="urheber">
+               <persName>Johannes Langfeld</persName>
+               </person>
+            <person xml:id="person__3257" role="urheber">
+               <persName>Albertus Cavallatius ab Aucha</persName>
+               </person>
+            <person xml:id="person__3258" role="urheber">
+               <persName>Charles de Neufchâtel</persName>
+               </person>
+            <person xml:id="person__3259" role="urheber">
+               <persName>Johann II. von Werdenberg</persName>
+               </person>
+            <person xml:id="person__3260" role="urheber">
+               <persName>Johannes de Montenigro</persName>
+               </person>
+            <person xml:id="person__3261" role="urheber">
+               <persName>Johannes Hugx ("Hugis")</persName>
+               </person>
+            <person xml:id="person__3262" role="urheber">
+               <persName>Ludwig von Freiberg</persName>
+               </person>
+            <person xml:id="person__3263" role="urheber">
+               <persName>Ulrich Urdemann</persName>
+               </person>
+            <person xml:id="person__3264" role="urheber">
+               <persName>Jakob Rink</persName>
+               </person>
+            <person xml:id="person__3265" role="urheber">
+               <persName>Johannes von Thalheim</persName>
+               </person>
+            <person xml:id="person__3266" role="urheber">
+               <persName>Georg von Metz</persName>
+               </person>
+            <person xml:id="person__3267" role="urheber">
+               <persName>Heinrich von Spinal</persName>
+               </person>
+            <person xml:id="person__3268" role="urheber">
+               <persName>Heinrich von Ampringen</persName>
+               </person>
+            <person xml:id="person__3269" role="urheber">
+               <persName>Sutor, Placidus</persName>
+               </person>
+            <person xml:id="person__3270" role="urheber">
+               <persName>Seifried Helbling</persName>
+               </person>
+            <person xml:id="person__3548" role="urheber">
+               <persName>Kraus, Johann Baptist</persName>
+               </person>
+         </listPerson></abstract><textClass>
             <classCode scheme="RNA">Werke</classCode>
          </textClass>
       </profileDesc>

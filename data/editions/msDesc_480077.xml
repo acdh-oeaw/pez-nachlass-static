@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_480077.xml">
    <teiHeader>
       <fileDesc>
@@ -161,7 +162,85 @@
          </sourceDesc>
       </fileDesc>
       <profileDesc>
-         <textClass>
+         <abstract><listPerson><person xml:id="person__16" role="urheber">
+               <persName>Pez, Bernhard</persName>
+               </person>
+            <person xml:id="person__17" role="urheber">
+               <persName>Pez, Hieronymus</persName>
+               </person>
+            <person xml:id="person__53" role="urheber">
+               <persName>Wydemann, Leopold</persName>
+               </person>
+            <person xml:id="person__310" role="urheber">
+               <persName>Ménard, Nicolas Hugues</persName>
+               </person>
+            <person xml:id="person__329" role="urheber">
+               <persName>Hl. Hermann von Niederaltaich</persName>
+               </person>
+            <person xml:id="person__725" role="urheber">
+               <persName>Hinkmar von Reims</persName>
+               </person>
+            <person xml:id="person__792" role="urheber">
+               <persName>Stephan von Lüttich</persName>
+               </person>
+            <person xml:id="person__815" role="urheber">
+               <persName>Mayer, Theodor</persName>
+               </person>
+            <person xml:id="person__819" role="urheber">
+               <persName>Stephan von St.-Urbain</persName>
+               </person>
+            <person xml:id="person__1097" role="urheber">
+               <persName>Knittel, Michael</persName>
+               </person>
+            <person xml:id="person__1146" role="urheber">
+               <persName>Otloh von St. Emmeram</persName>
+               </person>
+            <person xml:id="person__2150" role="urheber">
+               <persName>Sigebert von Gembloux</persName>
+               </person>
+            <person xml:id="person__3175" role="behandelte">
+               <persName>Kornperger, Anthelm</persName>
+               </person>
+            <person xml:id="person__3316" role="urheber">
+               <persName>Scherer, Johann Franz</persName>
+               </person>
+            <person xml:id="person__3317" role="urheber">
+               <persName>Wolfger von Prüfening</persName>
+               </person>
+            <person xml:id="person__3318" role="urheber">
+               <persName>Paul von Veszprém</persName>
+               </person>
+            <person xml:id="person__3319" role="urheber">
+               <persName>Ackermann, Johannes</persName>
+               </person>
+            <person xml:id="person__3320" role="urheber">
+               <persName>Schellkopf, Kajetan</persName>
+               </person>
+            <person xml:id="person__3321" role="urheber">
+               <persName>Dietrich von Apolda</persName>
+               </person>
+            <person xml:id="person__3322" role="urheber">
+               <persName>Frutolf von Michelsberg</persName>
+               </person>
+            <person xml:id="person__3323" role="urheber">
+               <persName>Hoffmann, Johannes (Johann)</persName>
+               </person>
+            <person xml:id="person__3325" role="urheber">
+               <persName>Albizzi de Vico, Bartolomeo</persName>
+               </person>
+            <person xml:id="person__3326" role="urheber">
+               <persName>Jakob V.</persName>
+               </person>
+            <person xml:id="person__3327" role="urheber">
+               <persName>Embricho von Würzburg</persName>
+               </person>
+            <person xml:id="person__3329" role="urheber">
+               <persName>Liutold von Mondsee</persName>
+               </person>
+            <person xml:id="person__3330" role="urheber">
+               <persName>Saller, Philipp</persName>
+               </person>
+            </listPerson></abstract><textClass>
             <classCode scheme="RNA">Werke</classCode>
          </textClass>
       </profileDesc>

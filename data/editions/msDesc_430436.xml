@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_430436.xml">
    <teiHeader>
       <fileDesc>
@@ -43,7 +44,143 @@
          </sourceDesc>
       </fileDesc>
       <profileDesc>
-         <textClass>
+         <abstract><listPerson><person xml:id="person__16" role="urheber">
+               <persName>Pez, Bernhard</persName>
+               </person>
+            <person xml:id="person__2659" role="behandelte">
+               <persName>Cisneros, García Jiménez de</persName>
+               <idno type="gnd">http://d-nb.info/gnd/100964974</idno>
+               </person>
+            <person xml:id="person__2660" role="behandelte">
+               <persName>Medina, Juan de</persName>
+               </person>
+            <person xml:id="person__2661" role="behandelte">
+               <persName>Pedrosa, Juan de</persName>
+               </person>
+            <person xml:id="person__2662" role="behandelte">
+               <persName>Robles, Juan de</persName>
+               </person>
+            <person xml:id="person__2663" role="behandelte">
+               <persName>Salazar, Juan de</persName>
+               </person>
+            <person xml:id="person__2664" role="behandelte">
+               <persName>Cerda, José de la</persName>
+               <idno type="gnd">http://d-nb.info/gnd/100170412</idno>
+               <idno type="GND">http://d-nb.info/gnd/100170412</idno>
+               </person>
+            <person xml:id="person__2665" role="behandelte">
+               <persName>Salcedo, José</persName>
+               </person>
+            <person xml:id="person__2666" role="behandelte">
+               <persName>San Vitores, Alonso de</persName>
+               </person>
+            <person xml:id="person__2667" role="behandelte">
+               <persName>Haedo, Diego</persName>
+               <idno type="gnd">http://d-nb.info/gnd/100154220</idno>
+               <idno type="GND">http://d-nb.info/gnd/1053437943</idno>
+               </person>
+            <person xml:id="person__2668" role="behandelte">
+               <persName>Avilés, Gaspar</persName>
+               </person>
+            <person xml:id="person__2669" role="behandelte">
+               <persName>Gómez, Ambrosio</persName>
+               </person>
+            <person xml:id="person__2670" role="behandelte">
+               <persName>Yepes, Antonio de</persName>
+               </person>
+            <person xml:id="person__2671" role="behandelte">
+               <persName>Crespo, Francisco</persName>
+               <idno type="gnd">http://d-nb.info/gnd/131589547</idno>
+               </person>
+            <person xml:id="person__2672" role="behandelte">
+               <persName>Malo, Diego</persName>
+               </person>
+            <person xml:id="person__2673" role="behandelte">
+               <persName>Ayala, Lorenzo Ortiz de Ibarrola y</persName>
+               </person>
+            <person xml:id="person__2674" role="behandelte">
+               <persName>Granada, Leandro de</persName>
+               </person>
+            <person xml:id="person__2675" role="behandelte">
+               <persName>San Tomás, Leão de</persName>
+               </person>
+            <person xml:id="person__2676" role="behandelte">
+               <persName>Ariz, Luis</persName>
+               <idno type="gnd">http://d-nb.info/gnd/101886969</idno>
+               <idno type="GND">http://d-nb.info/gnd/101886969</idno>
+               </person>
+            <person xml:id="person__2677" role="behandelte">
+               <persName>Martínez, Martín</persName>
+               </person>
+            <person xml:id="person__2678" role="behandelte">
+               <persName>Laureto, Mateo Lloret</persName>
+               </person>
+            <person xml:id="person__2679" role="behandelte">
+               <persName>San Benito, Pelayo</persName>
+               </person>
+            <person xml:id="person__2680" role="behandelte">
+               <persName>Alfonso de Burgos, Pedro</persName>
+               </person>
+            <person xml:id="person__2681" role="behandelte">
+               <persName>Murga, Pedro</persName>
+               </person>
+            <person xml:id="person__2682" role="behandelte">
+               <persName>Ponce, Diego</persName>
+               </person>
+            <person xml:id="person__2683" role="behandelte">
+               <persName>Valencia, Pedro de</persName>
+               </person>
+            <person xml:id="person__2684" role="behandelte">
+               <persName>Marcilla, Pedro Vicente de</persName>
+               </person>
+            <person xml:id="person__2685" role="behandelte">
+               <persName>Pacheco, Plácido</persName>
+               </person>
+            <person xml:id="person__2686" role="behandelte">
+               <persName>Reinosa, Plácido</persName>
+               </person>
+            <person xml:id="person__2687" role="behandelte">
+               <persName>Villalobos, Plácido</persName>
+               </person>
+            <person xml:id="person__2688" role="behandelte">
+               <persName>Sandoval, Prudencio de</persName>
+               </person>
+            <person xml:id="person__2689" role="behandelte">
+               <persName>Villa, Juan Esteban</persName>
+               </person>
+            <person xml:id="person__2690" role="behandelte">
+               <persName>Anonymus (Autor "Plutarco contra la codicia de las riquezas")</persName>
+               </person>
+            <person xml:id="person__2691" role="behandelte">
+               <persName>Anonymus (Canales)</persName>
+               </person>
+            <person xml:id="person__2692" role="behandelte">
+               <persName>Castel, Antonio</persName>
+               <idno type="gnd">http://d-nb.info/gnd/173799655</idno>
+               </person>
+            <person xml:id="person__2693" role="behandelte">
+               <persName>Lemos, Francisco de</persName>
+               </person>
+            <person xml:id="person__2694" role="behandelte">
+               <persName>Oviedo, Fulgencio de</persName>
+               </person>
+            <person xml:id="person__2695" role="behandelte">
+               <persName>Ruiz, Gaspar</persName>
+               </person>
+            <person xml:id="person__2696" role="behandelte">
+               <persName>Argáiz, Gregorio</persName>
+               <idno type="gnd">http://d-nb.info/gnd/100015026</idno>
+               <idno type="GND">http://d-nb.info/gnd/100015026</idno>
+               </person>
+            <person xml:id="person__2697" role="behandelte">
+               <persName>Briz Martínez, Juan</persName>
+               <idno type="gnd">http://d-nb.info/gnd/137315333</idno>
+               <idno type="GND">http://d-nb.info/gnd/137315333</idno>
+               </person>
+            <person xml:id="person__2699" role="behandelte">
+               <persName>Miranda, Pedro de</persName>
+               </person>
+            </listPerson></abstract><textClass>
             <classCode scheme="RNA">Werke</classCode>
          </textClass>
       </profileDesc>

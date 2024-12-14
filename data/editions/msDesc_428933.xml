@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_428933.xml">
    <teiHeader>
       <fileDesc>
@@ -43,7 +44,57 @@
          </sourceDesc>
       </fileDesc>
       <profileDesc>
-         <textClass>
+         <abstract><listPerson><person xml:id="person__253" role="behandelte">
+               <persName>Chantelou, Claude</persName>
+               <idno type="gnd">http://d-nb.info/gnd/1055271953</idno>
+               </person>
+            <person xml:id="person__261" role="behandelte">
+               <persName>Du Four, Louis Thomas</persName>
+               </person>
+            <person xml:id="person__280" role="behandelte">
+               <persName>Millet, Simon Germain</persName>
+               </person>
+            <person xml:id="person__281" role="behandelte">
+               <persName>Antheaume, Guillaume Anselme</persName>
+               </person>
+            <person xml:id="person__283" role="behandelte">
+               <persName>Quatremaire, Jean Robert</persName>
+               </person>
+            <person xml:id="person__301" role="behandelte">
+               <persName>Viole, Daniel Georges</persName>
+               </person>
+            <person xml:id="person__302" role="behandelte">
+               <persName>Le Febvre, Jean Hilarion</persName>
+               </person>
+            <person xml:id="person__310" role="behandelte">
+               <persName>Ménard, Nicolas Hugues</persName>
+               </person>
+            <person xml:id="person__311" role="behandelte">
+               <persName>Rainssant, Jean Firmin</persName>
+               </person>
+            <person xml:id="person__312" role="behandelte">
+               <persName>Mongin, Athanase de</persName>
+               </person>
+            <person xml:id="person__2569" role="behandelte">
+               <persName>Bénard, Laurent</persName>
+               <idno type="gnd">http://d-nb.info/gnd/13949328X</idno>
+               </person>
+            <person xml:id="person__2570" role="behandelte">
+               <persName>De la Mothe, Raymond Odon</persName>
+               </person>
+            <person xml:id="person__2571" role="behandelte">
+               <persName>Tarisse, Jean Grégoire</persName>
+               </person>
+            <person xml:id="person__2574" role="behandelte">
+               <persName>Le Michel, Anthelme</persName>
+               </person>
+            <person xml:id="person__2575" role="behandelte">
+               <persName>Romagny, Jean Philippe</persName>
+               </person>
+            <person xml:id="person__2576" role="behandelte">
+               <persName>Canteleu, Nicolas</persName>
+               </person>
+            </listPerson></abstract><textClass>
             <classCode scheme="RNA">Sammlungen und Objekte</classCode>
          </textClass>
       </profileDesc>

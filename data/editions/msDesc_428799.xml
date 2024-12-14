@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_428799.xml">
    <teiHeader>
       <fileDesc>
@@ -44,7 +45,45 @@
          </sourceDesc>
       </fileDesc>
       <profileDesc>
-         <textClass>
+         <abstract><listPerson><person xml:id="person__370" role="behandelte">
+               <persName>Eggerer, Leonhard</persName>
+               </person>
+            <person xml:id="person__372" role="behandelte">
+               <persName>Hochmayr, Ulrich</persName>
+               </person>
+            <person xml:id="person__375" role="behandelte">
+               <persName>Ascha, Maurus de</persName>
+               <idno type="gnd">http://d-nb.info/gnd/142719935</idno>
+               <idno type="GND">http://d-nb.info/gnd/142719935</idno>
+               </person>
+            <person xml:id="person__376" role="behandelte">
+               <persName>Christel, Nikolaus</persName>
+               <idno type="gnd">http://d-nb.info/gnd/116508000</idno>
+               </person>
+            <person xml:id="person__377" role="behandelte">
+               <persName>Weiß, Matthäus</persName>
+               </person>
+            <person xml:id="person__379" role="behandelte">
+               <persName>Probst, Cölestin</persName>
+               </person>
+            <person xml:id="person__382" role="behandelte">
+               <persName>Rambeck, Maurus</persName>
+               </person>
+            <person xml:id="person__2550" role="behandelte">
+               <persName>Breitenwieser, Matthias</persName>
+               <idno type="gnd">http://d-nb.info/gnd/133456331</idno>
+               </person>
+            <person xml:id="person__2553" role="behandelte">
+               <persName>Adam von Andechs</persName>
+               </person>
+            <person xml:id="person__2554" role="behandelte">
+               <persName>Calzolaio, Lorenzo</persName>
+               <idno type="gnd">http://d-nb.info/gnd/121952789</idno>
+               </person>
+            <person xml:id="person__2557" role="behandelte">
+               <persName>Jakob, Karl</persName>
+               </person>
+            </listPerson></abstract><textClass>
             <classCode scheme="RNA">Sammlungen und Objekte</classCode>
          </textClass>
       </profileDesc>

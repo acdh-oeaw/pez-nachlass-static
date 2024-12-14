@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_431958.xml">
    <teiHeader>
       <fileDesc>
@@ -44,7 +45,76 @@
          </sourceDesc>
       </fileDesc>
       <profileDesc>
-         <textClass>
+         <abstract><listPerson><person xml:id="person__2871" role="urheber">
+               <persName>Bonneth, Benedikt</persName>
+               </person>
+            <person xml:id="person__2872" role="behandelte">
+               <persName>Simon Magus</persName>
+               </person>
+            <person xml:id="person__2873" role="behandelte">
+               <persName>Cerinthus</persName>
+               </person>
+            <person xml:id="person__2874" role="behandelte">
+               <persName>Basilides aus Alexandria</persName>
+               </person>
+            <person xml:id="person__2875" role="behandelte">
+               <persName>Ebion</persName>
+               </person>
+            <person xml:id="person__2876" role="behandelte">
+               <persName>Nikolaos von Antiochia</persName>
+               </person>
+            <person xml:id="person__2877" role="behandelte">
+               <persName>Karpokrates von Alexandria</persName>
+               </person>
+            <person xml:id="person__2878" role="behandelte">
+               <persName>Cerdo aus Syrien</persName>
+               </person>
+            <person xml:id="person__2879" role="behandelte">
+               <persName>Marcion</persName>
+               </person>
+            <person xml:id="person__2881" role="behandelte">
+               <persName>Clemens von Alexandria</persName>
+               </person>
+            <person xml:id="person__2882" role="behandelte">
+               <persName>Ignatius von Antiochia</persName>
+               </person>
+            <person xml:id="person__2883" role="behandelte">
+               <persName>Polykarp von Smyrna</persName>
+               </person>
+            <person xml:id="person__2884" role="behandelte">
+               <persName>Papias von Hierapolis</persName>
+               </person>
+            <person xml:id="person__2885" role="behandelte">
+               <persName>Vinzenz von Lérins</persName>
+               </person>
+            <person xml:id="person__2886" role="behandelte">
+               <persName>Kyrill von Jerusalem</persName>
+               </person>
+            <person xml:id="person__2887" role="behandelte">
+               <persName>Theophil von Alexandria</persName>
+               </person>
+            <person xml:id="person__2888" role="behandelte">
+               <persName>Tatian</persName>
+               </person>
+            <person xml:id="person__2889" role="behandelte">
+               <persName>Montanus</persName>
+               </person>
+            <person xml:id="person__2890" role="behandelte">
+               <persName>Bardesanes aus Edessa</persName>
+               </person>
+            <person xml:id="person__2891" role="behandelte">
+               <persName>Theodotus von Byzanz</persName>
+               </person>
+            <person xml:id="person__2892" role="behandelte">
+               <persName>Berillus von Bostra</persName>
+               </person>
+            <person xml:id="person__2893" role="behandelte">
+               <persName>Privatus von Lambese</persName>
+               </person>
+            <person xml:id="person__2935" role="behandelte">
+               <persName>Valentinus (Gnostiker)</persName>
+               </person>
+            </listPerson></abstract><textClass>
             <classCode scheme="RNA">Sammlungen und Objekte</classCode>
          </textClass>
       </profileDesc>

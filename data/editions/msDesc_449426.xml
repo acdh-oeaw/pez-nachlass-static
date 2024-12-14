@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_449426.xml">
    <teiHeader>
       <fileDesc>
@@ -228,7 +229,58 @@
          </sourceDesc>
       </fileDesc>
       <profileDesc>
-         <textClass>
+         <abstract><listPerson><person xml:id="person__16" role="urheber">
+               <persName>Pez, Bernhard</persName>
+               </person>
+            <person xml:id="person__19" role="urheber">
+               <persName>Legipont, Oliver</persName>
+               </person>
+            <person xml:id="person__163" role="urheber">
+               <persName>Trithemius, Johannes</persName>
+               </person>
+            <person xml:id="person__1478" role="urheber">
+               <persName>Meyer, Adam</persName>
+               </person>
+            <person xml:id="person__3181" role="urheber">
+               <persName>Benedikt XII.</persName>
+               </person>
+            <person xml:id="person__3182" role="urheber">
+               <persName>Gregor IX.</persName>
+               </person>
+            <person xml:id="person__3183" role="urheber">
+               <persName>Martin V.</persName>
+               </person>
+            <person xml:id="person__3184" role="urheber">
+               <persName>Nordhausen, Gunther</persName>
+               </person>
+            <person xml:id="person__3185" role="urheber">
+               <persName>Clemens X.</persName>
+               </person>
+            <person xml:id="person__3186" role="urheber">
+               <persName>Beringshausen, Theodor von</persName>
+               </person>
+            <person xml:id="person__3187" role="urheber">
+               <persName>Heinrich von Lippe</persName>
+               </person>
+            <person xml:id="person__3188" role="urheber">
+               <persName>Karl von Groß St. Martin zu Köln</persName>
+               </person>
+            <person xml:id="person__3189" role="urheber">
+               <persName>Zunckerstorff, Benedikt</persName>
+               </person>
+            <person xml:id="person__3190" role="urheber">
+               <persName>Maximilian von Burgund</persName>
+               </person>
+            <person xml:id="person__3191" role="urheber">
+               <persName>Philipp von Burgund</persName>
+               </person>
+            <person xml:id="person__3414" role="urheber">
+               <persName>Narus, Gregorius</persName>
+               </person>
+            <person xml:id="person__3415" role="urheber">
+               <persName>Ginetto, Martino</persName>
+               </person>
+            </listPerson></abstract><textClass>
             <classCode scheme="RNA">Werke</classCode>
          </textClass>
       </profileDesc>

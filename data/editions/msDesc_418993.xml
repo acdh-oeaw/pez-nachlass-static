@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_418993.xml">
    <teiHeader>
       <fileDesc>
@@ -44,7 +45,63 @@
          </sourceDesc>
       </fileDesc>
       <profileDesc>
-         <textClass>
+         <abstract><listPerson><person xml:id="person__150" role="behandelte">
+               <persName>Imfeld, Gregor</persName>
+               </person>
+            <person xml:id="person__492" role="behandelte">
+               <persName>Betschart, Ignaz</persName>
+               <idno type="gnd">http://d-nb.info/gnd/1053320434</idno>
+               </person>
+            <person xml:id="person__815" role="urheber">
+               <persName>Mayer, Theodor</persName>
+               </person>
+            <person xml:id="person__876" role="behandelte">
+               <persName>Adalhelm von Engelberg</persName>
+               </person>
+            <person xml:id="person__879" role="behandelte">
+               <persName>Petrus Riga</persName>
+               </person>
+            <person xml:id="person__880" role="behandelte">
+               <persName>Heinrich von Koitingen</persName>
+               </person>
+            <person xml:id="person__881" role="behandelte">
+               <persName>Walter von Châtillon</persName>
+               </person>
+            <person xml:id="person__882" role="behandelte">
+               <persName>"Rudolf von Thurnegg"</persName>
+               </person>
+            <person xml:id="person__883" role="behandelte">
+               <persName>Wüll, Heinrich</persName>
+               </person>
+            <person xml:id="person__884" role="behandelte">
+               <persName>Hartschi von Thun, Christian</persName>
+               </person>
+            <person xml:id="person__885" role="behandelte">
+               <persName>Keller, Maurus</persName>
+               </person>
+            <person xml:id="person__887" role="behandelte">
+               <persName>Leu, Bonaventura</persName>
+               </person>
+            <person xml:id="person__888" role="behandelte">
+               <persName>Zurgilgen, Adalhelm</persName>
+               </person>
+            <person xml:id="person__889" role="behandelte">
+               <persName>Fleischlin, Gregor</persName>
+               <idno type="gnd">http://d-nb.info/gnd/1071544837</idno>
+               </person>
+            <person xml:id="person__890" role="behandelte">
+               <persName>Athanasius von Castanea</persName>
+               </person>
+            <person xml:id="person__1066" role="behandelte">
+               <persName>Hl. Frowin von Engelberg</persName>
+               </person>
+            <person xml:id="person__2783" role="behandelte">
+               <persName>Knittel, Placidus</persName>
+               </person>
+            <person xml:id="person__2917" role="behandelte">
+               <persName>Berthold von Engelberg</persName>
+               </person>
+            </listPerson></abstract><textClass>
             <classCode scheme="RNA">Sammlungen und Objekte</classCode>
          </textClass>
       </profileDesc>

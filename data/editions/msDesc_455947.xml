@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_455947.xml">
    <teiHeader>
       <fileDesc>
@@ -86,7 +87,31 @@
          </sourceDesc>
       </fileDesc>
       <profileDesc>
-         <textClass>
+         <abstract><listPerson><person xml:id="person__128" role="urheber">
+               <persName>Lombard, Célestin</persName>
+               </person>
+            <person xml:id="person__343" role="urheber">
+               <persName>Haimo von Halberstadt</persName>
+               </person>
+            <person xml:id="person__965" role="urheber">
+               <persName>Ekkehard von Aura</persName>
+               </person>
+            <person xml:id="person__1032" role="urheber">
+               <persName>Meginhard von Fulda</persName>
+               </person>
+            <person xml:id="person__1341" role="urheber">
+               <persName>Lannoy, Jacques de</persName>
+               </person>
+            <person xml:id="person__1820" role="urheber">
+               <persName>Remigius von Auxerre</persName>
+               </person>
+            <person xml:id="person__2125" role="urheber">
+               <persName>Lanfrank von Bec</persName>
+               </person>
+            <person xml:id="person__3226" role="urheber">
+               <persName>Raverdy, Jakob</persName>
+               </person>
+            </listPerson></abstract><textClass>
             <classCode scheme="RNA">Sammlungen und Objekte</classCode>
          </textClass>
       </profileDesc>

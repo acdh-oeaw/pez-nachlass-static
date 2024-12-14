@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_423368.xml">
    <teiHeader>
       <fileDesc>
@@ -45,7 +46,65 @@
          </sourceDesc>
       </fileDesc>
       <profileDesc>
-         <textClass>
+         <abstract><listPerson><person xml:id="person__16" role="urheber">
+               <persName>Pez, Bernhard</persName>
+               </person>
+            <person xml:id="person__432" role="behandelte">
+               <persName>Stadlmayr, Alphons</persName>
+               </person>
+            <person xml:id="person__438" role="behandelte">
+               <persName>Magg, Augustin</persName>
+               </person>
+            <person xml:id="person__472" role="behandelte">
+               <persName>Bucelin, Gabriel</persName>
+               <idno type="gnd">http://d-nb.info/gnd/118516493</idno>
+               </person>
+            <person xml:id="person__523" role="behandelte">
+               <persName>Renz, Placidus</persName>
+               </person>
+            <person xml:id="person__1408" role="urheber">
+               <persName>Herderer, Leopold</persName>
+               </person>
+            <person xml:id="person__1409" role="behandelte">
+               <persName>Wegelin, Georg</persName>
+               </person>
+            <person xml:id="person__1410" role="behandelte">
+               <persName>Plaz, Jakob</persName>
+               </person>
+            <person xml:id="person__1411" role="behandelte">
+               <persName>Emhardt, Christoph</persName>
+               </person>
+            <person xml:id="person__1412" role="behandelte">
+               <persName>Hammerer, Christoph</persName>
+               <idno type="gnd">http://d-nb.info/gnd/119698064</idno>
+               <idno type="GND">http://d-nb.info/gnd/119698064</idno>
+               </person>
+            <person xml:id="person__1413" role="behandelte">
+               <persName>Baldung, Maurus</persName>
+               </person>
+            <person xml:id="person__1414" role="behandelte">
+               <persName>Brendlin, Augustin</persName>
+               <idno type="gnd">http://d-nb.info/gnd/1089677235</idno>
+               </person>
+            <person xml:id="person__1415" role="behandelte">
+               <persName>Völker, Matthäus</persName>
+               </person>
+            <person xml:id="person__1417" role="behandelte">
+               <persName>Martini, Leodegar</persName>
+               </person>
+            <person xml:id="person__1418" role="behandelte">
+               <persName>Reding, Gottfried</persName>
+               </person>
+            <person xml:id="person__1419" role="behandelte">
+               <persName>Alzinger, Maurus</persName>
+               </person>
+            <person xml:id="person__1420" role="behandelte">
+               <persName>Höcht, Michael</persName>
+               </person>
+            <person xml:id="person__1421" role="behandelte">
+               <persName>Spiess, Johann</persName>
+               </person>
+            </listPerson></abstract><textClass>
             <classCode scheme="RNA">Sammlungen und Objekte</classCode>
          </textClass>
       </profileDesc>

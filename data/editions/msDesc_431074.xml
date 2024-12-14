@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_431074.xml">
    <teiHeader>
       <fileDesc>
@@ -161,7 +162,1172 @@
          </sourceDesc>
       </fileDesc>
       <profileDesc>
-         <textClass>
+         <abstract><listPerson><person xml:id="person__16" role="urheber">
+               <persName>Pez, Bernhard</persName>
+               </person>
+            <person xml:id="person__17" role="behandelte">
+               <persName>Pez, Hieronymus</persName>
+               </person>
+            <person xml:id="person__30" role="behandelte">
+               <persName>Müller, Moritz</persName>
+               </person>
+            <person xml:id="person__49" role="behandelte">
+               <persName>Meichelbeck, Karl</persName>
+               </person>
+            <person xml:id="person__51" role="behandelte">
+               <persName>Oberascher, Maurus</persName>
+               </person>
+            <person xml:id="person__58" role="behandelte">
+               <persName>Caramuel y Lobkowitz, Juan</persName>
+               </person>
+            <person xml:id="person__92" role="behandelte">
+               <persName>Stöcklin, Augustin</persName>
+               </person>
+            <person xml:id="person__93" role="behandelte">
+               <persName>Tschudi, Dominik</persName>
+               </person>
+            <person xml:id="person__94" role="behandelte">
+               <persName>Zurlauben, Placidus</persName>
+               </person>
+            <person xml:id="person__95" role="behandelte">
+               <persName>Brunner, Martin</persName>
+               </person>
+            <person xml:id="person__96" role="behandelte">
+               <persName>Weißenbach, Anselm</persName>
+               </person>
+            <person xml:id="person__130" role="behandelte">
+               <persName>Hausdorf, Rupert</persName>
+               </person>
+            <person xml:id="person__142" role="behandelte">
+               <persName>Hemm, Johann Baptist</persName>
+               </person>
+            <person xml:id="person__149" role="behandelte">
+               <persName>Spies, Benedikt</persName>
+               </person>
+            <person xml:id="person__152" role="behandelte">
+               <persName>Fischer, Anselm</persName>
+               <idno type="gnd">http://d-nb.info/gnd/130136557</idno>
+               <idno type="GND">http://d-nb.info/gnd/130136557</idno>
+               </person>
+            <person xml:id="person__153" role="behandelte">
+               <persName>Krez, Albert</persName>
+               </person>
+            <person xml:id="person__154" role="behandelte">
+               <persName>Egger, Felix</persName>
+               <idno type="gnd">http://d-nb.info/gnd/100120296</idno>
+               </person>
+            <person xml:id="person__345" role="behandelte">
+               <persName>Aicher, Otto</persName>
+               <idno type="gnd">http://d-nb.info/gnd/124578225</idno>
+               <idno type="GND">http://d-nb.info/gnd/124578225</idno>
+               </person>
+            <person xml:id="person__346" role="behandelte">
+               <persName>Steinbacher, Placidus</persName>
+               </person>
+            <person xml:id="person__347" role="behandelte">
+               <persName>Mezger, Paul</persName>
+               </person>
+            <person xml:id="person__376" role="behandelte">
+               <persName>Christel, Nikolaus</persName>
+               <idno type="gnd">http://d-nb.info/gnd/116508000</idno>
+               </person>
+            <person xml:id="person__377" role="behandelte">
+               <persName>Weiß, Matthäus</persName>
+               </person>
+            <person xml:id="person__378" role="behandelte">
+               <persName>Jacobi, Karl</persName>
+               </person>
+            <person xml:id="person__379" role="behandelte">
+               <persName>Probst, Cölestin</persName>
+               </person>
+            <person xml:id="person__380" role="behandelte">
+               <persName>Kibler, Ägydius</persName>
+               </person>
+            <person xml:id="person__381" role="behandelte">
+               <persName>Staudigl, Ulrich</persName>
+               </person>
+            <person xml:id="person__382" role="behandelte">
+               <persName>Rambeck, Maurus</persName>
+               </person>
+            <person xml:id="person__383" role="behandelte">
+               <persName>Kolberer, Kajetan</persName>
+               </person>
+            <person xml:id="person__397" role="behandelte">
+               <persName>Stengel, Karl</persName>
+               </person>
+            <person xml:id="person__400" role="behandelte">
+               <persName>Sfondrati, Coelestin</persName>
+               </person>
+            <person xml:id="person__405" role="behandelte">
+               <persName>Corner, David Gregor</persName>
+               <idno type="gnd">http://d-nb.info/gnd/104242450</idno>
+               </person>
+            <person xml:id="person__406" role="behandelte">
+               <persName>Vogl, Cölestin</persName>
+               </person>
+            <person xml:id="person__419" role="behandelte">
+               <persName>Hellbock, Placidus</persName>
+               </person>
+            <person xml:id="person__424" role="behandelte">
+               <persName>Rambeck, Ägydius</persName>
+               </person>
+            <person xml:id="person__425" role="behandelte">
+               <persName>Sulger, Arsenius</persName>
+               </person>
+            <person xml:id="person__426" role="behandelte">
+               <persName>Pfeiffer, Alanus</persName>
+               </person>
+            <person xml:id="person__431" role="behandelte">
+               <persName>Stroz, Anton</persName>
+               </person>
+            <person xml:id="person__432" role="behandelte">
+               <persName>Stadlmayr, Alphons</persName>
+               </person>
+            <person xml:id="person__433" role="behandelte">
+               <persName>Schreitter, Anastasius</persName>
+               </person>
+            <person xml:id="person__434" role="behandelte">
+               <persName>Gugger, Athanasius</persName>
+               <idno type="gnd">http://d-nb.info/gnd/1013261550</idno>
+               <idno type="GND">http://d-nb.info/gnd/1013261550</idno>
+               </person>
+            <person xml:id="person__435" role="behandelte">
+               <persName>Bisling, Anselm</persName>
+               <idno type="gnd">http://d-nb.info/gnd/11538085X</idno>
+               </person>
+            <person xml:id="person__437" role="behandelte">
+               <persName>Reding, Augustin</persName>
+               </person>
+            <person xml:id="person__438" role="behandelte">
+               <persName>Magg, Augustin</persName>
+               </person>
+            <person xml:id="person__444" role="behandelte">
+               <persName>Finkeneis, Basil</persName>
+               </person>
+            <person xml:id="person__446" role="behandelte">
+               <persName>Pettschacher, Benedikt</persName>
+               </person>
+            <person xml:id="person__447" role="behandelte">
+               <persName>Cherle, Benedikt</persName>
+               <idno type="gnd">http://d-nb.info/gnd/120438534</idno>
+               <idno type="GND">http://d-nb.info/gnd/120438534</idno>
+               </person>
+            <person xml:id="person__448" role="behandelte">
+               <persName>Schmier, Franz</persName>
+               </person>
+            <person xml:id="person__451" role="behandelte">
+               <persName>Hunger, Konrad</persName>
+               </person>
+            <person xml:id="person__454" role="behandelte">
+               <persName>Schulthais, Karl</persName>
+               </person>
+            <person xml:id="person__458" role="behandelte">
+               <persName>Giel von Gielsperg, Christoph</persName>
+               <idno type="gnd">http://d-nb.info/gnd/139721177</idno>
+               </person>
+            <person xml:id="person__460" role="behandelte">
+               <persName>Wanner, Konrad</persName>
+               </person>
+            <person xml:id="person__461" role="behandelte">
+               <persName>Khamm, Korbinian</persName>
+               </person>
+            <person xml:id="person__462" role="behandelte">
+               <persName>Cherle, Korbinian</persName>
+               </person>
+            <person xml:id="person__465" role="behandelte">
+               <persName>Schapperger, Desiderius</persName>
+               </person>
+            <person xml:id="person__466" role="behandelte">
+               <persName>Manincor de Cassez, Edmund</persName>
+               </person>
+            <person xml:id="person__467" role="behandelte">
+               <persName>Egg, Edmund</persName>
+               <idno type="gnd">http://d-nb.info/gnd/128721367</idno>
+               </person>
+            <person xml:id="person__468" role="behandelte">
+               <persName>Plöchinger, Franz</persName>
+               </person>
+            <person xml:id="person__469" role="behandelte">
+               <persName>Mezger, Franz</persName>
+               </person>
+            <person xml:id="person__470" role="behandelte">
+               <persName>Gaisser, Georg III.</persName>
+               </person>
+            <person xml:id="person__471" role="behandelte">
+               <persName>Dietl, Gregor</persName>
+               <idno type="gnd">http://d-nb.info/gnd/129807834</idno>
+               </person>
+            <person xml:id="person__472" role="behandelte">
+               <persName>Bucelin, Gabriel</persName>
+               <idno type="gnd">http://d-nb.info/gnd/118516493</idno>
+               </person>
+            <person xml:id="person__473" role="behandelte">
+               <persName>Vischl, Gotthard</persName>
+               </person>
+            <person xml:id="person__476" role="behandelte">
+               <persName>Settelin, Hermann</persName>
+               </person>
+            <person xml:id="person__477" role="behandelte">
+               <persName>Aigner, Honorius</persName>
+               <idno type="gnd">http://d-nb.info/gnd/100981771</idno>
+               <idno type="GND">http://d-nb.info/gnd/100981771</idno>
+               </person>
+            <person xml:id="person__479" role="behandelte">
+               <persName>Jung, Hieronymus</persName>
+               </person>
+            <person xml:id="person__480" role="behandelte">
+               <persName>Schenck, Hermann</persName>
+               </person>
+            <person xml:id="person__482" role="behandelte">
+               <persName>Seiler, Joachim</persName>
+               </person>
+            <person xml:id="person__486" role="behandelte">
+               <persName>Drescher, Joseph</persName>
+               <idno type="gnd">http://d-nb.info/gnd/139526676</idno>
+               </person>
+            <person xml:id="person__487" role="behandelte">
+               <persName>Trauner, Ignaz</persName>
+               </person>
+            <person xml:id="person__489" role="behandelte">
+               <persName>Mezger, Joseph</persName>
+               </person>
+            <person xml:id="person__491" role="behandelte">
+               <persName>Morsack, Joachim</persName>
+               </person>
+            <person xml:id="person__492" role="behandelte">
+               <persName>Betschart, Ignaz</persName>
+               <idno type="gnd">http://d-nb.info/gnd/1053320434</idno>
+               </person>
+            <person xml:id="person__493" role="behandelte">
+               <persName>Catan, Lambert</persName>
+               <idno type="gnd">http://d-nb.info/gnd/159848210</idno>
+               </person>
+            <person xml:id="person__495" role="behandelte">
+               <persName>Babenstuber, Ludwig</persName>
+               <idno type="gnd">http://d-nb.info/gnd/122883268</idno>
+               </person>
+            <person xml:id="person__498" role="behandelte">
+               <persName>Schott, Marian</persName>
+               </person>
+            <person xml:id="person__499" role="behandelte">
+               <persName>Lendlmayr, Marian</persName>
+               </person>
+            <person xml:id="person__500" role="behandelte">
+               <persName>Lichtenhaimb, Maurus</persName>
+               </person>
+            <person xml:id="person__502" role="behandelte">
+               <persName>Stempfle, Martin</persName>
+               </person>
+            <person xml:id="person__503" role="behandelte">
+               <persName>Agricola, Magnus</persName>
+               <idno type="gnd">http://d-nb.info/gnd/118064851</idno>
+               <idno type="GND">http://d-nb.info/gnd/118064851</idno>
+               </person>
+            <person xml:id="person__508" role="behandelte">
+               <persName>Heuchlinger, Meinrad</persName>
+               </person>
+            <person xml:id="person__509" role="behandelte">
+               <persName>Steinegger, Meinrad</persName>
+               </person>
+            <person xml:id="person__510" role="behandelte">
+               <persName>Geiger, Moritz</persName>
+               </person>
+            <person xml:id="person__511" role="behandelte">
+               <persName>Rassler, Marian</persName>
+               </person>
+            <person xml:id="person__513" role="behandelte">
+               <persName>Neumann, Odilo</persName>
+               </person>
+            <person xml:id="person__514" role="behandelte">
+               <persName>Urtlauff, Placidus</persName>
+               </person>
+            <person xml:id="person__515" role="behandelte">
+               <persName>Spiess, Placidus</persName>
+               </person>
+            <person xml:id="person__516" role="behandelte">
+               <persName>Schütz, Pontian</persName>
+               </person>
+            <person xml:id="person__520" role="behandelte">
+               <persName>Betschart, Paul</persName>
+               <idno type="gnd">http://d-nb.info/gnd/100038700</idno>
+               </person>
+            <person xml:id="person__523" role="behandelte">
+               <persName>Renz, Placidus</persName>
+               </person>
+            <person xml:id="person__524" role="behandelte">
+               <persName>Hay, Roman</persName>
+               </person>
+            <person xml:id="person__525" role="behandelte">
+               <persName>Gansler, Rupert</persName>
+               <idno type="gnd">http://d-nb.info/gnd/129750859</idno>
+               </person>
+            <person xml:id="person__526" role="behandelte">
+               <persName>Ludwig, Rupert</persName>
+               </person>
+            <person xml:id="person__528" role="behandelte">
+               <persName>König, Robert</persName>
+               </person>
+            <person xml:id="person__530" role="behandelte">
+               <persName>Vischer, Sympert</persName>
+               </person>
+            <person xml:id="person__531" role="behandelte">
+               <persName>Huebmann, Simon</persName>
+               </person>
+            <person xml:id="person__533" role="behandelte">
+               <persName>Rettenbacher, Simon</persName>
+               </person>
+            <person xml:id="person__535" role="behandelte">
+               <persName>Textor, Sebastian</persName>
+               </person>
+            <person xml:id="person__536" role="behandelte">
+               <persName>Fürbas, Simon</persName>
+               </person>
+            <person xml:id="person__540" role="behandelte">
+               <persName>Metzler, Thomas</persName>
+               </person>
+            <person xml:id="person__542" role="behandelte">
+               <persName>Rottenheusler, Ulrich</persName>
+               </person>
+            <person xml:id="person__543" role="behandelte">
+               <persName>Lendlin, Willibald</persName>
+               </person>
+            <person xml:id="person__544" role="behandelte">
+               <persName>Schmidt, Wolfgang</persName>
+               </person>
+            <person xml:id="person__545" role="behandelte">
+               <persName>Weishaupt, Wolfgang</persName>
+               </person>
+            <person xml:id="person__546" role="behandelte">
+               <persName>Pfau, Yso</persName>
+               </person>
+            <person xml:id="person__595" role="behandelte">
+               <persName>Wasner, Johannes Christoph Victor</persName>
+               </person>
+            <person xml:id="person__599" role="behandelte">
+               <persName>Rebiser, Simon</persName>
+               </person>
+            <person xml:id="person__605" role="behandelte">
+               <persName>Mennichen, Placidus Georg</persName>
+               </person>
+            <person xml:id="person__674" role="behandelte">
+               <persName>Witzenberger, Zacharias</persName>
+               </person>
+            <person xml:id="person__691" role="behandelte">
+               <persName>Ruben, Leonhard</persName>
+               </person>
+            <person xml:id="person__721" role="behandelte">
+               <persName>Heinlein, Heinrich</persName>
+               </person>
+            <person xml:id="person__759" role="behandelte">
+               <persName>Reichart, Albert</persName>
+               </person>
+            <person xml:id="person__783" role="behandelte">
+               <persName>Kolb, Honorat</persName>
+               </person>
+            <person xml:id="person__784" role="behandelte">
+               <persName>Müller, Roman</persName>
+               </person>
+            <person xml:id="person__785" role="behandelte">
+               <persName>Werlin, Johann</persName>
+               </person>
+            <person xml:id="person__787" role="behandelte">
+               <persName>Ruedorffer, Bernhard</persName>
+               </person>
+            <person xml:id="person__789" role="behandelte">
+               <persName>Baumgartner, Emmeram</persName>
+               </person>
+            <person xml:id="person__830" role="behandelte">
+               <persName>Abelzhauser, Benedikt</persName>
+               <idno type="gnd">http://d-nb.info/gnd/129728527</idno>
+               <idno type="GND">http://d-nb.info/gnd/129728527</idno>
+               </person>
+            <person xml:id="person__837" role="behandelte">
+               <persName>Desax, Joseph</persName>
+               </person>
+            <person xml:id="person__838" role="behandelte">
+               <persName>Medell, Adalbert de</persName>
+               </person>
+            <person xml:id="person__839" role="behandelte">
+               <persName>Cathrin, Maurus</persName>
+               </person>
+            <person xml:id="person__885" role="behandelte">
+               <persName>Keller, Maurus</persName>
+               </person>
+            <person xml:id="person__888" role="behandelte">
+               <persName>Zurgilgen, Adalhelm</persName>
+               </person>
+            <person xml:id="person__889" role="behandelte">
+               <persName>Fleischlin, Gregor</persName>
+               <idno type="gnd">http://d-nb.info/gnd/1071544837</idno>
+               </person>
+            <person xml:id="person__893" role="behandelte">
+               <persName>Kempens, Gottfried</persName>
+               </person>
+            <person xml:id="person__894" role="behandelte">
+               <persName>Sybenius, Petrus</persName>
+               </person>
+            <person xml:id="person__895" role="behandelte">
+               <persName>Charmans, Bruno</persName>
+               <idno type="gnd">http://d-nb.info/gnd/132912899</idno>
+               <idno type="GND">http://d-nb.info/gnd/103130942</idno>
+               </person>
+            <person xml:id="person__896" role="behandelte">
+               <persName>Dript, Laurenz van</persName>
+               </person>
+            <person xml:id="person__897" role="behandelte">
+               <persName>Nakatenus, Eberhard</persName>
+               </person>
+            <person xml:id="person__899" role="behandelte">
+               <persName>Franz, Christian</persName>
+               </person>
+            <person xml:id="person__902" role="behandelte">
+               <persName>Sandholzer, Gallus</persName>
+               </person>
+            <person xml:id="person__903" role="behandelte">
+               <persName>Reubi, Gregor</persName>
+               </person>
+            <person xml:id="person__904" role="behandelte">
+               <persName>Molitor, Jakob</persName>
+               </person>
+            <person xml:id="person__905" role="behandelte">
+               <persName>Rhöer, Sebastian</persName>
+               </person>
+            <person xml:id="person__926" role="behandelte">
+               <persName>Guetrather, Petrus</persName>
+               <idno type="gnd">http://d-nb.info/gnd/124806821</idno>
+               </person>
+            <person xml:id="person__985" role="behandelte">
+               <persName>Engelbert von Admont</persName>
+               </person>
+            <person xml:id="person__1068" role="behandelte">
+               <persName>Koffer, Beringer</persName>
+               </person>
+            <person xml:id="person__1069" role="behandelte">
+               <persName>Homburger, Othmar</persName>
+               </person>
+            <person xml:id="person__1070" role="behandelte">
+               <persName>Rauber, Placidus</persName>
+               </person>
+            <person xml:id="person__1071" role="behandelte">
+               <persName>Gebel, Benedikt</persName>
+               <idno type="gnd">http://d-nb.info/gnd/139754261</idno>
+               <idno type="GND">http://d-nb.info/gnd/101097549</idno>
+               </person>
+            <person xml:id="person__1072" role="behandelte">
+               <persName>Eiselin, Johann Baptist</persName>
+               <idno type="gnd">http://d-nb.info/gnd/1017628874</idno>
+               </person>
+            <person xml:id="person__1073" role="behandelte">
+               <persName>Steigentesch, Meinrad</persName>
+               </person>
+            <person xml:id="person__1074" role="behandelte">
+               <persName>Wex, Johann Chrysostomus</persName>
+               </person>
+            <person xml:id="person__1075" role="behandelte">
+               <persName>Sedelmayr, Roman</persName>
+               </person>
+            <person xml:id="person__1128" role="behandelte">
+               <persName>Mayr, Cölestin</persName>
+               </person>
+            <person xml:id="person__1177" role="behandelte">
+               <persName>Kimpfler, Gregor</persName>
+               </person>
+            <person xml:id="person__1178" role="behandelte">
+               <persName>Keuslin, Albert</persName>
+               </person>
+            <person xml:id="person__1179" role="behandelte">
+               <persName>Pestaluz, Cölestin</persName>
+               </person>
+            <person xml:id="person__1180" role="behandelte">
+               <persName>Schwab, Marian</persName>
+               </person>
+            <person xml:id="person__1181" role="behandelte">
+               <persName>Rucker, Ildephons</persName>
+               </person>
+            <person xml:id="person__1182" role="behandelte">
+               <persName>Pachler, Amand</persName>
+               </person>
+            <person xml:id="person__1183" role="behandelte">
+               <persName>Weixer, Melchior</persName>
+               </person>
+            <person xml:id="person__1184" role="behandelte">
+               <persName>Ringmayr, Thomas</persName>
+               </person>
+            <person xml:id="person__1185" role="behandelte">
+               <persName>Utz, Philibert</persName>
+               </person>
+            <person xml:id="person__1186" role="behandelte">
+               <persName>Pley, Cölestin</persName>
+               </person>
+            <person xml:id="person__1188" role="behandelte">
+               <persName>Schlager, Anselm</persName>
+               </person>
+            <person xml:id="person__1194" role="behandelte">
+               <persName>Sanuis, Maximilian</persName>
+               </person>
+            <person xml:id="person__1195" role="behandelte">
+               <persName>Wimberger, Gregor</persName>
+               </person>
+            <person xml:id="person__1196" role="behandelte">
+               <persName>Weiß, Thomas</persName>
+               </person>
+            <person xml:id="person__1198" role="behandelte">
+               <persName>Wenzl, Alphons</persName>
+               </person>
+            <person xml:id="person__1200" role="behandelte">
+               <persName>Heller, Gregor</persName>
+               </person>
+            <person xml:id="person__1201" role="behandelte">
+               <persName>Schrenck auf Notzing, Karl</persName>
+               </person>
+            <person xml:id="person__1209" role="behandelte">
+               <persName>Rauscher, Roman</persName>
+               </person>
+            <person xml:id="person__1210" role="behandelte">
+               <persName>Stöger, Roman</persName>
+               </person>
+            <person xml:id="person__1211" role="behandelte">
+               <persName>Pfeffer, Felix</persName>
+               </person>
+            <person xml:id="person__1214" role="behandelte">
+               <persName>Eisenberner, Amand</persName>
+               </person>
+            <person xml:id="person__1216" role="behandelte">
+               <persName>Dörring, Christoph</persName>
+               <idno type="gnd">http://d-nb.info/gnd/12976454X</idno>
+               </person>
+            <person xml:id="person__1217" role="behandelte">
+               <persName>Christmann, Roman</persName>
+               <idno type="gnd">http://d-nb.info/gnd/102869251</idno>
+               </person>
+            <person xml:id="person__1218" role="behandelte">
+               <persName>Duret, Quentin</persName>
+               </person>
+            <person xml:id="person__1225" role="behandelte">
+               <persName>Litisch, Otto</persName>
+               </person>
+            <person xml:id="person__1227" role="behandelte">
+               <persName>Wiser, Rudolph</persName>
+               </person>
+            <person xml:id="person__1315" role="behandelte">
+               <persName>Honn (Oeding), Wilhelm</persName>
+               </person>
+            <person xml:id="person__1316" role="behandelte">
+               <persName>Mesenich, Anton</persName>
+               </person>
+            <person xml:id="person__1317" role="behandelte">
+               <persName>Krodt, Anselm</persName>
+               </person>
+            <person xml:id="person__1318" role="behandelte">
+               <persName>Overham, Adolph</persName>
+               </person>
+            <person xml:id="person__1380" role="behandelte">
+               <persName>Reitberger, Stephan</persName>
+               </person>
+            <person xml:id="person__1409" role="behandelte">
+               <persName>Wegelin, Georg</persName>
+               </person>
+            <person xml:id="person__1410" role="behandelte">
+               <persName>Plaz, Jakob</persName>
+               </person>
+            <person xml:id="person__1412" role="behandelte">
+               <persName>Hammerer, Christoph</persName>
+               <idno type="gnd">http://d-nb.info/gnd/119698064</idno>
+               <idno type="GND">http://d-nb.info/gnd/119698064</idno>
+               </person>
+            <person xml:id="person__1414" role="behandelte">
+               <persName>Brendlin, Augustin</persName>
+               <idno type="gnd">http://d-nb.info/gnd/1089677235</idno>
+               </person>
+            <person xml:id="person__1415" role="behandelte">
+               <persName>Völker, Matthäus</persName>
+               </person>
+            <person xml:id="person__1417" role="behandelte">
+               <persName>Martini, Leodegar</persName>
+               </person>
+            <person xml:id="person__1418" role="behandelte">
+               <persName>Reding, Gottfried</persName>
+               </person>
+            <person xml:id="person__1419" role="behandelte">
+               <persName>Alzinger, Maurus</persName>
+               </person>
+            <person xml:id="person__1420" role="behandelte">
+               <persName>Höcht, Michael</persName>
+               </person>
+            <person xml:id="person__1421" role="behandelte">
+               <persName>Spiess, Johann</persName>
+               </person>
+            <person xml:id="person__1432" role="behandelte">
+               <persName>Umbhofer, Kaspar</persName>
+               </person>
+            <person xml:id="person__1481" role="behandelte">
+               <persName>Turner, Cölestin</persName>
+               </person>
+            <person xml:id="person__1483" role="behandelte">
+               <persName>Ebberth, Johannes Baptist</persName>
+               <idno type="gnd">http://d-nb.info/gnd/12250397X</idno>
+               </person>
+            <person xml:id="person__1484" role="behandelte">
+               <persName>Faber, Virgil</persName>
+               <idno type="gnd">http://d-nb.info/gnd/101083009</idno>
+               </person>
+            <person xml:id="person__1485" role="behandelte">
+               <persName>Wenger, Maurus</persName>
+               </person>
+            <person xml:id="person__1486" role="behandelte">
+               <persName>Behamstein, Benedikt</persName>
+               <idno type="gnd">http://d-nb.info/gnd/122479351</idno>
+               </person>
+            <person xml:id="person__1487" role="behandelte">
+               <persName>Freudenpichl, Ambros</persName>
+               </person>
+            <person xml:id="person__1488" role="behandelte">
+               <persName>Kirchmayr, Seraphin</persName>
+               </person>
+            <person xml:id="person__1490" role="behandelte">
+               <persName>Schwarz, Adalrich</persName>
+               </person>
+            <person xml:id="person__1495" role="behandelte">
+               <persName>Rinswerger, Wolfgang</persName>
+               </person>
+            <person xml:id="person__1496" role="behandelte">
+               <persName>Indersdorfer, Joseph</persName>
+               </person>
+            <person xml:id="person__1497" role="behandelte">
+               <persName>Reittmair, Cölestin</persName>
+               </person>
+            <person xml:id="person__1498" role="behandelte">
+               <persName>Hardter, Heinrich</persName>
+               <idno type="gnd">http://d-nb.info/gnd/101057768</idno>
+               </person>
+            <person xml:id="person__1500" role="behandelte">
+               <persName>Kobolt, Felician</persName>
+               </person>
+            <person xml:id="person__1501" role="behandelte">
+               <persName>Schallhammer, Bernhard</persName>
+               </person>
+            <person xml:id="person__1503" role="behandelte">
+               <persName>Schallhammer, Paul</persName>
+               </person>
+            <person xml:id="person__1504" role="behandelte">
+               <persName>Rayser, Amand</persName>
+               </person>
+            <person xml:id="person__1505" role="behandelte">
+               <persName>Junghans, Korbinian</persName>
+               </person>
+            <person xml:id="person__1507" role="behandelte">
+               <persName>Ambling, Anselm</persName>
+               <idno type="gnd">http://d-nb.info/gnd/128755849</idno>
+               <idno type="GND">http://d-nb.info/gnd/128755849</idno>
+               </person>
+            <person xml:id="person__1510" role="behandelte">
+               <persName>Waibl (Waibel), Bernhard</persName>
+               </person>
+            <person xml:id="person__1512" role="behandelte">
+               <persName>Halmschmidt, Kilian</persName>
+               <idno type="gnd">http://d-nb.info/gnd/124875165</idno>
+               </person>
+            <person xml:id="person__1514" role="behandelte">
+               <persName>Cäsar, Dominik</persName>
+               </person>
+            <person xml:id="person__1515" role="behandelte">
+               <persName>Brandstetter, Gerhard</persName>
+               </person>
+            <person xml:id="person__1516" role="behandelte">
+               <persName>Behm, Gottfried</persName>
+               <idno type="gnd">http://d-nb.info/gnd/129577790</idno>
+               <idno type="GND">http://d-nb.info/gnd/1089399871</idno>
+               </person>
+            <person xml:id="person__1520" role="behandelte">
+               <persName>Rechling, Raimund</persName>
+               </person>
+            <person xml:id="person__1523" role="behandelte">
+               <persName>Freyberger, Ulrich</persName>
+               <idno type="gnd">http://d-nb.info/gnd/130560014</idno>
+               <idno type="GND">http://d-nb.info/gnd/130560014</idno>
+               </person>
+            <person xml:id="person__1547" role="behandelte">
+               <persName>Waffenschmid, Adam</persName>
+               </person>
+            <person xml:id="person__1548" role="behandelte">
+               <persName>Nöth, Heinrich</persName>
+               </person>
+            <person xml:id="person__1549" role="behandelte">
+               <persName>Ziegler, Sebastian</persName>
+               </person>
+            <person xml:id="person__1555" role="behandelte">
+               <persName>Naisl, Ämilian</persName>
+               </person>
+            <person xml:id="person__1566" role="behandelte">
+               <persName>Baron, Maurus</persName>
+               <idno type="gnd">http://d-nb.info/gnd/1071364588</idno>
+               </person>
+            <person xml:id="person__2623" role="behandelte">
+               <persName>Rassler, Christoph</persName>
+               </person>
+            <person xml:id="person__2624" role="behandelte">
+               <persName>Stockhammer, Quirin Anton</persName>
+               </person>
+            <person xml:id="person__2625" role="behandelte">
+               <persName>Widl, Benedikt</persName>
+               </person>
+            <person xml:id="person__2626" role="behandelte">
+               <persName>Romoser, Cölestin</persName>
+               </person>
+            <person xml:id="person__2631" role="behandelte">
+               <persName>Taller, Placidus</persName>
+               </person>
+            <person xml:id="person__2633" role="behandelte">
+               <persName>Gräz, Korbinian</persName>
+               <idno type="gnd">http://d-nb.info/gnd/100157009</idno>
+               </person>
+            <person xml:id="person__2642" role="behandelte">
+               <persName>Körzinger, Augustin</persName>
+               </person>
+            <person xml:id="person__2643" role="behandelte">
+               <persName>Sengmiller, Edmund</persName>
+               </person>
+            <person xml:id="person__2644" role="behandelte">
+               <persName>Weichlein, Roman</persName>
+               </person>
+            <person xml:id="person__2645" role="behandelte">
+               <persName>Gletle, Johannes Baptist</persName>
+               <idno type="gnd">http://d-nb.info/gnd/103894993</idno>
+               </person>
+            <person xml:id="person__2646" role="behandelte">
+               <persName>Turner, Albert</persName>
+               </person>
+            <person xml:id="person__2647" role="behandelte">
+               <persName>Schopf, Meinrad</persName>
+               </person>
+            <person xml:id="person__2648" role="behandelte">
+               <persName>Bernhard von Garsten</persName>
+               </person>
+            <person xml:id="person__2649" role="behandelte">
+               <persName>Freidl, Maximilian</persName>
+               </person>
+            <person xml:id="person__2650" role="behandelte">
+               <persName>Langpartner, Rupert</persName>
+               </person>
+            <person xml:id="person__2720" role="behandelte">
+               <persName>"Anselmus Bonifatius"</persName>
+               </person>
+            <person xml:id="person__2721" role="behandelte">
+               <persName>Schiring, Anselm</persName>
+               </person>
+            <person xml:id="person__2722" role="behandelte">
+               <persName>Banduri, Anselmo Maria</persName>
+               <idno type="gnd">http://d-nb.info/gnd/123937604</idno>
+               <idno type="GND">http://d-nb.info/gnd/123937604</idno>
+               </person>
+            <person xml:id="person__2723" role="behandelte">
+               <persName>Barth, Laurenz</persName>
+               </person>
+            <person xml:id="person__2724" role="behandelte">
+               <persName>Baumgartner, Albert</persName>
+               <idno type="gnd">http://d-nb.info/gnd/1033965022</idno>
+               </person>
+            <person xml:id="person__2726" role="behandelte">
+               <persName>Gerhard, Benedikt</persName>
+               <idno type="gnd">http://d-nb.info/gnd/121139050</idno>
+               </person>
+            <person xml:id="person__2727" role="behandelte">
+               <persName>Sigerist, Benedikt</persName>
+               </person>
+            <person xml:id="person__2728" role="behandelte">
+               <persName>Keller, Benedikt</persName>
+               </person>
+            <person xml:id="person__2729" role="behandelte">
+               <persName>Berka von Duba und Lippa, Ladislaus</persName>
+               </person>
+            <person xml:id="person__2730" role="behandelte">
+               <persName>Biechler, Aemilian</persName>
+               <idno type="gnd">http://d-nb.info/gnd/100041930</idno>
+               </person>
+            <person xml:id="person__2731" role="behandelte">
+               <persName>Bochenthaler, Stephan</persName>
+               </person>
+            <person xml:id="person__2732" role="behandelte">
+               <persName>Bottbachius, Paul</persName>
+               <idno type="gnd">http://d-nb.info/gnd/123690684</idno>
+               </person>
+            <person xml:id="person__2733" role="behandelte">
+               <persName>Cambero, Diego de</persName>
+               </person>
+            <person xml:id="person__2734" role="behandelte">
+               <persName>Cajetan, Constantin</persName>
+               <idno type="gnd">http://d-nb.info/gnd/129207071</idno>
+               </person>
+            <person xml:id="person__2735" role="behandelte">
+               <persName>Castillo-Calderón, Franco</persName>
+               </person>
+            <person xml:id="person__2736" role="behandelte">
+               <persName>Zeller, Johannes</persName>
+               </person>
+            <person xml:id="person__2738" role="behandelte">
+               <persName>Clavenau, Ignaz</persName>
+               <idno type="gnd">http://d-nb.info/gnd/135719925</idno>
+               </person>
+            <person xml:id="person__2739" role="behandelte">
+               <persName>Kronenfeld, Johann Wenzel Cölestin von</persName>
+               </person>
+            <person xml:id="person__2740" role="behandelte">
+               <persName>Desurtins, Karl</persName>
+               </person>
+            <person xml:id="person__2741" role="behandelte">
+               <persName>Dallinger, Sigismund</persName>
+               </person>
+            <person xml:id="person__2742" role="behandelte">
+               <persName>Dietrich, Augustin</persName>
+               </person>
+            <person xml:id="person__2743" role="behandelte">
+               <persName>Egon, Johannes</persName>
+               <idno type="gnd">http://d-nb.info/gnd/1034798588</idno>
+               </person>
+            <person xml:id="person__2744" role="behandelte">
+               <persName>Einhart, Christoph</persName>
+               </person>
+            <person xml:id="person__2745" role="behandelte">
+               <persName>Engel, Ludwig</persName>
+               <idno type="gnd">http://d-nb.info/gnd/121032299</idno>
+               <idno type="GND">http://d-nb.info/gnd/121032299</idno>
+               </person>
+            <person xml:id="person__2746" role="behandelte">
+               <persName>Feinhals, Albin</persName>
+               <idno type="gnd">http://d-nb.info/gnd/1052512186</idno>
+               <idno type="GND">http://d-nb.info/gnd/101045549</idno>
+               </person>
+            <person xml:id="person__2747" role="behandelte">
+               <persName>Fischer, Dominik</persName>
+               </person>
+            <person xml:id="person__2749" role="behandelte">
+               <persName>Freud, Gotthard</persName>
+               </person>
+            <person xml:id="person__2750" role="behandelte">
+               <persName>Frühwirth, Anselm</persName>
+               </person>
+            <person xml:id="person__2751" role="behandelte">
+               <persName>Fuchs, Gregor</persName>
+               <idno type="gnd">http://d-nb.info/gnd/118928813</idno>
+               <idno type="GND">http://d-nb.info/gnd/118928813</idno>
+               </person>
+            <person xml:id="person__2752" role="behandelte">
+               <persName>Gallner, Otto</persName>
+               </person>
+            <person xml:id="person__2753" role="behandelte">
+               <persName>Heinrich (OSB Neresheim)</persName>
+               </person>
+            <person xml:id="person__2754" role="behandelte">
+               <persName>Gazinger, Otto</persName>
+               </person>
+            <person xml:id="person__2755" role="behandelte">
+               <persName>Gille, Paris</persName>
+               <idno type="gnd">http://d-nb.info/gnd/124518206</idno>
+               <idno type="GND">http://d-nb.info/gnd/124518206</idno>
+               </person>
+            <person xml:id="person__2756" role="behandelte">
+               <persName>Goldburg, Karl Bonifaz</persName>
+               </person>
+            <person xml:id="person__2757" role="behandelte">
+               <persName>Gravius, Heinrich</persName>
+               <idno type="gnd">http://d-nb.info/gnd/124961908</idno>
+               <idno type="GND">http://d-nb.info/gnd/124961908</idno>
+               </person>
+            <person xml:id="person__2758" role="behandelte">
+               <persName>Grundenmann, Adalbert</persName>
+               </person>
+            <person xml:id="person__2759" role="behandelte">
+               <persName>Forster, Johannes Gualbert I.</persName>
+               <idno type="gnd">http://d-nb.info/gnd/101956640X</idno>
+               </person>
+            <person xml:id="person__2760" role="behandelte">
+               <persName>Guetrather, Odilo</persName>
+               <idno type="gnd">http://d-nb.info/gnd/104058668</idno>
+               </person>
+            <person xml:id="person__2761" role="behandelte">
+               <persName>Haberstock, Paul</persName>
+               </person>
+            <person xml:id="person__2762" role="behandelte">
+               <persName>Hagemann, Gerhard</persName>
+               <idno type="gnd">http://d-nb.info/gnd/121804259</idno>
+               <idno type="GND">http://d-nb.info/gnd/1055302549</idno>
+               </person>
+            <person xml:id="person__2764" role="behandelte">
+               <persName>Haslinger, Gotthard</persName>
+               <idno type="gnd">http://d-nb.info/gnd/102910057</idno>
+               </person>
+            <person xml:id="person__2765" role="behandelte">
+               <persName>Hersfelder, Bernhard</persName>
+               </person>
+            <person xml:id="person__2766" role="behandelte">
+               <persName>Marchstaller, Hieronymus</persName>
+               </person>
+            <person xml:id="person__2767" role="behandelte">
+               <persName>Hilger, Amand</persName>
+               </person>
+            <person xml:id="person__2768" role="behandelte">
+               <persName>Hueber, Udalschalk</persName>
+               </person>
+            <person xml:id="person__2769" role="behandelte">
+               <persName>Hübner, Alexius</persName>
+               </person>
+            <person xml:id="person__2770" role="behandelte">
+               <persName>Huefnagl, Matthäus</persName>
+               </person>
+            <person xml:id="person__2771" role="behandelte">
+               <persName>Hüsser, Gregor</persName>
+               </person>
+            <person xml:id="person__2772" role="behandelte">
+               <persName>Hütter, Roman</persName>
+               </person>
+            <person xml:id="person__2773" role="behandelte">
+               <persName>Jäger, Christoph</persName>
+               </person>
+            <person xml:id="person__2774" role="behandelte">
+               <persName>Ilmperger, Gregor</persName>
+               </person>
+            <person xml:id="person__2775" role="behandelte">
+               <persName>Bimmel, Johannes VIII.</persName>
+               <idno type="gnd">http://d-nb.info/gnd/156463229</idno>
+               </person>
+            <person xml:id="person__2776" role="behandelte">
+               <persName>Wallner, Joseph</persName>
+               </person>
+            <person xml:id="person__2777" role="behandelte">
+               <persName>Joseph von Ossiach</persName>
+               </person>
+            <person xml:id="person__2778" role="behandelte">
+               <persName>Kamperger, Odo</persName>
+               </person>
+            <person xml:id="person__2779" role="behandelte">
+               <persName>Kauzenbach, Bernhard</persName>
+               </person>
+            <person xml:id="person__2780" role="behandelte">
+               <persName>Kendlmayr, Ildephons</persName>
+               </person>
+            <person xml:id="person__2781" role="behandelte">
+               <persName>Kimpfler, Rupert</persName>
+               </person>
+            <person xml:id="person__2782" role="behandelte">
+               <persName>Kirchhamer, Reginbald</persName>
+               </person>
+            <person xml:id="person__2783" role="behandelte">
+               <persName>Knittel, Placidus</persName>
+               </person>
+            <person xml:id="person__2784" role="behandelte">
+               <persName>Krenner, Amand</persName>
+               </person>
+            <person xml:id="person__2785" role="behandelte">
+               <persName>Landau, Reiner</persName>
+               </person>
+            <person xml:id="person__2786" role="behandelte">
+               <persName>Langbartner, Michael</persName>
+               </person>
+            <person xml:id="person__2787" role="behandelte">
+               <persName>Larson, Valentin</persName>
+               </person>
+            <person xml:id="person__2788" role="behandelte">
+               <persName>Lehner, Karl Josef</persName>
+               </person>
+            <person xml:id="person__2789" role="behandelte">
+               <persName>Leizendorf, Georg</persName>
+               </person>
+            <person xml:id="person__2790" role="behandelte">
+               <persName>Lehrer, Ildephons</persName>
+               </person>
+            <person xml:id="person__2791" role="behandelte">
+               <persName>Leo, Bonaventura</persName>
+               </person>
+            <person xml:id="person__2792" role="behandelte">
+               <persName>Renz, Ludwig</persName>
+               </person>
+            <person xml:id="person__2793" role="behandelte">
+               <persName>Mader, Candidus</persName>
+               </person>
+            <person xml:id="person__2794" role="behandelte">
+               <persName>Sobek von Bilenberg, Matthäus Ferdinand</persName>
+               </person>
+            <person xml:id="person__2795" role="behandelte">
+               <persName>Rost, Maurus</persName>
+               </person>
+            <person xml:id="person__2796" role="behandelte">
+               <persName>Millon, Quirin</persName>
+               </person>
+            <person xml:id="person__2797" role="behandelte">
+               <persName>Millpauer, Placidus</persName>
+               </person>
+            <person xml:id="person__2798" role="behandelte">
+               <persName>Mörlin, Bernhard</persName>
+               </person>
+            <person xml:id="person__2799" role="behandelte">
+               <persName>Müller, Gallus</persName>
+               </person>
+            <person xml:id="person__2800" role="behandelte">
+               <persName>Nazareth, Placidus</persName>
+               </person>
+            <person xml:id="person__2801" role="behandelte">
+               <persName>Neß, Rupert</persName>
+               </person>
+            <person xml:id="person__2802" role="behandelte">
+               <persName>Ower, Petrus</persName>
+               </person>
+            <person xml:id="person__2803" role="behandelte">
+               <persName>Paar, Berthold</persName>
+               </person>
+            <person xml:id="person__2804" role="behandelte">
+               <persName>Paldung, Maurus</persName>
+               </person>
+            <person xml:id="person__2805" role="behandelte">
+               <persName>Pennalosa Mondragon, Benedikt</persName>
+               </person>
+            <person xml:id="person__2806" role="behandelte">
+               <persName>Perckmar, Reginbald</persName>
+               </person>
+            <person xml:id="person__2807" role="behandelte">
+               <persName>Pernaz, Roman</persName>
+               </person>
+            <person xml:id="person__2808" role="behandelte">
+               <persName>Pfaffenzeller, Bonifaz</persName>
+               </person>
+            <person xml:id="person__2809" role="behandelte">
+               <persName>Pickelius, Urbanus</persName>
+               </person>
+            <person xml:id="person__2810" role="behandelte">
+               <persName>Plautius, Kaspar</persName>
+               </person>
+            <person xml:id="person__2811" role="behandelte">
+               <persName>Plawenn, Leopold</persName>
+               </person>
+            <person xml:id="person__2812" role="behandelte">
+               <persName>Prandt, Matthäus</persName>
+               </person>
+            <person xml:id="person__2813" role="behandelte">
+               <persName>Praunsperger, Marian</persName>
+               </person>
+            <person xml:id="person__2814" role="behandelte">
+               <persName>Preysing, Johann Jakob</persName>
+               </person>
+            <person xml:id="person__2815" role="behandelte">
+               <persName>Priefer, Paul</persName>
+               </person>
+            <person xml:id="person__2816" role="behandelte">
+               <persName>Puel, Augustin</persName>
+               </person>
+            <person xml:id="person__2817" role="behandelte">
+               <persName>Raisberger, Georg</persName>
+               </person>
+            <person xml:id="person__2818" role="behandelte">
+               <persName>Regondi, Raimund</persName>
+               </person>
+            <person xml:id="person__2819" role="behandelte">
+               <persName>Reimann, Maurus</persName>
+               </person>
+            <person xml:id="person__2820" role="behandelte">
+               <persName>Resch, Martin</persName>
+               </person>
+            <person xml:id="person__2821" role="behandelte">
+               <persName>Ressmann, Christoph</persName>
+               </person>
+            <person xml:id="person__2822" role="behandelte">
+               <persName>Rottenheusler, Candidus</persName>
+               </person>
+            <person xml:id="person__2823" role="behandelte">
+               <persName>Roth von Schreckenstein, Anselm</persName>
+               </person>
+            <person xml:id="person__2824" role="behandelte">
+               <persName>Ruedorffer, Edmund</persName>
+               </person>
+            <person xml:id="person__2825" role="behandelte">
+               <persName>Ruösch, Maurus</persName>
+               </person>
+            <person xml:id="person__2826" role="behandelte">
+               <persName>R. F. P. a T.</persName>
+               </person>
+            <person xml:id="person__2827" role="behandelte">
+               <persName>Schlibnigg, Bruno</persName>
+               </person>
+            <person xml:id="person__2828" role="behandelte">
+               <persName>Schlosgo, Edmund</persName>
+               </person>
+            <person xml:id="person__2829" role="behandelte">
+               <persName>Schumig, Friedrich</persName>
+               </person>
+            <person xml:id="person__2830" role="behandelte">
+               <persName>Schwaller, Beda</persName>
+               </person>
+            <person xml:id="person__2831" role="behandelte">
+               <persName>Scupina, Chrysostomus</persName>
+               </person>
+            <person xml:id="person__2833" role="behandelte">
+               <persName>Sepp, Alphons</persName>
+               </person>
+            <person xml:id="person__2834" role="behandelte">
+               <persName>Seitz, Michael</persName>
+               </person>
+            <person xml:id="person__2835" role="behandelte">
+               <persName>Spačil, Placidus</persName>
+               </person>
+            <person xml:id="person__2836" role="behandelte">
+               <persName>Steger, Rudesind</persName>
+               </person>
+            <person xml:id="person__2837" role="behandelte">
+               <persName>Stocker, Paul</persName>
+               </person>
+            <person xml:id="person__2838" role="behandelte">
+               <persName>Storch, Augustin</persName>
+               </person>
+            <person xml:id="person__2839" role="behandelte">
+               <persName>Stroz, Rochus</persName>
+               </person>
+            <person xml:id="person__2840" role="behandelte">
+               <persName>Schwediauer, Michael</persName>
+               </person>
+            <person xml:id="person__2841" role="behandelte">
+               <persName>Vierholz, Karlmann</persName>
+               </person>
+            <person xml:id="person__2842" role="behandelte">
+               <persName>Vogel, Georg</persName>
+               </person>
+            <person xml:id="person__2843" role="behandelte">
+               <persName>Walbatt, Johann Adolf</persName>
+               </person>
+            <person xml:id="person__2844" role="behandelte">
+               <persName>Wagner, Gotthard</persName>
+               </person>
+            <person xml:id="person__2845" role="behandelte">
+               <persName>Weinckens, Johannes</persName>
+               </person>
+            <person xml:id="person__2846" role="behandelte">
+               <persName>Weller, Balthasar</persName>
+               </person>
+            <person xml:id="person__2847" role="behandelte">
+               <persName>Wenzl, Bernhard</persName>
+               </person>
+            <person xml:id="person__2848" role="behandelte">
+               <persName>Westermayr, Gregor</persName>
+               </person>
+            <person xml:id="person__2849" role="behandelte">
+               <persName>Wider, Benedikt</persName>
+               </person>
+            <person xml:id="person__2850" role="behandelte">
+               <persName>Widmer, Hieronymus</persName>
+               </person>
+            <person xml:id="person__2851" role="behandelte">
+               <persName>Wieser, Marian</persName>
+               </person>
+            <person xml:id="person__2852" role="behandelte">
+               <persName>Zappler, Bernhard</persName>
+               </person>
+            <person xml:id="person__2853" role="behandelte">
+               <persName>Zelender z Prošovic, Wolfgang</persName>
+               </person>
+            <person xml:id="person__2854" role="behandelte">
+               <persName>Zisel, Benedikt</persName>
+               </person>
+            <person xml:id="person__2855" role="behandelte">
+               <persName>Zoller, Joseph</persName>
+               </person>
+            </listPerson></abstract><textClass>
             <classCode scheme="RNA">Werke</classCode>
          </textClass>
       </profileDesc>

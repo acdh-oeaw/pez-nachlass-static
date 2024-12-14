@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_427492.xml">
    <teiHeader>
       <fileDesc>
@@ -44,7 +45,225 @@
          </sourceDesc>
       </fileDesc>
       <profileDesc>
-         <textClass>
+         <abstract><listPerson><person xml:id="person__16" role="urheber">
+               <persName>Pez, Bernhard</persName>
+               </person>
+            <person xml:id="person__125" role="behandelte">
+               <persName>Telesphorus von Cosenza</persName>
+               <idno type="gnd">https://d-nb.info/gnd/10310979X</idno>
+               </person>
+            <person xml:id="person__882" role="behandelte">
+               <persName>"Rudolf von Thurnegg"</persName>
+               </person>
+            <person xml:id="person__985" role="behandelte">
+               <persName>Engelbert von Admont</persName>
+               </person>
+            <person xml:id="person__2445" role="behandelte">
+               <persName>Johannes von Bury</persName>
+               </person>
+            <person xml:id="person__2465" role="behandelte">
+               <persName>Wilhelm von Nangis</persName>
+               </person>
+            <person xml:id="person__2466" role="behandelte">
+               <persName>Johannes Castorius</persName>
+               </person>
+            <person xml:id="person__2467" role="behandelte">
+               <persName>Heinrich von Klingenberg</persName>
+               </person>
+            <person xml:id="person__2468" role="behandelte">
+               <persName>Guillielmus de Monte Lauduno</persName>
+               </person>
+            <person xml:id="person__2469" role="behandelte">
+               <persName>Heinrich von Brüssel</persName>
+               </person>
+            <person xml:id="person__2470" role="behandelte">
+               <persName>Austorgius</persName>
+               </person>
+            <person xml:id="person__2471" role="behandelte">
+               <persName>Guido von Chartres</persName>
+               </person>
+            <person xml:id="person__2472" role="behandelte">
+               <persName>Guiotus Escot</persName>
+               </person>
+            <person xml:id="person__2473" role="behandelte">
+               <persName>Guido de Mimo</persName>
+               </person>
+            <person xml:id="person__2474" role="behandelte">
+               <persName>Hildebrand von St. Godehard zu Hildesheim</persName>
+               </person>
+            <person xml:id="person__2475" role="behandelte">
+               <persName>Robert Grimm</persName>
+               </person>
+            <person xml:id="person__2476" role="behandelte">
+               <persName>Thomas Castelford</persName>
+               </person>
+            <person xml:id="person__2477" role="behandelte">
+               <persName>Johannes "Tanatensis"</persName>
+               </person>
+            <person xml:id="person__2478" role="behandelte">
+               <persName>Jacobus von Egmond, Wilhelm</persName>
+               </person>
+            <person xml:id="person__2480" role="behandelte">
+               <persName>Richard von Wallingford</persName>
+               </person>
+            <person xml:id="person__2481" role="behandelte">
+               <persName>Thomas Pontius</persName>
+               </person>
+            <person xml:id="person__2482" role="behandelte">
+               <persName>Ernst von Zwiefalten</persName>
+               </person>
+            <person xml:id="person__2483" role="behandelte">
+               <persName>Roger von Chester</persName>
+               </person>
+            <person xml:id="person__2484" role="behandelte">
+               <persName>Johannes von Peterborough</persName>
+               </person>
+            <person xml:id="person__2485" role="behandelte">
+               <persName>Wilhelm III. von St.-Germain-des-Prés</persName>
+               </person>
+            <person xml:id="person__2486" role="behandelte">
+               <persName>Roger von Chichester</persName>
+               </person>
+            <person xml:id="person__2487" role="behandelte">
+               <persName>Philipp von Bergamo</persName>
+               </person>
+            <person xml:id="person__2488" role="behandelte">
+               <persName>Lapus Tactus</persName>
+               </person>
+            <person xml:id="person__2489" role="behandelte">
+               <persName>Henricus</persName>
+               </person>
+            <person xml:id="person__2490" role="behandelte">
+               <persName>Heinrich von Isny</persName>
+               </person>
+            <person xml:id="person__2491" role="behandelte">
+               <persName>Walter von Bury</persName>
+               </person>
+            <person xml:id="person__2492" role="behandelte">
+               <persName>Clemens VI.</persName>
+               </person>
+            <person xml:id="person__2493" role="behandelte">
+               <persName>Giles Li Muisis</persName>
+               </person>
+            <person xml:id="person__2494" role="behandelte">
+               <persName>Johannes VI. Kantakuzenos</persName>
+               </person>
+            <person xml:id="person__2495" role="behandelte">
+               <persName>Johannes Wilton von Westminster</persName>
+               </person>
+            <person xml:id="person__2497" role="behandelte">
+               <persName>Johannes von London</persName>
+               </person>
+            <person xml:id="person__2498" role="behandelte">
+               <persName>Johannes von Tynmouth</persName>
+               </person>
+            <person xml:id="person__2499" role="behandelte">
+               <persName>Roger Computista von Bury</persName>
+               </person>
+            <person xml:id="person__2500" role="behandelte">
+               <persName>Ninian von Canterbury</persName>
+               </person>
+            <person xml:id="person__2501" role="behandelte">
+               <persName>Petrus Berchorius</persName>
+               </person>
+            <person xml:id="person__2502" role="behandelte">
+               <persName>Birchington, Stephen</persName>
+               <idno type="gnd">http://d-nb.info/gnd/1089523858</idno>
+               </person>
+            <person xml:id="person__2503" role="behandelte">
+               <persName>Johannes von Vischbach von St. Ulrich und Afra</persName>
+               </person>
+            <person xml:id="person__2504" role="behandelte">
+               <persName>Anonymus (OSB Malmesbury)</persName>
+               </person>
+            <person xml:id="person__2505" role="behandelte">
+               <persName>Konrad Well</persName>
+               </person>
+            <person xml:id="person__2506" role="behandelte">
+               <persName>Urban V.</persName>
+               </person>
+            <person xml:id="person__2507" role="behandelte">
+               <persName>Johannes von Rodington</persName>
+               </person>
+            <person xml:id="person__2508" role="behandelte">
+               <persName>Theinred von Dover</persName>
+               </person>
+            <person xml:id="person__2509" role="behandelte">
+               <persName>Guillielmus von S. Paolo fuori le mura</persName>
+               </person>
+            <person xml:id="person__2511" role="behandelte">
+               <persName>Matthäus von Westminster</persName>
+               </person>
+            <person xml:id="person__2512" role="behandelte">
+               <persName>Ranulph Higden von Chester</persName>
+               </person>
+            <person xml:id="person__2513" role="behandelte">
+               <persName>Bernardus Dapifer</persName>
+               </person>
+            <person xml:id="person__2514" role="behandelte">
+               <persName>Perfetto Malatesta</persName>
+               </person>
+            <person xml:id="person__2515" role="behandelte">
+               <persName>Utred Bolton</persName>
+               </person>
+            <person xml:id="person__2516" role="behandelte">
+               <persName>Johannes Fabri</persName>
+               </person>
+            <person xml:id="person__2517" role="behandelte">
+               <persName>Johannes de Ipra</persName>
+               </person>
+            <person xml:id="person__2518" role="behandelte">
+               <persName>John Vuel</persName>
+               </person>
+            <person xml:id="person__2519" role="behandelte">
+               <persName>Jan van Tielrode von St. Bavo</persName>
+               </person>
+            <person xml:id="person__2520" role="behandelte">
+               <persName>Johannes von Kastl</persName>
+               </person>
+            <person xml:id="person__2521" role="behandelte">
+               <persName>Wilhelm von Torney</persName>
+               </person>
+            <person xml:id="person__2522" role="behandelte">
+               <persName>Anonymus (OSB Mettlach, Biograph Hl. Adalbert)</persName>
+               </person>
+            <person xml:id="person__2523" role="behandelte">
+               <persName>Nicholas Radcliffe</persName>
+               </person>
+            <person xml:id="person__2524" role="behandelte">
+               <persName>Raymond de Rilhac</persName>
+               </person>
+            <person xml:id="person__2525" role="behandelte">
+               <persName>Adam Easton</persName>
+               </person>
+            <person xml:id="person__2526" role="behandelte">
+               <persName>Wilhelm Gillingham von Canterbury</persName>
+               </person>
+            <person xml:id="person__2527" role="behandelte">
+               <persName>Elias von Evesham</persName>
+               </person>
+            <person xml:id="person__2528" role="behandelte">
+               <persName>Peter Visselbeck</persName>
+               </person>
+            <person xml:id="person__2529" role="behandelte">
+               <persName>Johannes Bokingham</persName>
+               </person>
+            <person xml:id="person__2530" role="behandelte">
+               <persName>Piso Calmensis</persName>
+               </person>
+            <person xml:id="person__2531" role="behandelte">
+               <persName>Anonymus (OSB St.-Claude, Biograph Hl. Claudius)</persName>
+               </person>
+            <person xml:id="person__2532" role="behandelte">
+               <persName>Gerald von Fleury</persName>
+               </person>
+            <person xml:id="person__2533" role="behandelte">
+               <persName>Anonymus (Autor Wunderbericht Hl. Eutropius)</persName>
+               </person>
+            <person xml:id="person__2534" role="behandelte">
+               <persName>Macarius von San Juan de la Peña</persName>
+               </person>
+            </listPerson></abstract><textClass>
             <classCode scheme="RNA">Werke</classCode>
          </textClass>
       </profileDesc>

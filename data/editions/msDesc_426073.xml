@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_426073.xml">
    <teiHeader>
       <fileDesc>
@@ -44,7 +45,220 @@
          </sourceDesc>
       </fileDesc>
       <profileDesc>
-         <textClass>
+         <abstract><listPerson><person xml:id="person__16" role="urheber">
+               <persName>Pez, Bernhard</persName>
+               </person>
+            <person xml:id="person__1017" role="behandelte">
+               <persName>Hl. Augustinus von Canterbury</persName>
+               </person>
+            <person xml:id="person__1020" role="behandelte">
+               <persName>Hl. Cuthbert von Lindisfarne</persName>
+               </person>
+            <person xml:id="person__1212" role="behandelte">
+               <persName>Hl. Gregor I. der Große</persName>
+               </person>
+            <person xml:id="person__1594" role="behandelte">
+               <persName>Claudius von Classe</persName>
+               </person>
+            <person xml:id="person__1595" role="behandelte">
+               <persName>Jonas von Bobbio</persName>
+               </person>
+            <person xml:id="person__1596" role="behandelte">
+               <persName>Johannes von Biclaro</persName>
+               </person>
+            <person xml:id="person__1597" role="behandelte">
+               <persName>Leander von Sevilla</persName>
+               </person>
+            <person xml:id="person__1599" role="behandelte">
+               <persName>Hl. Marian</persName>
+               </person>
+            <person xml:id="person__1601" role="behandelte">
+               <persName>Hl. Columban von Luxeuil</persName>
+               </person>
+            <person xml:id="person__1602" role="behandelte">
+               <persName>Hl. Lezin von Angers</persName>
+               </person>
+            <person xml:id="person__1603" role="behandelte">
+               <persName>Hl. Bonifaz IV.</persName>
+               </person>
+            <person xml:id="person__1604" role="behandelte">
+               <persName>Hl. Laurentius von Canterbury</persName>
+               </person>
+            <person xml:id="person__1605" role="behandelte">
+               <persName>Ragimbert von St.-Valery-sur-Somme</persName>
+               </person>
+            <person xml:id="person__1607" role="behandelte">
+               <persName>Hl. Fulgentius von Ecija</persName>
+               </person>
+            <person xml:id="person__1608" role="behandelte">
+               <persName>Hedericus "Monachus"</persName>
+               </person>
+            <person xml:id="person__1609" role="behandelte">
+               <persName>Hl. Braulio von Saragossa</persName>
+               </person>
+            <person xml:id="person__1610" role="behandelte">
+               <persName>Hl. Isidor von Sevilla</persName>
+               </person>
+            <person xml:id="person__1611" role="behandelte">
+               <persName>Baudemund von St.-Pierre-au-mont-Blandin</persName>
+               </person>
+            <person xml:id="person__1612" role="behandelte">
+               <persName>Hl. Gallus</persName>
+               </person>
+            <person xml:id="person__1613" role="behandelte">
+               <persName>Anonymus (Biograph Hl. Sulpicius)</persName>
+               </person>
+            <person xml:id="person__1614" role="behandelte">
+               <persName>Hl. Sulpicius von Bourges</persName>
+               </person>
+            <person xml:id="person__1615" role="behandelte">
+               <persName>Domio Navensis</persName>
+               </person>
+            <person xml:id="person__1616" role="behandelte">
+               <persName>Hl. Aidan</persName>
+               </person>
+            <person xml:id="person__1617" role="behandelte">
+               <persName>Marculf</persName>
+               </person>
+            <person xml:id="person__1618" role="behandelte">
+               <persName>Hl. Desiderius von Cahors</persName>
+               </person>
+            <person xml:id="person__1619" role="behandelte">
+               <persName>Hl. Eligius</persName>
+               </person>
+            <person xml:id="person__1620" role="behandelte">
+               <persName>Hl. Eugen I.</persName>
+               </person>
+            <person xml:id="person__1622" role="behandelte">
+               <persName>Hl. Elerius</persName>
+               </person>
+            <person xml:id="person__1623" role="behandelte">
+               <persName>Valerius von St. Petrus von den Bergen</persName>
+               </person>
+            <person xml:id="person__1624" role="behandelte">
+               <persName>Hl. Finan von Lindisfarne</persName>
+               </person>
+            <person xml:id="person__1625" role="behandelte">
+               <persName>Eddius Stephanus</persName>
+               </person>
+            <person xml:id="person__1626" role="behandelte">
+               <persName>Audulphus "Abbas"</persName>
+               </person>
+            <person xml:id="person__1627" role="behandelte">
+               <persName>Hl. Columban</persName>
+               </person>
+            <person xml:id="person__1628" role="behandelte">
+               <persName>Lupellus</persName>
+               </person>
+            <person xml:id="person__1629" role="behandelte">
+               <persName>Fructuosus von Braga</persName>
+               </person>
+            <person xml:id="person__1630" role="behandelte">
+               <persName>Hl. Ildephons von Toledo</persName>
+               </person>
+            <person xml:id="person__1631" role="behandelte">
+               <persName>Caedmon</persName>
+               </person>
+            <person xml:id="person__1632" role="behandelte">
+               <persName>Tunherus</persName>
+               </person>
+            <person xml:id="person__1633" role="behandelte">
+               <persName>Anonymus (Diözese Evreux)</persName>
+               </person>
+            <person xml:id="person__1634" role="behandelte">
+               <persName>Erembertus Corbeiensis</persName>
+               </person>
+            <person xml:id="person__1635" role="behandelte">
+               <persName>Leodegar von Autun</persName>
+               </person>
+            <person xml:id="person__1636" role="behandelte">
+               <persName>Hl. Théofroy von Luxeuil</persName>
+               </person>
+            <person xml:id="person__1637" role="behandelte">
+               <persName>Defensor von Ligugé</persName>
+               </person>
+            <person xml:id="person__1638" role="behandelte">
+               <persName>Ursinus</persName>
+               </person>
+            <person xml:id="person__1639" role="behandelte">
+               <persName>Hl. Barontus</persName>
+               </person>
+            <person xml:id="person__1640" role="behandelte">
+               <persName>Hl. Kilian</persName>
+               </person>
+            <person xml:id="person__1642" role="behandelte">
+               <persName>Fulbert</persName>
+               </person>
+            <person xml:id="person__1644" role="behandelte">
+               <persName>Gaufred</persName>
+               </person>
+            <person xml:id="person__1645" role="behandelte">
+               <persName>Hl. Theodor von Tarsus</persName>
+               </person>
+            <person xml:id="person__1646" role="behandelte">
+               <persName>Hl. Julian von Toledo</persName>
+               </person>
+            <person xml:id="person__1647" role="behandelte">
+               <persName>Hl. Adamnanus</persName>
+               </person>
+            <person xml:id="person__1648" role="behandelte">
+               <persName>Hl. Ovo</persName>
+               </person>
+            <person xml:id="person__1649" role="behandelte">
+               <persName>Hl. Benedict Biscop</persName>
+               </person>
+            <person xml:id="person__1650" role="behandelte">
+               <persName>Hl. Caesarius von Arles</persName>
+               </person>
+            <person xml:id="person__1651" role="behandelte">
+               <persName>Ansbert von Rouen</persName>
+               </person>
+            <person xml:id="person__1652" role="behandelte">
+               <persName>Evantius von Toledo</persName>
+               </person>
+            <person xml:id="person__1653" role="behandelte">
+               <persName>Donatus von Besancon</persName>
+               </person>
+            <person xml:id="person__1654" role="behandelte">
+               <persName>Hl. Kosmas von Maiuma</persName>
+               </person>
+            <person xml:id="person__1655" role="behandelte">
+               <persName>Hl. Ostforus</persName>
+               </person>
+            <person xml:id="person__1656" role="behandelte">
+               <persName>Hl. Aldegund</persName>
+               </person>
+            <person xml:id="person__1658" role="behandelte">
+               <persName>Anonymus (Biograph Hl. Cuthbert)</persName>
+               </person>
+            <person xml:id="person__1659" role="behandelte">
+               <persName>Aigradus</persName>
+               </person>
+            <person xml:id="person__1661" role="behandelte">
+               <persName>Hl. Siviardus</persName>
+               </person>
+            <person xml:id="person__1662" role="behandelte">
+               <persName>Anonymus (Autor "Vita S. Siviardi")</persName>
+               </person>
+            <person xml:id="person__1663" role="behandelte">
+               <persName>Bobolenus "Presbyter"</persName>
+               </person>
+            <person xml:id="person__1664" role="behandelte">
+               <persName>Laurentius "Monachus Cassinensis"</persName>
+               </person>
+            <person xml:id="person__1665" role="behandelte">
+               <persName>Asaphus von Wales</persName>
+               </person>
+            <person xml:id="person__1683" role="behandelte">
+               <persName>Hl. Coelan von Inis-cealtra</persName>
+               </person>
+            <person xml:id="person__2922" role="behandelte">
+               <persName>Fridegod</persName>
+               </person>
+            <person xml:id="person__2934" role="behandelte">
+               <persName>Trumwinus</persName>
+               </person>
+            </listPerson></abstract><textClass>
             <classCode scheme="RNA">Werke</classCode>
          </textClass>
       </profileDesc>

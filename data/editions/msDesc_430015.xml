@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_430015.xml">
    <teiHeader>
       <fileDesc>
@@ -38,7 +39,190 @@
          </sourceDesc>
       </fileDesc>
       <profileDesc>
-         <textClass>
+         <abstract><listPerson><person xml:id="person__322" role="behandelte">
+               <persName>Hl. Beda Venerabilis</persName>
+               </person>
+            <person xml:id="person__340" role="behandelte">
+               <persName>Constantinus Africanus</persName>
+               </person>
+            <person xml:id="person__366" role="behandelte">
+               <persName>Hermann von Reichenau</persName>
+               </person>
+            <person xml:id="person__727" role="behandelte">
+               <persName>Anselm von Reims</persName>
+               </person>
+            <person xml:id="person__833" role="behandelte">
+               <persName>Petrus von Rosenheim</persName>
+               </person>
+            <person xml:id="person__841" role="behandelte">
+               <persName>Otfried von Weißenburg</persName>
+               </person>
+            <person xml:id="person__959" role="behandelte">
+               <persName>Arnulfus "Monachus"</persName>
+               </person>
+            <person xml:id="person__1027" role="behandelte">
+               <persName>Hrabanus Maurus von Fulda</persName>
+               </person>
+            <person xml:id="person__1140" role="behandelte">
+               <persName>Wandalbert von Prüm</persName>
+               </person>
+            <person xml:id="person__1233" role="behandelte">
+               <persName>Almannus von Hautvillers</persName>
+               </person>
+            <person xml:id="person__1590" role="behandelte">
+               <persName>(Pseudo-)Faustus Casinensis</persName>
+               </person>
+            <person xml:id="person__1595" role="behandelte">
+               <persName>Jonas von Bobbio</persName>
+               </person>
+            <person xml:id="person__1758" role="behandelte">
+               <persName>Angelomus von Luxeuil</persName>
+               </person>
+            <person xml:id="person__1784" role="behandelte">
+               <persName>Milo von St.-Amand</persName>
+               </person>
+            <person xml:id="person__1814" role="behandelte">
+               <persName>Adrevald von Fleury</persName>
+               </person>
+            <person xml:id="person__1828" role="behandelte">
+               <persName>Hucbald von St.-Amand</persName>
+               </person>
+            <person xml:id="person__1842" role="behandelte">
+               <persName>Ambrosius Ansbert</persName>
+               </person>
+            <person xml:id="person__1890" role="behandelte">
+               <persName>Flodoard von Reims</persName>
+               </person>
+            <person xml:id="person__1907" role="behandelte">
+               <persName>Helperich von St. Gallen</persName>
+               </person>
+            <person xml:id="person__1920" role="behandelte">
+               <persName>Aimoin von Fleury</persName>
+               </person>
+            <person xml:id="person__1971" role="behandelte">
+               <persName>Albert von Metten</persName>
+               </person>
+            <person xml:id="person__2048" role="behandelte">
+               <persName>Alger von Lüttich</persName>
+               </person>
+            <person xml:id="person__2095" role="behandelte">
+               <persName>Bernhard von Corvey</persName>
+               </person>
+            <person xml:id="person__2147" role="behandelte">
+               <persName>"Peregrin" von Hirsau</persName>
+               </person>
+            <person xml:id="person__2150" role="behandelte">
+               <persName>Sigebert von Gembloux</persName>
+               </person>
+            <person xml:id="person__2225" role="behandelte">
+               <persName>Edmund von Canterbury</persName>
+               </person>
+            <person xml:id="person__2284" role="behandelte">
+               <persName>Hugo von Fouilloy</persName>
+               </person>
+            <person xml:id="person__2307" role="behandelte">
+               <persName>Gratian von Chiusi</persName>
+               </person>
+            <person xml:id="person__2319" role="behandelte">
+               <persName>Gunther von St.-Amand</persName>
+               </person>
+            <person xml:id="person__2320" role="behandelte">
+               <persName>Richard von Cluny</persName>
+               </person>
+            <person xml:id="person__2436" role="behandelte">
+               <persName>Wilhelm von Afflighem</persName>
+               </person>
+            <person xml:id="person__2459" role="behandelte">
+               <persName>Simon von Afflighem</persName>
+               </person>
+            <person xml:id="person__2469" role="behandelte">
+               <persName>Heinrich von Brüssel</persName>
+               </person>
+            <person xml:id="person__2487" role="behandelte">
+               <persName>Philipp von Bergamo</persName>
+               </person>
+            <person xml:id="person__2501" role="behandelte">
+               <persName>Petrus Berchorius</persName>
+               </person>
+            <person xml:id="person__2520" role="behandelte">
+               <persName>Johannes von Kastl</persName>
+               </person>
+            <person xml:id="person__2921" role="behandelte">
+               <persName>Einhard</persName>
+               </person>
+            <person xml:id="person__2997" role="behandelte">
+               <persName>"Nicolaus Donis"</persName>
+               </person>
+            <person xml:id="person__3322" role="behandelte">
+               <persName>Frutolf von Michelsberg</persName>
+               </person>
+            <person xml:id="person__3518" role="behandelte">
+               <persName>Andreas von Utrecht</persName>
+               </person>
+            <person xml:id="person__3519" role="behandelte">
+               <persName>Bernhard von Cluny (Morlas)</persName>
+               </person>
+            <person xml:id="person__3520" role="behandelte">
+               <persName>Claudius "Monachus"</persName>
+               </person>
+            <person xml:id="person__3521" role="behandelte">
+               <persName>Ericus "Monachus"</persName>
+               </person>
+            <person xml:id="person__3522" role="behandelte">
+               <persName>Erhardus "Monachus"</persName>
+               </person>
+            <person xml:id="person__3524" role="behandelte">
+               <persName>Florus von St. Trudpert</persName>
+               </person>
+            <person xml:id="person__3525" role="behandelte">
+               <persName>Gunther von Niederaltaich</persName>
+               </person>
+            <person xml:id="person__3527" role="behandelte">
+               <persName>Heimo von St. Jakob</persName>
+               </person>
+            <person xml:id="person__3528" role="behandelte">
+               <persName>Ismarus "Monachus"</persName>
+               </person>
+            <person xml:id="person__3529" role="behandelte">
+               <persName>Johannes Scotus</persName>
+               </person>
+            <person xml:id="person__3530" role="behandelte">
+               <persName>Marcus "Monachus"</persName>
+               </person>
+            <person xml:id="person__3531" role="behandelte">
+               <persName>Marian von Fulda</persName>
+               </person>
+            <person xml:id="person__3532" role="behandelte">
+               <persName>Paulus Diaconus (Langobardus)</persName>
+               </person>
+            <person xml:id="person__3533" role="behandelte">
+               <persName>Oswin von Canterbury</persName>
+               </person>
+            <person xml:id="person__3534" role="behandelte">
+               <persName>Strabus "Monachus"</persName>
+               </person>
+            <person xml:id="person__3535" role="behandelte">
+               <persName>Rupert von St. Remigius</persName>
+               </person>
+            <person xml:id="person__3536" role="behandelte">
+               <persName>Roger "Monachus"</persName>
+               </person>
+            <person xml:id="person__3537" role="behandelte">
+               <persName>Rodolphus "Flaviacensis"</persName>
+               </person>
+            <person xml:id="person__3538" role="behandelte">
+               <persName>Rudolph von Michelsberg</persName>
+               </person>
+            <person xml:id="person__3539" role="behandelte">
+               <persName>Theodoricus "Monachus"</persName>
+               </person>
+            <person xml:id="person__3540" role="behandelte">
+               <persName>Wilhelm von St.-Denis</persName>
+               </person>
+            <person xml:id="person__3541" role="behandelte">
+               <persName>Windichinus von Corbie</persName>
+               </person>
+            </listPerson></abstract><textClass>
             <classCode scheme="RNA">Sammlungen und Objekte</classCode>
          </textClass>
       </profileDesc>

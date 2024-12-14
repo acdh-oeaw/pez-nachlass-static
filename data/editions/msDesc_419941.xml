@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_419941.xml">
    <teiHeader>
       <fileDesc>
@@ -51,7 +52,143 @@
          </sourceDesc>
       </fileDesc>
       <profileDesc>
-         <textClass>
+         <abstract><listPerson><person xml:id="person__16" role="behandelte">
+               <persName>Pez, Bernhard</persName>
+               </person>
+            <person xml:id="person__87" role="urheber">
+               <persName>Calmet, Augustin</persName>
+               <idno type="gnd">http://d-nb.info/gnd/118666665</idno>
+               <idno type="GND">http://d-nb.info/gnd/118666665</idno>
+               </person>
+            <person xml:id="person__307" role="behandelte">
+               <persName>Philibert, Nicolas Ignace</persName>
+               </person>
+            <person xml:id="person__310" role="behandelte">
+               <persName>Ménard, Nicolas Hugues</persName>
+               </person>
+            <person xml:id="person__311" role="behandelte">
+               <persName>Rainssant, Jean Firmin</persName>
+               </person>
+            <person xml:id="person__732" role="behandelte">
+               <persName>Valladier, Andreas</persName>
+               </person>
+            <person xml:id="person__733" role="behandelte">
+               <persName>François, Philipp</persName>
+               </person>
+            <person xml:id="person__734" role="behandelte">
+               <persName>Collaut, Hyacinth</persName>
+               </person>
+            <person xml:id="person__735" role="behandelte">
+               <persName>De Rey, Fiacrius</persName>
+               </person>
+            <person xml:id="person__737" role="behandelte">
+               <persName>Descrochets, Carl</persName>
+               </person>
+            <person xml:id="person__738" role="behandelte">
+               <persName>Descrochets, Petrus</persName>
+               </person>
+            <person xml:id="person__739" role="behandelte">
+               <persName>Rethelois, Martin</persName>
+               </person>
+            <person xml:id="person__740" role="behandelte">
+               <persName>Desgabets, Robert</persName>
+               <idno type="gnd">http://d-nb.info/gnd/12444461X</idno>
+               <idno type="GND">http://d-nb.info/gnd/12444461X</idno>
+               </person>
+            <person xml:id="person__741" role="behandelte">
+               <persName>Hennezon, Heinrich</persName>
+               </person>
+            <person xml:id="person__742" role="behandelte">
+               <persName>Calame, Romain</persName>
+               </person>
+            <person xml:id="person__743" role="behandelte">
+               <persName>Renault, Rupert</persName>
+               </person>
+            <person xml:id="person__744" role="behandelte">
+               <persName>Caillet, Joseph</persName>
+               </person>
+            <person xml:id="person__745" role="behandelte">
+               <persName>Villers, Placidus de</persName>
+               </person>
+            <person xml:id="person__746" role="behandelte">
+               <persName>Faustus (Kongregation St.-Vanne)</persName>
+               </person>
+            <person xml:id="person__747" role="behandelte">
+               <persName>Bebin, Odilo</persName>
+               </person>
+            <person xml:id="person__748" role="behandelte">
+               <persName>Belin, Albert</persName>
+               <idno type="gnd">http://d-nb.info/gnd/124701221</idno>
+               </person>
+            <person xml:id="person__749" role="behandelte">
+               <persName>Senoque, Barthelme</persName>
+               </person>
+            <person xml:id="person__750" role="behandelte">
+               <persName>Alliot, Hyacinthe</persName>
+               </person>
+            <person xml:id="person__751" role="behandelte">
+               <persName>Royer, Alexandre</persName>
+               </person>
+            <person xml:id="person__752" role="behandelte">
+               <persName>Henrier, Benigne</persName>
+               </person>
+            <person xml:id="person__753" role="behandelte">
+               <persName>Monnier, Hilarion</persName>
+               </person>
+            <person xml:id="person__754" role="behandelte">
+               <persName>Michel, Remigius</persName>
+               </person>
+            <person xml:id="person__755" role="behandelte">
+               <persName>Petit-Didier, Matthieu</persName>
+               </person>
+            <person xml:id="person__756" role="behandelte">
+               <persName>Petitot, Jean-Claude</persName>
+               </person>
+            <person xml:id="person__757" role="behandelte">
+               <persName>Royer, André</persName>
+               </person>
+            <person xml:id="person__815" role="urheber">
+               <persName>Mayer, Theodor</persName>
+               </person>
+            <person xml:id="person__937" role="behandelte">
+               <persName>Gody, Simplician</persName>
+               <idno type="gnd">http://d-nb.info/gnd/10015042X</idno>
+               <idno type="GND">http://d-nb.info/gnd/10015042X</idno>
+               </person>
+            <person xml:id="person__943" role="behandelte">
+               <persName>Rolet, Humbert</persName>
+               </person>
+            <person xml:id="person__945" role="behandelte">
+               <persName>Le Roche, Joachim</persName>
+               </person>
+            <person xml:id="person__946" role="behandelte">
+               <persName>Chretien, Nicolas</persName>
+               <idno type="gnd">http://d-nb.info/gnd/118026895</idno>
+               <idno type="GND">http://d-nb.info/gnd/175151210</idno>
+               </person>
+            <person xml:id="person__947" role="behandelte">
+               <persName>Fontaine, Placide</persName>
+               </person>
+            <person xml:id="person__948" role="behandelte">
+               <persName>Musnier, Petrus</persName>
+               </person>
+            <person xml:id="person__949" role="behandelte">
+               <persName>Ceillier, Remigius</persName>
+               </person>
+            <person xml:id="person__950" role="behandelte">
+               <persName>Majoret, Laurent</persName>
+               </person>
+            <person xml:id="person__951" role="behandelte">
+               <persName>Moy, Theodor</persName>
+               </person>
+            <person xml:id="person__952" role="behandelte">
+               <persName>Oudenot, Placidus</persName>
+               </person>
+            <person xml:id="person__2569" role="behandelte">
+               <persName>Bénard, Laurent</persName>
+               <idno type="gnd">http://d-nb.info/gnd/13949328X</idno>
+               </person>
+            </listPerson></abstract><textClass>
             <classCode scheme="RNA">Korrespondenzen</classCode>
          </textClass>
       </profileDesc>

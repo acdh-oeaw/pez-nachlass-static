@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_413068.xml">
    <teiHeader>
       <fileDesc>
@@ -44,7 +45,68 @@
          </sourceDesc>
       </fileDesc>
       <profileDesc>
-         <textClass>
+         <abstract><listPerson><person xml:id="person__158" role="urheber">
+               <persName>Wetter, Wolfgang</persName>
+               </person>
+            <person xml:id="person__351" role="behandelte">
+               <persName>Arnefrid von Reichenau</persName>
+               </person>
+            <person xml:id="person__352" role="behandelte">
+               <persName>Waldo von Reichenau</persName>
+               </person>
+            <person xml:id="person__353" role="behandelte">
+               <persName>Hatto I.</persName>
+               </person>
+            <person xml:id="person__354" role="behandelte">
+               <persName>Erlebald von Reichenau</persName>
+               </person>
+            <person xml:id="person__356" role="behandelte">
+               <persName>Tatto von Kempten</persName>
+               </person>
+            <person xml:id="person__359" role="behandelte">
+               <persName>Walahfrid Strabo</persName>
+               </person>
+            <person xml:id="person__360" role="behandelte">
+               <persName>Ermenrich von Ellwangen</persName>
+               </person>
+            <person xml:id="person__361" role="behandelte">
+               <persName>Hatto III.</persName>
+               </person>
+            <person xml:id="person__365" role="behandelte">
+               <persName>Berno von Reichenau</persName>
+               </person>
+            <person xml:id="person__366" role="behandelte">
+               <persName>Hermann von Reichenau</persName>
+               </person>
+            <person xml:id="person__367" role="behandelte">
+               <persName>Heinrich von Karpfen</persName>
+               </person>
+            <person xml:id="person__368" role="behandelte">
+               <persName>Konrad von Zimmern</persName>
+               </person>
+            <person xml:id="person__553" role="behandelte">
+               <persName>Konrad von Reichenau</persName>
+               </person>
+            <person xml:id="person__1148" role="behandelte">
+               <persName>Warmann von Reichenau</persName>
+               </person>
+            <person xml:id="person__1343" role="behandelte">
+               <persName>Rado von Reichenau</persName>
+               </person>
+            <person xml:id="person__1900" role="behandelte">
+               <persName>Reimannus "Monachus"</persName>
+               </person>
+            <person xml:id="person__2743" role="behandelte">
+               <persName>Egon, Johannes</persName>
+               <idno type="gnd">http://d-nb.info/gnd/1034798588</idno>
+               </person>
+            <person xml:id="person__2930" role="behandelte">
+               <persName>Rupert (OSB Reichenau)</persName>
+               </person>
+            <person xml:id="person__2936" role="behandelte">
+               <persName>Wetti von Reichenau</persName>
+               </person>
+            </listPerson></abstract><textClass>
             <classCode scheme="RNA">Sammlungen und Objekte</classCode>
          </textClass>
       </profileDesc>

@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_430422.xml">
    <teiHeader>
       <fileDesc>
@@ -43,7 +44,41 @@
          </sourceDesc>
       </fileDesc>
       <profileDesc>
-         <textClass>
+         <abstract><listPerson><person xml:id="person__15" role="urheber">
+               <persName>Massuet, René</persName>
+               </person>
+            <person xml:id="person__16" role="behandelte">
+               <persName>Pez, Bernhard</persName>
+               </person>
+            <person xml:id="person__375" role="behandelte">
+               <persName>Ascha, Maurus de</persName>
+               <idno type="gnd">http://d-nb.info/gnd/142719935</idno>
+               <idno type="GND">http://d-nb.info/gnd/142719935</idno>
+               </person>
+            <person xml:id="person__1322" role="behandelte">
+               <persName>Schlitpacher, Johannes</persName>
+               </person>
+            <person xml:id="person__1493" role="behandelte">
+               <persName>Bernhard von Waging</persName>
+               </person>
+            <person xml:id="person__2653" role="behandelte">
+               <persName>Joachim Cassinensis</persName>
+               </person>
+            <person xml:id="person__2654" role="behandelte">
+               <persName>Raoul von St.-Sepulcre</persName>
+               </person>
+            <person xml:id="person__2655" role="behandelte">
+               <persName>Thomas Gallus</persName>
+               </person>
+            <person xml:id="person__2656" role="behandelte">
+               <persName>Biondo, Flavio</persName>
+               <idno type="gnd">http://d-nb.info/gnd/118658867</idno>
+               <idno type="GND">http://d-nb.info/gnd/118658867</idno>
+               </person>
+            <person xml:id="person__2657" role="behandelte">
+               <persName>Wilhelm von Poitiers</persName>
+               </person>
+            </listPerson></abstract><textClass>
             <classCode scheme="RNA">Sammlungen und Objekte</classCode>
          </textClass>
       </profileDesc>

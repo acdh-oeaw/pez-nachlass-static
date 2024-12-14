@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_410056.xml">
    <teiHeader>
       <fileDesc>
@@ -43,7 +44,19 @@
          </sourceDesc>
       </fileDesc>
       <profileDesc>
-         <textClass>
+         <abstract><listPerson><person xml:id="person__55" role="behandelte">
+               <persName>Priger, Candidus</persName>
+               </person>
+            <person xml:id="person__56" role="urheber">
+               <persName>Mintart, Chrysostomus</persName>
+               </person>
+            <person xml:id="person__1001" role="urheber">
+               <persName>Danschachner (Donschachner), Leopold</persName>
+               </person>
+            <person xml:id="person__1058" role="behandelte">
+               <persName>Kempf, Bruno</persName>
+               </person>
+            </listPerson></abstract><textClass>
             <classCode scheme="RNA">Sammlungen und Objekte</classCode>
          </textClass>
       </profileDesc>

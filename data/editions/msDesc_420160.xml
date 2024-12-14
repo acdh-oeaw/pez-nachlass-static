@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_420160.xml">
    <teiHeader>
       <fileDesc>
@@ -46,7 +47,90 @@
          </sourceDesc>
       </fileDesc>
       <profileDesc>
-         <textClass>
+         <abstract><listPerson><person xml:id="person__815" role="urheber">
+               <persName>Mayer, Theodor</persName>
+               </person>
+            <person xml:id="person__997" role="behandelte">
+               <persName>Bartenstein, Johann Christoph</persName>
+               <idno type="gnd">http://d-nb.info/gnd/118657372</idno>
+               <idno type="GND">http://d-nb.info/gnd/129929719</idno>
+               </person>
+            <person xml:id="person__1099" role="urheber">
+               <persName>Hutchinson, Dunstan</persName>
+               </person>
+            <person xml:id="person__1100" role="behandelte">
+               <persName>Gifford, Gabriel</persName>
+               <idno type="gnd">http://d-nb.info/gnd/119685884</idno>
+               </person>
+            <person xml:id="person__1101" role="behandelte">
+               <persName>Reyner, Clemens</persName>
+               </person>
+            <person xml:id="person__1102" role="behandelte">
+               <persName>Barlow, Rudesind</persName>
+               </person>
+            <person xml:id="person__1103" role="behandelte">
+               <persName>Baker, Augustine</persName>
+               <idno type="gnd">http://d-nb.info/gnd/118197916</idno>
+               <idno type="GND">http://d-nb.info/gnd/188335137</idno>
+               </person>
+            <person xml:id="person__1104" role="behandelte">
+               <persName>Cressy, Serenus</persName>
+               <idno type="gnd">http://d-nb.info/gnd/1055801154</idno>
+               <idno type="GND">http://d-nb.info/gnd/157939448</idno>
+               </person>
+            <person xml:id="person__1105" role="behandelte">
+               <persName>Huddleston, Richard</persName>
+               </person>
+            <person xml:id="person__1106" role="behandelte">
+               <persName>More, Gertrude</persName>
+               </person>
+            <person xml:id="person__1107" role="behandelte">
+               <persName>Gascoigne, Placid</persName>
+               </person>
+            <person xml:id="person__1108" role="behandelte">
+               <persName>Llewellin, Augustine Edward</persName>
+               </person>
+            <person xml:id="person__1109" role="behandelte">
+               <persName>Corker, Maurus</persName>
+               <idno type="gnd">http://d-nb.info/gnd/100666000</idno>
+               </person>
+            <person xml:id="person__1110" role="behandelte">
+               <persName>Batt, Anthony</persName>
+               <idno type="gnd">http://d-nb.info/gnd/159731224</idno>
+               </person>
+            <person xml:id="person__1111" role="behandelte">
+               <persName>Hull, Francis</persName>
+               </person>
+            <person xml:id="person__1112" role="behandelte">
+               <persName>Porter, Jerome</persName>
+               </person>
+            <person xml:id="person__1113" role="behandelte">
+               <persName>Salvin, Peter</persName>
+               </person>
+            <person xml:id="person__1114" role="behandelte">
+               <persName>Conyers, Augustine</persName>
+               </person>
+            <person xml:id="person__1115" role="behandelte">
+               <persName>Sadler, Thomas Vincent</persName>
+               </person>
+            <person xml:id="person__1116" role="behandelte">
+               <persName>Fouchet, Anselm</persName>
+               </person>
+            <person xml:id="person__1117" role="behandelte">
+               <persName>Hesket, Thomas</persName>
+               </person>
+            <person xml:id="person__1118" role="behandelte">
+               <persName>Townson, John</persName>
+               </person>
+            <person xml:id="person__1119" role="behandelte">
+               <persName>Widow, Konrad</persName>
+               </person>
+            <person xml:id="person__1120" role="urheber">
+               <persName>Baillie, Bernard</persName>
+               <idno type="gnd">http://d-nb.info/gnd/116040424</idno>
+               <idno type="GND">http://d-nb.info/gnd/116040424</idno>
+               </person>
+            </listPerson></abstract><textClass>
             <classCode scheme="RNA">Sammlungen und Objekte</classCode>
          </textClass>
       </profileDesc>

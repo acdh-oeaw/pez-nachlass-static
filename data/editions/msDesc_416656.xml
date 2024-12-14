@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_416656.xml">
    <teiHeader>
       <fileDesc>
@@ -46,7 +47,28 @@
          </sourceDesc>
       </fileDesc>
       <profileDesc>
-         <textClass>
+         <abstract><listPerson><person xml:id="person__16" role="behandelte">
+               <persName>Pez, Bernhard</persName>
+               </person>
+            <person xml:id="person__673" role="urheber">
+               <persName>Edlinger, Joachim</persName>
+               </person>
+            <person xml:id="person__674" role="behandelte">
+               <persName>Witzenberger, Zacharias</persName>
+               </person>
+            <person xml:id="person__675" role="behandelte">
+               <persName>Schindlauer, Theophil</persName>
+               </person>
+            <person xml:id="person__676" role="behandelte">
+               <persName>Bernauer, Bernhard</persName>
+               </person>
+            <person xml:id="person__677" role="behandelte">
+               <persName>Thalner, Ildephons</persName>
+               </person>
+            <person xml:id="person__678" role="behandelte">
+               <persName>Neumayr, Anselm</persName>
+               </person>
+            </listPerson></abstract><textClass>
             <classCode scheme="RNA">Sammlungen und Objekte</classCode>
          </textClass>
       </profileDesc>

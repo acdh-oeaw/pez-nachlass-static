@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_424291.xml">
    <teiHeader>
       <fileDesc>
@@ -43,7 +44,46 @@
          </sourceDesc>
       </fileDesc>
       <profileDesc>
-         <textClass>
+         <abstract><listPerson><person xml:id="person__16" role="behandelte">
+               <persName>Pez, Bernhard</persName>
+               </person>
+            <person xml:id="person__467" role="behandelte">
+               <persName>Egg, Edmund</persName>
+               <idno type="gnd">http://d-nb.info/gnd/128721367</idno>
+               </person>
+            <person xml:id="person__528" role="urheber">
+               <persName>König, Robert</persName>
+               </person>
+            <person xml:id="person__1011" role="behandelte">
+               <persName>Gretser, Jakob</persName>
+               <idno type="gnd">http://d-nb.info/gnd/118542087</idno>
+               <idno type="GND">http://d-nb.info/gnd/118542087</idno>
+               </person>
+            <person xml:id="person__1209" role="behandelte">
+               <persName>Rauscher, Roman</persName>
+               </person>
+            <person xml:id="person__1483" role="behandelte">
+               <persName>Ebberth, Johannes Baptist</persName>
+               <idno type="gnd">http://d-nb.info/gnd/12250397X</idno>
+               </person>
+            <person xml:id="person__1484" role="behandelte">
+               <persName>Faber, Virgil</persName>
+               <idno type="gnd">http://d-nb.info/gnd/101083009</idno>
+               </person>
+            <person xml:id="person__1485" role="behandelte">
+               <persName>Wenger, Maurus</persName>
+               </person>
+            <person xml:id="person__1486" role="behandelte">
+               <persName>Behamstein, Benedikt</persName>
+               <idno type="gnd">http://d-nb.info/gnd/122479351</idno>
+               </person>
+            <person xml:id="person__1487" role="behandelte">
+               <persName>Freudenpichl, Ambros</persName>
+               </person>
+            <person xml:id="person__1488" role="behandelte">
+               <persName>Kirchmayr, Seraphin</persName>
+               </person>
+            </listPerson></abstract><textClass>
             <classCode scheme="RNA">Sammlungen und Objekte</classCode>
          </textClass>
       </profileDesc>

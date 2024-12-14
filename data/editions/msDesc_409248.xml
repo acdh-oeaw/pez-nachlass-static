@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_409248.xml">
    <teiHeader>
       <fileDesc>
@@ -38,7 +39,167 @@
          </sourceDesc>
       </fileDesc>
       <profileDesc>
-         <textClass>
+         <abstract><listPerson><person xml:id="person__47" role="behandelte">
+               <persName>Rupert von Deutz</persName>
+               </person>
+            <person xml:id="person__163" role="behandelte">
+               <persName>Trithemius, Johannes</persName>
+               </person>
+            <person xml:id="person__325" role="behandelte">
+               <persName>Konrad von Scheyern</persName>
+               </person>
+            <person xml:id="person__329" role="behandelte">
+               <persName>Hl. Hermann von Niederaltaich</persName>
+               </person>
+            <person xml:id="person__330" role="behandelte">
+               <persName>Heinrich Steoro</persName>
+               </person>
+            <person xml:id="person__366" role="behandelte">
+               <persName>Hermann von Reichenau</persName>
+               </person>
+            <person xml:id="person__367" role="behandelte">
+               <persName>Heinrich von Karpfen</persName>
+               </person>
+            <person xml:id="person__409" role="behandelte">
+               <persName>Heinrich (OSB Zwiefalten)</persName>
+               </person>
+            <person xml:id="person__411" role="behandelte">
+               <persName>Albrecht von Bonstetten</persName>
+               </person>
+            <person xml:id="person__680" role="behandelte">
+               <persName>Konrad von Brauweiler</persName>
+               </person>
+            <person xml:id="person__842" role="behandelte">
+               <persName>Wenzel von Niederaltaich</persName>
+               </person>
+            <person xml:id="person__954" role="behandelte">
+               <persName>Ruotger von Köln</persName>
+               </person>
+            <person xml:id="person__955" role="behandelte">
+               <persName>Eberwin von Trier</persName>
+               </person>
+            <person xml:id="person__956" role="behandelte">
+               <persName>Anonymus (OSB Michaelsberg in Siegburg)</persName>
+               </person>
+            <person xml:id="person__957" role="behandelte">
+               <persName>Lambert von Legia</persName>
+               </person>
+            <person xml:id="person__960" role="behandelte">
+               <persName>Arnold von St. Emmeram</persName>
+               </person>
+            <person xml:id="person__961" role="behandelte">
+               <persName>Bruno von Merseburg</persName>
+               </person>
+            <person xml:id="person__962" role="behandelte">
+               <persName>Thietmar von Merseburg</persName>
+               </person>
+            <person xml:id="person__963" role="behandelte">
+               <persName>David Scotus</persName>
+               </person>
+            <person xml:id="person__964" role="behandelte">
+               <persName>Udalschalk von St. Ulrich und Afra zu Augsburg</persName>
+               </person>
+            <person xml:id="person__965" role="behandelte">
+               <persName>Ekkehard von Aura</persName>
+               </person>
+            <person xml:id="person__966" role="behandelte">
+               <persName>Diemo "Monachus"</persName>
+               </person>
+            <person xml:id="person__968" role="behandelte">
+               <persName>Hl. Elisabeth von Schönau</persName>
+               </person>
+            <person xml:id="person__969" role="behandelte">
+               <persName>Otto von Freising</persName>
+               </person>
+            <person xml:id="person__970" role="behandelte">
+               <persName>Ekbert von Schönau</persName>
+               </person>
+            <person xml:id="person__971" role="behandelte">
+               <persName>Roger von Fulda</persName>
+               </person>
+            <person xml:id="person__972" role="behandelte">
+               <persName>Rudolf von Fulda</persName>
+               </person>
+            <person xml:id="person__973" role="behandelte">
+               <persName>Hl. Hildegard von Bingen</persName>
+               </person>
+            <person xml:id="person__974" role="behandelte">
+               <persName>Anonymus (OSB Lorsch)</persName>
+               </person>
+            <person xml:id="person__975" role="behandelte">
+               <persName>Theoderich von St. Trond</persName>
+               </person>
+            <person xml:id="person__976" role="behandelte">
+               <persName>Dodechinus von Disibodenberg</persName>
+               </person>
+            <person xml:id="person__977" role="behandelte">
+               <persName>Anonymus (OSB Weingarten)</persName>
+               </person>
+            <person xml:id="person__978" role="behandelte">
+               <persName>Engelhard von Langheim</persName>
+               </person>
+            <person xml:id="person__979" role="behandelte">
+               <persName>Otto von St. Blasien</persName>
+               </person>
+            <person xml:id="person__980" role="behandelte">
+               <persName>Arnold von Lübeck</persName>
+               </person>
+            <person xml:id="person__981" role="behandelte">
+               <persName>Ekkehard I. von St. Gallen</persName>
+               </person>
+            <person xml:id="person__982" role="behandelte">
+               <persName>Gottfried von St. Pantaleon zu Köln</persName>
+               </person>
+            <person xml:id="person__983" role="behandelte">
+               <persName>Albert von Stade</persName>
+               </person>
+            <person xml:id="person__984" role="behandelte">
+               <persName>Ulrich von Wurmberg</persName>
+               </person>
+            <person xml:id="person__985" role="behandelte">
+               <persName>Engelbert von Admont</persName>
+               </person>
+            <person xml:id="person__986" role="behandelte">
+               <persName>Egilward von St. Burchard</persName>
+               </person>
+            <person xml:id="person__987" role="behandelte">
+               <persName>Arnpeck, Veit</persName>
+               <idno type="gnd">http://d-nb.info/gnd/118645943</idno>
+               <idno type="GND">http://d-nb.info/gnd/118645943</idno>
+               </person>
+            <person xml:id="person__988" role="behandelte">
+               <persName>Lang, Andreas</persName>
+               </person>
+            <person xml:id="person__989" role="behandelte">
+               <persName>Meisterlin, Sigismund</persName>
+               </person>
+            <person xml:id="person__990" role="behandelte">
+               <persName>Heinrich von Gelnhausen</persName>
+               </person>
+            <person xml:id="person__991" role="behandelte">
+               <persName>Thadäus von St. Jakob</persName>
+               </person>
+            <person xml:id="person__992" role="behandelte">
+               <persName>Berchthold von Kremsmünster</persName>
+               </person>
+            <person xml:id="person__993" role="behandelte">
+               <persName>Konrad von Lauterberg</persName>
+               </person>
+            <person xml:id="person__994" role="behandelte">
+               <persName>Cyrin von Freising</persName>
+               </person>
+            <person xml:id="person__995" role="behandelte">
+               <persName>Hauer, Georg</persName>
+               <idno type="gnd">http://d-nb.info/gnd/104277467</idno>
+               <idno type="GND">http://d-nb.info/gnd/104277467</idno>
+               </person>
+            <person xml:id="person__996" role="behandelte">
+               <persName>Konrad von Abdinghof</persName>
+               </person>
+            <person xml:id="person__2278" role="behandelte">
+               <persName>Ebo von Michelsberg</persName>
+               </person>
+            </listPerson></abstract><textClass>
             <classCode scheme="RNA">Werke</classCode>
          </textClass>
       </profileDesc>

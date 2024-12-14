@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_478659.xml">
    <teiHeader>
       <fileDesc>
@@ -102,7 +103,48 @@
          </sourceDesc>
       </fileDesc>
       <profileDesc>
-         <textClass>
+         <abstract><listPerson><person xml:id="person__16" role="urheber">
+               <persName>Pez, Bernhard</persName>
+               </person>
+            <person xml:id="person__40" role="urheber">
+               <persName>Hueber, Karlmann</persName>
+               </person>
+            <person xml:id="person__780" role="urheber">
+               <persName>Sandi, Giuseppe Maria</persName>
+               </person>
+            <person xml:id="person__1077" role="urheber">
+               <persName>Barbo, Ludovico</persName>
+               <idno type="gnd">http://d-nb.info/gnd/18712972X</idno>
+               <idno type="GND">http://d-nb.info/gnd/119411180</idno>
+               </person>
+            <person xml:id="person__1139" role="urheber">
+               <persName>Notker Balbulus</persName>
+               </person>
+            <person xml:id="person__1758" role="urheber">
+               <persName>Angelomus von Luxeuil</persName>
+               </person>
+            <person xml:id="person__2743" role="urheber">
+               <persName>Egon, Johannes</persName>
+               <idno type="gnd">http://d-nb.info/gnd/1034798588</idno>
+               </person>
+            <person xml:id="person__3177" role="urheber">
+               <persName>Hummel, Maurus</persName>
+               </person>
+            <person xml:id="person__3312" role="urheber">
+               <persName>Metzler, Jodok</persName>
+               </person>
+            <person xml:id="person__3313" role="urheber">
+               <persName>Deppisch, Gottfried</persName>
+               <idno type="gnd">http://d-nb.info/gnd/1029493529</idno>
+               <idno type="GND">http://d-nb.info/gnd/1029493529</idno>
+               </person>
+            <person xml:id="person__3314" role="urheber">
+               <persName>Albert von Oberaltaich</persName>
+               </person>
+            <person xml:id="person__3315" role="urheber">
+               <persName>Gsenger, Bertrand</persName>
+               </person>
+            </listPerson></abstract><textClass>
             <classCode scheme="RNA">Werke</classCode>
          </textClass>
       </profileDesc>

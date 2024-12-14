@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_421227.xml">
    <teiHeader>
       <fileDesc>
@@ -48,7 +49,34 @@
          </sourceDesc>
       </fileDesc>
       <profileDesc>
-         <textClass>
+         <abstract><listPerson><person xml:id="person__380" role="behandelte">
+               <persName>Kibler, Ägydius</persName>
+               </person>
+            <person xml:id="person__381" role="behandelte">
+               <persName>Staudigl, Ulrich</persName>
+               </person>
+            <person xml:id="person__383" role="behandelte">
+               <persName>Kolberer, Kajetan</persName>
+               </person>
+            <person xml:id="person__384" role="behandelte">
+               <persName>Grienmelt, Lampert</persName>
+               </person>
+            <person xml:id="person__1319" role="behandelte">
+               <persName>Sutor, Rupert</persName>
+               </person>
+            <person xml:id="person__1320" role="behandelte">
+               <persName>Raulin, Jean</persName>
+               </person>
+            <person xml:id="person__1321" role="behandelte">
+               <persName>Nicolaus de Lyra</persName>
+               </person>
+            <person xml:id="person__1322" role="behandelte">
+               <persName>Schlitpacher, Johannes</persName>
+               </person>
+            <person xml:id="person__1323" role="behandelte">
+               <persName>Johannes von Kempten</persName>
+               </person>
+            </listPerson></abstract><textClass>
             <classCode scheme="RNA">Sammlungen und Objekte</classCode>
          </textClass>
       </profileDesc>

@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_420958.xml">
    <teiHeader>
       <fileDesc>
@@ -43,7 +44,134 @@
          </sourceDesc>
       </fileDesc>
       <profileDesc>
-         <textClass>
+         <abstract><listPerson><person xml:id="person__17" role="behandelte">
+               <persName>Pez, Hieronymus</persName>
+               </person>
+            <person xml:id="person__1263" role="behandelte">
+               <persName>Amizo von Spital am Pyhrn</persName>
+               </person>
+            <person xml:id="person__1264" role="behandelte">
+               <persName>Konrad von Spital am Pyhrn</persName>
+               </person>
+            <person xml:id="person__1265" role="behandelte">
+               <persName>Heinrich (OSB Spital am Pyhrn)</persName>
+               </person>
+            <person xml:id="person__1266" role="behandelte">
+               <persName>Gunther von Gutenhag</persName>
+               </person>
+            <person xml:id="person__1267" role="behandelte">
+               <persName>Dietrich von Abensberg</persName>
+               </person>
+            <person xml:id="person__1268" role="behandelte">
+               <persName>Berenger Pauser</persName>
+               </person>
+            <person xml:id="person__1269" role="behandelte">
+               <persName>Johann Kessler</persName>
+               </person>
+            <person xml:id="person__1270" role="behandelte">
+               <persName>Wertheim, Albert Graf</persName>
+               </person>
+            <person xml:id="person__1271" role="behandelte">
+               <persName>Glatz, Windhart</persName>
+               </person>
+            <person xml:id="person__1281" role="behandelte">
+               <persName>Hoppler, Stephan</persName>
+               </person>
+            <person xml:id="person__1282" role="behandelte">
+               <persName>Renker, Johann</persName>
+               </person>
+            <person xml:id="person__1283" role="behandelte">
+               <persName>Steinpühel, Konrad</persName>
+               </person>
+            <person xml:id="person__1284" role="behandelte">
+               <persName>Lengenfeld, Ulrich</persName>
+               </person>
+            <person xml:id="person__1285" role="behandelte">
+               <persName>Koburg, Heinrich</persName>
+               </person>
+            <person xml:id="person__1286" role="behandelte">
+               <persName>Altkind, Michael</persName>
+               </person>
+            <person xml:id="person__1287" role="behandelte">
+               <persName>Ulrich, Martin</persName>
+               </person>
+            <person xml:id="person__1288" role="behandelte">
+               <persName>Weix, Urban</persName>
+               </person>
+            <person xml:id="person__1289" role="behandelte">
+               <persName>Sackauer, Andreas</persName>
+               </person>
+            <person xml:id="person__1290" role="behandelte">
+               <persName>Perler, Georg</persName>
+               </person>
+            <person xml:id="person__1291" role="behandelte">
+               <persName>Rieder, Sigismund</persName>
+               </person>
+            <person xml:id="person__1292" role="behandelte">
+               <persName>Steinrieser, Valentin</persName>
+               </person>
+            <person xml:id="person__1293" role="behandelte">
+               <persName>Amann, Johann</persName>
+               </person>
+            <person xml:id="person__1294" role="behandelte">
+               <persName>Engelprecht, Peter</persName>
+               <idno type="gnd">http://d-nb.info/gnd/1076554970</idno>
+               </person>
+            <person xml:id="person__1295" role="behandelte">
+               <persName>Anton, Erasmus</persName>
+               </person>
+            <person xml:id="person__1296" role="behandelte">
+               <persName>Schwertner, Ruprecht</persName>
+               </person>
+            <person xml:id="person__1297" role="behandelte">
+               <persName>Pruggner, Wolfgang</persName>
+               </person>
+            <person xml:id="person__1298" role="behandelte">
+               <persName>Taffner, Eustachius</persName>
+               </person>
+            <person xml:id="person__1299" role="behandelte">
+               <persName>Gienger, Johann Jakob</persName>
+               </person>
+            <person xml:id="person__1300" role="behandelte">
+               <persName>Milleder, Christoph</persName>
+               </person>
+            <person xml:id="person__1301" role="behandelte">
+               <persName>Prudentius, Andreas</persName>
+               </person>
+            <person xml:id="person__1302" role="behandelte">
+               <persName>Thomasis, Aliprand</persName>
+               </person>
+            <person xml:id="person__1303" role="behandelte">
+               <persName>Inama, Damian</persName>
+               </person>
+            <person xml:id="person__1304" role="behandelte">
+               <persName>Prugglach, Georg</persName>
+               </person>
+            <person xml:id="person__1305" role="behandelte">
+               <persName>Tizin, Mathäus Franz</persName>
+               </person>
+            <person xml:id="person__1306" role="behandelte">
+               <persName>Rennarz, Johann</persName>
+               </person>
+            <person xml:id="person__1307" role="behandelte">
+               <persName>Fürsten, Heinrich</persName>
+               </person>
+            <person xml:id="person__1308" role="behandelte">
+               <persName>Tecnon, Johann</persName>
+               </person>
+            <person xml:id="person__1309" role="behandelte">
+               <persName>Gassner, Heinrich Otto</persName>
+               </person>
+            <person xml:id="person__1310" role="behandelte">
+               <persName>Rieder, Andreas Georg</persName>
+               </person>
+            <person xml:id="person__1311" role="behandelte">
+               <persName>Schauer, Johann Georg</persName>
+               </person>
+            <person xml:id="person__1312" role="behandelte">
+               <persName>Ketteler, Hermann</persName>
+               </person>
+            </listPerson></abstract><textClass>
             <classCode scheme="RNA">Sammlungen und Objekte</classCode>
          </textClass>
       </profileDesc>

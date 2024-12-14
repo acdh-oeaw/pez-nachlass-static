@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_453674.xml">
    <teiHeader>
       <fileDesc>
@@ -164,7 +165,54 @@
          </sourceDesc>
       </fileDesc>
       <profileDesc>
-         <textClass>
+         <abstract><listPerson><person xml:id="person__14" role="urheber">
+               <persName>Schramb, Anselm</persName>
+               </person>
+            <person xml:id="person__16" role="urheber">
+               <persName>Pez, Bernhard</persName>
+               </person>
+            <person xml:id="person__17" role="urheber">
+               <persName>Pez, Hieronymus</persName>
+               </person>
+            <person xml:id="person__53" role="urheber">
+               <persName>Wydemann, Leopold</persName>
+               </person>
+            <person xml:id="person__673" role="urheber">
+               <persName>Edlinger, Joachim</persName>
+               </person>
+            <person xml:id="person__815" role="urheber">
+               <persName>Mayer, Theodor</persName>
+               </person>
+            <person xml:id="person__1129" role="urheber">
+               <persName>Gropp, Ignaz</persName>
+               <idno type="gnd">http://d-nb.info/gnd/11686639X</idno>
+               <idno type="GND">http://d-nb.info/gnd/179433997</idno>
+               </person>
+            <person xml:id="person__1146" role="urheber">
+               <persName>Otloh von St. Emmeram</persName>
+               </person>
+            <person xml:id="person__1551" role="behandelte">
+               <persName>Menger, Dionysius</persName>
+               </person>
+            <person xml:id="person__1975" role="urheber">
+               <persName>Hl. Bruno von Köln</persName>
+               </person>
+            <person xml:id="person__3220" role="urheber">
+               <persName>Berka von Duba und Lippa, Zbynko</persName>
+               </person>
+            <person xml:id="person__3221" role="urheber">
+               <persName>Guilelmus de Hyporegia</persName>
+               </person>
+            <person xml:id="person__3222" role="urheber">
+               <persName>Gigo von Kastell</persName>
+               </person>
+            <person xml:id="person__3223" role="urheber">
+               <persName>Hl. Bonaventura</persName>
+               </person>
+            <person xml:id="person__3224" role="urheber">
+               <persName>Jungnitz, Christoph</persName>
+               </person>
+            </listPerson></abstract><textClass>
             <classCode scheme="RNA">Werke</classCode>
          </textClass>
       </profileDesc>

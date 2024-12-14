@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_429232.xml">
    <teiHeader>
       <fileDesc>
@@ -43,7 +44,43 @@
          </sourceDesc>
       </fileDesc>
       <profileDesc>
-         <textClass>
+         <abstract><listPerson><person xml:id="person__979" role="behandelte">
+               <persName>Otto von St. Blasien</persName>
+               </person>
+            <person xml:id="person__1062" role="behandelte">
+               <persName>Werner I.</persName>
+               </person>
+            <person xml:id="person__1065" role="behandelte">
+               <persName>Werner II. von Küssenberg</persName>
+               </person>
+            <person xml:id="person__1066" role="behandelte">
+               <persName>Hl. Frowin von Engelberg</persName>
+               </person>
+            <person xml:id="person__1067" role="behandelte">
+               <persName>Molitor, Kaspar</persName>
+               </person>
+            <person xml:id="person__1070" role="behandelte">
+               <persName>Rauber, Placidus</persName>
+               </person>
+            <person xml:id="person__1074" role="behandelte">
+               <persName>Wex, Johann Chrysostomus</persName>
+               </person>
+            <person xml:id="person__1075" role="behandelte">
+               <persName>Sedelmayr, Roman</persName>
+               </person>
+            <person xml:id="person__1235" role="behandelte">
+               <persName>Bernardus "Monachus"</persName>
+               </person>
+            <person xml:id="person__1546" role="behandelte">
+               <persName>Otto "der Jüngere" von St. Blasien</persName>
+               </person>
+            <person xml:id="person__2580" role="behandelte">
+               <persName>Foyt, Beringer</persName>
+               </person>
+            <person xml:id="person__2938" role="behandelte">
+               <persName>Demueth, Bernhard</persName>
+               </person>
+            </listPerson></abstract><textClass>
             <classCode scheme="RNA">Sammlungen und Objekte</classCode>
          </textClass>
       </profileDesc>

@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_430195.xml">
    <teiHeader>
       <fileDesc>
@@ -43,7 +44,35 @@
          </sourceDesc>
       </fileDesc>
       <profileDesc>
-         <textClass>
+         <abstract><listPerson><person xml:id="person__503" role="behandelte">
+               <persName>Agricola, Magnus</persName>
+               <idno type="gnd">http://d-nb.info/gnd/118064851</idno>
+               <idno type="GND">http://d-nb.info/gnd/118064851</idno>
+               </person>
+            <person xml:id="person__525" role="behandelte">
+               <persName>Gansler, Rupert</persName>
+               <idno type="gnd">http://d-nb.info/gnd/129750859</idno>
+               </person>
+            <person xml:id="person__989" role="behandelte">
+               <persName>Meisterlin, Sigismund</persName>
+               </person>
+            <person xml:id="person__1522" role="behandelte">
+               <persName>Fischer, Simbert</persName>
+               </person>
+            <person xml:id="person__2636" role="behandelte">
+               <persName>Möhner, Reginbald</persName>
+               </person>
+            <person xml:id="person__2637" role="behandelte">
+               <persName>Pfeiffer, Petrus</persName>
+               </person>
+            <person xml:id="person__2638" role="behandelte">
+               <persName>Gastel, Gregor</persName>
+               <idno type="gnd">http://d-nb.info/gnd/119681811</idno>
+               </person>
+            <person xml:id="person__2639" role="behandelte">
+               <persName>Hertfelder, Bernhard</persName>
+               </person>
+            </listPerson></abstract><textClass>
             <classCode scheme="RNA">Sammlungen und Objekte</classCode>
          </textClass>
       </profileDesc>

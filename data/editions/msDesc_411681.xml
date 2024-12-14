@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_411681.xml">
    <teiHeader>
       <fileDesc>
@@ -50,7 +51,102 @@
          </sourceDesc>
       </fileDesc>
       <profileDesc>
-         <textClass>
+         <abstract><listPerson><person xml:id="person__1" role="behandelte">
+               <persName>Dietmayr, Berthold</persName>
+               <idno type="gnd">http://d-nb.info/gnd/124510736</idno>
+               </person>
+            <person xml:id="person__15" role="behandelte">
+               <persName>Massuet, René</persName>
+               </person>
+            <person xml:id="person__16" role="behandelte">
+               <persName>Pez, Bernhard</persName>
+               </person>
+            <person xml:id="person__30" role="behandelte">
+               <persName>Müller, Moritz</persName>
+               </person>
+            <person xml:id="person__120" role="behandelte">
+               <persName>Grass, Ansgar</persName>
+               <idno type="gnd">http://d-nb.info/gnd/187099553</idno>
+               </person>
+            <person xml:id="person__121" role="behandelte">
+               <persName>Friderici, Petrus</persName>
+               </person>
+            <person xml:id="person__130" role="behandelte">
+               <persName>Hausdorf, Rupert</persName>
+               </person>
+            <person xml:id="person__138" role="behandelte">
+               <persName>Eixl, Thomas</persName>
+               <idno type="gnd">http://d-nb.info/gnd/1055607234</idno>
+               </person>
+            <person xml:id="person__141" role="behandelte">
+               <persName>Defuns, Adalbert</persName>
+               <idno type="gnd">http://d-nb.info/gnd/1069352357</idno>
+               </person>
+            <person xml:id="person__142" role="behandelte">
+               <persName>Hemm, Johann Baptist</persName>
+               </person>
+            <person xml:id="person__143" role="behandelte">
+               <persName>Illem, Odo</persName>
+               </person>
+            <person xml:id="person__144" role="behandelte">
+               <persName>Brunner, Augustin</persName>
+               </person>
+            <person xml:id="person__145" role="behandelte">
+               <persName>Schretl, Karlmann</persName>
+               </person>
+            <person xml:id="person__146" role="behandelte">
+               <persName>Baumbach, Hyazinth</persName>
+               <idno type="gnd">http://d-nb.info/gnd/123371554</idno>
+               </person>
+            <person xml:id="person__147" role="behandelte">
+               <persName>Sigler, Georg Konrad</persName>
+               </person>
+            <person xml:id="person__149" role="behandelte">
+               <persName>Spies, Benedikt</persName>
+               </person>
+            <person xml:id="person__150" role="behandelte">
+               <persName>Imfeld, Gregor</persName>
+               </person>
+            <person xml:id="person__151" role="behandelte">
+               <persName>Haiden, Placidus</persName>
+               <idno type="gnd">http://d-nb.info/gnd/10015669X</idno>
+               <idno type="GND">http://d-nb.info/gnd/10015669X</idno>
+               </person>
+            <person xml:id="person__152" role="behandelte">
+               <persName>Fischer, Anselm</persName>
+               <idno type="gnd">http://d-nb.info/gnd/130136557</idno>
+               <idno type="GND">http://d-nb.info/gnd/130136557</idno>
+               </person>
+            <person xml:id="person__153" role="behandelte">
+               <persName>Krez, Albert</persName>
+               </person>
+            <person xml:id="person__154" role="behandelte">
+               <persName>Egger, Felix</persName>
+               <idno type="gnd">http://d-nb.info/gnd/100120296</idno>
+               </person>
+            <person xml:id="person__155" role="behandelte">
+               <persName>Cretoni, Bernardo</persName>
+               </person>
+            <person xml:id="person__156" role="behandelte">
+               <persName>Ò, Severino de</persName>
+               </person>
+            <person xml:id="person__157" role="behandelte">
+               <persName>Avanzi, Flaminio</persName>
+               </person>
+            <person xml:id="person__158" role="behandelte">
+               <persName>Wetter, Wolfgang</persName>
+               </person>
+            <person xml:id="person__159" role="behandelte">
+               <persName>Grafsturm, Innozenz</persName>
+               <idno type="gnd">http://d-nb.info/gnd/12243711X</idno>
+               </person>
+            <person xml:id="person__160" role="behandelte">
+               <persName>Klitsch, Candidus</persName>
+               </person>
+            <person xml:id="person__161" role="behandelte">
+               <persName>Guolfinger von Steinsberg, Amand</persName>
+               </person>
+            </listPerson></abstract><textClass>
             <classCode scheme="RNA">Korrespondenzen</classCode>
          </textClass>
       </profileDesc>

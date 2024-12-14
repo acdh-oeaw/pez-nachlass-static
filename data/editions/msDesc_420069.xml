@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_420069.xml">
    <teiHeader>
       <fileDesc>
@@ -51,7 +52,70 @@
          </sourceDesc>
       </fileDesc>
       <profileDesc>
-         <textClass>
+         <abstract><listPerson><person xml:id="person__16" role="behandelte">
+               <persName>Pez, Bernhard</persName>
+               </person>
+            <person xml:id="person__144" role="urheber">
+               <persName>Brunner, Augustin</persName>
+               </person>
+            <person xml:id="person__815" role="urheber">
+               <persName>Mayer, Theodor</persName>
+               </person>
+            <person xml:id="person__979" role="behandelte">
+               <persName>Otto von St. Blasien</persName>
+               </person>
+            <person xml:id="person__1062" role="behandelte">
+               <persName>Werner I.</persName>
+               </person>
+            <person xml:id="person__1064" role="behandelte">
+               <persName>Rustenus von St. Blasien</persName>
+               </person>
+            <person xml:id="person__1065" role="behandelte">
+               <persName>Werner II. von Küssenberg</persName>
+               </person>
+            <person xml:id="person__1066" role="behandelte">
+               <persName>Hl. Frowin von Engelberg</persName>
+               </person>
+            <person xml:id="person__1067" role="behandelte">
+               <persName>Molitor, Kaspar</persName>
+               </person>
+            <person xml:id="person__1068" role="behandelte">
+               <persName>Koffer, Beringer</persName>
+               </person>
+            <person xml:id="person__1069" role="behandelte">
+               <persName>Homburger, Othmar</persName>
+               </person>
+            <person xml:id="person__1070" role="behandelte">
+               <persName>Rauber, Placidus</persName>
+               </person>
+            <person xml:id="person__1071" role="behandelte">
+               <persName>Gebel, Benedikt</persName>
+               <idno type="gnd">http://d-nb.info/gnd/139754261</idno>
+               <idno type="GND">http://d-nb.info/gnd/101097549</idno>
+               </person>
+            <person xml:id="person__1072" role="behandelte">
+               <persName>Eiselin, Johann Baptist</persName>
+               <idno type="gnd">http://d-nb.info/gnd/1017628874</idno>
+               </person>
+            <person xml:id="person__1073" role="behandelte">
+               <persName>Steigentesch, Meinrad</persName>
+               </person>
+            <person xml:id="person__1074" role="behandelte">
+               <persName>Wex, Johann Chrysostomus</persName>
+               </person>
+            <person xml:id="person__1075" role="behandelte">
+               <persName>Sedelmayr, Roman</persName>
+               </person>
+            <person xml:id="person__1358" role="behandelte">
+               <persName>Uto I.</persName>
+               </person>
+            <person xml:id="person__2880" role="behandelte">
+               <persName>Valentin von St. Blasien</persName>
+               </person>
+            <person xml:id="person__2915" role="behandelte">
+               <persName>Arnefrid (OSB St. Blasien)</persName>
+               </person>
+            </listPerson></abstract><textClass>
             <classCode scheme="RNA">Korrespondenzen</classCode>
          </textClass>
       </profileDesc>

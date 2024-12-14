@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_420984.xml">
    <teiHeader>
       <fileDesc>
@@ -43,7 +44,35 @@
          </sourceDesc>
       </fileDesc>
       <profileDesc>
-         <textClass>
+         <abstract><listPerson><person xml:id="person__16" role="behandelte">
+               <persName>Pez, Bernhard</persName>
+               </person>
+            <person xml:id="person__151" role="urheber">
+               <persName>Haiden, Placidus</persName>
+               <idno type="gnd">http://d-nb.info/gnd/10015669X</idno>
+               <idno type="GND">http://d-nb.info/gnd/10015669X</idno>
+               </person>
+            <person xml:id="person__329" role="behandelte">
+               <persName>Hl. Hermann von Niederaltaich</persName>
+               </person>
+            <person xml:id="person__330" role="behandelte">
+               <persName>Heinrich Steoro</persName>
+               </person>
+            <person xml:id="person__842" role="behandelte">
+               <persName>Wenzel von Niederaltaich</persName>
+               </person>
+            <person xml:id="person__843" role="behandelte">
+               <persName>Altmann von Niederaltaich</persName>
+               </person>
+            <person xml:id="person__845" role="behandelte">
+               <persName>Wolfgang von Niederaltaich</persName>
+               </person>
+            <person xml:id="person__995" role="behandelte">
+               <persName>Hauer, Georg</persName>
+               <idno type="gnd">http://d-nb.info/gnd/104277467</idno>
+               <idno type="GND">http://d-nb.info/gnd/104277467</idno>
+               </person>
+            </listPerson></abstract><textClass>
             <classCode scheme="RNA">Sammlungen und Objekte</classCode>
          </textClass>
       </profileDesc>

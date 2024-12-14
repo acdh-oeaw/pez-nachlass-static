@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_413763.xml">
    <teiHeader>
       <fileDesc>
@@ -45,7 +46,341 @@
          </sourceDesc>
       </fileDesc>
       <profileDesc>
-         <textClass>
+         <abstract><listPerson><person xml:id="person__51" role="behandelte">
+               <persName>Oberascher, Maurus</persName>
+               </person>
+            <person xml:id="person__52" role="behandelte">
+               <persName>Seeau, Koloman von</persName>
+               </person>
+            <person xml:id="person__388" role="behandelte">
+               <persName>Konrad von Mondsee</persName>
+               </person>
+            <person xml:id="person__550" role="behandelte">
+               <persName>Luitold von Mondsee</persName>
+               </person>
+            <person xml:id="person__551" role="behandelte">
+               <persName>Eberhard von Mondsee</persName>
+               </person>
+            <person xml:id="person__552" role="behandelte">
+               <persName>Hartwig von Talmairign</persName>
+               </person>
+            <person xml:id="person__554" role="behandelte">
+               <persName>Warzierloch, Heinrich</persName>
+               </person>
+            <person xml:id="person__555" role="behandelte">
+               <persName>Gundaker von Mondsee</persName>
+               </person>
+            <person xml:id="person__556" role="behandelte">
+               <persName>Christian von Mondsee</persName>
+               </person>
+            <person xml:id="person__557" role="behandelte">
+               <persName>Trenbeck, Johannes</persName>
+               </person>
+            <person xml:id="person__558" role="behandelte">
+               <persName>Maurus von Mondsee</persName>
+               </person>
+            <person xml:id="person__559" role="behandelte">
+               <persName>Hachelstetter, Johannes</persName>
+               </person>
+            <person xml:id="person__560" role="behandelte">
+               <persName>Pfister, Ulrich</persName>
+               </person>
+            <person xml:id="person__561" role="behandelte">
+               <persName>Staffelstain, Johannes</persName>
+               </person>
+            <person xml:id="person__562" role="behandelte">
+               <persName>Immerteuer, Heinrich</persName>
+               </person>
+            <person xml:id="person__563" role="behandelte">
+               <persName>Kogler, Wilhelm</persName>
+               </person>
+            <person xml:id="person__564" role="behandelte">
+               <persName>Keser, Jakob</persName>
+               </person>
+            <person xml:id="person__565" role="behandelte">
+               <persName>Fuesstainer, Sebastian</persName>
+               </person>
+            <person xml:id="person__566" role="behandelte">
+               <persName>Andreas von Mondsee</persName>
+               </person>
+            <person xml:id="person__567" role="behandelte">
+               <persName>Wäring, Wolfgang de</persName>
+               </person>
+            <person xml:id="person__568" role="behandelte">
+               <persName>Werdea, Hieronymus de</persName>
+               </person>
+            <person xml:id="person__569" role="behandelte">
+               <persName>Eck von Piburg, Benedikt</persName>
+               <idno type="gnd">http://d-nb.info/gnd/1072304376</idno>
+               </person>
+            <person xml:id="person__570" role="behandelte">
+               <persName>Ulrich von Mondsee</persName>
+               </person>
+            <person xml:id="person__571" role="behandelte">
+               <persName>Erhard von Mondsee</persName>
+               </person>
+            <person xml:id="person__572" role="behandelte">
+               <persName>Weigkard von Mondsee</persName>
+               </person>
+            <person xml:id="person__573" role="behandelte">
+               <persName>Kaspar von Altenburg</persName>
+               </person>
+            <person xml:id="person__574" role="behandelte">
+               <persName>Hauser, Johannes</persName>
+               </person>
+            <person xml:id="person__575" role="behandelte">
+               <persName>Walthasar von Mondsee</persName>
+               </person>
+            <person xml:id="person__576" role="behandelte">
+               <persName>Petrus (OSB Mondsee)</persName>
+               </person>
+            <person xml:id="person__577" role="behandelte">
+               <persName>Schiffer, Florian</persName>
+               </person>
+            <person xml:id="person__578" role="behandelte">
+               <persName>Luffzeilner, Benedikt</persName>
+               </person>
+            <person xml:id="person__579" role="behandelte">
+               <persName>Pörzl, Modestus</persName>
+               </person>
+            <person xml:id="person__580" role="behandelte">
+               <persName>Reisinger, Bernhard</persName>
+               </person>
+            <person xml:id="person__581" role="behandelte">
+               <persName>Gorzia, Hieronymus de</persName>
+               </person>
+            <person xml:id="person__582" role="behandelte">
+               <persName>Rudenberger, Stephan</persName>
+               </person>
+            <person xml:id="person__583" role="behandelte">
+               <persName>Schilling, Leonhard</persName>
+               </person>
+            <person xml:id="person__584" role="behandelte">
+               <persName>Schöndorffer, Johannes</persName>
+               </person>
+            <person xml:id="person__585" role="behandelte">
+               <persName>Räbl, Othmar</persName>
+               </person>
+            <person xml:id="person__586" role="behandelte">
+               <persName>Priester, Roman</persName>
+               </person>
+            <person xml:id="person__587" role="behandelte">
+               <persName>Hölzl, Adalgar</persName>
+               </person>
+            <person xml:id="person__588" role="behandelte">
+               <persName>Christoph von Mondsee</persName>
+               </person>
+            <person xml:id="person__589" role="behandelte">
+               <persName>Leopold von Mondsee</persName>
+               </person>
+            <person xml:id="person__590" role="behandelte">
+               <persName>Hohenkirchner, Sigismund</persName>
+               </person>
+            <person xml:id="person__591" role="behandelte">
+               <persName>Puecher, Marcus</persName>
+               </person>
+            <person xml:id="person__592" role="behandelte">
+               <persName>Laurentius von Mondsee</persName>
+               </person>
+            <person xml:id="person__593" role="behandelte">
+               <persName>Sedelmayr, Jodok</persName>
+               </person>
+            <person xml:id="person__594" role="behandelte">
+               <persName>Agricola, Johannes Wolfgang</persName>
+               </person>
+            <person xml:id="person__595" role="behandelte">
+               <persName>Wasner, Johannes Christoph Victor</persName>
+               </person>
+            <person xml:id="person__596" role="behandelte">
+               <persName>Weiglmayr, Johannes</persName>
+               </person>
+            <person xml:id="person__597" role="behandelte">
+               <persName>Grassleitner, Thomas</persName>
+               </person>
+            <person xml:id="person__598" role="behandelte">
+               <persName>Gross, Anton</persName>
+               </person>
+            <person xml:id="person__599" role="behandelte">
+               <persName>Rebiser, Simon</persName>
+               </person>
+            <person xml:id="person__600" role="behandelte">
+               <persName>Kymicher, Caspar</persName>
+               </person>
+            <person xml:id="person__601" role="behandelte">
+               <persName>Hörmann, Johannes</persName>
+               </person>
+            <person xml:id="person__602" role="behandelte">
+               <persName>Probst, Wolfgang David</persName>
+               </person>
+            <person xml:id="person__603" role="behandelte">
+               <persName>Schaller, Maurus</persName>
+               </person>
+            <person xml:id="person__604" role="behandelte">
+               <persName>Nieberlin, Balthasar</persName>
+               </person>
+            <person xml:id="person__605" role="behandelte">
+               <persName>Mennichen, Placidus Georg</persName>
+               </person>
+            <person xml:id="person__606" role="behandelte">
+               <persName>Kemmerer, Bernhard</persName>
+               </person>
+            <person xml:id="person__607" role="behandelte">
+               <persName>Alxinger, Aemilian</persName>
+               </person>
+            <person xml:id="person__608" role="behandelte">
+               <persName>Althamer, Magnus</persName>
+               </person>
+            <person xml:id="person__609" role="behandelte">
+               <persName>Kistler, Michael</persName>
+               </person>
+            <person xml:id="person__610" role="behandelte">
+               <persName>Klinglin, Roman</persName>
+               </person>
+            <person xml:id="person__611" role="behandelte">
+               <persName>Soyer, Franz</persName>
+               </person>
+            <person xml:id="person__612" role="behandelte">
+               <persName>Wibmer, Symbert</persName>
+               </person>
+            <person xml:id="person__613" role="behandelte">
+               <persName>Thalmann, Gregor</persName>
+               </person>
+            <person xml:id="person__614" role="behandelte">
+               <persName>Stumbvoll, Caspar</persName>
+               </person>
+            <person xml:id="person__615" role="behandelte">
+               <persName>Lebenhauser, Melchior</persName>
+               </person>
+            <person xml:id="person__616" role="behandelte">
+               <persName>Kolb, Cölestin</persName>
+               </person>
+            <person xml:id="person__617" role="behandelte">
+               <persName>Widmasser, Martin</persName>
+               </person>
+            <person xml:id="person__618" role="behandelte">
+               <persName>Rueff, Placidus</persName>
+               </person>
+            <person xml:id="person__619" role="behandelte">
+               <persName>Poll, Sebastian</persName>
+               </person>
+            <person xml:id="person__620" role="behandelte">
+               <persName>Voglmayr, Paul</persName>
+               </person>
+            <person xml:id="person__621" role="behandelte">
+               <persName>Eder, Franz</persName>
+               <idno type="gnd">http://d-nb.info/gnd/133974960</idno>
+               </person>
+            <person xml:id="person__622" role="behandelte">
+               <persName>Weinbrenner, Dominik</persName>
+               </person>
+            <person xml:id="person__623" role="behandelte">
+               <persName>Wibmer, Alphons</persName>
+               </person>
+            <person xml:id="person__624" role="behandelte">
+               <persName>Pinder, Roman</persName>
+               </person>
+            <person xml:id="person__625" role="behandelte">
+               <persName>Pacher, Anselm</persName>
+               </person>
+            <person xml:id="person__626" role="behandelte">
+               <persName>Anfang, Anton</persName>
+               <idno type="gnd">http://d-nb.info/gnd/121812014</idno>
+               <idno type="GND">http://d-nb.info/gnd/121812014</idno>
+               </person>
+            <person xml:id="person__627" role="behandelte">
+               <persName>Resch, Aemilian</persName>
+               </person>
+            <person xml:id="person__628" role="behandelte">
+               <persName>Öller, Benedikt</persName>
+               </person>
+            <person xml:id="person__629" role="behandelte">
+               <persName>Göbl, Amand</persName>
+               </person>
+            <person xml:id="person__630" role="behandelte">
+               <persName>Berthold, Edmund</persName>
+               </person>
+            <person xml:id="person__631" role="behandelte">
+               <persName>Kassnikh, Gregor</persName>
+               </person>
+            <person xml:id="person__632" role="behandelte">
+               <persName>Wimpacher, Alphons</persName>
+               </person>
+            <person xml:id="person__633" role="behandelte">
+               <persName>Lader, Michael</persName>
+               </person>
+            <person xml:id="person__634" role="behandelte">
+               <persName>Kuchler, Coelestin</persName>
+               </person>
+            <person xml:id="person__635" role="behandelte">
+               <persName>Sambs, Wolfgang</persName>
+               </person>
+            <person xml:id="person__636" role="behandelte">
+               <persName>Kammerpauer, Placidus</persName>
+               </person>
+            <person xml:id="person__637" role="behandelte">
+               <persName>Zeller, Leopold</persName>
+               </person>
+            <person xml:id="person__638" role="behandelte">
+               <persName>Schopper, Joseph</persName>
+               </person>
+            <person xml:id="person__639" role="behandelte">
+               <persName>Haydn, Konrad</persName>
+               </person>
+            <person xml:id="person__640" role="behandelte">
+               <persName>Mandl, Oddo</persName>
+               </person>
+            <person xml:id="person__641" role="behandelte">
+               <persName>Hiltprandt, Magnus</persName>
+               </person>
+            <person xml:id="person__642" role="behandelte">
+               <persName>Engel, Oddo</persName>
+               </person>
+            <person xml:id="person__643" role="behandelte">
+               <persName>Schwab, Gregor</persName>
+               </person>
+            <person xml:id="person__644" role="behandelte">
+               <persName>Trebrer, Augustin</persName>
+               </person>
+            <person xml:id="person__645" role="behandelte">
+               <persName>Grainer, Bonifaz</persName>
+               </person>
+            <person xml:id="person__646" role="behandelte">
+               <persName>Seydenegg, Adalbert</persName>
+               </person>
+            <person xml:id="person__648" role="behandelte">
+               <persName>Schiemer, Marian</persName>
+               </person>
+            <person xml:id="person__649" role="behandelte">
+               <persName>Stadler, Gerhard</persName>
+               </person>
+            <person xml:id="person__650" role="behandelte">
+               <persName>Fecker, Gotthard</persName>
+               </person>
+            <person xml:id="person__651" role="behandelte">
+               <persName>Eisele, Berthold</persName>
+               </person>
+            <person xml:id="person__652" role="behandelte">
+               <persName>Starzer, Roman</persName>
+               </person>
+            <person xml:id="person__653" role="behandelte">
+               <persName>Zeyringer, Robert</persName>
+               </person>
+            <person xml:id="person__654" role="behandelte">
+               <persName>Kuchler, Simon</persName>
+               </person>
+            <person xml:id="person__655" role="behandelte">
+               <persName>Moll, Kasimir</persName>
+               </person>
+            <person xml:id="person__656" role="behandelte">
+               <persName>Sarstainer, Hermann</persName>
+               </person>
+            <person xml:id="person__657" role="behandelte">
+               <persName>Lidl, Bernhard</persName>
+               </person>
+            <person xml:id="person__658" role="behandelte">
+               <persName>Helmreich, Rupert</persName>
+               </person>
+            </listPerson></abstract><textClass>
             <classCode scheme="RNA">Sammlungen und Objekte</classCode>
          </textClass>
       </profileDesc>

@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_425725.xml">
    <teiHeader>
       <fileDesc>
@@ -44,7 +45,794 @@
          </sourceDesc>
       </fileDesc>
       <profileDesc>
-         <textClass>
+         <abstract><listPerson><person xml:id="person__163" role="behandelte">
+               <persName>Trithemius, Johannes</persName>
+               </person>
+            <person xml:id="person__324" role="behandelte">
+               <persName>Scheckmann, Johann</persName>
+               </person>
+            <person xml:id="person__394" role="behandelte">
+               <persName>Grillo, Angelo</persName>
+               <idno type="gnd">http://d-nb.info/gnd/1090010273</idno>
+               <idno type="GND">http://d-nb.info/gnd/119159899</idno>
+               </person>
+            <person xml:id="person__411" role="behandelte">
+               <persName>Albrecht von Bonstetten</persName>
+               </person>
+            <person xml:id="person__412" role="behandelte">
+               <persName>Griesherr, Johannes</persName>
+               </person>
+            <person xml:id="person__428" role="behandelte">
+               <persName>Wion, Arnold</persName>
+               </person>
+            <person xml:id="person__485" role="behandelte">
+               <persName>Graffi, Giacomo</persName>
+               <idno type="gnd">http://d-nb.info/gnd/128520191</idno>
+               </person>
+            <person xml:id="person__488" role="behandelte">
+               <persName>Bertels, Johannes</persName>
+               <idno type="gnd">http://d-nb.info/gnd/10003781X</idno>
+               </person>
+            <person xml:id="person__694" role="behandelte">
+               <persName>Génébrard, Gilbert</persName>
+               <idno type="gnd">http://d-nb.info/gnd/129032123</idno>
+               <idno type="GND">http://d-nb.info/gnd/18832688X</idno>
+               </person>
+            <person xml:id="person__697" role="behandelte">
+               <persName>Périon, Joachim</persName>
+               </person>
+            <person xml:id="person__712" role="behandelte">
+               <persName>Johannes Stabulaus</persName>
+               </person>
+            <person xml:id="person__898" role="behandelte">
+               <persName>Ellenbog, Nikolaus</persName>
+               <idno type="gnd">http://d-nb.info/gnd/100964826</idno>
+               <idno type="GND">http://d-nb.info/gnd/175431825</idno>
+               </person>
+            <person xml:id="person__988" role="behandelte">
+               <persName>Lang, Andreas</persName>
+               </person>
+            <person xml:id="person__990" role="behandelte">
+               <persName>Heinrich von Gelnhausen</persName>
+               </person>
+            <person xml:id="person__995" role="behandelte">
+               <persName>Hauer, Georg</persName>
+               <idno type="gnd">http://d-nb.info/gnd/104277467</idno>
+               <idno type="GND">http://d-nb.info/gnd/104277467</idno>
+               </person>
+            <person xml:id="person__1077" role="behandelte">
+               <persName>Barbo, Ludovico</persName>
+               <idno type="gnd">http://d-nb.info/gnd/18712972X</idno>
+               <idno type="GND">http://d-nb.info/gnd/119411180</idno>
+               </person>
+            <person xml:id="person__1080" role="behandelte">
+               <persName>Marcus a Brixia</persName>
+               </person>
+            <person xml:id="person__1081" role="behandelte">
+               <persName>Pignolato, Prosdocimo</persName>
+               </person>
+            <person xml:id="person__1133" role="behandelte">
+               <persName>Tesenbacher, Christian</persName>
+               </person>
+            <person xml:id="person__1168" role="behandelte">
+               <persName>Lampert von Hersfeld</persName>
+               </person>
+            <person xml:id="person__1226" role="behandelte">
+               <persName>Walloncapelle, Petrus de</persName>
+               </person>
+            <person xml:id="person__1246" role="behandelte">
+               <persName>Othmar Luscinius (Nachtgall)</persName>
+               </person>
+            <person xml:id="person__1248" role="behandelte">
+               <persName>Johannes Keck</persName>
+               </person>
+            <person xml:id="person__1255" role="behandelte">
+               <persName>Albert von Siegburg</persName>
+               </person>
+            <person xml:id="person__1377" role="behandelte">
+               <persName>Rumpler, Angelus</persName>
+               </person>
+            <person xml:id="person__1493" role="behandelte">
+               <persName>Bernhard von Waging</persName>
+               </person>
+            <person xml:id="person__1539" role="behandelte">
+               <persName>Martin von Leibitz</persName>
+               </person>
+            <person xml:id="person__1557" role="behandelte">
+               <persName>Christoph Schleicher</persName>
+               </person>
+            <person xml:id="person__1560" role="behandelte">
+               <persName>Anton van Hove (Hovaeus)</persName>
+               </person>
+            <person xml:id="person__1800" role="behandelte">
+               <persName>Anonymus (OSB Montecassino)</persName>
+               </person>
+            <person xml:id="person__2478" role="behandelte">
+               <persName>Jacobus von Egmond, Wilhelm</persName>
+               </person>
+            <person xml:id="person__2538" role="behandelte">
+               <persName>Gregor Hyrte</persName>
+               </person>
+            <person xml:id="person__2541" role="behandelte">
+               <persName>Anton Schnackenburg</persName>
+               </person>
+            <person xml:id="person__2544" role="behandelte">
+               <persName>Johannes Legatius</persName>
+               </person>
+            <person xml:id="person__2567" role="behandelte">
+               <persName>Louis de Blois</persName>
+               </person>
+            <person xml:id="person__2590" role="behandelte">
+               <persName>Rusconi, Ambrogio</persName>
+               </person>
+            <person xml:id="person__2595" role="behandelte">
+               <persName>Villagut, Alfonso</persName>
+               </person>
+            <person xml:id="person__2607" role="behandelte">
+               <persName>Bucci da Lunato, Arcangelo</persName>
+               </person>
+            <person xml:id="person__2659" role="behandelte">
+               <persName>Cisneros, García Jiménez de</persName>
+               <idno type="gnd">http://d-nb.info/gnd/100964974</idno>
+               </person>
+            <person xml:id="person__2680" role="behandelte">
+               <persName>Alfonso de Burgos, Pedro</persName>
+               </person>
+            <person xml:id="person__2710" role="behandelte">
+               <persName>Benedictus a S. Germano</persName>
+               </person>
+            <person xml:id="person__2711" role="behandelte">
+               <persName>Bonsignori, Benedetto</persName>
+               </person>
+            <person xml:id="person__2715" role="behandelte">
+               <persName>Bartolomeo Cepolla (Cipolla)</persName>
+               </person>
+            <person xml:id="person__2717" role="behandelte">
+               <persName>Dell'Uva, Benedetto</persName>
+               <idno type="gnd">http://d-nb.info/gnd/1060527065</idno>
+               </person>
+            <person xml:id="person__2950" role="behandelte">
+               <persName>Petrus von Kastl</persName>
+               </person>
+            <person xml:id="person__2951" role="behandelte">
+               <persName>Richard Foulsham</persName>
+               </person>
+            <person xml:id="person__2952" role="behandelte">
+               <persName>Nicolaus Vener</persName>
+               </person>
+            <person xml:id="person__2953" role="behandelte">
+               <persName>Laurentius Holbecke von Ramsey</persName>
+               </person>
+            <person xml:id="person__2954" role="behandelte">
+               <persName>John Boston von Bury</persName>
+               </person>
+            <person xml:id="person__2955" role="behandelte">
+               <persName>Anonymus (OSB St.-Denis, Biograph König Karl IV.)</persName>
+               </person>
+            <person xml:id="person__2956" role="behandelte">
+               <persName>Andreas de S. Ambrosio</persName>
+               </person>
+            <person xml:id="person__2957" role="behandelte">
+               <persName>Philippe de Villette</persName>
+               </person>
+            <person xml:id="person__2958" role="behandelte">
+               <persName>Petrus Alberti</persName>
+               </person>
+            <person xml:id="person__2959" role="behandelte">
+               <persName>Jean de la Gogue</persName>
+               </person>
+            <person xml:id="person__2960" role="behandelte">
+               <persName>Johannes Langdon</persName>
+               </person>
+            <person xml:id="person__2961" role="behandelte">
+               <persName>Anonymus (OSB Reinhardsbrunn)</persName>
+               </person>
+            <person xml:id="person__2962" role="behandelte">
+               <persName>Andreas Hispanus de Escobar</persName>
+               </person>
+            <person xml:id="person__2963" role="behandelte">
+               <persName>Heinrich von Gulpen</persName>
+               </person>
+            <person xml:id="person__2964" role="behandelte">
+               <persName>Heinrich II. Moyker</persName>
+               </person>
+            <person xml:id="person__2965" role="behandelte">
+               <persName>Thomas Langleius</persName>
+               </person>
+            <person xml:id="person__2966" role="behandelte">
+               <persName>Nicolaus de Tudeschis</persName>
+               </person>
+            <person xml:id="person__2967" role="behandelte">
+               <persName>Johannes Rode</persName>
+               </person>
+            <person xml:id="person__2968" role="behandelte">
+               <persName>Johannes von Lydgate</persName>
+               </person>
+            <person xml:id="person__2969" role="behandelte">
+               <persName>Thomas Walsingham</persName>
+               </person>
+            <person xml:id="person__2971" role="behandelte">
+               <persName>Hermann von Kempen</persName>
+               </person>
+            <person xml:id="person__2972" role="behandelte">
+               <persName>John Wethamstead</persName>
+               </person>
+            <person xml:id="person__2973" role="behandelte">
+               <persName>John Stowe</persName>
+               </person>
+            <person xml:id="person__2975" role="behandelte">
+               <persName>Cölestinus "Ariminensis"</persName>
+               </person>
+            <person xml:id="person__2976" role="behandelte">
+               <persName>Andreas Belga</persName>
+               </person>
+            <person xml:id="person__2977" role="behandelte">
+               <persName>Johannes von Worcester</persName>
+               </person>
+            <person xml:id="person__2978" role="behandelte">
+               <persName>Martin Granter</persName>
+               </person>
+            <person xml:id="person__2979" role="behandelte">
+               <persName>David Boys</persName>
+               </person>
+            <person xml:id="person__2980" role="behandelte">
+               <persName>Jean Chartier</persName>
+               </person>
+            <person xml:id="person__2981" role="behandelte">
+               <persName>Bernard Terzi</persName>
+               </person>
+            <person xml:id="person__2982" role="behandelte">
+               <persName>Anna Pferinger</persName>
+               </person>
+            <person xml:id="person__2983" role="behandelte">
+               <persName>Olivier de Langhe</persName>
+               </person>
+            <person xml:id="person__2984" role="behandelte">
+               <persName>Arsenius Belga</persName>
+               </person>
+            <person xml:id="person__2985" role="behandelte">
+               <persName>Anianus Coussere</persName>
+               </person>
+            <person xml:id="person__2986" role="behandelte">
+               <persName>Jean de Looz</persName>
+               </person>
+            <person xml:id="person__2987" role="behandelte">
+               <persName>Wagner, Peter</persName>
+               </person>
+            <person xml:id="person__2988" role="behandelte">
+               <persName>Thomas Rudburn</persName>
+               </person>
+            <person xml:id="person__2990" role="behandelte">
+               <persName>Hilarion von S. Nazario zu Verona</persName>
+               </person>
+            <person xml:id="person__2991" role="behandelte">
+               <persName>Anonymus (Chronist St. Maria und St. Aegidius zu Braunschweig)</persName>
+               </person>
+            <person xml:id="person__2992" role="behandelte">
+               <persName>Cornelius Menghers von Santvliet</persName>
+               </person>
+            <person xml:id="person__2993" role="behandelte">
+               <persName>Johannes Buchler</persName>
+               </person>
+            <person xml:id="person__2994" role="behandelte">
+               <persName>John Stone</persName>
+               </person>
+            <person xml:id="person__2995" role="behandelte">
+               <persName>Johannes von St.-Bertin</persName>
+               </person>
+            <person xml:id="person__2996" role="behandelte">
+               <persName>Jean de Nivelle</persName>
+               </person>
+            <person xml:id="person__2997" role="behandelte">
+               <persName>"Nicolaus Donis"</persName>
+               </person>
+            <person xml:id="person__2998" role="behandelte">
+               <persName>Georg Liebenknecht</persName>
+               </person>
+            <person xml:id="person__2999" role="behandelte">
+               <persName>Anonymus (OSB Kempten, Biograph Königin Hildegard)</persName>
+               </person>
+            <person xml:id="person__3001" role="behandelte">
+               <persName>Henning Hagen</persName>
+               </person>
+            <person xml:id="person__3002" role="behandelte">
+               <persName>Anonymus (OSB Braunschweig, Chronograph Hl. Aegidius)</persName>
+               </person>
+            <person xml:id="person__3003" role="behandelte">
+               <persName>Cornelius "monachus Germanus"</persName>
+               </person>
+            <person xml:id="person__3004" role="behandelte">
+               <persName>Bartholomäus Paruta</persName>
+               </person>
+            <person xml:id="person__3005" role="behandelte">
+               <persName>Anonymus (Autor "Historia Monastica")</persName>
+               </person>
+            <person xml:id="person__3006" role="behandelte">
+               <persName>Fridericus Astronomus</persName>
+               </person>
+            <person xml:id="person__3007" role="behandelte">
+               <persName>Francois de Rivo</persName>
+               </person>
+            <person xml:id="person__3008" role="behandelte">
+               <persName>Thomas Cawston</persName>
+               </person>
+            <person xml:id="person__3009" role="behandelte">
+               <persName>Konrad von Rodenberg</persName>
+               </person>
+            <person xml:id="person__3011" role="behandelte">
+               <persName>Carolus Fernandus</persName>
+               </person>
+            <person xml:id="person__3012" role="behandelte">
+               <persName>Brebbia, Gabriele</persName>
+               </person>
+            <person xml:id="person__3013" role="behandelte">
+               <persName>Guido Juvenalis</persName>
+               </person>
+            <person xml:id="person__3014" role="behandelte">
+               <persName>Thomas Scropus</persName>
+               </person>
+            <person xml:id="person__3015" role="behandelte">
+               <persName>Petrus de Stossen</persName>
+               </person>
+            <person xml:id="person__3016" role="behandelte">
+               <persName>Blaer, Johannes Diestimius</persName>
+               </person>
+            <person xml:id="person__3017" role="behandelte">
+               <persName>Sebastian "Swenczer" von St. Emmeram</persName>
+               </person>
+            <person xml:id="person__3018" role="behandelte">
+               <persName>Duraclusius, Johannes</persName>
+               <idno type="gnd">http://d-nb.info/gnd/119658852</idno>
+               </person>
+            <person xml:id="person__3019" role="behandelte">
+               <persName>Stopfer, Vitus</persName>
+               </person>
+            <person xml:id="person__3021" role="behandelte">
+               <persName>Rehbock, Martin</persName>
+               </person>
+            <person xml:id="person__3022" role="behandelte">
+               <persName>Willermus von St.-Martin zu Tours</persName>
+               </person>
+            <person xml:id="person__3023" role="behandelte">
+               <persName>Wilhelm von St. Maximin zu Trier</persName>
+               </person>
+            <person xml:id="person__3024" role="behandelte">
+               <persName>Mendocius Belvaletus (Beauvalet)</persName>
+               </person>
+            <person xml:id="person__3025" role="behandelte">
+               <persName>"Basiliius Valentinus"</persName>
+               </person>
+            <person xml:id="person__3026" role="behandelte">
+               <persName>Melchior von Schönau</persName>
+               </person>
+            <person xml:id="person__3027" role="behandelte">
+               <persName>Johannes von Glastonbury</persName>
+               </person>
+            <person xml:id="person__3028" role="behandelte">
+               <persName>Benedict Maillard</persName>
+               </person>
+            <person xml:id="person__3029" role="behandelte">
+               <persName>Fabianus Cretensis</persName>
+               </person>
+            <person xml:id="person__3030" role="behandelte">
+               <persName>Luca Bernardo von Bescia</persName>
+               </person>
+            <person xml:id="person__3032" role="behandelte">
+               <persName>Johannes von Andernach</persName>
+               </person>
+            <person xml:id="person__3033" role="behandelte">
+               <persName>Antonius a Sancto Huberto</persName>
+               </person>
+            <person xml:id="person__3034" role="behandelte">
+               <persName>Raphael Fulgosius</persName>
+               </person>
+            <person xml:id="person__3035" role="behandelte">
+               <persName>Henry Bradshaw</persName>
+               </person>
+            <person xml:id="person__3037" role="behandelte">
+               <persName>Leonardus de Mansuetis</persName>
+               </person>
+            <person xml:id="person__3038" role="behandelte">
+               <persName>Anonymus ("Hamerslebiensis")</persName>
+               </person>
+            <person xml:id="person__3039" role="behandelte">
+               <persName>Hehler, Georg</persName>
+               </person>
+            <person xml:id="person__3040" role="behandelte">
+               <persName>Basse, Heinrich</persName>
+               <idno type="gnd">http://d-nb.info/gnd/119614294</idno>
+               <idno type="GND">http://d-nb.info/gnd/119614294</idno>
+               </person>
+            <person xml:id="person__3041" role="behandelte">
+               <persName>Langius, Paulus</persName>
+               </person>
+            <person xml:id="person__3042" role="behandelte">
+               <persName>Apollo von Vilbell</persName>
+               </person>
+            <person xml:id="person__3043" role="behandelte">
+               <persName>Jacobus Astensis</persName>
+               </person>
+            <person xml:id="person__3044" role="behandelte">
+               <persName>Anonymus (Chronograph St. Michael zu Hildesheim)</persName>
+               </person>
+            <person xml:id="person__3045" role="behandelte">
+               <persName>Ignatius Florentinus</persName>
+               </person>
+            <person xml:id="person__3046" role="behandelte">
+               <persName>Schwalbe (Chelidonius), Benedikt</persName>
+               </person>
+            <person xml:id="person__3047" role="behandelte">
+               <persName>"Alexius"</persName>
+               </person>
+            <person xml:id="person__3048" role="behandelte">
+               <persName>Benedictus Maioricensis</persName>
+               </person>
+            <person xml:id="person__3049" role="behandelte">
+               <persName>Bodo, Heinrich</persName>
+               <idno type="gnd">http://d-nb.info/gnd/10427526X</idno>
+               <idno type="GND">http://d-nb.info/gnd/10427526X</idno>
+               </person>
+            <person xml:id="person__3050" role="behandelte">
+               <persName>Paulus Annicola</persName>
+               </person>
+            <person xml:id="person__3051" role="behandelte">
+               <persName>Dote Venture (Donati), Nicolaus</persName>
+               <idno type="gnd">http://d-nb.info/gnd/1023097990</idno>
+               </person>
+            <person xml:id="person__3052" role="behandelte">
+               <persName>Avila, Luis de</persName>
+               </person>
+            <person xml:id="person__3054" role="behandelte">
+               <persName>Gregorius Viterbiensis</persName>
+               </person>
+            <person xml:id="person__3055" role="behandelte">
+               <persName>Jodocus, Georg</persName>
+               </person>
+            <person xml:id="person__3056" role="behandelte">
+               <persName>Folengo, Giovanni Battista</persName>
+               <idno type="gnd">http://d-nb.info/gnd/1090193122</idno>
+               <idno type="GND">http://d-nb.info/gnd/119673681</idno>
+               </person>
+            <person xml:id="person__3057" role="behandelte">
+               <persName>Anonymus (OCist St.-Sulpice)</persName>
+               </person>
+            <person xml:id="person__3058" role="behandelte">
+               <persName>Folengo, Teofilo</persName>
+               <idno type="gnd">http://d-nb.info/gnd/1089966520</idno>
+               <idno type="GND">http://d-nb.info/gnd/175522103</idno>
+               </person>
+            <person xml:id="person__3059" role="behandelte">
+               <persName>Ruiz, Francisco</persName>
+               </person>
+            <person xml:id="person__3060" role="behandelte">
+               <persName>Anonymus ("Hispanus")</persName>
+               </person>
+            <person xml:id="person__3061" role="behandelte">
+               <persName>Geiger, Simon</persName>
+               </person>
+            <person xml:id="person__3062" role="behandelte">
+               <persName>Cortese, Gregorio</persName>
+               <idno type="gnd">http://d-nb.info/gnd/118921819</idno>
+               </person>
+            <person xml:id="person__3063" role="behandelte">
+               <persName>Petrus de Alcamo</persName>
+               </person>
+            <person xml:id="person__3064" role="behandelte">
+               <persName>Canofilo, Benedetto</persName>
+               <idno type="gnd">http://d-nb.info/gnd/10313123X</idno>
+               <idno type="GND">http://d-nb.info/gnd/10313123X</idno>
+               </person>
+            <person xml:id="person__3066" role="behandelte">
+               <persName>Anonymus (OSB Ilsenburg, Autor "Chronologia abbatum
+                  Ilsineburgensium")</persName>
+               </person>
+            <person xml:id="person__3067" role="behandelte">
+               <persName>Maximus Florentinus</persName>
+               </person>
+            <person xml:id="person__3068" role="behandelte">
+               <persName>Clausius, Heinrich</persName>
+               <idno type="gnd">http://d-nb.info/gnd/1055655603</idno>
+               </person>
+            <person xml:id="person__3069" role="behandelte">
+               <persName>Barclay, Alexander</persName>
+               </person>
+            <person xml:id="person__3071" role="behandelte">
+               <persName>Prosper von S. Paolo fuori le mura</persName>
+               </person>
+            <person xml:id="person__3072" role="behandelte">
+               <persName>Johannes de Virduno</persName>
+               </person>
+            <person xml:id="person__3073" role="behandelte">
+               <persName>Vernier, Benoît</persName>
+               </person>
+            <person xml:id="person__3074" role="behandelte">
+               <persName>Wetzel, Valentin</persName>
+               </person>
+            <person xml:id="person__3075" role="behandelte">
+               <persName>Puterer, Modest</persName>
+               </person>
+            <person xml:id="person__3076" role="behandelte">
+               <persName>Clario, Isidoro</persName>
+               <idno type="gnd">http://d-nb.info/gnd/100084362</idno>
+               <idno type="GND">http://d-nb.info/gnd/100084362</idno>
+               </person>
+            <person xml:id="person__3077" role="behandelte">
+               <persName>Ambrosius a Gandavo</persName>
+               </person>
+            <person xml:id="person__3078" role="behandelte">
+               <persName>Jacob van Gent</persName>
+               </person>
+            <person xml:id="person__3079" role="behandelte">
+               <persName>Dowens, John</persName>
+               </person>
+            <person xml:id="person__3080" role="behandelte">
+               <persName>Ponce de Leon, Pedro</persName>
+               </person>
+            <person xml:id="person__3081" role="behandelte">
+               <persName>Valentino, Eusebio</persName>
+               </person>
+            <person xml:id="person__3082" role="behandelte">
+               <persName>Borghini, Vincenzo Maria</persName>
+               <idno type="gnd">http://d-nb.info/gnd/119242575</idno>
+               <idno type="GND">http://d-nb.info/gnd/187220271</idno>
+               </person>
+            <person xml:id="person__3083" role="behandelte">
+               <persName>Maillé de Brézé, Simon de</persName>
+               </person>
+            <person xml:id="person__3084" role="behandelte">
+               <persName>Lauretus, Hieronymus</persName>
+               </person>
+            <person xml:id="person__3085" role="behandelte">
+               <persName>Buchner, Nikolaus</persName>
+               <idno type="gnd">http://d-nb.info/gnd/119632292</idno>
+               <idno type="GND">http://d-nb.info/gnd/119615290</idno>
+               </person>
+            <person xml:id="person__3087" role="behandelte">
+               <persName>Machuis, Johann Augustin</persName>
+               </person>
+            <person xml:id="person__3088" role="behandelte">
+               <persName>Miniatus "Pitus"</persName>
+               </person>
+            <person xml:id="person__3089" role="behandelte">
+               <persName>Raulinus, Johannes</persName>
+               </person>
+            <person xml:id="person__3091" role="behandelte">
+               <persName>Yvannes, Francois</persName>
+               </person>
+            <person xml:id="person__3092" role="behandelte">
+               <persName>Prologhi, Zanobio</persName>
+               </person>
+            <person xml:id="person__3093" role="behandelte">
+               <persName>Honorius a Panormo</persName>
+               </person>
+            <person xml:id="person__3094" role="behandelte">
+               <persName>Oliva, Jakob</persName>
+               </person>
+            <person xml:id="person__3095" role="behandelte">
+               <persName>Campana, Vincenzo</persName>
+               </person>
+            <person xml:id="person__3096" role="behandelte">
+               <persName>Sangrino, Angelo</persName>
+               </person>
+            <person xml:id="person__3097" role="behandelte">
+               <persName>"Dionysius Gallus"</persName>
+               </person>
+            <person xml:id="person__3098" role="behandelte">
+               <persName>Montaguti, Isidoro</persName>
+               </person>
+            <person xml:id="person__3099" role="behandelte">
+               <persName>Pandolfini, Mauro</persName>
+               </person>
+            <person xml:id="person__3100" role="behandelte">
+               <persName>Castrucci, Raffaello</persName>
+               <idno type="gnd">http://d-nb.info/gnd/1055385193</idno>
+               <idno type="GND">http://d-nb.info/gnd/10244529X</idno>
+               </person>
+            <person xml:id="person__3101" role="behandelte">
+               <persName>Antonius "Fractensis"</persName>
+               </person>
+            <person xml:id="person__3102" role="behandelte">
+               <persName>Hieronymus a Catania</persName>
+               </person>
+            <person xml:id="person__3103" role="behandelte">
+               <persName>Calzolaio, Pietro</persName>
+               </person>
+            <person xml:id="person__3104" role="behandelte">
+               <persName>Thomas von Capua</persName>
+               </person>
+            <person xml:id="person__3105" role="behandelte">
+               <persName>Gaspar de Bovincourt</persName>
+               </person>
+            <person xml:id="person__3106" role="behandelte">
+               <persName>Pastura, Johannes a</persName>
+               </person>
+            <person xml:id="person__3107" role="behandelte">
+               <persName>Crocquet, Andrè</persName>
+               <idno type="gnd">http://d-nb.info/gnd/10009662X</idno>
+               <idno type="GND">http://d-nb.info/gnd/10009662X</idno>
+               </person>
+            <person xml:id="person__3108" role="behandelte">
+               <persName>Benedictus de Villa</persName>
+               </person>
+            <person xml:id="person__3109" role="behandelte">
+               <persName>Cordus, Euricius</persName>
+               <idno type="gnd">http://d-nb.info/gnd/119298414</idno>
+               <idno type="GND">http://d-nb.info/gnd/119298414</idno>
+               </person>
+            <person xml:id="person__3110" role="behandelte">
+               <persName>Charles de Blendecq</persName>
+               </person>
+            <person xml:id="person__3111" role="behandelte">
+               <persName>Fecnam, John</persName>
+               </person>
+            <person xml:id="person__3112" role="behandelte">
+               <persName>Hilarion von Genua</persName>
+               </person>
+            <person xml:id="person__3113" role="behandelte">
+               <persName>Eiselin (Ferreolus), Georg</persName>
+               <idno type="gnd">http://d-nb.info/gnd/119661616</idno>
+               </person>
+            <person xml:id="person__3114" role="behandelte">
+               <persName>Gradi, Basilio</persName>
+               <idno type="gnd">http://d-nb.info/gnd/104050047</idno>
+               <idno type="GND">http://d-nb.info/gnd/104050047</idno>
+               </person>
+            <person xml:id="person__3115" role="behandelte">
+               <persName>Theophil von Siena</persName>
+               </person>
+            <person xml:id="person__3116" role="behandelte">
+               <persName>Froye, Jacques</persName>
+               <idno type="gnd">http://d-nb.info/gnd/119678721</idno>
+               <idno type="GND">http://d-nb.info/gnd/1089637594</idno>
+               </person>
+            <person xml:id="person__3117" role="behandelte">
+               <persName>De Castaniza, Juan</persName>
+               <idno type="gnd">http://d-nb.info/gnd/123605350</idno>
+               <idno type="GND">http://d-nb.info/gnd/123605350</idno>
+               </person>
+            <person xml:id="person__3118" role="behandelte">
+               <persName>"Costantinus Pasolinus"</persName>
+               </person>
+            <person xml:id="person__3119" role="behandelte">
+               <persName>Cardariva, Joannes Maria</persName>
+               </person>
+            <person xml:id="person__3120" role="behandelte">
+               <persName>Vairo, Leonardo</persName>
+               </person>
+            <person xml:id="person__3121" role="behandelte">
+               <persName>Romanus, Placidus</persName>
+               </person>
+            <person xml:id="person__3122" role="behandelte">
+               <persName>Mormilli, Giovanni Evangelista</persName>
+               </person>
+            <person xml:id="person__3123" role="behandelte">
+               <persName>Uberti, Anastasio</persName>
+               </person>
+            <person xml:id="person__3124" role="behandelte">
+               <persName>Petra, Angelo</persName>
+               </person>
+            <person xml:id="person__3125" role="behandelte">
+               <persName>Romanus Sincerus</persName>
+               </person>
+            <person xml:id="person__3126" role="behandelte">
+               <persName>Paolo, Isnardo</persName>
+               </person>
+            <person xml:id="person__3127" role="behandelte">
+               <persName>Amaltea, Adriano</persName>
+               </person>
+            <person xml:id="person__3128" role="behandelte">
+               <persName>Ruscelli, Geronimo</persName>
+               </person>
+            <person xml:id="person__3129" role="behandelte">
+               <persName>Allegret, Filippo</persName>
+               </person>
+            <person xml:id="person__3130" role="behandelte">
+               <persName>Dominicus ab Asula</persName>
+               </person>
+            <person xml:id="person__3132" role="behandelte">
+               <persName>Passaro, Felice</persName>
+               </person>
+            <person xml:id="person__3133" role="behandelte">
+               <persName>Bontemps, Augustine</persName>
+               </person>
+            <person xml:id="person__3134" role="behandelte">
+               <persName>Cabillau, Georges</persName>
+               </person>
+            <person xml:id="person__3135" role="behandelte">
+               <persName>Illescas, Gonzalo de</persName>
+               </person>
+            <person xml:id="person__3136" role="behandelte">
+               <persName>Ducchi, Gregorio</persName>
+               <idno type="gnd">http://d-nb.info/gnd/121203042</idno>
+               <idno type="GND">http://d-nb.info/gnd/121203042</idno>
+               </person>
+            <person xml:id="person__3137" role="behandelte">
+               <persName>Paternione, Bartolomeo a</persName>
+               </person>
+            <person xml:id="person__3138" role="behandelte">
+               <persName>Tramontana, Giacomo</persName>
+               </person>
+            <person xml:id="person__3139" role="behandelte">
+               <persName>Ciccotti, Modesto</persName>
+               <idno type="gnd">http://d-nb.info/gnd/1089312261</idno>
+               </person>
+            <person xml:id="person__3141" role="behandelte">
+               <persName>Martinengo, Lucilio</persName>
+               </person>
+            <person xml:id="person__3142" role="behandelte">
+               <persName>Neupöck, Raphael</persName>
+               </person>
+            <person xml:id="person__3143" role="behandelte">
+               <persName>Marchesi, Mauro</persName>
+               </person>
+            <person xml:id="person__3144" role="behandelte">
+               <persName>Falcone, Placido</persName>
+               </person>
+            <person xml:id="person__3145" role="behandelte">
+               <persName>Fanello, Prospero</persName>
+               </person>
+            <person xml:id="person__3146" role="behandelte">
+               <persName>Martinengo, Prospero</persName>
+               </person>
+            <person xml:id="person__3147" role="behandelte">
+               <persName>Seraphinus Florentinus</persName>
+               </person>
+            <person xml:id="person__3148" role="behandelte">
+               <persName>Cantone, Serafino</persName>
+               <idno type="gnd">http://d-nb.info/gnd/1089773242</idno>
+               <idno type="GND">http://d-nb.info/gnd/10387593X</idno>
+               </person>
+            <person xml:id="person__3149" role="behandelte">
+               <persName>Manso, Vittorino</persName>
+               </person>
+            <person xml:id="person__3150" role="behandelte">
+               <persName>Opser, Joachim</persName>
+               </person>
+            <person xml:id="person__3151" role="behandelte">
+               <persName>Luchino, Benedetto</persName>
+               </person>
+            <person xml:id="person__3153" role="behandelte">
+               <persName>Garzias, Giuseppe</persName>
+               </person>
+            <person xml:id="person__3154" role="behandelte">
+               <persName>Castillejo, Cristobal de</persName>
+               <idno type="gnd">http://d-nb.info/gnd/120770180</idno>
+               <idno type="GND">http://d-nb.info/gnd/120770180</idno>
+               </person>
+            <person xml:id="person__3155" role="behandelte">
+               <persName>Sarazin, Jean-Antoine</persName>
+               </person>
+            <person xml:id="person__3156" role="behandelte">
+               <persName>Widenmann, Wolfgang</persName>
+               </person>
+            <person xml:id="person__3157" role="behandelte">
+               <persName>Anonymus (Autor "Historia Lobiensis")</persName>
+               </person>
+            <person xml:id="person__3159" role="behandelte">
+               <persName>Ricordato, Pietro</persName>
+               </person>
+            <person xml:id="person__3161" role="behandelte">
+               <persName>"Hadelinus Bielot"</persName>
+               </person>
+            <person xml:id="person__3162" role="behandelte">
+               <persName>Hugo "Anglus"</persName>
+               </person>
+            <person xml:id="person__3163" role="behandelte">
+               <persName>Johannes a Brixia</persName>
+               </person>
+            <person xml:id="person__3165" role="behandelte">
+               <persName>Gonsalvus "Hispanus"</persName>
+               </person>
+            <person xml:id="person__3166" role="behandelte">
+               <persName>Anonymus (Autor "Vita beati Pauli Leonensis episcopi")</persName>
+               </person>
+            <person xml:id="person__3167" role="behandelte">
+               <persName>Anonymus (Autor "Vita S. Ludgeri")</persName>
+               </person>
+            <person xml:id="person__3169" role="behandelte">
+               <persName>Petrus Corbeiensis</persName>
+               </person>
+            </listPerson></abstract><textClass>
             <classCode scheme="RNA">Werke</classCode>
          </textClass>
       </profileDesc>

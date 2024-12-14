@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_424418.xml">
    <teiHeader>
       <fileDesc>
@@ -44,7 +45,74 @@
          </sourceDesc>
       </fileDesc>
       <profileDesc>
-         <textClass>
+         <abstract><listPerson><person xml:id="person__16" role="behandelte">
+               <persName>Pez, Bernhard</persName>
+               </person>
+            <person xml:id="person__115" role="urheber">
+               <persName>Hueber, Alphons</persName>
+               </person>
+            <person xml:id="person__833" role="behandelte">
+               <persName>Petrus von Rosenheim</persName>
+               </person>
+            <person xml:id="person__1198" role="behandelte">
+               <persName>Wenzl, Alphons</persName>
+               </person>
+            <person xml:id="person__1248" role="behandelte">
+               <persName>Johannes Keck</persName>
+               </person>
+            <person xml:id="person__1322" role="behandelte">
+               <persName>Schlitpacher, Johannes</persName>
+               </person>
+            <person xml:id="person__1493" role="behandelte">
+               <persName>Bernhard von Waging</persName>
+               </person>
+            <person xml:id="person__1526" role="behandelte">
+               <persName>Krinner, Roman</persName>
+               </person>
+            <person xml:id="person__1527" role="behandelte">
+               <persName>Nott, Oswald</persName>
+               </person>
+            <person xml:id="person__1528" role="behandelte">
+               <persName>Eibensteiner, Christian</persName>
+               <idno type="gnd">http://d-nb.info/gnd/1011937069</idno>
+               </person>
+            <person xml:id="person__1529" role="behandelte">
+               <persName>Aindorffer, Kaspar</persName>
+               </person>
+            <person xml:id="person__1530" role="behandelte">
+               <persName>Kyderer, Wolfgang</persName>
+               </person>
+            <person xml:id="person__1531" role="behandelte">
+               <persName>Ulrich von Landau</persName>
+               </person>
+            <person xml:id="person__1532" role="behandelte">
+               <persName>Siberer, Philipp</persName>
+               </person>
+            <person xml:id="person__1534" role="behandelte">
+               <persName>Eberhard von Freising</persName>
+               </person>
+            <person xml:id="person__1535" role="behandelte">
+               <persName>Konrad I.</persName>
+               </person>
+            <person xml:id="person__1536" role="behandelte">
+               <persName>Rupert I.</persName>
+               </person>
+            <person xml:id="person__1537" role="behandelte">
+               <persName>Friedrich I. von Tegernsee</persName>
+               </person>
+            <person xml:id="person__1538" role="behandelte">
+               <persName>Konrad III.</persName>
+               </person>
+            <person xml:id="person__1539" role="behandelte">
+               <persName>Martin von Leibitz</persName>
+               </person>
+            <person xml:id="person__1540" role="behandelte">
+               <persName>Johannes von Speyer</persName>
+               </person>
+            <person xml:id="person__1996" role="behandelte">
+               <persName>Adalbold von Utrecht</persName>
+               </person>
+            </listPerson></abstract><textClass>
             <classCode scheme="RNA">Sammlungen und Objekte</classCode>
          </textClass>
       </profileDesc>

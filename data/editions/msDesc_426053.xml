@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_426053.xml">
    <teiHeader>
       <fileDesc>
@@ -44,7 +45,91 @@
          </sourceDesc>
       </fileDesc>
       <profileDesc>
-         <textClass>
+         <abstract><listPerson><person xml:id="person__16" role="urheber">
+               <persName>Pez, Bernhard</persName>
+               </person>
+            <person xml:id="person__1567" role="behandelte">
+               <persName>Benedikt von Nursia</persName>
+               </person>
+            <person xml:id="person__1568" role="behandelte">
+               <persName>Dionysius Exiguus</persName>
+               </person>
+            <person xml:id="person__1569" role="behandelte">
+               <persName>Jordanes Gothus</persName>
+               </person>
+            <person xml:id="person__1570" role="behandelte">
+               <persName>Arator "Poeta"</persName>
+               </person>
+            <person xml:id="person__1571" role="behandelte">
+               <persName>Johannes Maxentius</persName>
+               </person>
+            <person xml:id="person__1572" role="behandelte">
+               <persName>Sebastianus Cassinensis</persName>
+               </person>
+            <person xml:id="person__1573" role="behandelte">
+               <persName>Winfredus</persName>
+               </person>
+            <person xml:id="person__1574" role="behandelte">
+               <persName>Hl. Congellus</persName>
+               </person>
+            <person xml:id="person__1575" role="behandelte">
+               <persName>Hl. Mungo (Kentigern)</persName>
+               </person>
+            <person xml:id="person__1576" role="behandelte">
+               <persName>Gordianus Cassinensis</persName>
+               </person>
+            <person xml:id="person__1577" role="behandelte">
+               <persName>Flavius Magnus Aurelius Cassiodorus</persName>
+               </person>
+            <person xml:id="person__1578" role="behandelte">
+               <persName>Gildas Sapiens</persName>
+               </person>
+            <person xml:id="person__1579" role="behandelte">
+               <persName>Simplicius Cassinensis</persName>
+               </person>
+            <person xml:id="person__1580" role="behandelte">
+               <persName>Hl. Germanus</persName>
+               </person>
+            <person xml:id="person__1581" role="behandelte">
+               <persName>Hl. Asaph</persName>
+               </person>
+            <person xml:id="person__1582" role="behandelte">
+               <persName>Baudonivia von Poitiers</persName>
+               </person>
+            <person xml:id="person__1583" role="behandelte">
+               <persName>Eugippius</persName>
+               </person>
+            <person xml:id="person__1584" role="behandelte">
+               <persName>"Hunibald"</persName>
+               </person>
+            <person xml:id="person__1585" role="behandelte">
+               <persName>Martin von Braga (Pannonius)</persName>
+               </person>
+            <person xml:id="person__1586" role="behandelte">
+               <persName>Hl. Maurus</persName>
+               </person>
+            <person xml:id="person__1587" role="behandelte">
+               <persName>Aegidius Corboliensis</persName>
+               </person>
+            <person xml:id="person__1588" role="behandelte">
+               <persName>Gregor von Tours</persName>
+               </person>
+            <person xml:id="person__1589" role="behandelte">
+               <persName>Hl. Maximianus</persName>
+               </person>
+            <person xml:id="person__1590" role="behandelte">
+               <persName>(Pseudo-)Faustus Casinensis</persName>
+               </person>
+            <person xml:id="person__1591" role="behandelte">
+               <persName>Hl. Paterius</persName>
+               </person>
+            <person xml:id="person__1592" role="behandelte">
+               <persName>Hl. Eutropius</persName>
+               </person>
+            <person xml:id="person__1593" role="behandelte">
+               <persName>Marcus "Poeta" (Cassinensis)</persName>
+               </person>
+            </listPerson></abstract><textClass>
             <classCode scheme="RNA">Werke</classCode>
          </textClass>
       </profileDesc>

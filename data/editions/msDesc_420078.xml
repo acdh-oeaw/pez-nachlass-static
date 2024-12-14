@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/pez-nachlass" xml:id="msDesc_420078.xml">
    <teiHeader>
       <fileDesc>
@@ -69,7 +70,79 @@
          </sourceDesc>
       </fileDesc>
       <profileDesc>
-         <textClass>
+         <abstract><listPerson><person xml:id="person__16" role="behandelte">
+               <persName>Pez, Bernhard</persName>
+               </person>
+            <person xml:id="person__769" role="behandelte">
+               <persName>Marcus a Cremona</persName>
+               </person>
+            <person xml:id="person__770" role="behandelte">
+               <persName>Cordes, Eutichio</persName>
+               </person>
+            <person xml:id="person__777" role="behandelte">
+               <persName>Terrarubra, Vitalis</persName>
+               </person>
+            <person xml:id="person__778" role="behandelte">
+               <persName>Vecchia, Petrus</persName>
+               </person>
+            <person xml:id="person__780" role="urheber">
+               <persName>Sandi, Giuseppe Maria</persName>
+               </person>
+            <person xml:id="person__815" role="urheber">
+               <persName>Mayer, Theodor</persName>
+               </person>
+            <person xml:id="person__1076" role="behandelte">
+               <persName>Anonymus (OSB S. Giustina zu Pauda)</persName>
+               </person>
+            <person xml:id="person__1077" role="behandelte">
+               <persName>Barbo, Ludovico</persName>
+               <idno type="gnd">http://d-nb.info/gnd/18712972X</idno>
+               <idno type="GND">http://d-nb.info/gnd/119411180</idno>
+               </person>
+            <person xml:id="person__1078" role="behandelte">
+               <persName>Lucas Bernardus a Brixia</persName>
+               </person>
+            <person xml:id="person__1079" role="behandelte">
+               <persName>Theophilus "Patavinus"</persName>
+               </person>
+            <person xml:id="person__1080" role="behandelte">
+               <persName>Marcus a Brixia</persName>
+               </person>
+            <person xml:id="person__1081" role="behandelte">
+               <persName>Pignolato, Prosdocimo</persName>
+               </person>
+            <person xml:id="person__1083" role="behandelte">
+               <persName>Gazius, Laurentius</persName>
+               </person>
+            <person xml:id="person__1086" role="behandelte">
+               <persName>Lucas "Gullielmus"</persName>
+               </person>
+            <person xml:id="person__1087" role="behandelte">
+               <persName>Gregorius a Padua</persName>
+               </person>
+            <person xml:id="person__1088" role="behandelte">
+               <persName>Hieronymus a Potentia</persName>
+               </person>
+            <person xml:id="person__1089" role="behandelte">
+               <persName>Cavacio, Giacomo</persName>
+               <idno type="gnd">http://d-nb.info/gnd/100076769</idno>
+               </person>
+            <person xml:id="person__1090" role="behandelte">
+               <persName>Paulus "Belga"</persName>
+               </person>
+            <person xml:id="person__1091" role="behandelte">
+               <persName>Mattina, Leo</persName>
+               </person>
+            <person xml:id="person__1094" role="behandelte">
+               <persName>Hieronymus Textorius</persName>
+               </person>
+            <person xml:id="person__1095" role="behandelte">
+               <persName>Hilarion de Monte Piloso</persName>
+               </person>
+            <person xml:id="person__3102" role="behandelte">
+               <persName>Hieronymus a Catania</persName>
+               </person>
+            </listPerson></abstract><textClass>
             <classCode scheme="RNA">Korrespondenzen</classCode>
          </textClass>
       </profileDesc>
