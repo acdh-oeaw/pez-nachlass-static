@@ -6,10 +6,19 @@ from acdh_xml_pyutils.xml import NSMAP
 
 
 print("adding gnds from 'gnd.csv' and fixing persName labels")
+print("see https://github.com/csae8092/pez-nachlass-static/issues/1")
+print(
+    """
+      to reproduce run it against\
+      https://github.com/dQIOG/pez-editions-legacy/blob/master/102_derived_tei/102_07_bequest/listperson.xml"""  # noqa:
+)
 
-df = pd.read_csv("gnd.csv")
+
+listperson = "./data/indices/listperson.xml"
+
+df = pd.read_csv("utils/gnd.csv")
 lookup_dict = df.set_index("name")["gnd"].to_dict()
-doc = TeiReader("data/indices/listperson.xml")
+doc = TeiReader(listperson)
 for x in doc.any_xpath(".//tei:person[@xml:id]"):
     pers_name = make_entity_label(
         x.xpath("./tei:persName/tei:persName[2]", namespaces=NSMAP)[0]
@@ -30,4 +39,4 @@ for x in doc.any_xpath(".//tei:person[@xml:id]"):
         new_node = ET.Element("{http://www.tei-c.org/ns/1.0}idno")
         new_node.text = gnd.split(" ")[0]
         x.insert(1, new_node)
-doc.tree_to_file("lisperson.xml")
+doc.tree_to_file(listperson)
