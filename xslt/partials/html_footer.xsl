@@ -6,7 +6,50 @@
     exclude-result-prefixes="#all"
     version="2.0">
     <xsl:template match="/" name="html_footer">
-        <footer class="py-3 bg-body-tertiary">
+        <footer class="py-3">
+            
+            <div class="container text-center">
+                <div class="pb-1">
+                    <span class="fs-5">Kontakt</span>
+                </div>
+                <div class="row justify-content-md-center">
+                    <div class="col col-lg-5">
+                        <!-- <div>
+                            <a href="https://www.oeaw.ac.at/acdh/acdh-ch-home">
+                                <img class="footerlogo" src="./images/acdh-ch-logo-with-text.svg" alt="ACDH-CH"/>
+                            </a>
+                        </div> -->
+                        <div class="text-center p-4">
+                            ACDH-CH Austrian Centre for Digital Humanities and Cultural Heritage Österreichische
+                                Akademie der Wissenschaften
+                            <br />
+                            <a href="https://www.oeaw.ac.at/acdh/acdh-ch-home">https://www.oeaw.ac.at/acdh/acdh-ch-home</a>
+                            <br />
+                            <a href="mailto:acdh-ch-helpdesk@oeaw.ac.at">acdh-ch-helpdesk@oeaw.ac.at</a>
+                        </div>
+                    </div>
+                    <div class="col col-lg-2">
+                    </div>
+                    <div class="col col-lg-5">
+                        <!-- <div>
+                            <a href="https://www.evtheol.lmu.de/de/die-fakultaet/lehrstuehle/lehrstuhl-systematische-theologie-i/">
+                                <img class="footerlogo" src="./images/uni-munic-logo.png" alt="Univeristät München, Systematische Theologie"/>
+                            </a>
+                        </div> -->
+                        <div class="text-center p-4">
+Verein zur Erforschung monastischer Gelehrsamkeit in der Frühen Neuzeit
+                            <br />
+                            <a href="http://vemg.at">http://vemg.at</a>
+                            <br />
+                            <a href="mailto:info@vemg.at">info@vemg.at</a>
+                            
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            
+            
             <div class="text-center">
                 <a href="{$github_url}">
                     <i aria-hidden="true" class="bi bi-github fs-2"></i>

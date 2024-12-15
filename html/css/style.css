@@ -1,10 +1,78 @@
-/* needed for interactive map in listplace.xsl */
-div#map {
-    height: 50vh;
+:root {
+  --dse-base-color: #044a42;
+  --dse-base-color-hover: #3a9188;
 }
 
+a {
+    color: #044a42; /* Default link color */
+  }
+  
+  a:hover,
+  a:focus {
+    color: #3a9188; /* Link color on hover and focus */
+  }
+
+/* needed for interactive map in listplace.xsl */
+div#map {
+  height: 50vh;
+}
+.text-justify {
+  text-align: justify;
+}
 /** Match bootstrap navlink focus outline color. */
 :focus-visible {
-    outline: 0;
-    box-shadow: 0 0 0 .25rem rgba(13,110,253,.25);
+  outline: 0;
+  box-shadow: 0 0 0 0.25rem rgba(13, 110, 253, 0.25);
+}
+
+header {
+  border-bottom: solid;
+  border-bottom-color: var(--dse-base-color);
+}
+
+.navbar-brand {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+
+.btn-primary {
+  --bs-btn-bg: var(--dse-base-color);
+  --bs-btn-hover-bg: var(--dse-base-color-hover);
+}
+
+.btn-outline-primary {
+  --bs-btn-color: var(--dse-base-color);
+  --bs-btn-border-color: var(--dse-base-color);
+  --bs-btn-hover-bg: var(--dse-base-color);
+  --bs-btn-hover-border-color: var(--dse-base-color);
+  --bs-btn-active-bg: var(--dse-base-color);
+  --bs-btn-active-border-color: var(--dse-base-color);
+}
+
+.highlight {
+  background-color: var(--dse-base-color);
+  color: white;
+  border-radius: 5px;
+  transition: background-color 0.3s ease-in-out, color 0.3s ease-in-out;
+}
+
+dd {
+  margin-left: 1rem;
+}
+
+.footerlogo {
+  height: 60px;
+}
+footer {
+  border-top: solid;
+  border-color: var(--dse-base-color);
+}
+
+main {
+  min-height: 800px;
+}
+footer a {
+  text-decoration: underline;
+  text-decoration-style: dotted;
+  color: var(--dse-base-color);
 }
