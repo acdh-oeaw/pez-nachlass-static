@@ -128,6 +128,13 @@
                                             <xsl:apply-templates/>
                                         </xsl:for-each>
                                     </dd>
+                                    
+                                    <dt>Urheber</dt>
+                                    <xsl:for-each select=".//tei:person[@role='urheber']">
+                                        <dd>
+                                            <a><xsl:value-of select="/tei:persName/text()"/></a></dd>
+                                    </xsl:for-each>
+                                    
 
                                     <dt>Inhalt</dt>
                                     <dd>
@@ -160,6 +167,6 @@
     </xsl:template>
     
     <xsl:template match="tei:rs[@type='bibl']">
-        <cite><xsl:value-of select="."/></cite>
+        <br /><cite><xsl:value-of select="."/></cite>
     </xsl:template>
 </xsl:stylesheet>
