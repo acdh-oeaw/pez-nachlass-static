@@ -180,11 +180,13 @@
 
 
                     </div>
-                    <div id="iiif" class="visually-hidden" aria-hidden="true">["https://id.acdh.oeaw.ac.at/pez-nachlass/447548.tif?format=iiif","https://id.acdh.oeaw.ac.at/pez-nachlass/447549.tif?format=iiif","https://id.acdh.oeaw.ac.at/pez-nachlass/447550.tif?format=iiif","https://id.acdh.oeaw.ac.at/pez-nachlass/447551.tif?format=iiif"]</div>
-                    <!--<div id="iiif" class="visually-hidden" aria-hidden="true">
-                        <xsl:text>[</xsl:text>
-                        <xsl:for-each select=".//tei:graphic/@url"><xsl:text>"</xsl:text><xsl:value-of select="."/><xsl:text>?format=iiif",</xsl:text></xsl:for-each><xsl:text>]</xsl:text>
-                    </div>-->
+
+                    <ul id="iiif" class="visually-hidden" aria-hidden="true">
+                        
+                        <xsl:for-each select=".//tei:graphic/@url">
+                            <li><xsl:value-of select="."/></li>
+                        </xsl:for-each>
+                    </ul>
                 </main>
                 <xsl:call-template name="html_footer"/>
                 <script src="js/os.js"></script>
