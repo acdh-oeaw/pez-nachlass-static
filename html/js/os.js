@@ -7,7 +7,7 @@ const tileSource = facsIds.map(url => ({
 
 OpenSeadragon({
   id: "OsViewerDiv",
-  prefixUrl: "/vendor/openseadragon-bin-5.0.1/images/",
+  prefixUrl: "../vendor/openseadragon-bin-5.0.1/images/",
   sequenceMode: true,
   showReferenceStrip: true,
   tileSources: tileSource,
