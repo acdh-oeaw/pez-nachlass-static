@@ -76,3 +76,8 @@ footer a {
   text-decoration-style: dotted;
   color: var(--dse-base-color);
 }
+
+
+#OsViewerDiv{
+  height: 750px;
+}

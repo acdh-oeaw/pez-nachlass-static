@@ -35,6 +35,7 @@
                 <xsl:call-template name="html_head">
                     <xsl:with-param name="html_title" select="$doc_title"/>
                 </xsl:call-template>
+                <script src="vendor/openseadragon-bin-5.0.1/openseadragon.js"></script>
             </head>
             <body class="d-flex flex-column h-100">
                 <xsl:call-template name="nav_bar"/>
@@ -106,6 +107,7 @@
                         <div class="row">
                             <div class="col-md-7">
                                 <h2 class="text-center">Faksimiles</h2>
+                                <div id="OsViewerDiv"></div>
                             </div>
                             <div class="col-md-5">
                                 <h2 class="text-center">Über das Dokument</h2>
@@ -123,17 +125,36 @@
                                     </dd>
 
                                     <dt>Folierung</dt>
-                                    <dd>
-                                        <xsl:for-each select=".//tei:foliation">
-                                            <xsl:apply-templates/>
-                                        </xsl:for-each>
-                                    </dd>
-                                    
-                                    <dt>Urheber</dt>
-                                    <xsl:for-each select=".//tei:person[@role='urheber']">
-                                        <dd>
-                                            <a><xsl:value-of select="/tei:persName/text()"/></a></dd>
+                                    <xsl:for-each select=".//tei:foliation">
+                                        <dd><xsl:apply-templates/></dd>
                                     </xsl:for-each>
+                                    <xsl:if test=".//tei:person[@role='urheber']">
+                                        <dt>Urheber</dt>
+                                        <xsl:for-each select=".//tei:person[@role='urheber']">
+                                            <dd>
+                                                <a>
+                                                    <xsl:attribute name="href">
+                                                        <xsl:value-of select="concat(@xml:id, '.html')"/>
+                                                    </xsl:attribute>
+                                                    <xsl:value-of select="./tei:persName/text()"/>
+                                                </a>
+                                            </dd>
+                                        </xsl:for-each>
+                                    </xsl:if>
+                                    <xsl:if test=".//tei:person[@role='behandelte']">
+                                        <dt>behandelt</dt>
+                                        <xsl:for-each select=".//tei:person[@role='behandelte']">
+                                            <dd>
+                                                <a>
+                                                    <xsl:attribute name="href">
+                                                        <xsl:value-of select="concat(@xml:id, '.html')"/>
+                                                    </xsl:attribute>
+                                                    <xsl:value-of select="./tei:persName/text()"/>
+                                                </a>
+                                            </dd>
+                                        </xsl:for-each>
+                                    </xsl:if>
+                                    
                                     
 
                                     <dt>Inhalt</dt>
@@ -159,14 +180,28 @@
 
 
                     </div>
-
+                    <div id="iiif" class="visually-hidden" aria-hidden="true">["https://id.acdh.oeaw.ac.at/pez-nachlass/447548.tif?format=iiif","https://id.acdh.oeaw.ac.at/pez-nachlass/447549.tif?format=iiif","https://id.acdh.oeaw.ac.at/pez-nachlass/447550.tif?format=iiif","https://id.acdh.oeaw.ac.at/pez-nachlass/447551.tif?format=iiif"]</div>
+                    <!--<div id="iiif" class="visually-hidden" aria-hidden="true">
+                        <xsl:text>[</xsl:text>
+                        <xsl:for-each select=".//tei:graphic/@url"><xsl:text>"</xsl:text><xsl:value-of select="."/><xsl:text>?format=iiif",</xsl:text></xsl:for-each><xsl:text>]</xsl:text>
+                    </div>-->
                 </main>
                 <xsl:call-template name="html_footer"/>
+                <script src="js/os.js"></script>
             </body>
         </html>
     </xsl:template>
     
     <xsl:template match="tei:rs[@type='bibl']">
         <br /><cite><xsl:value-of select="."/></cite>
+    </xsl:template>
+    
+    <xsl:template match="tei:person">
+        <a>
+            <xsl:attribute name="href">
+                <xsl:value-of select="concat(@xml:id, '.html')"/>
+            </xsl:attribute>
+            <xsl:value-of select="./tei:persName/text()"/>
+        </a>
     </xsl:template>
 </xsl:stylesheet>
