@@ -221,7 +221,7 @@
     </xsl:template>
     
     <xsl:template match="tei:rs[@type='bibl']">
-        <br /><cite><xsl:value-of select="."/></cite>
+        <br /><cite><a href="{tokenize(@key, ':')[last()]||'.html'}"><xsl:value-of select="./text()"/></a></cite>
     </xsl:template>
     
     <xsl:template match="tei:person">
