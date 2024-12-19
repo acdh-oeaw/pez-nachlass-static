@@ -65,6 +65,7 @@
                             </thead>
                             <tbody>
                                 <xsl:for-each select=".//tei:person[@xml:id]">
+                                    <xsl:sort select="normalize-space(./tei:persName/text())"/>
                                     <xsl:variable name="id">
                                         <xsl:value-of select="data(@xml:id)"/>
                                     </xsl:variable>
@@ -136,36 +137,6 @@
                                     <xsl:value-of select="$doc_title"/>
                                 </h1>
                                 <xsl:call-template name="person_detail"/>  
-                                <h2 class="text-center">Verknüpfte Dokumente</h2>
-                                <div class="row justify-content-center">
-                                    <div class="col-md-6">
-                                        <h3>Urheber von</h3>
-                                        <ul>
-                                            <xsl:for-each select=".//tei:ptr[@type='urheber']">
-                                                <xsl:variable name="foo">
-                                                    <xsl:value-of select="replace(tokenize(@target, '/')[last()], '.xml', '.html')"/>
-                                                </xsl:variable>
-                                                <li>
-                                                    <a href="{$foo}"><xsl:value-of select="replace($foo, '.html', '')"/></a>
-                                                </li>
-                                            </xsl:for-each>
-                                        </ul>
-                                    </div>
-                                    <div class="col-md-6">
-                                        <h3>Erwähnt erwähnt in</h3>
-                                        <ul>
-                                            <xsl:for-each select=".//tei:ptr[@type='behandelte']">
-                                                <xsl:variable name="foo">
-                                                    <xsl:value-of select="replace(tokenize(@target, '/')[last()], '.xml', '.html')"/>
-                                                </xsl:variable>
-                                                <li>
-                                                    <a href="{$foo}"><xsl:value-of select="replace($foo, '.html', '')"/></a>
-                                                </li>
-                                            </xsl:for-each>
-                                        </ul>
-                                    </div>
-                                </div>
-                                
                             </div>
                         </main>
                         <xsl:call-template name="html_footer"/>
