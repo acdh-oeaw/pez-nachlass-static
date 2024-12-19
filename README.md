@@ -1,7 +1,5 @@
 # Der digitalisierte Nachlass von Bernhard und Hieronymus Pez
 
-
-
 * build with [DSE-Static-Cookiecutter](https://github.com/acdh-oeaw/dse-static-cookiecutter)
 
 
