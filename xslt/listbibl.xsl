@@ -133,7 +133,6 @@
                                         </li>
                                     </xsl:for-each>
                                 </ul>
-                                  
                             </div>
                         </main>
                         <xsl:call-template name="html_footer"/>
