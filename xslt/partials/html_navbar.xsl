@@ -38,7 +38,7 @@
                                         <a class="dropdown-item" href="listperson.html">Personen</a>
                                     </li>
                                     <li>
-                                        <a class="dropdown-item disabled" href="listorg.html">Organisationen</a>
+                                        <a class="dropdown-item" href="listorg.html">Organisationen</a>
                                     </li>
                                     <li>
                                         <a class="dropdown-item" href="listbibl.html">Bibliographie</a>
