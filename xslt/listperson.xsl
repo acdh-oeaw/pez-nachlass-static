@@ -26,21 +26,41 @@
             
             <body class="d-flex flex-column h-100">
                 <xsl:call-template name="nav_bar"/>
-
                 <main class="flex-shrink-0 flex-grow-1">
+                    <nav style="--bs-breadcrumb-divider: '>';" aria-label="breadcrumb"
+                        class="ps-5 p-3">
+                        <ol class="breadcrumb">
+                            <li class="breadcrumb-item">
+                                <a href="index.html">Pez-Nachlass</a>
+                            </li>
+                            <li class="breadcrumb-item active" aria-current="page">Alle
+                                Personen</li>
+                        </ol>
+                    </nav>
                     <div class="container">
 
-                        <h1>
+                        <h1 class="display-5 text-center">
                             <xsl:value-of select="$doc_title"/>
                         </h1>
+                        <div class="text-center p-1">
+                            <span id="counter1"/> von <span id="counter2"/>Personen
+                        </div>
 
                         <table id="myTable">
                             <thead>
                                 <tr>
-                                    <th scope="col" width="20" tabulator-formatter="html" tabulator-headerSort="false" tabulator-download="false">#</th>
-                                    <th scope="col" tabulator-headerFilter="input">Nachname</th>
-                                    <th scope="col" tabulator-headerFilter="input">Vorname</th>
-                                    <th scope="col" tabulator-headerFilter="input">ID</th>
+                                    <th scope="col" tabulator-headerFilter="input"
+                                        tabulator-formatter="html" tabulator-download="false"
+                                        tabulator-minWidth="350">Name</th>
+                                    <th scope="col" tabulator-headerFilter="input"
+                                        tabulator-visible="false" tabulator-download="true"
+                                        >name_</th>
+                                    <th scope="col" tabulator-headerFilter="input">Urheberschaft</th>
+                                    <th scope="col" tabulator-headerFilter="input">Nennungen</th>
+                                   <!-- <th scope="col" tabulator-headerFilter="input">Bearbeitungen</th>
+                                    <th scope="col" tabulator-headerFilter="input">Autorschaft</th>-->
+                                    <th scope="col" tabulator-headerFilter="input"
+                                        tabulator-maxWidth="170">ID</th>
                                 </tr>
                             </thead>
                             <tbody>
@@ -54,15 +74,24 @@
                                               <xsl:attribute name="href">
                                               <xsl:value-of select="concat($id, '.html')"/>
                                               </xsl:attribute>
-                                              <i class="bi bi-link-45deg"/>
+                                                <xsl:value-of select="normalize-space(./tei:persName/text())"/>
                                             </a>
                                         </td>
                                         <td>
-                                            <xsl:value-of select=".//tei:surname/text()"/>
+                                            <xsl:value-of select="./tei:persName/text()"/>
                                         </td>
                                         <td>
-                                            <xsl:value-of select=".//tei:forename/text()"/>
+                                            <xsl:value-of select="count(.//tei:ptr[@type='urheber'])"/>
                                         </td>
+                                        <td>
+                                            <xsl:value-of select="count(.//tei:ptr[@type='behandelte'])"/>
+                                        </td>
+                                        <!--<td>
+                                            <xsl:value-of select="count(.//tei:ptr[@type='bearbeiter'])"/>
+                                        </td>
+                                        <td>
+                                            <xsl:value-of select="count(.//tei:ptr[@type='autor'])"/>
+                                        </td>-->
                                         <td>
                                             <xsl:value-of select="$id"/>
                                         </td>
@@ -81,23 +110,62 @@
 
         <xsl:for-each select=".//tei:person[@xml:id]">
             <xsl:variable name="filename" select="concat(./@xml:id, '.html')"/>
-            <xsl:variable name="name" select="normalize-space(string-join(./tei:persName[1]//text()))"></xsl:variable>
+            <xsl:variable name="doc_title" select="normalize-space(string-join(./tei:persName[1]//text()))"></xsl:variable>
             <xsl:result-document href="{$filename}">
                 <html class="h-100">
                     <head>
                         <xsl:call-template name="html_head">
-                            <xsl:with-param name="html_title" select="$name"></xsl:with-param>
+                            <xsl:with-param name="html_title" select="$doc_title"></xsl:with-param>
                         </xsl:call-template>
                     </head>
 
                     <body class="d-flex flex-column h-100">
                         <xsl:call-template name="nav_bar"/>
                         <main class="flex-shrink-0 flex-grow-1">
+                            <nav style="--bs-breadcrumb-divider: '>';" aria-label="breadcrumb"
+                                class="ps-5 p-3">
+                                <ol class="breadcrumb">
+                                    <li class="breadcrumb-item">
+                                        <a href="index.html">Pez-Nachlass</a>
+                                    </li>
+                                    <li class="breadcrumb-item"><a href="listperson.html">Alle Personen</a></li>
+                                </ol>
+                            </nav>
                             <div class="container">
-                                <h1>
-                                    <xsl:value-of select="$name"/>
+                                <h1 class="display-5 text-center">
+                                    <xsl:value-of select="$doc_title"/>
                                 </h1>
                                 <xsl:call-template name="person_detail"/>  
+                                <h2 class="text-center">Verknüpfte Dokumente</h2>
+                                <div class="row justify-content-center">
+                                    <div class="col-md-6">
+                                        <h3>Urheber von</h3>
+                                        <ul>
+                                            <xsl:for-each select=".//tei:ptr[@type='urheber']">
+                                                <xsl:variable name="foo">
+                                                    <xsl:value-of select="replace(tokenize(@target, '/')[last()], '.xml', '.html')"/>
+                                                </xsl:variable>
+                                                <li>
+                                                    <a href="{$foo}"><xsl:value-of select="replace($foo, '.html', '')"/></a>
+                                                </li>
+                                            </xsl:for-each>
+                                        </ul>
+                                    </div>
+                                    <div class="col-md-6">
+                                        <h3>Erwähnt erwähnt in</h3>
+                                        <ul>
+                                            <xsl:for-each select=".//tei:ptr[@type='behandelte']">
+                                                <xsl:variable name="foo">
+                                                    <xsl:value-of select="replace(tokenize(@target, '/')[last()], '.xml', '.html')"/>
+                                                </xsl:variable>
+                                                <li>
+                                                    <a href="{$foo}"><xsl:value-of select="replace($foo, '.html', '')"/></a>
+                                                </li>
+                                            </xsl:for-each>
+                                        </ul>
+                                    </div>
+                                </div>
+                                
                             </div>
                         </main>
                         <xsl:call-template name="html_footer"/>

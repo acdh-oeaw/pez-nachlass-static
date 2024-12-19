@@ -141,6 +141,32 @@
                                             </dd>
                                         </xsl:for-each>
                                     </xsl:if>
+                                    <xsl:if test=".//tei:person[@role='autor']">
+                                        <dt>Autor</dt>
+                                        <xsl:for-each select=".//tei:person[@role='autor']">
+                                            <dd>
+                                                <a>
+                                                    <xsl:attribute name="href">
+                                                        <xsl:value-of select="concat(@xml:id, '.html')"/>
+                                                    </xsl:attribute>
+                                                    <xsl:value-of select="./tei:persName/text()"/>
+                                                </a>
+                                            </dd>
+                                        </xsl:for-each>
+                                    </xsl:if>
+                                    <xsl:if test=".//tei:person[@role='bearbeiter']">
+                                        <dt>Bearbeiter</dt>
+                                        <xsl:for-each select=".//tei:person[@role='bearbeiter']">
+                                            <dd>
+                                                <a>
+                                                    <xsl:attribute name="href">
+                                                        <xsl:value-of select="concat(@xml:id, '.html')"/>
+                                                    </xsl:attribute>
+                                                    <xsl:value-of select="./tei:persName/text()"/>
+                                                </a>
+                                            </dd>
+                                        </xsl:for-each>
+                                    </xsl:if>
                                     <xsl:if test=".//tei:person[@role='behandelte']">
                                         <dt>behandelt</dt>
                                         <xsl:for-each select=".//tei:person[@role='behandelte']">
