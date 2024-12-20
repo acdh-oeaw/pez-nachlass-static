@@ -128,6 +128,21 @@
                                     <xsl:for-each select=".//tei:foliation">
                                         <dd><xsl:apply-templates/></dd>
                                     </xsl:for-each>
+                                    <dt>Inhalt</dt>
+                                    <dd>
+                                        <xsl:for-each select=".//tei:summary">
+                                            <p>
+                                                <xsl:apply-templates/>
+                                            </p>
+                                        </xsl:for-each>
+                                    </dd>
+                                    
+                                    <dt>Literatur</dt>
+                                    <dd>
+                                        <xsl:for-each select=".//tei:listBibl/tei:bibl">
+                                            <p><xsl:apply-templates/></p>
+                                        </xsl:for-each>
+                                    </dd>
                                     <xsl:if test=".//tei:person[@role='urheber']">
                                         <dt>Urheber</dt>
                                         <xsl:for-each select=".//tei:person[@role='urheber']">
@@ -180,26 +195,10 @@
                                             </dd>
                                         </xsl:for-each>
                                     </xsl:if>
-                                    
-                                    
-
-                                    <dt>Inhalt</dt>
-                                    <dd>
-                                        <xsl:for-each select=".//tei:summary">
-                                            <p>
-                                                <xsl:apply-templates/>
-                                            </p>
-                                        </xsl:for-each>
-                                    </dd>
-                                    
-                                    <dt>Literatur</dt>
-                                    <dd>
-                                        <xsl:for-each select=".//tei:listBibl/tei:bibl">
-                                            <p><xsl:apply-templates/></p>
-                                        </xsl:for-each>
-                                    </dd>
-
-
+                                    <dt>beteiligte Organisationen</dt>
+                                    <xsl:for-each select=".//tei:org[@xml:id]">
+                                        <dd><a href="{@xml:id||'.html'}"><xsl:value-of select="./tei:orgName/text()"/></a></dd>
+                                    </xsl:for-each>
                                 </dl>
                             </div>
                         </div>
