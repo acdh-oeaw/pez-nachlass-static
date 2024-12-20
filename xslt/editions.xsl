@@ -45,7 +45,7 @@
                         <ol class="breadcrumb">
                             <li class="breadcrumb-item">
                                 <a href="index.html">
-                                    <xsl:value-of select="$html_title"/>
+                                    <xsl:value-of select="$project_short_title"/>
                                 </a>
                             </li>
                             <li class="breadcrumb-item">
