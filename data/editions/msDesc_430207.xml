@@ -53,7 +53,7 @@
                <idno type="gnd">http://d-nb.info/gnd/2005841-X</idno>
                <idno type="viaf">http://viaf.org/viaf/127140314</idno>
                <idno type="other">http://www.geonames.org/2863667/niederalteich.html</idno>
-            </org>
+               </org>
             </listOrg></abstract><textClass>
             <classCode scheme="RNA">Sammlungen und Objekte</classCode>
          </textClass>

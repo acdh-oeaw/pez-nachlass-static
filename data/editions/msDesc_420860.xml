@@ -47,19 +47,19 @@
          </sourceDesc>
       </fileDesc>
       <profileDesc>
-         <abstract><listPerson/><listOrg><org xml:id="org_0198">
+         <abstract><listOrg><org xml:id="org_0198">
                <orgName>geistliche &gt; Augustiner-Chorherren &gt; Dürnstein</orgName>
                <idno type="gnd">http://d-nb.info/gnd/4829765-3</idno>
                <idno type="viaf">http://viaf.org/viaf/245862611</idno>
                <idno type="other">http://www.geonames.org/7871798/duernstein.html</idno>
-            </org>
+               </org>
             <org xml:id="org_0199">
                <orgName>geistliche &gt; Augustiner-Chorherren &gt; Indersdorf</orgName>
                <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/60168</idno>
                <idno type="gnd">http://d-nb.info/gnd/16114166-3</idno>
                <idno type="viaf">http://viaf.org/viaf/236979389</idno>
                <idno type="other">http://www.geonames.org/2873300/markt-indersdorf.html</idno>
-            </org>
+               </org>
             </listOrg></abstract><textClass>
             <classCode scheme="RNA">Sammlungen und Objekte</classCode>
          </textClass>

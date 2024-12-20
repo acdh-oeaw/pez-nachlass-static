@@ -104,14 +104,15 @@
                <persName>Adam von Andechs</persName>
                </person>
             </listPerson><listOrg><org xml:id="org_0029">
-               <orgName>geistliche &gt; Benediktiner &gt; Bayerische Kongregation &gt; Andechs</orgName>
+               <orgName>geistliche &gt; Benediktiner &gt; Bayerische Kongregation &gt;
+                  Andechs</orgName>
                <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/2091</idno>
                <idno type="gnd">http://d-nb.info/gnd/4310732-1</idno>
                <idno type="gnd">http://d-nb.info/gnd/1089050224</idno>
                <idno type="viaf">http://viaf.org/viaf/233645846</idno>
                <idno type="viaf">http://viaf.org/viaf/939145857951823021263</idno>
                <idno type="other">http://www.geonames.org/2956253/andechs.html</idno>
-            </org>
+               </org>
             </listOrg></abstract><textClass>
             <classCode scheme="RNA">Sammlungen und Objekte</classCode>
          </textClass>

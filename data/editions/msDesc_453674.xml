@@ -213,18 +213,19 @@
                <persName>Jungnitz, Christoph</persName>
                </person>
             </listPerson><listOrg><org xml:id="org_0001">
-               <orgName>geistliche &gt; Benediktiner &gt; Österreichische Kongregation &gt; Melk</orgName>
+               <orgName>geistliche &gt; Benediktiner &gt; Österreichische Kongregation &gt;
+                  Melk</orgName>
                <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/3265</idno>
                <idno type="gnd">http://d-nb.info/gnd/82463-X</idno>
                <idno type="viaf">http://viaf.org/viaf/316399876</idno>
                <idno type="other">http://www.geonames.org/7536060/kloster-melk.html</idno>
-            </org>
+               </org>
             <org xml:id="org_0014">
                <orgName>geistliche &gt; Kartäuser &gt; Gaming</orgName>
                <idno type="gnd">http://d-nb.info/gnd/3011144-4</idno>
                <idno type="viaf">http://viaf.org/viaf/155471057</idno>
                <idno type="other">http://www.geonames.org/2778949/gaming.html</idno>
-            </org>
+               </org>
             <org xml:id="org_0031">
                <orgName>geistliche &gt; Benediktiner &gt; Bayerische Kongregation &gt; Regensburg -
                   St. Emmeram</orgName>
@@ -240,7 +241,7 @@
                <idno type="gnd">http://d-nb.info/gnd/19112-7</idno>
                <idno type="viaf">http://viaf.org/viaf/248873380</idno>
                <idno type="other">http://www.geonames.org/2765196/seitenstetten-markt.html</idno>
-            </org>
+               </org>
             <org xml:id="org_0208">
                <orgName>geistliche &gt; Franziskaner</orgName>
                </org>
@@ -249,7 +250,7 @@
                <idno type="gnd">http://d-nb.info/gnd/4226462-5</idno>
                <idno type="viaf">http://viaf.org/viaf/249046702</idno>
                <idno type="other">http://www.geonames.org/3186472/zice.html</idno>
-            </org>
+               </org>
             <org xml:id="org_0278">
                <orgName>geistliche &gt; Kartäuser</orgName>
                </org>

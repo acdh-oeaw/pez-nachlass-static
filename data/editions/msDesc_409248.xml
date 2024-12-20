@@ -199,7 +199,7 @@
             <person xml:id="person__2278" role="behandelte">
                <persName>Ebo von Michelsberg</persName>
                </person>
-            </listPerson><listOrg/></abstract><textClass>
+            </listPerson></abstract><textClass>
             <classCode scheme="RNA">Werke</classCode>
          </textClass>
       </profileDesc>

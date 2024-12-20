@@ -59,7 +59,7 @@
                <idno type="gnd">http://d-nb.info/gnd/4314806-2</idno>
                <idno type="viaf">http://viaf.org/viaf/236509601</idno>
                <idno type="other">http://www.geonames.org/2816057/vornbach.html</idno>
-            </org>
+               </org>
             </listOrg></abstract><textClass>
             <classCode scheme="RNA">Sammlungen und Objekte</classCode>
          </textClass>

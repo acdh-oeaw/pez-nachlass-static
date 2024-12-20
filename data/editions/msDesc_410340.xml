@@ -49,10 +49,11 @@
                <persName>Caramuel y Lobkowitz, Juan</persName>
                </person>
             </listPerson><listOrg><org xml:id="org_0101">
-               <orgName>geistliche &gt; Zisterzienser &gt; Kastilien-León &gt; La Santa Espina</orgName>
+               <orgName>geistliche &gt; Zisterzienser &gt; Kastilien-León &gt; La Santa
+                  Espina</orgName>
                <idno type="viaf">http://viaf.org/viaf/151369900</idno>
                <idno type="other">http://www.geonames.org/8015079/la-santa-espina.html</idno>
-            </org>
+               </org>
             </listOrg></abstract><textClass>
             <classCode scheme="RNA">Sammlungen und Objekte</classCode>
          </textClass>

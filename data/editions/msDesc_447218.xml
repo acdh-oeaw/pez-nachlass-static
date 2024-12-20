@@ -47,7 +47,7 @@
          <abstract><listPerson><person xml:id="person__2910" role="behandelte">
                <persName>Hl. Simpert</persName>
                </person>
-            </listPerson><listOrg/></abstract><textClass>
+            </listPerson></abstract><textClass>
             <classCode scheme="RNA">Sammlungen und Objekte</classCode>
          </textClass>
       </profileDesc>

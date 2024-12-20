@@ -54,9 +54,8 @@
                <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/60089</idno>
                <idno type="gnd">http://d-nb.info/gnd/4230199-3</idno>
                <idno type="viaf">http://viaf.org/viaf/266470146</idno>
-               <idno type="other">
-                  http://www.geonames.org/11428017/engelthal-ev-kirche-klosterkirche-johannes-d-t.html</idno>
-            </org>
+               <idno type="other">http://www.geonames.org/11428017/engelthal-ev-kirche-klosterkirche-johannes-d-t.html</idno>
+               </org>
             </listOrg></abstract><textClass>
             <classCode scheme="RNA">Sammlungen und Objekte</classCode>
          </textClass>

@@ -53,7 +53,8 @@
                <persName>Knor, Petrus</persName>
                </person>
             </listPerson><listOrg><org xml:id="org_0032">
-               <orgName>geistliche &gt; Benediktiner &gt; Bursfelder Kongregation &gt; Gladbach</orgName>
+               <orgName>geistliche &gt; Benediktiner &gt; Bursfelder Kongregation &gt;
+                  Gladbach</orgName>
                <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/3513</idno>
                <idno type="gnd">http://d-nb.info/gnd/16277855-7</idno>
                <idno type="gnd">http://d-nb.info/gnd/5345265-3</idno>
@@ -61,7 +62,7 @@
                <idno type="viaf">http://viaf.org/viaf/141628585</idno>
                <idno type="viaf">http://viaf.org/viaf/200220285</idno>
                <idno type="other">http://www.geonames.org/2869894/moenchengladbach.html</idno>
-            </org>
+               </org>
             <org xml:id="org_0050">
                <orgName>weltliche &gt; Düsseldorf - Hof</orgName>
                </org>

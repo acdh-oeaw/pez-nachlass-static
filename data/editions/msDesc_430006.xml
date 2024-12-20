@@ -55,26 +55,27 @@
                <persName>Hl. Hrotsvit von Gandersheim</persName>
                </person>
             </listPerson><listOrg><org xml:id="org_0057">
-               <orgName>geistliche &gt; Benediktiner &gt; Bursfelder Kongregation &gt; Schönau</orgName>
+               <orgName>geistliche &gt; Benediktiner &gt; Bursfelder Kongregation &gt;
+                  Schönau</orgName>
                <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/3950</idno>
                <idno type="gnd">http://d-nb.info/gnd/4715040-3</idno>
                <idno type="viaf">http://viaf.org/viaf/239658818</idno>
                <idno type="other">http://www.geonames.org/2825602/strueth.html</idno>
-            </org>
+               </org>
             <org xml:id="org_0248">
                <orgName>geistliche &gt; Benediktiner &gt; Disibodenberg (Frauenklause)</orgName>
                <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/3059</idno>
                <idno type="gnd">http://d-nb.info/gnd/4285340-0</idno>
                <idno type="viaf">http://viaf.org/viaf/248203508</idno>
                <idno type="other">http://www.geonames.org/2858073/odernheim.html</idno>
-            </org>
+               </org>
             <org xml:id="org_0249">
                <orgName>geistliche &gt; Benediktiner &gt; Gandersheim (Benediktinerinnen)</orgName>
                <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/71</idno>
                <idno type="gnd">http://d-nb.info/gnd/4391712-4</idno>
                <idno type="viaf">http://viaf.org/viaf/238752738</idno>
                <idno type="other">http://www.geonames.org/2953456/bad-gandersheim.html</idno>
-            </org>
+               </org>
             </listOrg></abstract><textClass>
             <classCode scheme="RNA">Sammlungen und Objekte</classCode>
          </textClass>

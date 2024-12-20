@@ -62,7 +62,7 @@
                <idno type="gnd">http://d-nb.info/gnd/4240698-5</idno>
                <idno type="viaf">http://viaf.org/viaf/234678395</idno>
                <idno type="other">http://www.geonames.org/11281591/kartause-astheim.html</idno>
-            </org>
+               </org>
             </listOrg></abstract><textClass>
             <classCode scheme="RNA">Sammlungen und Objekte</classCode>
          </textClass>

@@ -45,7 +45,7 @@
             <person xml:id="person__3543" role="behandelte">
                <persName>Eusebius von Cäsarea</persName>
                </person>
-            </listPerson><listOrg/></abstract><textClass>
+            </listPerson></abstract><textClass>
             <classCode scheme="RNA">Sammlungen und Objekte</classCode>
          </textClass>
       </profileDesc>

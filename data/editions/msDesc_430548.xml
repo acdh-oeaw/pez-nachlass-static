@@ -54,24 +54,26 @@
                <persName>Johannes Barbatus</persName>
                </person>
             </listPerson><listOrg><org xml:id="org_0001">
-               <orgName>geistliche &gt; Benediktiner &gt; Österreichische Kongregation &gt; Melk</orgName>
+               <orgName>geistliche &gt; Benediktiner &gt; Österreichische Kongregation &gt;
+                  Melk</orgName>
                <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/3265</idno>
                <idno type="gnd">http://d-nb.info/gnd/82463-X</idno>
                <idno type="viaf">http://viaf.org/viaf/316399876</idno>
                <idno type="other">http://www.geonames.org/7536060/kloster-melk.html</idno>
-            </org>
+               </org>
             <org xml:id="org_0194">
                <orgName>weltliche &gt; Hamburg - Rat</orgName>
                </org>
             <org xml:id="org_0256">
-               <orgName>geistliche &gt; Benediktiner &gt; Bursfelder Kongregation &gt; Bursfelde</orgName>
+               <orgName>geistliche &gt; Benediktiner &gt; Bursfelder Kongregation &gt;
+                  Bursfelde</orgName>
                <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/357</idno>
                <idno type="gnd">http://d-nb.info/gnd/4197562-5</idno>
                <idno type="gnd">http://d-nb.info/gnd/5123111-6</idno>
                <idno type="viaf">http://viaf.org/viaf/293964756</idno>
                <idno type="viaf">http://viaf.org/viaf/172256916</idno>
                <idno type="other">http://www.geonames.org/2940940/bursfelde.html</idno>
-            </org>
+               </org>
             </listOrg></abstract><textClass>
             <classCode scheme="RNA">Sammlungen und Objekte</classCode>
          </textClass>

@@ -47,7 +47,7 @@
          <abstract><listPerson><person xml:id="person__2559" role="behandelte">
                <persName>Setzer, Johannes</persName>
                </person>
-            </listPerson><listOrg/></abstract><textClass>
+            </listPerson></abstract><textClass>
             <classCode scheme="RNA">Werke</classCode>
          </textClass>
       </profileDesc>

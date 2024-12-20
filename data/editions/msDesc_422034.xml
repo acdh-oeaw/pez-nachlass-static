@@ -48,11 +48,12 @@
                <persName>Oberleithner, Johann</persName>
                </person>
             </listPerson><listOrg><org xml:id="org_0008">
-               <orgName>geistliche &gt; Benediktiner &gt; Helvetische Kongregation &gt; St. Gallen</orgName>
+               <orgName>geistliche &gt; Benediktiner &gt; Helvetische Kongregation &gt; St.
+                  Gallen</orgName>
                <idno type="gnd">http://d-nb.info/gnd/1088891446</idno>
                <idno type="viaf">http://viaf.org/viaf/266765811</idno>
                <idno type="other">http://www.geonames.org/2658822/sankt-gallen.html</idno>
-            </org>
+               </org>
             </listOrg></abstract><textClass>
             <classCode scheme="RNA">Sammlungen und Objekte</classCode>
          </textClass>

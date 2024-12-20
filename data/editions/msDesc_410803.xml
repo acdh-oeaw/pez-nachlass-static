@@ -45,12 +45,13 @@
          </sourceDesc>
       </fileDesc>
       <profileDesc>
-         <abstract><listPerson/><listOrg><org xml:id="org_0030">
-               <orgName>geistliche &gt; Benediktiner &gt; Helvetische Kongregation &gt; Disentis</orgName>
+         <abstract><listOrg><org xml:id="org_0030">
+               <orgName>geistliche &gt; Benediktiner &gt; Helvetische Kongregation &gt;
+                  Disentis</orgName>
                <idno type="gnd">http://d-nb.info/gnd/1095228-7</idno>
                <idno type="viaf">http://viaf.org/viaf/135044223</idno>
                <idno type="other">http://www.geonames.org/2661009/disentis.html</idno>
-            </org>
+               </org>
             </listOrg></abstract><textClass>
             <classCode scheme="RNA">Sammlungen und Objekte</classCode>
          </textClass>

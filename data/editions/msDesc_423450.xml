@@ -57,7 +57,7 @@
                <idno type="gnd">http://d-nb.info/gnd/4439930-3</idno>
                <idno type="viaf">http://viaf.org/viaf/246269571</idno>
                <idno type="other">http://www.geonames.org/2952025/baumburg.html</idno>
-            </org>
+               </org>
             </listOrg></abstract><textClass>
             <classCode scheme="RNA">Sammlungen und Objekte</classCode>
          </textClass>

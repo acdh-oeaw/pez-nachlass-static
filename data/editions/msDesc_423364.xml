@@ -54,7 +54,7 @@
                <idno type="gnd">http://d-nb.info/gnd/2046531-2</idno>
                <idno type="viaf">http://viaf.org/viaf/312583113</idno>
                <idno type="other">http://www.geonames.org/11548388/kloster-kremsmuenster.html</idno>
-            </org>
+               </org>
             </listOrg></abstract><textClass>
             <classCode scheme="RNA">Sammlungen und Objekte</classCode>
          </textClass>

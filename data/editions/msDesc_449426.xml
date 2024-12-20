@@ -281,51 +281,56 @@
                <persName>Ginetto, Martino</persName>
                </person>
             </listPerson><listOrg><org xml:id="org_0001">
-               <orgName>geistliche &gt; Benediktiner &gt; Österreichische Kongregation &gt; Melk</orgName>
+               <orgName>geistliche &gt; Benediktiner &gt; Österreichische Kongregation &gt;
+                  Melk</orgName>
                <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/3265</idno>
                <idno type="gnd">http://d-nb.info/gnd/82463-X</idno>
                <idno type="viaf">http://viaf.org/viaf/316399876</idno>
                <idno type="other">http://www.geonames.org/7536060/kloster-melk.html</idno>
-            </org>
+               </org>
             <org xml:id="org_0005">
                <orgName>geistliche &gt; Benediktiner &gt; Bursfelder Kongregation &gt; Köln - Groß
                   St. Martin</orgName>
                </org>
             <org xml:id="org_0023">
-               <orgName>geistliche &gt; Benediktiner &gt; Bursfelder Kongregation &gt; Corvey</orgName>
+               <orgName>geistliche &gt; Benediktiner &gt; Bursfelder Kongregation &gt;
+                  Corvey</orgName>
                <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/415</idno>
                <idno type="gnd">http://d-nb.info/gnd/2071959-0</idno>
                <idno type="viaf">http://viaf.org/viaf/136705567</idno>
                <idno type="other">http://www.geonames.org/10942877/imperial-abbey-of-corvey.html</idno>
-            </org>
+               </org>
             <org xml:id="org_0025">
                <orgName>geistliche &gt; Benediktiner &gt; Bursfelder Kongregation &gt; Erfurt - St.
                   Peter</orgName>
                </org>
             <org xml:id="org_0049">
-               <orgName>geistliche &gt; Benediktiner &gt; Bursfelder Kongregation &gt; Fulda</orgName>
+               <orgName>geistliche &gt; Benediktiner &gt; Bursfelder Kongregation &gt;
+                  Fulda</orgName>
                <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/30121</idno>
                <idno type="gnd">http://d-nb.info/gnd/4074038-9</idno>
                <idno type="viaf">http://viaf.org/viaf/237710601</idno>
                <idno type="other">http://www.geonames.org/2923822/fulda.html</idno>
-            </org>
+               </org>
             <org xml:id="org_0150">
                <orgName>geistliche &gt; Säkularklerus &gt; Rom - Papst</orgName>
                </org>
             <org xml:id="org_0151">
-               <orgName>geistliche &gt; Benediktiner &gt; Bursfelder Kongregation &gt; Sponheim</orgName>
+               <orgName>geistliche &gt; Benediktiner &gt; Bursfelder Kongregation &gt;
+                  Sponheim</orgName>
                <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/40277</idno>
                <idno type="gnd">http://d-nb.info/gnd/4778875-6</idno>
                <idno type="viaf">http://viaf.org/viaf/245857634</idno>
                <idno type="other">http://www.geonames.org/2830167/sponheim.html</idno>
-            </org>
+               </org>
             <org xml:id="org_0318">
-               <orgName>geistliche &gt; Benediktiner &gt; Bursfelder Kongregation &gt; Seligenstadt</orgName>
+               <orgName>geistliche &gt; Benediktiner &gt; Bursfelder Kongregation &gt;
+                  Seligenstadt</orgName>
                <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/30322</idno>
                <idno type="gnd">http://d-nb.info/gnd/4274950-5</idno>
                <idno type="viaf">http://viaf.org/viaf/247756666</idno>
                <idno type="other">http://www.geonames.org/2833242/seligenstadt.html</idno>
-            </org>
+               </org>
             <org xml:id="org_0355">
                <orgName>geistliche &gt; Säkularklerus &gt; Würzburg - Diözese</orgName>
                </org>

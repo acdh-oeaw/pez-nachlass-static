@@ -111,12 +111,13 @@
                <persName>Reuter, Andreas</persName>
                </person>
             </listPerson><listOrg><org xml:id="org_0004">
-               <orgName>geistliche &gt; Benediktiner &gt; Österreichische Kongregation &gt; Göttweig</orgName>
+               <orgName>geistliche &gt; Benediktiner &gt; Österreichische Kongregation &gt;
+                  Göttweig</orgName>
                <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/4035</idno>
                <idno type="gnd">http://d-nb.info/gnd/2103432-1</idno>
                <idno type="viaf">http://viaf.org/viaf/245287151</idno>
                <idno type="other">http://www.geonames.org/2778228/stift-goettweig.html</idno>
-            </org>
+               </org>
             <org xml:id="org_0031">
                <orgName>geistliche &gt; Benediktiner &gt; Bayerische Kongregation &gt; Regensburg -
                   St. Emmeram</orgName>
@@ -132,32 +133,33 @@
                <idno type="gnd">http://d-nb.info/gnd/19112-7</idno>
                <idno type="viaf">http://viaf.org/viaf/248873380</idno>
                <idno type="other">http://www.geonames.org/2765196/seitenstetten-markt.html</idno>
-            </org>
+               </org>
             <org xml:id="org_0116">
                <orgName>geistliche &gt; Benediktiner &gt; Österreichische Kongregation &gt; Wien -
                   Schottenkloster</orgName>
                </org>
             <org xml:id="org_0125">
-               <orgName>geistliche &gt; Benediktiner &gt; Österreichische Kongregation &gt; Gleink</orgName>
+               <orgName>geistliche &gt; Benediktiner &gt; Österreichische Kongregation &gt;
+                  Gleink</orgName>
                <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/4033</idno>
                <idno type="gnd">http://d-nb.info/gnd/4135713-9</idno>
                <idno type="viaf">http://viaf.org/viaf/243487008</idno>
                <idno type="other">http://www.geonames.org/2778486/gleink.html</idno>
-            </org>
+               </org>
             <org xml:id="org_0137">
                <orgName>geistliche &gt; Benediktiner &gt; Vornbach</orgName>
                <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/60408</idno>
                <idno type="gnd">http://d-nb.info/gnd/4314806-2</idno>
                <idno type="viaf">http://viaf.org/viaf/236509601</idno>
                <idno type="other">http://www.geonames.org/2816057/vornbach.html</idno>
-            </org>
+               </org>
             <org xml:id="org_0146">
                <orgName>geistliche &gt; Benediktiner &gt; Metten</orgName>
                <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/3269</idno>
                <idno type="gnd">http://d-nb.info/gnd/1012970-4</idno>
                <idno type="viaf">http://viaf.org/viaf/124810424</idno>
                <idno type="other">http://www.geonames.org/2871573/metten.html</idno>
-            </org>
+               </org>
             <org xml:id="org_0150">
                <orgName>geistliche &gt; Säkularklerus &gt; Rom - Papst</orgName>
                </org>
@@ -167,14 +169,15 @@
                <idno type="gnd">http://d-nb.info/gnd/16189200-0</idno>
                <idno type="viaf">http://viaf.org/viaf/187715082</idno>
                <idno type="other">http://www.geonames.org/2864547/neumarkt-sankt-veit.html</idno>
-            </org>
+               </org>
             <org xml:id="org_0176">
-               <orgName>geistliche &gt; Benediktiner &gt; Bursfelder Kongregation &gt; Theres</orgName>
+               <orgName>geistliche &gt; Benediktiner &gt; Bursfelder Kongregation &gt;
+                  Theres</orgName>
                <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/60395</idno>
                <idno type="gnd">http://d-nb.info/gnd/4695300-0</idno>
                <idno type="viaf">http://viaf.org/viaf/248290664</idno>
                <idno type="other">http://www.geonames.org/2858791/obertheres.html</idno>
-            </org>
+               </org>
             <org xml:id="org_0395">
                <orgName>geistliche &gt; Benediktiner &gt; Bayerische Kongregation &gt; Neumarkt -
                   St. Veit</orgName>

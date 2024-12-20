@@ -55,18 +55,19 @@
                <idno type="GND">http://d-nb.info/gnd/100084362</idno>
                </person>
             </listPerson><listOrg><org xml:id="org_0012">
-               <orgName>geistliche &gt; Benediktiner &gt; Cassinenser Kongregation &gt; Montecassino</orgName>
+               <orgName>geistliche &gt; Benediktiner &gt; Cassinenser Kongregation &gt;
+                  Montecassino</orgName>
                <idno type="gnd">http://d-nb.info/gnd/1087296986</idno>
                <idno type="viaf">http://viaf.org/viaf/133865391</idno>
                <idno type="other">http://www.geonames.org/3173005/abbazia-di-montecassino.html</idno>
-            </org>
+               </org>
             <org xml:id="org_0250">
                <orgName>geistliche &gt; Benediktiner &gt; Französische Klöster &gt; S. Pierre de
                   Mauzac</orgName>
                <idno type="gnd">http://d-nb.info/gnd/4839804-4</idno>
                <idno type="viaf">http://viaf.org/viaf/237478896</idno>
                <idno type="other">http://www.geonames.org/2991258/mozac.html</idno>
-            </org>
+               </org>
             </listOrg></abstract><textClass>
             <classCode scheme="RNA">Sammlungen und Objekte</classCode>
          </textClass>

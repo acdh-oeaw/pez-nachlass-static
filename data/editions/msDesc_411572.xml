@@ -64,7 +64,7 @@
                <idno type="gnd">http://d-nb.info/gnd/3011144-4</idno>
                <idno type="viaf">http://viaf.org/viaf/155471057</idno>
                <idno type="other">http://www.geonames.org/2778949/gaming.html</idno>
-            </org>
+               </org>
             <org xml:id="org_0110">
                <orgName>weltliche &gt; Wien - Universität</orgName>
                </org>
@@ -73,7 +73,7 @@
                <idno type="gnd">http://d-nb.info/gnd/4729280-5</idno>
                <idno type="viaf">http://viaf.org/viaf/248741637</idno>
                <idno type="other">http://www.geonames.org/2523888/paola.html</idno>
-            </org>
+               </org>
             </listOrg></abstract><textClass>
             <classCode scheme="RNA">Sammlungen und Objekte</classCode>
          </textClass>

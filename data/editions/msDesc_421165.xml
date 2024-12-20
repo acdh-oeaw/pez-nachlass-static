@@ -57,11 +57,12 @@
                <idno type="gnd">http://d-nb.info/gnd/1089637853</idno>
                </person>
             </listPerson><listOrg><org xml:id="org_0012">
-               <orgName>geistliche &gt; Benediktiner &gt; Cassinenser Kongregation &gt; Montecassino</orgName>
+               <orgName>geistliche &gt; Benediktiner &gt; Cassinenser Kongregation &gt;
+                  Montecassino</orgName>
                <idno type="gnd">http://d-nb.info/gnd/1087296986</idno>
                <idno type="viaf">http://viaf.org/viaf/133865391</idno>
                <idno type="other">http://www.geonames.org/3173005/abbazia-di-montecassino.html</idno>
-            </org>
+               </org>
             <org xml:id="org_0050">
                <orgName>weltliche &gt; Düsseldorf - Hof</orgName>
                </org>

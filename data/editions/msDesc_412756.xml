@@ -45,11 +45,11 @@
          </sourceDesc>
       </fileDesc>
       <profileDesc>
-         <abstract><listPerson/><listOrg><org xml:id="org_0156">
+         <abstract><listOrg><org xml:id="org_0156">
                <orgName>geistliche &gt; Benediktiner &gt; Französische Klöster &gt; Anchin</orgName>
                <idno type="gnd">http://d-nb.info/gnd/4505523-3</idno>
                <idno type="viaf">http://viaf.org/viaf/242283724</idno>
-            </org>
+               </org>
             </listOrg></abstract><textClass>
             <classCode scheme="RNA">Sammlungen und Objekte</classCode>
          </textClass>

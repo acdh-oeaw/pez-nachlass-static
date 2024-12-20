@@ -62,12 +62,13 @@
                <idno type="GND">http://d-nb.info/gnd/157567087</idno>
                </person>
             </listPerson><listOrg><org xml:id="org_0001">
-               <orgName>geistliche &gt; Benediktiner &gt; Österreichische Kongregation &gt; Melk</orgName>
+               <orgName>geistliche &gt; Benediktiner &gt; Österreichische Kongregation &gt;
+                  Melk</orgName>
                <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/3265</idno>
                <idno type="gnd">http://d-nb.info/gnd/82463-X</idno>
                <idno type="viaf">http://viaf.org/viaf/316399876</idno>
                <idno type="other">http://www.geonames.org/7536060/kloster-melk.html</idno>
-            </org>
+               </org>
             <org xml:id="org_0010">
                <orgName>geistliche &gt; Benediktiner &gt; Maurinerkongregation</orgName>
                </org>
@@ -78,7 +79,7 @@
                <idno type="gnd">http://d-nb.info/gnd/2003571-8</idno>
                <idno type="viaf">http://viaf.org/viaf/156630989</idno>
                <idno type="other">http://www.geonames.org/8030045/ottobeuren-abbey.html</idno>
-            </org>
+               </org>
             <org xml:id="org_0105">
                <orgName>weltliche &gt; Paris - Hof</orgName>
                </org>

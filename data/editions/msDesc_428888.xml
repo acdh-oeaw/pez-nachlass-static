@@ -47,7 +47,7 @@
          <abstract><listPerson><person xml:id="person__673" role="urheber">
                <persName>Edlinger, Joachim</persName>
                </person>
-            </listPerson><listOrg/></abstract><textClass>
+            </listPerson></abstract><textClass>
             <classCode scheme="RNA">Sammlungen und Objekte</classCode>
          </textClass>
       </profileDesc>

@@ -59,20 +59,23 @@
                <persName>Vorburg, Johann Philipp von</persName>
                </person>
             </listPerson><listOrg><org xml:id="org_0001">
-               <orgName>geistliche &gt; Benediktiner &gt; Österreichische Kongregation &gt; Melk</orgName>
+               <orgName>geistliche &gt; Benediktiner &gt; Österreichische Kongregation &gt;
+                  Melk</orgName>
                <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/3265</idno>
                <idno type="gnd">http://d-nb.info/gnd/82463-X</idno>
                <idno type="viaf">http://viaf.org/viaf/316399876</idno>
                <idno type="other">http://www.geonames.org/7536060/kloster-melk.html</idno>
-            </org>
+               </org>
             <org xml:id="org_0012">
-               <orgName>geistliche &gt; Benediktiner &gt; Cassinenser Kongregation &gt; Montecassino</orgName>
+               <orgName>geistliche &gt; Benediktiner &gt; Cassinenser Kongregation &gt;
+                  Montecassino</orgName>
                <idno type="gnd">http://d-nb.info/gnd/1087296986</idno>
                <idno type="viaf">http://viaf.org/viaf/133865391</idno>
                <idno type="other">http://www.geonames.org/3173005/abbazia-di-montecassino.html</idno>
-            </org>
+               </org>
             <org xml:id="org_0285">
-               <orgName>geistliche &gt; Benediktiner &gt; Cassinenser Kongregation &gt; Neapel</orgName>
+               <orgName>geistliche &gt; Benediktiner &gt; Cassinenser Kongregation &gt;
+                  Neapel</orgName>
                </org>
             <org xml:id="org_0286">
                <orgName>geistliche &gt; Säkularklerus &gt; Basel - Bistum</orgName>

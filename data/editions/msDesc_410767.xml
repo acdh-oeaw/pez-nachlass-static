@@ -62,25 +62,28 @@
                <persName>Galisio, Gregorio</persName>
                </person>
             </listPerson><listOrg><org xml:id="org_0001">
-               <orgName>geistliche &gt; Benediktiner &gt; Österreichische Kongregation &gt; Melk</orgName>
+               <orgName>geistliche &gt; Benediktiner &gt; Österreichische Kongregation &gt;
+                  Melk</orgName>
                <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/3265</idno>
                <idno type="gnd">http://d-nb.info/gnd/82463-X</idno>
                <idno type="viaf">http://viaf.org/viaf/316399876</idno>
                <idno type="other">http://www.geonames.org/7536060/kloster-melk.html</idno>
-            </org>
+               </org>
             <org xml:id="org_0011">
-               <orgName>geistliche &gt; Benediktiner &gt; Beuroner Kongregation &gt; Beuron</orgName>
+               <orgName>geistliche &gt; Benediktiner &gt; Beuroner Kongregation &gt;
+                  Beuron</orgName>
                <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/20550</idno>
                <idno type="gnd">http://d-nb.info/gnd/10290268-9</idno>
                <idno type="viaf">http://viaf.org/viaf/316396755</idno>
                <idno type="other">http://www.geonames.org/11048399/benediktinerkloster-beuron.html</idno>
-            </org>
+               </org>
             <org xml:id="org_0012">
-               <orgName>geistliche &gt; Benediktiner &gt; Cassinenser Kongregation &gt; Montecassino</orgName>
+               <orgName>geistliche &gt; Benediktiner &gt; Cassinenser Kongregation &gt;
+                  Montecassino</orgName>
                <idno type="gnd">http://d-nb.info/gnd/1087296986</idno>
                <idno type="viaf">http://viaf.org/viaf/133865391</idno>
                <idno type="other">http://www.geonames.org/3173005/abbazia-di-montecassino.html</idno>
-            </org>
+               </org>
             </listOrg></abstract><textClass>
             <classCode scheme="RNA">Korrespondenzen</classCode>
          </textClass>

@@ -149,39 +149,43 @@
                <persName>Furter, Markus</persName>
                </person>
             </listPerson><listOrg><org xml:id="org_0001">
-               <orgName>geistliche &gt; Benediktiner &gt; Österreichische Kongregation &gt; Melk</orgName>
+               <orgName>geistliche &gt; Benediktiner &gt; Österreichische Kongregation &gt;
+                  Melk</orgName>
                <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/3265</idno>
                <idno type="gnd">http://d-nb.info/gnd/82463-X</idno>
                <idno type="viaf">http://viaf.org/viaf/316399876</idno>
                <idno type="other">http://www.geonames.org/7536060/kloster-melk.html</idno>
-            </org>
+               </org>
             <org xml:id="org_0008">
-               <orgName>geistliche &gt; Benediktiner &gt; Helvetische Kongregation &gt; St. Gallen</orgName>
+               <orgName>geistliche &gt; Benediktiner &gt; Helvetische Kongregation &gt; St.
+                  Gallen</orgName>
                <idno type="gnd">http://d-nb.info/gnd/1088891446</idno>
                <idno type="viaf">http://viaf.org/viaf/266765811</idno>
                <idno type="other">http://www.geonames.org/2658822/sankt-gallen.html</idno>
-            </org>
+               </org>
             <org xml:id="org_0015">
                <orgName>geistliche &gt; Benediktiner &gt; Reichenau</orgName>
                <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/20359</idno>
                <idno type="gnd">http://d-nb.info/gnd/4193476-3</idno>
                <idno type="viaf">http://viaf.org/viaf/244595494</idno>
                <idno type="other">http://www.geonames.org/3209418/reichenau.html</idno>
-            </org>
+               </org>
             <org xml:id="org_0018">
-               <orgName>geistliche &gt; Benediktiner &gt; Österreichische Kongregation &gt; Mondsee</orgName>
+               <orgName>geistliche &gt; Benediktiner &gt; Österreichische Kongregation &gt;
+                  Mondsee</orgName>
                <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/4037</idno>
                <idno type="gnd">http://d-nb.info/gnd/4402803-9</idno>
                <idno type="viaf">http://viaf.org/viaf/262264489</idno>
                <idno type="other">http://www.geonames.org/2771278/mondsee.html</idno>
-            </org>
+               </org>
             <org xml:id="org_0019">
-               <orgName>geistliche &gt; Benediktiner &gt; Bayerische Kongregation &gt; Tegernsee</orgName>
+               <orgName>geistliche &gt; Benediktiner &gt; Bayerische Kongregation &gt;
+                  Tegernsee</orgName>
                <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/3551</idno>
                <idno type="gnd">http://d-nb.info/gnd/809501-2</idno>
                <idno type="viaf">http://viaf.org/viaf/139580416</idno>
                <idno type="other">http://www.geonames.org/2823679/tegernsee.html</idno>
-            </org>
+               </org>
             <org xml:id="org_0036">
                <orgName>geistliche &gt; Benediktiner &gt; Oberschwäbische Kongregation &gt;
                   Ottobeuren</orgName>
@@ -189,14 +193,14 @@
                <idno type="gnd">http://d-nb.info/gnd/2003571-8</idno>
                <idno type="viaf">http://viaf.org/viaf/156630989</idno>
                <idno type="other">http://www.geonames.org/8030045/ottobeuren-abbey.html</idno>
-            </org>
+               </org>
             <org xml:id="org_0042">
                <orgName>geistliche &gt; Benediktiner &gt; Niederaltaich</orgName>
                <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/3308</idno>
                <idno type="gnd">http://d-nb.info/gnd/2005841-X</idno>
                <idno type="viaf">http://viaf.org/viaf/127140314</idno>
                <idno type="other">http://www.geonames.org/2863667/niederalteich.html</idno>
-            </org>
+               </org>
             <org xml:id="org_0046">
                <orgName>geistliche &gt; Benediktiner &gt; Oberschwäbische Kongregation &gt;
                   Wiblingen</orgName>
@@ -204,7 +208,7 @@
                <idno type="gnd">http://d-nb.info/gnd/4313535-3</idno>
                <idno type="viaf">http://viaf.org/viaf/154929897</idno>
                <idno type="other">http://www.geonames.org/11548398/kloster-wiblingen.html</idno>
-            </org>
+               </org>
             <org xml:id="org_0073">
                <orgName>geistliche &gt; Benediktiner &gt; Oberschwäbische Kongregation &gt;
                   Zwiefalten</orgName>
@@ -212,7 +216,7 @@
                <idno type="gnd">http://d-nb.info/gnd/5024707-4</idno>
                <idno type="viaf">http://viaf.org/viaf/146121339</idno>
                <idno type="other">http://www.geonames.org/2803545/zwiefalten.html</idno>
-            </org>
+               </org>
             <org xml:id="org_0130">
                <orgName>geistliche &gt; Benediktiner &gt; Füssen - St. Mang</orgName>
                </org>
@@ -222,14 +226,15 @@
                <idno type="gnd">http://d-nb.info/gnd/4129308-3</idno>
                <idno type="viaf">http://viaf.org/viaf/240855879</idno>
                <idno type="other">http://www.geonames.org/2895744/irsee.html</idno>
-            </org>
+               </org>
             <org xml:id="org_0166">
-               <orgName>geistliche &gt; Benediktiner &gt; Beuroner Kongregation &gt; Neresheim</orgName>
+               <orgName>geistliche &gt; Benediktiner &gt; Beuroner Kongregation &gt;
+                  Neresheim</orgName>
                <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/20561</idno>
                <idno type="gnd">http://d-nb.info/gnd/2093432-4</idno>
                <idno type="viaf">http://viaf.org/viaf/142570913</idno>
                <idno type="other">http://www.geonames.org/11282404/neresheim-abbey.html</idno>
-            </org>
+               </org>
             <org xml:id="org_0276">
                <orgName>geistliche &gt; Kartäuser &gt; Prüll</orgName>
                <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/60321</idno>
@@ -238,7 +243,7 @@
                <idno type="viaf">http://viaf.org/viaf/133893958</idno>
                <idno type="viaf">http://viaf.org/viaf/240522542</idno>
                <idno type="other">http://www.geonames.org/11204750/regensburg-kloster-pruell.html</idno>
-            </org>
+               </org>
             <org xml:id="org_0354">
                <orgName>geistliche &gt; Säkularklerus &gt; Mattsee - Kollegiatstift</orgName>
                </org>

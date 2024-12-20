@@ -52,7 +52,7 @@
                <idno type="gnd">http://d-nb.info/gnd/7520015-6</idno>
                <idno type="viaf">http://viaf.org/viaf/240569478</idno>
                <idno type="other">http://www.geonames.org/2650628/durham.html</idno>
-            </org>
+               </org>
             </listOrg></abstract><textClass>
             <classCode scheme="RNA">Sammlungen und Objekte</classCode>
          </textClass>

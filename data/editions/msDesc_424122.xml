@@ -47,14 +47,14 @@
          </sourceDesc>
       </fileDesc>
       <profileDesc>
-         <abstract><listPerson/><listOrg><org xml:id="org_0035">
+         <abstract><listOrg><org xml:id="org_0035">
                <orgName>geistliche &gt; Benediktiner &gt; Oberschwäbische Kongregation &gt;
                   Ochsenhausen</orgName>
                <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/20123</idno>
                <idno type="gnd">http://d-nb.info/gnd/2133171-6</idno>
                <idno type="viaf">http://viaf.org/viaf/149403418</idno>
                <idno type="other">http://www.geonames.org/2858326/ochsenhausen.html</idno>
-            </org>
+               </org>
             </listOrg></abstract><textClass>
             <classCode scheme="RNA">Sammlungen und Objekte</classCode>
          </textClass>

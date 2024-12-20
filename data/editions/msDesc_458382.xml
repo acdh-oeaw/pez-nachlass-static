@@ -311,7 +311,7 @@
                <idno type="gnd">http://d-nb.info/gnd/4318686-5</idno>
                <idno type="viaf">http://viaf.org/viaf/130012950</idno>
                <idno type="other">http://www.geonames.org/3078748/brevnov.html</idno>
-            </org>
+               </org>
             <org xml:id="org_0047">
                <orgName>geistliche &gt; Benediktiner &gt; Österreichische Kongregation &gt;
                   Seitenstetten</orgName>
@@ -319,42 +319,44 @@
                <idno type="gnd">http://d-nb.info/gnd/19112-7</idno>
                <idno type="viaf">http://viaf.org/viaf/248873380</idno>
                <idno type="other">http://www.geonames.org/2765196/seitenstetten-markt.html</idno>
-            </org>
+               </org>
             <org xml:id="org_0128">
                <orgName>geistliche &gt; Zisterzienser &gt; Zwettl</orgName>
                <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/92566</idno>
                <idno type="gnd">http://d-nb.info/gnd/10092270-3</idno>
                <idno type="viaf">http://viaf.org/viaf/151080140</idno>
                <idno type="other">http://www.geonames.org/2760415/zwettl-stift.html</idno>
-            </org>
+               </org>
             <org xml:id="org_0136">
-               <orgName>geistliche &gt; Benediktiner &gt; Bayerische Kongregation &gt; Rott am Inn</orgName>
+               <orgName>geistliche &gt; Benediktiner &gt; Bayerische Kongregation &gt; Rott am
+                  Inn</orgName>
                <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/60355</idno>
                <idno type="gnd">http://d-nb.info/gnd/4278403-7</idno>
                <idno type="viaf">http://viaf.org/viaf/293128079</idno>
                <idno type="other">http://www.geonames.org/2843772/rott-am-inn.html</idno>
-            </org>
+               </org>
             <org xml:id="org_0141">
                <orgName>geistliche &gt; Benediktiner &gt; Österreichische Kongregation &gt; St.
                   Lambrecht</orgName>
                <idno type="viaf">http://viaf.org/viaf/153857503</idno>
                <idno type="other">http://www.geonames.org/2766615/sankt-lambrecht.html</idno>
-            </org>
+               </org>
             <org xml:id="org_0144">
-               <orgName>geistliche &gt; Benediktiner &gt; Bayerische Kongregation &gt; Scheyern</orgName>
+               <orgName>geistliche &gt; Benediktiner &gt; Bayerische Kongregation &gt;
+                  Scheyern</orgName>
                <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/60363</idno>
                <idno type="gnd">http://d-nb.info/gnd/2052902-8</idno>
                <idno type="gnd">http://d-nb.info/gnd/4208047-2</idno>
                <idno type="viaf">http://viaf.org/viaf/151936876</idno>
                <idno type="viaf">http://viaf.org/viaf/145548928</idno>
                <idno type="other">http://www.geonames.org/2839527/scheyern.html</idno>
-            </org>
+               </org>
             <org xml:id="org_0273">
                <orgName>geistliche &gt; Kartäuser &gt; Seitz</orgName>
                <idno type="gnd">http://d-nb.info/gnd/4226462-5</idno>
                <idno type="viaf">http://viaf.org/viaf/249046702</idno>
                <idno type="other">http://www.geonames.org/3186472/zice.html</idno>
-            </org>
+               </org>
             <org xml:id="org_0371">
                <orgName>geistliche &gt; Säkularklerus &gt; Prag - Erzbistum</orgName>
                </org>
@@ -363,19 +365,19 @@
                <idno type="gnd">http://d-nb.info/gnd/1086374797</idno>
                <idno type="viaf">http://viaf.org/viaf/145888051</idno>
                <idno type="other">http://www.geonames.org/3062184/vyssi-brod.html</idno>
-            </org>
+               </org>
             <org xml:id="org_0389">
                <orgName>geistliche &gt; Zisterzienser &gt; Goldenkron</orgName>
                <idno type="gnd">http://d-nb.info/gnd/16211527-1</idno>
                <idno type="viaf">http://viaf.org/viaf/192092406</idno>
                <idno type="other">http://www.geonames.org/3061400/zlata-koruna.html</idno>
-            </org>
+               </org>
             <org xml:id="org_0390">
                <orgName>geistliche &gt; Benediktiner &gt; Pannonhalma</orgName>
                <idno type="gnd">http://d-nb.info/gnd/2134383-4</idno>
                <idno type="viaf">http://viaf.org/viaf/126296757</idno>
                <idno type="other">http://www.geonames.org/3046693/pannonhalma.html</idno>
-            </org>
+               </org>
             <org xml:id="org_0391">
                <orgName>geistliche &gt; Säkularklerus &gt; Wien - Passauisches Offizialat</orgName>
                </org>

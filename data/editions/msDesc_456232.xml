@@ -287,25 +287,27 @@
                <persName>Kraus, Johann Baptist</persName>
                </person>
          </listPerson><listOrg><org xml:id="org_0001">
-               <orgName>geistliche &gt; Benediktiner &gt; Österreichische Kongregation &gt; Melk</orgName>
+               <orgName>geistliche &gt; Benediktiner &gt; Österreichische Kongregation &gt;
+                  Melk</orgName>
                <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/3265</idno>
                <idno type="gnd">http://d-nb.info/gnd/82463-X</idno>
                <idno type="viaf">http://viaf.org/viaf/316399876</idno>
                <idno type="other">http://www.geonames.org/7536060/kloster-melk.html</idno>
-            </org>
+               </org>
             <org xml:id="org_0008">
-               <orgName>geistliche &gt; Benediktiner &gt; Helvetische Kongregation &gt; St. Gallen</orgName>
+               <orgName>geistliche &gt; Benediktiner &gt; Helvetische Kongregation &gt; St.
+                  Gallen</orgName>
                <idno type="gnd">http://d-nb.info/gnd/1088891446</idno>
                <idno type="viaf">http://viaf.org/viaf/266765811</idno>
                <idno type="other">http://www.geonames.org/2658822/sankt-gallen.html</idno>
-            </org>
+               </org>
             <org xml:id="org_0015">
                <orgName>geistliche &gt; Benediktiner &gt; Reichenau</orgName>
                <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/20359</idno>
                <idno type="gnd">http://d-nb.info/gnd/4193476-3</idno>
                <idno type="viaf">http://viaf.org/viaf/244595494</idno>
                <idno type="other">http://www.geonames.org/3209418/reichenau.html</idno>
-            </org>
+               </org>
             <org xml:id="org_0031">
                <orgName>geistliche &gt; Benediktiner &gt; Bayerische Kongregation &gt; Regensburg -
                   St. Emmeram</orgName>
@@ -315,12 +317,13 @@
                   St. Stephan</orgName>
                </org>
             <org xml:id="org_0044">
-               <orgName>geistliche &gt; Benediktiner &gt; Oberschwäbische Kongregation &gt; Mehrerau</orgName>
+               <orgName>geistliche &gt; Benediktiner &gt; Oberschwäbische Kongregation &gt;
+                  Mehrerau</orgName>
                <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/92580</idno>
                <idno type="gnd">http://d-nb.info/gnd/1086282779</idno>
                <idno type="viaf">http://viaf.org/viaf/867145857000822921033</idno>
                <idno type="other">http://www.geonames.org/3333694/kloster-mehrerau.html</idno>
-            </org>
+               </org>
             <org xml:id="org_0073">
                <orgName>geistliche &gt; Benediktiner &gt; Oberschwäbische Kongregation &gt;
                   Zwiefalten</orgName>
@@ -328,16 +331,17 @@
                <idno type="gnd">http://d-nb.info/gnd/5024707-4</idno>
                <idno type="viaf">http://viaf.org/viaf/146121339</idno>
                <idno type="other">http://www.geonames.org/2803545/zwiefalten.html</idno>
-            </org>
+               </org>
             <org xml:id="org_0139">
                <orgName>geistliche &gt; Säkularklerus &gt; Augsburg - Domkapitel</orgName>
                </org>
             <org xml:id="org_0179">
-               <orgName>geistliche &gt; Benediktiner &gt; Helvetische Kongregation &gt; Einsiedeln</orgName>
+               <orgName>geistliche &gt; Benediktiner &gt; Helvetische Kongregation &gt;
+                  Einsiedeln</orgName>
                <idno type="gnd">http://d-nb.info/gnd/2089329-2</idno>
                <idno type="viaf">http://viaf.org/viaf/143458106</idno>
                <idno type="other">http://www.geonames.org/2660925/einsiedeln.html</idno>
-            </org>
+               </org>
             <org xml:id="org_0193">
                <orgName>geistliche &gt; Säkularklerus &gt; Augsburg - Bistum</orgName>
                </org>
@@ -347,7 +351,7 @@
                <idno type="gnd">http://d-nb.info/gnd/4085563-6</idno>
                <idno type="viaf">http://viaf.org/viaf/240346955</idno>
                <idno type="other">http://www.geonames.org/2930889/ellwangen.html</idno>
-            </org>
+               </org>
             <org xml:id="org_0286">
                <orgName>geistliche &gt; Säkularklerus &gt; Basel - Bistum</orgName>
                </org>
@@ -355,12 +359,13 @@
                <orgName>geistliche &gt; Säkularklerus &gt; Besançon - Erzbistum</orgName>
                </org>
             <org xml:id="org_0290">
-               <orgName>geistliche &gt; Benediktiner &gt; Bursfelder Kongregation &gt; Hirsau</orgName>
+               <orgName>geistliche &gt; Benediktiner &gt; Bursfelder Kongregation &gt;
+                  Hirsau</orgName>
                <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/20600</idno>
                <idno type="gnd">http://d-nb.info/gnd/4129309-5</idno>
                <idno type="viaf">http://viaf.org/viaf/243484462</idno>
                <idno type="other">http://www.geonames.org/11398244/hirsau-benediktinerkloster.html</idno>
-            </org>
+               </org>
             <org xml:id="org_0298">
                <orgName>geistliche &gt; Säkularklerus &gt; Konstanz - Bistum</orgName>
                </org>
@@ -374,14 +379,15 @@
                <orgName>weltliche &gt; Heidelberg - Universität</orgName>
                </org>
             <org xml:id="org_0372">
-               <orgName>geistliche &gt; Benediktiner &gt; Bayerische Kongregation &gt; Reichenbach</orgName>
+               <orgName>geistliche &gt; Benediktiner &gt; Bayerische Kongregation &gt;
+                  Reichenbach</orgName>
                <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/60350</idno>
                <idno type="gnd">http://d-nb.info/gnd/4271614-7</idno>
                <idno type="gnd">http://d-nb.info/gnd/5091734-1</idno>
                <idno type="viaf">http://viaf.org/viaf/148935778</idno>
                <idno type="viaf">http://viaf.org/viaf/136764744</idno>
                <idno type="other">http://www.geonames.org/2849170/reichenbach.html</idno>
-            </org>
+               </org>
             <org xml:id="org_0374">
                <orgName>geistliche &gt; Benediktiner &gt; Maurinerkongregation &gt; Fleury -
                   Saint-Benoît-sur-Loire</orgName>
@@ -390,7 +396,8 @@
                <orgName>geistliche &gt; Säkularklerus &gt; Meißen - Bistum</orgName>
                </org>
             <org xml:id="org_0376">
-               <orgName>geistliche &gt; Benediktiner &gt; Bingen - Rupertsberg (Benediktinerinnen)</orgName>
+               <orgName>geistliche &gt; Benediktiner &gt; Bingen - Rupertsberg
+                  (Benediktinerinnen)</orgName>
                </org>
             <org xml:id="org_0377">
                <orgName>geistliche &gt; Augustiner-Chorherren &gt; Konstanz - St. Stephan</orgName>
@@ -420,7 +427,8 @@
                <orgName>geistliche &gt; Säkularklerus &gt; Köln - St. Andreas</orgName>
                </org>
             <org xml:id="org_0386">
-               <orgName>geistliche &gt; Augustiner-Chorherren &gt; Zürich - St. Martin (Zürichberg)</orgName>
+               <orgName>geistliche &gt; Augustiner-Chorherren &gt; Zürich - St. Martin
+                  (Zürichberg)</orgName>
                </org>
             <org xml:id="org_0387">
                <orgName>geistliche &gt; Säkularklerus &gt; Metz - Bistum</orgName>

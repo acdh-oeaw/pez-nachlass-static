@@ -55,12 +55,13 @@
                <persName>Hl. Koloman</persName>
                </person>
             </listPerson><listOrg><org xml:id="org_0009">
-               <orgName>geistliche &gt; Benediktiner &gt; Österreichische Kongregation &gt; Lambach</orgName>
+               <orgName>geistliche &gt; Benediktiner &gt; Österreichische Kongregation &gt;
+                  Lambach</orgName>
                <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/3196</idno>
                <idno type="gnd">http://d-nb.info/gnd/1048727-X</idno>
                <idno type="viaf">http://viaf.org/viaf/143705101</idno>
                <idno type="other">http://www.geonames.org/8410618/stift-lambach.html</idno>
-            </org>
+               </org>
             </listOrg></abstract><textClass>
             <classCode scheme="RNA">Werke</classCode>
          </textClass>

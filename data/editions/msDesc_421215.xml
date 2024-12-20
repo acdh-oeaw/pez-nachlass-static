@@ -52,12 +52,13 @@
                <persName>Johannes III. von Ochsenhausen</persName>
                </person>
             </listPerson><listOrg><org xml:id="org_0001">
-               <orgName>geistliche &gt; Benediktiner &gt; Österreichische Kongregation &gt; Melk</orgName>
+               <orgName>geistliche &gt; Benediktiner &gt; Österreichische Kongregation &gt;
+                  Melk</orgName>
                <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/3265</idno>
                <idno type="gnd">http://d-nb.info/gnd/82463-X</idno>
                <idno type="viaf">http://viaf.org/viaf/316399876</idno>
                <idno type="other">http://www.geonames.org/7536060/kloster-melk.html</idno>
-            </org>
+               </org>
             <org xml:id="org_0116">
                <orgName>geistliche &gt; Benediktiner &gt; Österreichische Kongregation &gt; Wien -
                   Schottenkloster</orgName>
@@ -69,7 +70,7 @@
                <idno type="gnd">http://d-nb.info/gnd/5000463-3</idno>
                <idno type="viaf">http://viaf.org/viaf/128335745</idno>
                <idno type="other">http://www.geonames.org/9782091/stift-altenburg.html</idno>
-            </org>
+               </org>
             </listOrg></abstract><textClass>
             <classCode scheme="RNA">Sammlungen und Objekte</classCode>
          </textClass>

@@ -59,19 +59,21 @@
                <persName>Pez, Bernhard</persName>
                </person>
             </listPerson><listOrg><org xml:id="org_0001">
-               <orgName>geistliche &gt; Benediktiner &gt; Österreichische Kongregation &gt; Melk</orgName>
+               <orgName>geistliche &gt; Benediktiner &gt; Österreichische Kongregation &gt;
+                  Melk</orgName>
                <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/3265</idno>
                <idno type="gnd">http://d-nb.info/gnd/82463-X</idno>
                <idno type="viaf">http://viaf.org/viaf/316399876</idno>
                <idno type="other">http://www.geonames.org/7536060/kloster-melk.html</idno>
-            </org>
+               </org>
             <org xml:id="org_0044">
-               <orgName>geistliche &gt; Benediktiner &gt; Oberschwäbische Kongregation &gt; Mehrerau</orgName>
+               <orgName>geistliche &gt; Benediktiner &gt; Oberschwäbische Kongregation &gt;
+                  Mehrerau</orgName>
                <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/92580</idno>
                <idno type="gnd">http://d-nb.info/gnd/1086282779</idno>
                <idno type="viaf">http://viaf.org/viaf/867145857000822921033</idno>
                <idno type="other">http://www.geonames.org/3333694/kloster-mehrerau.html</idno>
-            </org>
+               </org>
             </listOrg></abstract><textClass>
             <classCode scheme="RNA">Korrespondenzen</classCode>
          </textClass>

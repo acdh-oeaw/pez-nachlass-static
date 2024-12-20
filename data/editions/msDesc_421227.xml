@@ -77,27 +77,29 @@
                <persName>Johannes von Kempten</persName>
                </person>
             </listPerson><listOrg><org xml:id="org_0001">
-               <orgName>geistliche &gt; Benediktiner &gt; Österreichische Kongregation &gt; Melk</orgName>
+               <orgName>geistliche &gt; Benediktiner &gt; Österreichische Kongregation &gt;
+                  Melk</orgName>
                <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/3265</idno>
                <idno type="gnd">http://d-nb.info/gnd/82463-X</idno>
                <idno type="viaf">http://viaf.org/viaf/316399876</idno>
                <idno type="other">http://www.geonames.org/7536060/kloster-melk.html</idno>
-            </org>
+               </org>
             <org xml:id="org_0029">
-               <orgName>geistliche &gt; Benediktiner &gt; Bayerische Kongregation &gt; Andechs</orgName>
+               <orgName>geistliche &gt; Benediktiner &gt; Bayerische Kongregation &gt;
+                  Andechs</orgName>
                <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/2091</idno>
                <idno type="gnd">http://d-nb.info/gnd/4310732-1</idno>
                <idno type="gnd">http://d-nb.info/gnd/1089050224</idno>
                <idno type="viaf">http://viaf.org/viaf/233645846</idno>
                <idno type="viaf">http://viaf.org/viaf/939145857951823021263</idno>
                <idno type="other">http://www.geonames.org/2956253/andechs.html</idno>
-            </org>
+               </org>
             <org xml:id="org_0119">
                <orgName>geistliche &gt; Benediktiner &gt; Mariazell in Österreich</orgName>
                <idno type="gnd">http://d-nb.info/gnd/4800063-2</idno>
                <idno type="viaf">http://viaf.org/viaf/236583747</idno>
                <idno type="other">http://www.geonames.org/2774084/kleinmariazell.html</idno>
-            </org>
+               </org>
             <org xml:id="org_0207">
                <orgName>geistliche &gt; Cluniazenser</orgName>
                </org>

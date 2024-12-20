@@ -116,12 +116,13 @@
                <persName>Arnefrid (OSB St. Blasien)</persName>
                </person>
             </listPerson><listOrg><org xml:id="org_0001">
-               <orgName>geistliche &gt; Benediktiner &gt; Österreichische Kongregation &gt; Melk</orgName>
+               <orgName>geistliche &gt; Benediktiner &gt; Österreichische Kongregation &gt;
+                  Melk</orgName>
                <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/3265</idno>
                <idno type="gnd">http://d-nb.info/gnd/82463-X</idno>
                <idno type="viaf">http://viaf.org/viaf/316399876</idno>
                <idno type="other">http://www.geonames.org/7536060/kloster-melk.html</idno>
-            </org>
+               </org>
             <org xml:id="org_0007">
                <orgName>geistliche &gt; Benediktiner &gt; St. Blasien</orgName>
                <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/20387</idno>
@@ -130,7 +131,7 @@
                <idno type="viaf">http://viaf.org/viaf/133695851</idno>
                <idno type="viaf">http://viaf.org/viaf/170307029</idno>
                <idno type="other">http://www.geonames.org/11204877/kloster-sankt-blasien.html</idno>
-            </org>
+               </org>
             </listOrg></abstract><textClass>
             <classCode scheme="RNA">Korrespondenzen</classCode>
          </textClass>

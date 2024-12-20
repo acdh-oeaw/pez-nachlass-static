@@ -112,32 +112,35 @@
                <persName>Ruthard von Fulda</persName>
                </person>
             </listPerson><listOrg><org xml:id="org_0001">
-               <orgName>geistliche &gt; Benediktiner &gt; Österreichische Kongregation &gt; Melk</orgName>
+               <orgName>geistliche &gt; Benediktiner &gt; Österreichische Kongregation &gt;
+                  Melk</orgName>
                <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/3265</idno>
                <idno type="gnd">http://d-nb.info/gnd/82463-X</idno>
                <idno type="viaf">http://viaf.org/viaf/316399876</idno>
                <idno type="other">http://www.geonames.org/7536060/kloster-melk.html</idno>
-            </org>
+               </org>
             <org xml:id="org_0008">
-               <orgName>geistliche &gt; Benediktiner &gt; Helvetische Kongregation &gt; St. Gallen</orgName>
+               <orgName>geistliche &gt; Benediktiner &gt; Helvetische Kongregation &gt; St.
+                  Gallen</orgName>
                <idno type="gnd">http://d-nb.info/gnd/1088891446</idno>
                <idno type="viaf">http://viaf.org/viaf/266765811</idno>
                <idno type="other">http://www.geonames.org/2658822/sankt-gallen.html</idno>
-            </org>
+               </org>
             <org xml:id="org_0015">
                <orgName>geistliche &gt; Benediktiner &gt; Reichenau</orgName>
                <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/20359</idno>
                <idno type="gnd">http://d-nb.info/gnd/4193476-3</idno>
                <idno type="viaf">http://viaf.org/viaf/244595494</idno>
                <idno type="other">http://www.geonames.org/3209418/reichenau.html</idno>
-            </org>
+               </org>
             <org xml:id="org_0019">
-               <orgName>geistliche &gt; Benediktiner &gt; Bayerische Kongregation &gt; Tegernsee</orgName>
+               <orgName>geistliche &gt; Benediktiner &gt; Bayerische Kongregation &gt;
+                  Tegernsee</orgName>
                <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/3551</idno>
                <idno type="gnd">http://d-nb.info/gnd/809501-2</idno>
                <idno type="viaf">http://viaf.org/viaf/139580416</idno>
                <idno type="other">http://www.geonames.org/2823679/tegernsee.html</idno>
-            </org>
+               </org>
             <org xml:id="org_0031">
                <orgName>geistliche &gt; Benediktiner &gt; Bayerische Kongregation &gt; Regensburg -
                   St. Emmeram</orgName>
@@ -151,20 +154,20 @@
                <idno type="gnd">http://d-nb.info/gnd/4224267-8</idno>
                <idno type="viaf">http://viaf.org/viaf/128276817</idno>
                <idno type="other">http://www.geonames.org/2851826/pruem.html</idno>
-            </org>
+               </org>
             <org xml:id="org_0294">
                <orgName>geistliche &gt; Benediktiner &gt; Kempten</orgName>
                <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/60182</idno>
                <idno type="gnd">http://d-nb.info/gnd/1085838811</idno>
                <idno type="viaf">http://viaf.org/viaf/312844507</idno>
                <idno type="other">http://www.geonames.org/2891621/kempten-allgaeu.html</idno>
-            </org>
+               </org>
             <org xml:id="org_0295">
                <orgName>geistliche &gt; Benediktiner &gt; Belgische Klöster &gt; Stablo</orgName>
                <idno type="gnd">http://d-nb.info/gnd/801566-1</idno>
                <idno type="viaf">http://viaf.org/viaf/135558513</idno>
                <idno type="other">http://www.geonames.org/2786185/stavelot.html</idno>
-            </org>
+               </org>
             <org xml:id="org_0296">
                <orgName>geistliche &gt; Säkularklerus &gt; Eichstätt - Bistum</orgName>
                </org>
@@ -180,14 +183,14 @@
                <idno type="gnd">http://d-nb.info/gnd/7725657-8</idno>
                <idno type="viaf">http://viaf.org/viaf/246825603</idno>
                <idno type="other">http://www.geonames.org/2907852/heidenheim.html</idno>
-            </org>
+               </org>
             <org xml:id="org_0300">
                <orgName>geistliche &gt; Benediktiner &gt; Altomünster</orgName>
                <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/60002</idno>
                <idno type="gnd">http://d-nb.info/gnd/4195736-2</idno>
                <idno type="viaf">http://viaf.org/viaf/143208035</idno>
                <idno type="other">http://www.geonames.org/2956951/altomuenster.html</idno>
-            </org>
+               </org>
             <org xml:id="org_0301">
                <orgName>geistliche &gt; Säkularklerus &gt; Hamburg - Erzbistum</orgName>
                </org>

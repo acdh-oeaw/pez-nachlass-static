@@ -48,13 +48,14 @@
                <persName>Périon, Joachim</persName>
                </person>
             </listPerson><listOrg><org xml:id="org_0175">
-               <orgName>geistliche &gt; Benediktiner &gt; Maurinerkongregation &gt; Cormery</orgName>
+               <orgName>geistliche &gt; Benediktiner &gt; Maurinerkongregation &gt;
+                  Cormery</orgName>
                <idno type="gnd">http://d-nb.info/gnd/7520756-4</idno>
                <idno type="gnd">http://d-nb.info/gnd/5336955-5</idno>
                <idno type="viaf">http://viaf.org/viaf/249427541</idno>
                <idno type="viaf">http://viaf.org/viaf/148655655</idno>
                <idno type="other">http://www.geonames.org/3023637/cormery.html</idno>
-            </org>
+               </org>
             </listOrg></abstract><textClass>
             <classCode scheme="RNA">Sammlungen und Objekte</classCode>
          </textClass>

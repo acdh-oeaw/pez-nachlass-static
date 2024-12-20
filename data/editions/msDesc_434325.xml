@@ -52,7 +52,7 @@
                <idno type="gnd">http://d-nb.info/gnd/2033438-2</idno>
                <idno type="viaf">http://viaf.org/viaf/245395737</idno>
                <idno type="other">http://www.geonames.org/2767754/reichersberg.html</idno>
-            </org>
+               </org>
             </listOrg></abstract><textClass>
             <classCode scheme="RNA">Sammlungen und Objekte</classCode>
          </textClass>

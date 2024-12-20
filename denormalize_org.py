@@ -35,4 +35,7 @@ for f in files:
     doc = TeiReader(f)
     for empty_node in doc.any_xpath(".//tei:listPerson[not(node())] | .//tei:listOrg[not(node())]"):
         empty_node.getparent().remove(empty_node)
+    for empty_abstract in doc.any_xpath(".//tei:profileDesc/tei:abstract[not(node())]"):
+        empty_ab = ET.Element("{http://www.tei-c.org/ns/1.0}ab")
+        empty_abstract.append(empty_ab)
     doc.tree_to_file(f)
