@@ -50,7 +50,17 @@
          <abstract><listPerson><person xml:id="person__3519" role="urheber">
                <persName>Bernhard von Cluny (Morlas)</persName>
                </person>
-            </listPerson></abstract><textClass>
+            </listPerson><listOrg><org xml:id="org_0154">
+               <orgName>geistliche &gt; Benediktiner &gt; Französische Klöster &gt; Cluny</orgName>
+               <idno type="gnd">http://d-nb.info/gnd/5033814-6</idno>
+               <idno type="viaf">http://viaf.org/viaf/146613586</idno>
+               <idno type="other">http://www.geonames.org/3024534/cluny.html</idno>
+            </org>
+            <org xml:id="org_0232">
+               <orgName>geistliche &gt; Benediktiner &gt; Bursfelder Kongregation &gt; Bamberg -
+                  Michelsberg</orgName>
+               </org>
+            </listOrg></abstract><textClass>
             <classCode scheme="RNA">Sammlungen und Objekte</classCode>
          </textClass>
       </profileDesc>

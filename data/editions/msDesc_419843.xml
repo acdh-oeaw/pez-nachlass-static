@@ -71,7 +71,28 @@
             <person xml:id="person__932" role="urheber">
                <persName>Scheyb, Franz Christoph</persName>
                </person>
-            </listPerson></abstract><textClass>
+            </listPerson><listOrg><org xml:id="org_0001">
+               <orgName>geistliche &gt; Benediktiner &gt; Österreichische Kongregation &gt; Melk</orgName>
+               <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/3265</idno>
+               <idno type="gnd">http://d-nb.info/gnd/82463-X</idno>
+               <idno type="viaf">http://viaf.org/viaf/316399876</idno>
+               <idno type="other">http://www.geonames.org/7536060/kloster-melk.html</idno>
+            </org>
+            <org xml:id="org_0016">
+               <orgName>geistliche &gt; Augustiner-Chorherren &gt; St. Florian</orgName>
+               <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/5000</idno>
+               <idno type="gnd">http://d-nb.info/gnd/2018820-1</idno>
+               <idno type="viaf">http://viaf.org/viaf/133171207</idno>
+               <idno type="other">http://www.geonames.org/2771867/sankt-florian.html</idno>
+            </org>
+            <org xml:id="org_0060">
+               <orgName>geistliche &gt; Augustiner-Chorherren &gt; St. Andrä an der Traisen</orgName>
+               <idno type="other">http://www.geonames.org/2766770/sankt-andrae-an-der-traisen.html</idno>
+            </org>
+            <org xml:id="org_0063">
+               <orgName>weltliche &gt; Wien - niederösterreichische Landschaft</orgName>
+               </org>
+            </listOrg></abstract><textClass>
             <classCode scheme="RNA">Korrespondenzen</classCode>
          </textClass>
       </profileDesc>

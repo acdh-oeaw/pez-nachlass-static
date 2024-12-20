@@ -47,7 +47,7 @@
          <abstract><listPerson><person xml:id="person__1561" role="behandelte">
                <persName>Nikolaus von Kues</persName>
                </person>
-            </listPerson></abstract><textClass>
+            </listPerson><listOrg/></abstract><textClass>
             <classCode scheme="RNA">Sammlungen und Objekte</classCode>
          </textClass>
       </profileDesc>

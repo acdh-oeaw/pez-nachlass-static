@@ -46,7 +46,13 @@
          </sourceDesc>
       </fileDesc>
       <profileDesc>
-         <abstract><listPerson/></abstract><textClass>
+         <abstract><listPerson/><listOrg><org xml:id="org_0010">
+               <orgName>geistliche &gt; Benediktiner &gt; Maurinerkongregation</orgName>
+               </org>
+            <org xml:id="org_0097">
+               <orgName>geistliche &gt; Benediktiner</orgName>
+               </org>
+            </listOrg></abstract><textClass>
             <classCode scheme="RNA">Sammlungen und Objekte</classCode>
          </textClass>
       </profileDesc>

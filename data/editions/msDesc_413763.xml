@@ -380,7 +380,14 @@
             <person xml:id="person__658" role="behandelte">
                <persName>Helmreich, Rupert</persName>
                </person>
-            </listPerson></abstract><textClass>
+            </listPerson><listOrg><org xml:id="org_0018">
+               <orgName>geistliche &gt; Benediktiner &gt; Österreichische Kongregation &gt; Mondsee</orgName>
+               <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/4037</idno>
+               <idno type="gnd">http://d-nb.info/gnd/4402803-9</idno>
+               <idno type="viaf">http://viaf.org/viaf/262264489</idno>
+               <idno type="other">http://www.geonames.org/2771278/mondsee.html</idno>
+            </org>
+            </listOrg></abstract><textClass>
             <classCode scheme="RNA">Sammlungen und Objekte</classCode>
          </textClass>
       </profileDesc>

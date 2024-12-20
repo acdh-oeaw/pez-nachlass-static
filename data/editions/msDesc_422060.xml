@@ -51,7 +51,16 @@
             <person xml:id="person__1341" role="urheber">
                <persName>Lannoy, Jacques de</persName>
                </person>
-            </listPerson></abstract><textClass>
+            </listPerson><listOrg><org xml:id="org_0112">
+               <orgName>geistliche &gt; Zisterzienser &gt; Cîteaux</orgName>
+               <idno type="gnd">http://d-nb.info/gnd/4126338-8</idno>
+               <idno type="viaf">http://viaf.org/viaf/240383407</idno>
+               <idno type="other">http://www.geonames.org/3024876/citeaux-abbey.html</idno>
+            </org>
+            <org xml:id="org_0217">
+               <orgName>geistliche &gt; Säkularklerus &gt; Le Mans - Bistum</orgName>
+               </org>
+            </listOrg></abstract><textClass>
             <classCode scheme="RNA">Sammlungen und Objekte</classCode>
          </textClass>
       </profileDesc>

@@ -47,7 +47,11 @@
          <abstract><listPerson><person xml:id="person__19" role="behandelte">
                <persName>Legipont, Oliver</persName>
                </person>
-            </listPerson></abstract><textClass>
+            </listPerson><listOrg><org xml:id="org_0005">
+               <orgName>geistliche &gt; Benediktiner &gt; Bursfelder Kongregation &gt; Köln - Groß
+                  St. Martin</orgName>
+               </org>
+            </listOrg></abstract><textClass>
             <classCode scheme="RNA">Sammlungen und Objekte</classCode>
          </textClass>
       </profileDesc>

@@ -68,7 +68,41 @@
             <person xml:id="person__678" role="behandelte">
                <persName>Neumayr, Anselm</persName>
                </person>
-            </listPerson></abstract><textClass>
+            </listPerson><listOrg><org xml:id="org_0001">
+               <orgName>geistliche &gt; Benediktiner &gt; Österreichische Kongregation &gt; Melk</orgName>
+               <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/3265</idno>
+               <idno type="gnd">http://d-nb.info/gnd/82463-X</idno>
+               <idno type="viaf">http://viaf.org/viaf/316399876</idno>
+               <idno type="other">http://www.geonames.org/7536060/kloster-melk.html</idno>
+            </org>
+            <org xml:id="org_0020">
+               <orgName>geistliche &gt; Benediktiner &gt; Salzburgische Kongregation &gt; Salzburg -
+                  St. Peter</orgName>
+               </org>
+            <org xml:id="org_0047">
+               <orgName>geistliche &gt; Benediktiner &gt; Österreichische Kongregation &gt;
+                  Seitenstetten</orgName>
+               <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/4040</idno>
+               <idno type="gnd">http://d-nb.info/gnd/19112-7</idno>
+               <idno type="viaf">http://viaf.org/viaf/248873380</idno>
+               <idno type="other">http://www.geonames.org/2765196/seitenstetten-markt.html</idno>
+            </org>
+            <org xml:id="org_0147">
+               <orgName>geistliche &gt; Benediktiner &gt; Österreichische Kongregation &gt;
+                  Kremsmünster</orgName>
+               <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/4025</idno>
+               <idno type="gnd">http://d-nb.info/gnd/2046531-2</idno>
+               <idno type="viaf">http://viaf.org/viaf/312583113</idno>
+               <idno type="other">http://www.geonames.org/11548388/kloster-kremsmuenster.html</idno>
+            </org>
+            <org xml:id="org_0166">
+               <orgName>geistliche &gt; Benediktiner &gt; Beuroner Kongregation &gt; Neresheim</orgName>
+               <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/20561</idno>
+               <idno type="gnd">http://d-nb.info/gnd/2093432-4</idno>
+               <idno type="viaf">http://viaf.org/viaf/142570913</idno>
+               <idno type="other">http://www.geonames.org/11282404/neresheim-abbey.html</idno>
+            </org>
+            </listOrg></abstract><textClass>
             <classCode scheme="RNA">Sammlungen und Objekte</classCode>
          </textClass>
       </profileDesc>

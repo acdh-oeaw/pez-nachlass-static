@@ -47,7 +47,15 @@
          <abstract><listPerson><person xml:id="person__1407" role="urheber">
                <persName>Reslhuber, Augustin</persName>
                </person>
-            </listPerson></abstract><textClass>
+            </listPerson><listOrg><org xml:id="org_0147">
+               <orgName>geistliche &gt; Benediktiner &gt; Österreichische Kongregation &gt;
+                  Kremsmünster</orgName>
+               <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/4025</idno>
+               <idno type="gnd">http://d-nb.info/gnd/2046531-2</idno>
+               <idno type="viaf">http://viaf.org/viaf/312583113</idno>
+               <idno type="other">http://www.geonames.org/11548388/kloster-kremsmuenster.html</idno>
+            </org>
+            </listOrg></abstract><textClass>
             <classCode scheme="RNA">Sammlungen und Objekte</classCode>
          </textClass>
       </profileDesc>

@@ -44,7 +44,10 @@
          </sourceDesc>
       </fileDesc>
       <profileDesc>
-         <abstract><listPerson/></abstract><textClass>
+         <abstract><listPerson/><listOrg><org xml:id="org_0081">
+               <orgName>geistliche &gt; Benediktiner &gt; Cassinenser Kongregation</orgName>
+               </org>
+            </listOrg></abstract><textClass>
             <classCode scheme="RNA">Sammlungen und Objekte</classCode>
          </textClass>
       </profileDesc>

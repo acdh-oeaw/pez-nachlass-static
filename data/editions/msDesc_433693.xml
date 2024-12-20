@@ -50,7 +50,19 @@
             <person xml:id="person__2900" role="urheber">
                <persName>Montholon, Jean-Francois de</persName>
                </person>
-            </listPerson></abstract><textClass>
+            </listPerson><listOrg><org xml:id="org_0012">
+               <orgName>geistliche &gt; Benediktiner &gt; Cassinenser Kongregation &gt; Montecassino</orgName>
+               <idno type="gnd">http://d-nb.info/gnd/1087296986</idno>
+               <idno type="viaf">http://viaf.org/viaf/133865391</idno>
+               <idno type="other">http://www.geonames.org/3173005/abbazia-di-montecassino.html</idno>
+            </org>
+            <org xml:id="org_0112">
+               <orgName>geistliche &gt; Zisterzienser &gt; Cîteaux</orgName>
+               <idno type="gnd">http://d-nb.info/gnd/4126338-8</idno>
+               <idno type="viaf">http://viaf.org/viaf/240383407</idno>
+               <idno type="other">http://www.geonames.org/3024876/citeaux-abbey.html</idno>
+            </org>
+            </listOrg></abstract><textClass>
             <classCode scheme="RNA">Sammlungen und Objekte</classCode>
          </textClass>
       </profileDesc>

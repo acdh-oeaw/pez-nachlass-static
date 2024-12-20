@@ -150,7 +150,41 @@
             <person xml:id="person__3368" role="urheber">
                <persName>Michael "Abbas"</persName>
                </person>
-            </listPerson></abstract><textClass>
+            </listPerson><listOrg><org xml:id="org_0001">
+               <orgName>geistliche &gt; Benediktiner &gt; Österreichische Kongregation &gt; Melk</orgName>
+               <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/3265</idno>
+               <idno type="gnd">http://d-nb.info/gnd/82463-X</idno>
+               <idno type="viaf">http://viaf.org/viaf/316399876</idno>
+               <idno type="other">http://www.geonames.org/7536060/kloster-melk.html</idno>
+            </org>
+            <org xml:id="org_0019">
+               <orgName>geistliche &gt; Benediktiner &gt; Bayerische Kongregation &gt; Tegernsee</orgName>
+               <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/3551</idno>
+               <idno type="gnd">http://d-nb.info/gnd/809501-2</idno>
+               <idno type="viaf">http://viaf.org/viaf/139580416</idno>
+               <idno type="other">http://www.geonames.org/2823679/tegernsee.html</idno>
+            </org>
+            <org xml:id="org_0020">
+               <orgName>geistliche &gt; Benediktiner &gt; Salzburgische Kongregation &gt; Salzburg -
+                  St. Peter</orgName>
+               </org>
+            <org xml:id="org_0138">
+               <orgName>geistliche &gt; Benediktiner &gt; Augsburg - St. Ulrich und Afra</orgName>
+               </org>
+            <org xml:id="org_0232">
+               <orgName>geistliche &gt; Benediktiner &gt; Bursfelder Kongregation &gt; Bamberg -
+                  Michelsberg</orgName>
+               </org>
+            <org xml:id="org_0426">
+               <orgName>geistliche &gt; Benediktiner &gt; Nürnberg - St. Egidien (Schottenkloster)</orgName>
+               </org>
+            <org xml:id="org_0427">
+               <orgName>geistliche &gt; Benediktiner &gt; Bergen bei Neuburg (Benediktinerinnen)</orgName>
+               <idno type="gnd">http://d-nb.info/gnd/4691399-3</idno>
+               <idno type="viaf">http://viaf.org/viaf/235684364</idno>
+               <idno type="other">http://www.geonames.org/2866070/neuburg-an-der-donau.html</idno>
+            </org>
+            </listOrg></abstract><textClass>
             <classCode scheme="RNA">Werke</classCode>
          </textClass>
       </profileDesc>

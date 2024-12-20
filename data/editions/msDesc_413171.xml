@@ -96,7 +96,96 @@
             <person xml:id="person__691" role="behandelte">
                <persName>Ruben, Leonhard</persName>
                </person>
-            </listPerson></abstract><textClass>
+            </listPerson><listOrg><org xml:id="org_0004">
+               <orgName>geistliche &gt; Benediktiner &gt; Österreichische Kongregation &gt; Göttweig</orgName>
+               <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/4035</idno>
+               <idno type="gnd">http://d-nb.info/gnd/2103432-1</idno>
+               <idno type="viaf">http://viaf.org/viaf/245287151</idno>
+               <idno type="other">http://www.geonames.org/2778228/stift-goettweig.html</idno>
+            </org>
+            <org xml:id="org_0005">
+               <orgName>geistliche &gt; Benediktiner &gt; Bursfelder Kongregation &gt; Köln - Groß
+                  St. Martin</orgName>
+               </org>
+            <org xml:id="org_0007">
+               <orgName>geistliche &gt; Benediktiner &gt; St. Blasien</orgName>
+               <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/20387</idno>
+               <idno type="gnd">http://d-nb.info/gnd/1088887708</idno>
+               <idno type="gnd">http://d-nb.info/gnd/65372-X</idno>
+               <idno type="viaf">http://viaf.org/viaf/133695851</idno>
+               <idno type="viaf">http://viaf.org/viaf/170307029</idno>
+               <idno type="other">http://www.geonames.org/11204877/kloster-sankt-blasien.html</idno>
+            </org>
+            <org xml:id="org_0008">
+               <orgName>geistliche &gt; Benediktiner &gt; Helvetische Kongregation &gt; St. Gallen</orgName>
+               <idno type="gnd">http://d-nb.info/gnd/1088891446</idno>
+               <idno type="viaf">http://viaf.org/viaf/266765811</idno>
+               <idno type="other">http://www.geonames.org/2658822/sankt-gallen.html</idno>
+            </org>
+            <org xml:id="org_0020">
+               <orgName>geistliche &gt; Benediktiner &gt; Salzburgische Kongregation &gt; Salzburg -
+                  St. Peter</orgName>
+               </org>
+            <org xml:id="org_0024">
+               <orgName>geistliche &gt; Benediktiner &gt; Bursfelder Kongregation &gt; Paderborn -
+                  Abdinghof</orgName>
+               </org>
+            <org xml:id="org_0031">
+               <orgName>geistliche &gt; Benediktiner &gt; Bayerische Kongregation &gt; Regensburg -
+                  St. Emmeram</orgName>
+               </org>
+            <org xml:id="org_0035">
+               <orgName>geistliche &gt; Benediktiner &gt; Oberschwäbische Kongregation &gt;
+                  Ochsenhausen</orgName>
+               <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/20123</idno>
+               <idno type="gnd">http://d-nb.info/gnd/2133171-6</idno>
+               <idno type="viaf">http://viaf.org/viaf/149403418</idno>
+               <idno type="other">http://www.geonames.org/2858326/ochsenhausen.html</idno>
+            </org>
+            <org xml:id="org_0046">
+               <orgName>geistliche &gt; Benediktiner &gt; Oberschwäbische Kongregation &gt;
+                  Wiblingen</orgName>
+               <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/20449</idno>
+               <idno type="gnd">http://d-nb.info/gnd/4313535-3</idno>
+               <idno type="viaf">http://viaf.org/viaf/154929897</idno>
+               <idno type="other">http://www.geonames.org/11548398/kloster-wiblingen.html</idno>
+            </org>
+            <org xml:id="org_0138">
+               <orgName>geistliche &gt; Benediktiner &gt; Augsburg - St. Ulrich und Afra</orgName>
+               </org>
+            <org xml:id="org_0144">
+               <orgName>geistliche &gt; Benediktiner &gt; Bayerische Kongregation &gt; Scheyern</orgName>
+               <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/60363</idno>
+               <idno type="gnd">http://d-nb.info/gnd/2052902-8</idno>
+               <idno type="gnd">http://d-nb.info/gnd/4208047-2</idno>
+               <idno type="viaf">http://viaf.org/viaf/151936876</idno>
+               <idno type="viaf">http://viaf.org/viaf/145548928</idno>
+               <idno type="other">http://www.geonames.org/2839527/scheyern.html</idno>
+            </org>
+            <org xml:id="org_0151">
+               <orgName>geistliche &gt; Benediktiner &gt; Bursfelder Kongregation &gt; Sponheim</orgName>
+               <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/40277</idno>
+               <idno type="gnd">http://d-nb.info/gnd/4778875-6</idno>
+               <idno type="viaf">http://viaf.org/viaf/245857634</idno>
+               <idno type="other">http://www.geonames.org/2830167/sponheim.html</idno>
+            </org>
+            <org xml:id="org_0179">
+               <orgName>geistliche &gt; Benediktiner &gt; Helvetische Kongregation &gt; Einsiedeln</orgName>
+               <idno type="gnd">http://d-nb.info/gnd/2089329-2</idno>
+               <idno type="viaf">http://viaf.org/viaf/143458106</idno>
+               <idno type="other">http://www.geonames.org/2660925/einsiedeln.html</idno>
+            </org>
+            <org xml:id="org_0289">
+               <orgName>geistliche &gt; Säkularklerus &gt; Regensburg - Bistum</orgName>
+               </org>
+            <org xml:id="org_0290">
+               <orgName>geistliche &gt; Benediktiner &gt; Bursfelder Kongregation &gt; Hirsau</orgName>
+               <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/20600</idno>
+               <idno type="gnd">http://d-nb.info/gnd/4129309-5</idno>
+               <idno type="viaf">http://viaf.org/viaf/243484462</idno>
+               <idno type="other">http://www.geonames.org/11398244/hirsau-benediktinerkloster.html</idno>
+            </org>
+            </listOrg></abstract><textClass>
             <classCode scheme="RNA">Werke</classCode>
          </textClass>
       </profileDesc>

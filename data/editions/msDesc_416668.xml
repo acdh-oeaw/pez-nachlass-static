@@ -80,7 +80,14 @@
             <person xml:id="person__857" role="behandelte">
                <persName>Breuer, Philipp</persName>
                </person>
-            </listPerson></abstract><textClass>
+            </listPerson><listOrg><org xml:id="org_0167">
+               <orgName>geistliche &gt; Benediktiner &gt; Bursfelder Kongregation &gt; Brauweiler</orgName>
+               <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/1062</idno>
+               <idno type="gnd">http://d-nb.info/gnd/16278665-7</idno>
+               <idno type="viaf">http://viaf.org/viaf/261980982</idno>
+               <idno type="other">http://www.geonames.org/2944981/brauweiler.html</idno>
+            </org>
+            </listOrg></abstract><textClass>
             <classCode scheme="RNA">Sammlungen und Objekte</classCode>
          </textClass>
       </profileDesc>

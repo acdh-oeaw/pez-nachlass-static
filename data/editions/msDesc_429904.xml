@@ -156,7 +156,74 @@
             <person xml:id="person__3124" role="behandelte">
                <persName>Petra, Angelo</persName>
                </person>
-            </listPerson></abstract><textClass>
+            </listPerson><listOrg><org xml:id="org_0001">
+               <orgName>geistliche &gt; Benediktiner &gt; Österreichische Kongregation &gt; Melk</orgName>
+               <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/3265</idno>
+               <idno type="gnd">http://d-nb.info/gnd/82463-X</idno>
+               <idno type="viaf">http://viaf.org/viaf/316399876</idno>
+               <idno type="other">http://www.geonames.org/7536060/kloster-melk.html</idno>
+            </org>
+            <org xml:id="org_0072">
+               <orgName>geistliche &gt; Benediktiner &gt; Cassinenser Kongregation &gt; Padua - S.
+                  Giustina</orgName>
+               </org>
+            <org xml:id="org_0084">
+               <orgName>geistliche &gt; Benediktiner &gt; Cassinenser Kongregation &gt; Mailand - S.
+                  Simpliciano</orgName>
+               </org>
+            <org xml:id="org_0235">
+               <orgName>geistliche &gt; Benediktiner &gt; Cassinenser Kongregation &gt; Neapel - SS.
+                  Severino e Sossio</orgName>
+               </org>
+            <org xml:id="org_0236">
+               <orgName>geistliche &gt; Benediktiner &gt; Cassinenser Kongregation &gt; Venedig - S.
+                  Giorgio Maggiore</orgName>
+               </org>
+            <org xml:id="org_0237">
+               <orgName>geistliche &gt; Benediktiner &gt; Cassinenser Kongregation &gt; Brixen - S.
+                  Euphemiae</orgName>
+               </org>
+            <org xml:id="org_0238">
+               <orgName>geistliche &gt; Benediktiner &gt; Cassinenser Kongregation &gt; Arezzo - SS.
+                  Flora e Lucilla</orgName>
+               </org>
+            <org xml:id="org_0239">
+               <orgName>geistliche &gt; Benediktiner &gt; Cassinenser Kongregation &gt; Parma - S.
+                  Giovanni Evangelista</orgName>
+               </org>
+            <org xml:id="org_0240">
+               <orgName>geistliche &gt; Benediktiner &gt; Cassinenser Kongregation &gt; Siena - S.
+                  Eugenio</orgName>
+               </org>
+            <org xml:id="org_0241">
+               <orgName>geistliche &gt; Benediktiner &gt; Cassinenser Kongregation &gt; Brescia - S.
+                  Euphemiae</orgName>
+               </org>
+            <org xml:id="org_0242">
+               <orgName>geistliche &gt; Benediktiner &gt; Cassinenser Kongregation &gt; Mantua - S.
+                  Benedetto Polirone</orgName>
+               </org>
+            <org xml:id="org_0243">
+               <orgName>geistliche &gt; Benediktiner &gt; Cassinenser Kongregation &gt; Rom - S.
+                  Paolo fuori le Mura</orgName>
+               </org>
+            <org xml:id="org_0244">
+               <orgName>geistliche &gt; Benediktiner &gt; Cassinenser Kongregation &gt; Palermo - S.
+                  Martino delle Scale</orgName>
+               </org>
+            <org xml:id="org_0245">
+               <orgName>geistliche &gt; Benediktiner &gt; Cassinenser Kongregation &gt; Genua - S.
+                  Benigno di Capofaro</orgName>
+               </org>
+            <org xml:id="org_0246">
+               <orgName>geistliche &gt; Benediktiner &gt; Cassinenser Kongregation &gt; Genua - S.
+                  Catharina</orgName>
+               </org>
+            <org xml:id="org_0247">
+               <orgName>geistliche &gt; Benediktiner &gt; Cassinenser Kongregation &gt; Ferrara - S.
+                  Benedetto</orgName>
+               </org>
+            </listOrg></abstract><textClass>
             <classCode scheme="RNA">Sammlungen und Objekte</classCode>
          </textClass>
       </profileDesc>

@@ -64,7 +64,11 @@
             <person xml:id="person__2591" role="behandelte">
                <persName>Omodeo, Stefano</persName>
                </person>
-            </listPerson></abstract><textClass>
+            </listPerson><listOrg><org xml:id="org_0084">
+               <orgName>geistliche &gt; Benediktiner &gt; Cassinenser Kongregation &gt; Mailand - S.
+                  Simpliciano</orgName>
+               </org>
+            </listOrg></abstract><textClass>
             <classCode scheme="RNA">Sammlungen und Objekte</classCode>
          </textClass>
       </profileDesc>

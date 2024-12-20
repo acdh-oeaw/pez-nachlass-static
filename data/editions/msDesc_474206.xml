@@ -59,7 +59,36 @@
             <person xml:id="person__3310" role="urheber">
                <persName>Vernaccia, Baptista</persName>
                </person>
-            </listPerson></abstract><textClass>
+            </listPerson><listOrg><org xml:id="org_0001">
+               <orgName>geistliche &gt; Benediktiner &gt; Österreichische Kongregation &gt; Melk</orgName>
+               <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/3265</idno>
+               <idno type="gnd">http://d-nb.info/gnd/82463-X</idno>
+               <idno type="viaf">http://viaf.org/viaf/316399876</idno>
+               <idno type="other">http://www.geonames.org/7536060/kloster-melk.html</idno>
+            </org>
+            <org xml:id="org_0014">
+               <orgName>geistliche &gt; Kartäuser &gt; Gaming</orgName>
+               <idno type="gnd">http://d-nb.info/gnd/3011144-4</idno>
+               <idno type="viaf">http://viaf.org/viaf/155471057</idno>
+               <idno type="other">http://www.geonames.org/2778949/gaming.html</idno>
+            </org>
+            <org xml:id="org_0045">
+               <orgName>geistliche &gt; Kartäuser &gt; Aggsbach</orgName>
+               <idno type="gnd">http://d-nb.info/gnd/2115958-0</idno>
+               <idno type="viaf">http://viaf.org/viaf/173198941</idno>
+               <idno type="other">http://www.geonames.org/2782955/aggsbach.html</idno>
+            </org>
+            <org xml:id="org_0279">
+               <orgName>geistliche &gt; Kartäuser &gt; Freiburg im Breisgau</orgName>
+               <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/20263</idno>
+               <idno type="gnd">http://d-nb.info/gnd/1031166947</idno>
+               <idno type="viaf">http://viaf.org/viaf/295041479</idno>
+               <idno type="other">http://www.geonames.org/2925177/freiburg.html</idno>
+            </org>
+            <org xml:id="org_0396">
+               <orgName>geistliche &gt; Augustiner-Chorfrauen &gt; Genua - S. Maria delle Grazie</orgName>
+               </org>
+            </listOrg></abstract><textClass>
             <classCode scheme="RNA">Werke</classCode>
          </textClass>
       </profileDesc>

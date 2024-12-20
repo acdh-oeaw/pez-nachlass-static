@@ -58,7 +58,20 @@
             <person xml:id="person__1177" role="behandelte">
                <persName>Kimpfler, Gregor</persName>
                </person>
-            </listPerson></abstract><textClass>
+            </listPerson><listOrg><org xml:id="org_0060">
+               <orgName>geistliche &gt; Augustiner-Chorherren &gt; St. Andrä an der Traisen</orgName>
+               <idno type="other">http://www.geonames.org/2766770/sankt-andrae-an-der-traisen.html</idno>
+            </org>
+            <org xml:id="org_0144">
+               <orgName>geistliche &gt; Benediktiner &gt; Bayerische Kongregation &gt; Scheyern</orgName>
+               <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/60363</idno>
+               <idno type="gnd">http://d-nb.info/gnd/2052902-8</idno>
+               <idno type="gnd">http://d-nb.info/gnd/4208047-2</idno>
+               <idno type="viaf">http://viaf.org/viaf/151936876</idno>
+               <idno type="viaf">http://viaf.org/viaf/145548928</idno>
+               <idno type="other">http://www.geonames.org/2839527/scheyern.html</idno>
+            </org>
+            </listOrg></abstract><textClass>
             <classCode scheme="RNA">Sammlungen und Objekte</classCode>
          </textClass>
       </profileDesc>

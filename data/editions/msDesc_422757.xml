@@ -50,7 +50,17 @@
                <persName>Bucelin, Gabriel</persName>
                <idno type="gnd">http://d-nb.info/gnd/118516493</idno>
                </person>
-            </listPerson></abstract><textClass>
+            </listPerson><listOrg><org xml:id="org_0214">
+               <orgName>geistliche &gt; Benediktiner &gt; Oberschwäbische Kongregation &gt;
+                  Weingarten</orgName>
+               <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/20528</idno>
+               <idno type="gnd">http://d-nb.info/gnd/1087485037</idno>
+               <idno type="gnd">http://d-nb.info/gnd/2112767-0</idno>
+               <idno type="viaf">http://viaf.org/viaf/156622198</idno>
+               <idno type="viaf">http://viaf.org/viaf/316426364</idno>
+               <idno type="other">http://www.geonames.org/2812204/weingarten.html</idno>
+            </org>
+            </listOrg></abstract><textClass>
             <classCode scheme="RNA">Sammlungen und Objekte</classCode>
          </textClass>
       </profileDesc>

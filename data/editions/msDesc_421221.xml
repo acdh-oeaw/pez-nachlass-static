@@ -61,7 +61,11 @@
                <persName>Erhardt, Kaspar</persName>
                <idno type="gnd">http://d-nb.info/gnd/129766771</idno>
                </person>
-            </listPerson></abstract><textClass>
+            </listPerson><listOrg><org xml:id="org_0031">
+               <orgName>geistliche &gt; Benediktiner &gt; Bayerische Kongregation &gt; Regensburg -
+                  St. Emmeram</orgName>
+               </org>
+            </listOrg></abstract><textClass>
             <classCode scheme="RNA">Korrespondenzen</classCode>
          </textClass>
       </profileDesc>

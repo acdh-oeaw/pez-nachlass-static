@@ -55,7 +55,19 @@
                <persName>Hl. Bernhard von Clairvaux</persName>
                <idno type="gnd">https://d-nb.info/gnd/118509810</idno>
                </person>
-            </listPerson></abstract><textClass>
+            </listPerson><listOrg><org xml:id="org_0014">
+               <orgName>geistliche &gt; Kartäuser &gt; Gaming</orgName>
+               <idno type="gnd">http://d-nb.info/gnd/3011144-4</idno>
+               <idno type="viaf">http://viaf.org/viaf/155471057</idno>
+               <idno type="other">http://www.geonames.org/2778949/gaming.html</idno>
+            </org>
+            <org xml:id="org_0148">
+               <orgName>geistliche &gt; Zisterzienser &gt; Clairvaux</orgName>
+               <idno type="gnd">http://d-nb.info/gnd/3023813-4</idno>
+               <idno type="viaf">http://viaf.org/viaf/168521834</idno>
+               <idno type="other">http://www.geonames.org/11000506/clairvaux-abbey.html</idno>
+            </org>
+            </listOrg></abstract><textClass>
             <classCode scheme="RNA">Sammlungen und Objekte</classCode>
          </textClass>
       </profileDesc>

@@ -61,7 +61,22 @@
             <person xml:id="person__1097" role="urheber">
                <persName>Knittel, Michael</persName>
                </person>
-            </listPerson></abstract><textClass>
+            </listPerson><listOrg><org xml:id="org_0001">
+               <orgName>geistliche &gt; Benediktiner &gt; Österreichische Kongregation &gt; Melk</orgName>
+               <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/3265</idno>
+               <idno type="gnd">http://d-nb.info/gnd/82463-X</idno>
+               <idno type="viaf">http://viaf.org/viaf/316399876</idno>
+               <idno type="other">http://www.geonames.org/7536060/kloster-melk.html</idno>
+            </org>
+            <org xml:id="org_0073">
+               <orgName>geistliche &gt; Benediktiner &gt; Oberschwäbische Kongregation &gt;
+                  Zwiefalten</orgName>
+               <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/20399</idno>
+               <idno type="gnd">http://d-nb.info/gnd/5024707-4</idno>
+               <idno type="viaf">http://viaf.org/viaf/146121339</idno>
+               <idno type="other">http://www.geonames.org/2803545/zwiefalten.html</idno>
+            </org>
+            </listOrg></abstract><textClass>
             <classCode scheme="RNA">Korrespondenzen</classCode>
          </textClass>
       </profileDesc>

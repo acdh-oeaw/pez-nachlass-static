@@ -45,7 +45,10 @@
          </sourceDesc>
       </fileDesc>
       <profileDesc>
-         <abstract><listPerson/></abstract><textClass>
+         <abstract><listPerson/><listOrg><org xml:id="org_0095">
+               <orgName>geistliche &gt; Benediktiner &gt; Bursfelder Kongregation &gt; Köln - Deutz</orgName>
+               </org>
+            </listOrg></abstract><textClass>
             <classCode scheme="RNA">Sammlungen und Objekte</classCode>
          </textClass>
       </profileDesc>

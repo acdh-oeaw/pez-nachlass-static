@@ -65,7 +65,33 @@
             <person xml:id="person__3547" role="behandelte">
                <persName>Katharina von Gebweiler</persName>
                </person>
-            </listPerson></abstract><textClass>
+            </listPerson><listOrg><org xml:id="org_0001">
+               <orgName>geistliche &gt; Benediktiner &gt; Österreichische Kongregation &gt; Melk</orgName>
+               <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/3265</idno>
+               <idno type="gnd">http://d-nb.info/gnd/82463-X</idno>
+               <idno type="viaf">http://viaf.org/viaf/316399876</idno>
+               <idno type="other">http://www.geonames.org/7536060/kloster-melk.html</idno>
+            </org>
+            <org xml:id="org_0338">
+               <orgName>geistliche &gt; Dominikaner &gt; Adelhausen (Dominikanerinnen)</orgName>
+               <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/20257</idno>
+               <idno type="gnd">http://d-nb.info/gnd/16117738-4</idno>
+               <idno type="viaf">http://viaf.org/viaf/138814155</idno>
+               <idno type="other">http://www.geonames.org/11002074/kloster-adelhausen.html</idno>
+            </org>
+            <org xml:id="org_0339">
+               <orgName>geistliche &gt; Dominikaner &gt; Zürich - Oetenbach (Dominikanerinnen)</orgName>
+               </org>
+            <org xml:id="org_0340">
+               <orgName>geistliche &gt; Dominikaner &gt; Töss (Dominikanerinnen)</orgName>
+               <idno type="gnd">http://d-nb.info/gnd/4741874-6</idno>
+               <idno type="viaf">http://viaf.org/viaf/237022840</idno>
+               <idno type="other">http://www.geonames.org/6295143/toess-kreis-4-schlosstal.html</idno>
+            </org>
+            <org xml:id="org_0341">
+               <orgName>geistliche &gt; Dominikaner &gt; Colmar - Unterlinden (Dominikanerinnen)</orgName>
+               </org>
+            </listOrg></abstract><textClass>
             <classCode scheme="RNA">Werke</classCode>
          </textClass>
       </profileDesc>

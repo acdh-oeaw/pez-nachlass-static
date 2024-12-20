@@ -64,7 +64,18 @@
             <person xml:id="person__3294" role="urheber">
                <persName>Nikolaus von Dolein</persName>
                </person>
-            </listPerson></abstract><textClass>
+            </listPerson><listOrg><org xml:id="org_0014">
+               <orgName>geistliche &gt; Kartäuser &gt; Gaming</orgName>
+               <idno type="gnd">http://d-nb.info/gnd/3011144-4</idno>
+               <idno type="viaf">http://viaf.org/viaf/155471057</idno>
+               <idno type="other">http://www.geonames.org/2778949/gaming.html</idno>
+            </org>
+            <org xml:id="org_0188">
+               <orgName>geistliche &gt; Kartäuser &gt; Dolein bei Olmütz</orgName>
+               <idno type="viaf">http://viaf.org/viaf/143548200</idno>
+               <idno type="other">http://www.geonames.org/3076960/dolany.html</idno>
+            </org>
+            </listOrg></abstract><textClass>
             <classCode scheme="RNA">Sammlungen und Objekte</classCode>
          </textClass>
       </profileDesc>

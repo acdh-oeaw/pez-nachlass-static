@@ -44,7 +44,28 @@
          </sourceDesc>
       </fileDesc>
       <profileDesc>
-         <abstract><listPerson/></abstract><textClass>
+         <abstract><listPerson/><listOrg><org xml:id="org_0170">
+               <orgName>geistliche &gt; Benediktiner &gt; Maurinerkongregation &gt;
+                  St.-Guilhem-le-Désert</orgName>
+               <idno type="gnd">http://d-nb.info/gnd/4368281-9</idno>
+               <idno type="viaf">http://viaf.org/viaf/168806933</idno>
+               <idno type="other">http://www.geonames.org/2979608/saint-guilhem-le-desert.html</idno>
+            </org>
+            <org xml:id="org_0171">
+               <orgName>geistliche &gt; Benediktiner &gt; Maurinerkongregation &gt; St.-Pierre de
+                  Chaumes-en-Brie</orgName>
+               <idno type="viaf">http://viaf.org/viaf/129100028</idno>
+               <idno type="other">http://www.geonames.org/3025910/chaumes-en-brie.html</idno>
+            </org>
+            <org xml:id="org_0172">
+               <orgName>geistliche &gt; Dominikaner &gt; Clermont-Ferrand</orgName>
+               <idno type="viaf">http://viaf.org/viaf/316656779</idno>
+               <idno type="other">http://www.geonames.org/3024635/clermont-ferrand.html</idno>
+            </org>
+            <org xml:id="org_0173">
+               <orgName>geistliche &gt; Säkularklerus &gt; Clermont-Ferrand - Bistum</orgName>
+               </org>
+            </listOrg></abstract><textClass>
             <classCode scheme="RNA">Sammlungen und Objekte</classCode>
          </textClass>
       </profileDesc>

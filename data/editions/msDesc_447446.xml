@@ -51,7 +51,16 @@
             <person xml:id="person__2911" role="behandelte">
                <persName>Johannes Gersen</persName>
                </person>
-            </listPerson></abstract><textClass>
+            </listPerson><listOrg><org xml:id="org_0010">
+               <orgName>geistliche &gt; Benediktiner &gt; Maurinerkongregation</orgName>
+               </org>
+            <org xml:id="org_0267">
+               <orgName>geistliche &gt; Benediktiner &gt; Cassinenser Kongregation &gt; Vercelli</orgName>
+               <idno type="gnd">http://d-nb.info/gnd/4506132-4</idno>
+               <idno type="viaf">http://viaf.org/viaf/239636669</idno>
+               <idno type="other">http://www.geonames.org/3164565/vercelli.html</idno>
+            </org>
+            </listOrg></abstract><textClass>
             <classCode scheme="RNA">Sammlungen und Objekte</classCode>
          </textClass>
       </profileDesc>

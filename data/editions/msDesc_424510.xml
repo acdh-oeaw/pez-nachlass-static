@@ -61,7 +61,14 @@
             <person xml:id="person__1544" role="behandelte">
                <persName>Hueber, Nikolaus</persName>
                </person>
-            </listPerson></abstract><textClass>
+            </listPerson><listOrg><org xml:id="org_0019">
+               <orgName>geistliche &gt; Benediktiner &gt; Bayerische Kongregation &gt; Tegernsee</orgName>
+               <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/3551</idno>
+               <idno type="gnd">http://d-nb.info/gnd/809501-2</idno>
+               <idno type="viaf">http://viaf.org/viaf/139580416</idno>
+               <idno type="other">http://www.geonames.org/2823679/tegernsee.html</idno>
+            </org>
+            </listOrg></abstract><textClass>
             <classCode scheme="RNA">Sammlungen und Objekte</classCode>
          </textClass>
       </profileDesc>

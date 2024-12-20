@@ -48,7 +48,7 @@
          <abstract><listPerson><person xml:id="person__1052" role="behandelte">
                <persName>Lazius, Wolfgang</persName>
                </person>
-            </listPerson></abstract><textClass>
+            </listPerson><listOrg/></abstract><textClass>
             <classCode scheme="RNA">Sammlungen und Objekte</classCode>
          </textClass>
       </profileDesc>

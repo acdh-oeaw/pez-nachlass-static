@@ -53,7 +53,14 @@
             <person xml:id="person__2926" role="behandelte">
                <persName>Konrad von Vornbach</persName>
                </person>
-            </listPerson></abstract><textClass>
+            </listPerson><listOrg><org xml:id="org_0137">
+               <orgName>geistliche &gt; Benediktiner &gt; Vornbach</orgName>
+               <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/60408</idno>
+               <idno type="gnd">http://d-nb.info/gnd/4314806-2</idno>
+               <idno type="viaf">http://viaf.org/viaf/236509601</idno>
+               <idno type="other">http://www.geonames.org/2816057/vornbach.html</idno>
+            </org>
+            </listOrg></abstract><textClass>
             <classCode scheme="RNA">Sammlungen und Objekte</classCode>
          </textClass>
       </profileDesc>

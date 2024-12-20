@@ -51,7 +51,20 @@
                <persName>Grange, Jean de la</persName>
                <idno type="gnd">http://d-nb.info/gnd/101935917X</idno>
                </person>
-            </listPerson></abstract><textClass>
+            </listPerson><listOrg><org xml:id="org_0093">
+               <orgName>geistliche &gt; Benediktiner &gt; Maurinerkongregation &gt; Paris -
+                  St.-Denis</orgName>
+               </org>
+            <org xml:id="org_0105">
+               <orgName>weltliche &gt; Paris - Hof</orgName>
+               </org>
+            <org xml:id="org_0150">
+               <orgName>geistliche &gt; Säkularklerus &gt; Rom - Papst</orgName>
+               </org>
+            <org xml:id="org_0203">
+               <orgName>geistliche &gt; Säkularklerus &gt; Amiens - Bistum</orgName>
+               </org>
+            </listOrg></abstract><textClass>
             <classCode scheme="RNA">Sammlungen und Objekte</classCode>
          </textClass>
       </profileDesc>

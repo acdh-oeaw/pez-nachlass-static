@@ -63,7 +63,46 @@
             <person xml:id="person__812" role="behandelte">
                <persName>Budin, Lucas</persName>
                </person>
-            </listPerson></abstract><textClass>
+            </listPerson><listOrg><org xml:id="org_0029">
+               <orgName>geistliche &gt; Benediktiner &gt; Bayerische Kongregation &gt; Andechs</orgName>
+               <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/2091</idno>
+               <idno type="gnd">http://d-nb.info/gnd/4310732-1</idno>
+               <idno type="gnd">http://d-nb.info/gnd/1089050224</idno>
+               <idno type="viaf">http://viaf.org/viaf/233645846</idno>
+               <idno type="viaf">http://viaf.org/viaf/939145857951823021263</idno>
+               <idno type="other">http://www.geonames.org/2956253/andechs.html</idno>
+            </org>
+            <org xml:id="org_0035">
+               <orgName>geistliche &gt; Benediktiner &gt; Oberschwäbische Kongregation &gt;
+                  Ochsenhausen</orgName>
+               <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/20123</idno>
+               <idno type="gnd">http://d-nb.info/gnd/2133171-6</idno>
+               <idno type="viaf">http://viaf.org/viaf/149403418</idno>
+               <idno type="other">http://www.geonames.org/2858326/ochsenhausen.html</idno>
+            </org>
+            <org xml:id="org_0049">
+               <orgName>geistliche &gt; Benediktiner &gt; Bursfelder Kongregation &gt; Fulda</orgName>
+               <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/30121</idno>
+               <idno type="gnd">http://d-nb.info/gnd/4074038-9</idno>
+               <idno type="viaf">http://viaf.org/viaf/237710601</idno>
+               <idno type="other">http://www.geonames.org/2923822/fulda.html</idno>
+            </org>
+            <org xml:id="org_0147">
+               <orgName>geistliche &gt; Benediktiner &gt; Österreichische Kongregation &gt;
+                  Kremsmünster</orgName>
+               <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/4025</idno>
+               <idno type="gnd">http://d-nb.info/gnd/2046531-2</idno>
+               <idno type="viaf">http://viaf.org/viaf/312583113</idno>
+               <idno type="other">http://www.geonames.org/11548388/kloster-kremsmuenster.html</idno>
+            </org>
+            <org xml:id="org_0182">
+               <orgName>geistliche &gt; Benediktiner &gt; Bayerische Kongregation &gt; Prüfening</orgName>
+               <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/60320</idno>
+               <idno type="gnd">http://d-nb.info/gnd/5052233-4</idno>
+               <idno type="viaf">http://viaf.org/viaf/157824618</idno>
+               <idno type="other">http://www.geonames.org/8378675/regensburg-pruefening.html</idno>
+            </org>
+            </listOrg></abstract><textClass>
             <classCode scheme="RNA">Sammlungen und Objekte</classCode>
          </textClass>
       </profileDesc>

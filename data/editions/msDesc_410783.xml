@@ -48,7 +48,10 @@
          <abstract><listPerson><person xml:id="person__89" role="behandelte">
                <persName>Faucher, Denis</persName>
                </person>
-            </listPerson></abstract><textClass>
+            </listPerson><listOrg><org xml:id="org_0106">
+               <orgName>geistliche &gt; Benediktiner &gt; Isle de Lérins - St.-Honorat</orgName>
+               </org>
+            </listOrg></abstract><textClass>
             <classCode scheme="RNA">Sammlungen und Objekte</classCode>
          </textClass>
       </profileDesc>

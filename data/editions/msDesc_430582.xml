@@ -51,7 +51,7 @@
             <person xml:id="person__1000" role="behandelte">
                <persName>Thomas von Kempen</persName>
                </person>
-            </listPerson></abstract><textClass>
+            </listPerson><listOrg/></abstract><textClass>
             <classCode scheme="RNA">Sammlungen und Objekte</classCode>
          </textClass>
       </profileDesc>

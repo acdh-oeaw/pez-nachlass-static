@@ -91,7 +91,78 @@
             <person xml:id="person__2937" role="behandelte">
                <persName>Wetti von St. Georgen</persName>
                </person>
-            </listPerson></abstract><textClass>
+            </listPerson><listOrg><org xml:id="org_0028">
+               <orgName>geistliche &gt; Benediktiner &gt; Salzburgische Kongregation &gt; Admont</orgName>
+               <idno type="gnd">http://d-nb.info/gnd/126116-2</idno>
+               <idno type="viaf">http://viaf.org/viaf/133125683</idno>
+               <idno type="other">http://www.geonames.org/2782979/admont.html</idno>
+            </org>
+            <org xml:id="org_0036">
+               <orgName>geistliche &gt; Benediktiner &gt; Oberschwäbische Kongregation &gt;
+                  Ottobeuren</orgName>
+               <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/60305</idno>
+               <idno type="gnd">http://d-nb.info/gnd/2003571-8</idno>
+               <idno type="viaf">http://viaf.org/viaf/156630989</idno>
+               <idno type="other">http://www.geonames.org/8030045/ottobeuren-abbey.html</idno>
+            </org>
+            <org xml:id="org_0059">
+               <orgName>geistliche &gt; Säkularklerus &gt; Salzburg - Erzbistum</orgName>
+               </org>
+            <org xml:id="org_0102">
+               <orgName>geistliche &gt; Säkularklerus &gt; Passau - Bistum</orgName>
+               </org>
+            <org xml:id="org_0138">
+               <orgName>geistliche &gt; Benediktiner &gt; Augsburg - St. Ulrich und Afra</orgName>
+               </org>
+            <org xml:id="org_0182">
+               <orgName>geistliche &gt; Benediktiner &gt; Bayerische Kongregation &gt; Prüfening</orgName>
+               <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/60320</idno>
+               <idno type="gnd">http://d-nb.info/gnd/5052233-4</idno>
+               <idno type="viaf">http://viaf.org/viaf/157824618</idno>
+               <idno type="other">http://www.geonames.org/8378675/regensburg-pruefening.html</idno>
+            </org>
+            <org xml:id="org_0211">
+               <orgName>geistliche &gt; Benediktiner &gt; St. Georgen im Schwarzwald</orgName>
+               <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/20329</idno>
+               <idno type="gnd">http://d-nb.info/gnd/1087228972</idno>
+               <idno type="gnd">http://d-nb.info/gnd/16116000-1</idno>
+               <idno type="viaf">http://viaf.org/viaf/128044165</idno>
+               <idno type="viaf">http://viaf.org/viaf/113145542632996642175</idno>
+               <idno type="other">
+                  http://www.geonames.org/11204878/kloster-sankt-georgen-im-schwarzwald.html</idno>
+            </org>
+            <org xml:id="org_0212">
+               <orgName>geistliche &gt; Benediktiner &gt; St.-Sigismund (St.-Marx)</orgName>
+               </org>
+            <org xml:id="org_0213">
+               <orgName>geistliche &gt; Säkularklerus &gt; Brixen - Bistum</orgName>
+               </org>
+            <org xml:id="org_0214">
+               <orgName>geistliche &gt; Benediktiner &gt; Oberschwäbische Kongregation &gt;
+                  Weingarten</orgName>
+               <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/20528</idno>
+               <idno type="gnd">http://d-nb.info/gnd/1087485037</idno>
+               <idno type="gnd">http://d-nb.info/gnd/2112767-0</idno>
+               <idno type="viaf">http://viaf.org/viaf/156622198</idno>
+               <idno type="viaf">http://viaf.org/viaf/316426364</idno>
+               <idno type="other">http://www.geonames.org/2812204/weingarten.html</idno>
+            </org>
+            <org xml:id="org_0215">
+               <orgName>geistliche &gt; Säkularklerus &gt; Aquileia - Patriarchat</orgName>
+               </org>
+            <org xml:id="org_0216">
+               <orgName>geistliche &gt; Benediktiner &gt; Amtenhausen auf der Baar
+                  (Benediktinerinnen)</orgName>
+               <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/20342</idno>
+               <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/20342</idno>
+               <idno type="gnd">http://d-nb.info/gnd/4629766-2</idno>
+               <idno type="gnd">http://d-nb.info/gnd/1088126979</idno>
+               <idno type="viaf">http://viaf.org/viaf/245841453</idno>
+               <idno type="viaf">http://viaf.org/viaf/312664462</idno>
+               <idno type="other">http://www.geonames.org/2896288/immendingen.html</idno>
+               <idno type="other">http://www.geonames.org/2896288/immendingen.html</idno>
+            </org>
+            </listOrg></abstract><textClass>
             <classCode scheme="RNA">Sammlungen und Objekte</classCode>
          </textClass>
       </profileDesc>

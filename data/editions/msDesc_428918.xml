@@ -56,7 +56,10 @@
             <person xml:id="person__343" role="behandelte">
                <persName>Haimo von Halberstadt</persName>
                </person>
-            </listPerson></abstract><textClass>
+            </listPerson><listOrg><org xml:id="org_0002">
+               <orgName>geistliche &gt; Säkularklerus &gt; Würzburg - Fürstbistum</orgName>
+               </org>
+            </listOrg></abstract><textClass>
             <classCode scheme="RNA">Sammlungen und Objekte</classCode>
          </textClass>
       </profileDesc>

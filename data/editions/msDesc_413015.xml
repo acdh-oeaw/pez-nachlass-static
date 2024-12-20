@@ -132,7 +132,7 @@
             <person xml:id="person__2921" role="behandelte">
                <persName>Einhard</persName>
                </person>
-            </listPerson></abstract><textClass>
+            </listPerson><listOrg/></abstract><textClass>
             <classCode scheme="RNA">Werke</classCode>
          </textClass>
       </profileDesc>

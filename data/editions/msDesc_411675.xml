@@ -53,7 +53,13 @@
             <person xml:id="person__135" role="behandelte">
                <persName>Ludwig XIV.</persName>
                </person>
-            </listPerson></abstract><textClass>
+            </listPerson><listOrg><org xml:id="org_0010">
+               <orgName>geistliche &gt; Benediktiner &gt; Maurinerkongregation</orgName>
+               </org>
+            <org xml:id="org_0105">
+               <orgName>weltliche &gt; Paris - Hof</orgName>
+               </org>
+            </listOrg></abstract><textClass>
             <classCode scheme="RNA">Sammlungen und Objekte</classCode>
          </textClass>
       </profileDesc>

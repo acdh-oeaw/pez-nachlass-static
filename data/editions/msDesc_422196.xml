@@ -159,7 +159,11 @@
             <person xml:id="person__2933" role="behandelte">
                <persName>Rupert von Michelsberg zu Bamberg</persName>
                </person>
-            </listPerson></abstract><textClass>
+            </listPerson><listOrg><org xml:id="org_0232">
+               <orgName>geistliche &gt; Benediktiner &gt; Bursfelder Kongregation &gt; Bamberg -
+                  Michelsberg</orgName>
+               </org>
+            </listOrg></abstract><textClass>
             <classCode scheme="RNA">Werke</classCode>
          </textClass>
       </profileDesc>

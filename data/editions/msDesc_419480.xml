@@ -78,7 +78,29 @@
             <person xml:id="person__918" role="urheber">
                <persName>Hoffmann, Johann Wilhelm</persName>
                </person>
-            </listPerson></abstract><textClass>
+            </listPerson><listOrg><org xml:id="org_0001">
+               <orgName>geistliche &gt; Benediktiner &gt; Österreichische Kongregation &gt; Melk</orgName>
+               <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/3265</idno>
+               <idno type="gnd">http://d-nb.info/gnd/82463-X</idno>
+               <idno type="viaf">http://viaf.org/viaf/316399876</idno>
+               <idno type="other">http://www.geonames.org/7536060/kloster-melk.html</idno>
+            </org>
+            <org xml:id="org_0006">
+               <orgName>weltliche &gt; Wien - Hof</orgName>
+               </org>
+            <org xml:id="org_0054">
+               <orgName>weltliche &gt; Altdorf - Universität</orgName>
+               </org>
+            <org xml:id="org_0055">
+               <orgName>weltliche &gt; Wittenberg - Universität</orgName>
+               </org>
+            <org xml:id="org_0056">
+               <orgName>geistliche &gt; Prämonstratenser &gt; Geras</orgName>
+               <idno type="gnd">http://d-nb.info/gnd/1043114-7</idno>
+               <idno type="viaf">http://viaf.org/viaf/158906590</idno>
+               <idno type="other">http://www.geonames.org/2778691/geras.html</idno>
+            </org>
+            </listOrg></abstract><textClass>
             <classCode scheme="RNA">Korrespondenzen</classCode>
          </textClass>
       </profileDesc>

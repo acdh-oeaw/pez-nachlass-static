@@ -59,7 +59,16 @@
             <person xml:id="person__815" role="urheber">
                <persName>Mayer, Theodor</persName>
                </person>
-            </listPerson></abstract><textClass>
+            </listPerson><listOrg><org xml:id="org_0021">
+               <orgName>weltliche &gt; Hannover - Hof</orgName>
+               </org>
+            <org xml:id="org_0104">
+               <orgName>weltliche &gt; Bückeburg - Geheimer Rat</orgName>
+               </org>
+            <org xml:id="org_0105">
+               <orgName>weltliche &gt; Paris - Hof</orgName>
+               </org>
+            </listOrg></abstract><textClass>
             <classCode scheme="RNA">Sammlungen und Objekte</classCode>
          </textClass>
       </profileDesc>

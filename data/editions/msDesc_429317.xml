@@ -57,7 +57,11 @@
             <person xml:id="person__2584" role="behandelte">
                <persName>Mattarelli, Vitale</persName>
                </person>
-            </listPerson></abstract><textClass>
+            </listPerson><listOrg><org xml:id="org_0040">
+               <orgName>geistliche &gt; Benediktiner &gt; Cassinenser Kongregation &gt; Ravenna - S.
+                  Vitale</orgName>
+               </org>
+            </listOrg></abstract><textClass>
             <classCode scheme="RNA">Sammlungen und Objekte</classCode>
          </textClass>
       </profileDesc>

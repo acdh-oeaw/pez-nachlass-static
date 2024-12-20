@@ -131,7 +131,52 @@
             <person xml:id="person__2862" role="urheber">
                <persName>Spannagel, Gottfried Philipp</persName>
                </person>
-            </listPerson></abstract><textClass>
+            </listPerson><listOrg><org xml:id="org_0001">
+               <orgName>geistliche &gt; Benediktiner &gt; Österreichische Kongregation &gt; Melk</orgName>
+               <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/3265</idno>
+               <idno type="gnd">http://d-nb.info/gnd/82463-X</idno>
+               <idno type="viaf">http://viaf.org/viaf/316399876</idno>
+               <idno type="other">http://www.geonames.org/7536060/kloster-melk.html</idno>
+            </org>
+            <org xml:id="org_0002">
+               <orgName>geistliche &gt; Säkularklerus &gt; Würzburg - Fürstbistum</orgName>
+               </org>
+            <org xml:id="org_0006">
+               <orgName>weltliche &gt; Wien - Hof</orgName>
+               </org>
+            <org xml:id="org_0054">
+               <orgName>weltliche &gt; Altdorf - Universität</orgName>
+               </org>
+            <org xml:id="org_0069">
+               <orgName>geistliche &gt; Säkularklerus &gt; Ephesus - Erzbistum</orgName>
+               </org>
+            <org xml:id="org_0070">
+               <orgName>geistliche &gt; Säkularklerus &gt; Wien - Nuntiatur</orgName>
+               </org>
+            <org xml:id="org_0071">
+               <orgName>weltliche &gt; Gießen - Universität</orgName>
+               </org>
+            <org xml:id="org_0074">
+               <orgName>geistliche &gt; Benediktiner &gt; Bayerische Kongregation &gt;
+                  Benediktbeuern</orgName>
+               <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/1061</idno>
+               <idno type="gnd">http://d-nb.info/gnd/4212238-7</idno>
+               <idno type="viaf">http://viaf.org/viaf/28145424487686830934</idno>
+               <idno type="other">http://www.geonames.org/2951104/benediktbeuern.html</idno>
+            </org>
+            <org xml:id="org_0078">
+               <orgName>weltliche &gt; Jena - Universität</orgName>
+               </org>
+            <org xml:id="org_0079">
+               <orgName>weltliche &gt; Leipzig - Universität</orgName>
+               </org>
+            <org xml:id="org_0080">
+               <orgName>weltliche &gt; Basel - Universität</orgName>
+               </org>
+            <org xml:id="org_0081">
+               <orgName>geistliche &gt; Benediktiner &gt; Cassinenser Kongregation</orgName>
+               </org>
+            </listOrg></abstract><textClass>
             <classCode scheme="RNA">Korrespondenzen</classCode>
          </textClass>
       </profileDesc>

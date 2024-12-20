@@ -53,7 +53,14 @@
             <person xml:id="person__3307" role="behandelte">
                <persName>Picenino, Giacomo</persName>
                </person>
-            </listPerson></abstract><textClass>
+            </listPerson><listOrg><org xml:id="org_0239">
+               <orgName>geistliche &gt; Benediktiner &gt; Cassinenser Kongregation &gt; Parma - S.
+                  Giovanni Evangelista</orgName>
+               </org>
+            <org xml:id="org_0255">
+               <orgName>geistliche &gt; Evangelische</orgName>
+               </org>
+            </listOrg></abstract><textClass>
             <classCode scheme="RNA">Sammlungen und Objekte</classCode>
          </textClass>
       </profileDesc>

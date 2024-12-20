@@ -48,7 +48,13 @@
          <abstract><listPerson><person xml:id="person__333" role="urheber">
                <persName>Gerhoch von Reichersberg</persName>
                </person>
-            </listPerson></abstract><textClass>
+            </listPerson><listOrg><org xml:id="org_0159">
+               <orgName>geistliche &gt; Augustiner-Chorherren &gt; Reichersberg</orgName>
+               <idno type="gnd">http://d-nb.info/gnd/2033438-2</idno>
+               <idno type="viaf">http://viaf.org/viaf/245395737</idno>
+               <idno type="other">http://www.geonames.org/2767754/reichersberg.html</idno>
+            </org>
+            </listOrg></abstract><textClass>
             <classCode scheme="RNA">Sammlungen und Objekte</classCode>
          </textClass>
       </profileDesc>

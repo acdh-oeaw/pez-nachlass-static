@@ -50,7 +50,14 @@
             <person xml:id="person__1433" role="urheber">
                <persName>Stahel, Januarius</persName>
                </person>
-            </listPerson></abstract><textClass>
+            </listPerson><listOrg><org xml:id="org_0015">
+               <orgName>geistliche &gt; Benediktiner &gt; Reichenau</orgName>
+               <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/20359</idno>
+               <idno type="gnd">http://d-nb.info/gnd/4193476-3</idno>
+               <idno type="viaf">http://viaf.org/viaf/244595494</idno>
+               <idno type="other">http://www.geonames.org/3209418/reichenau.html</idno>
+            </org>
+            </listOrg></abstract><textClass>
             <classCode scheme="RNA">Sammlungen und Objekte</classCode>
          </textClass>
       </profileDesc>

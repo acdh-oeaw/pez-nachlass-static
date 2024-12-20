@@ -86,7 +86,11 @@
             <person xml:id="person__3514" role="behandelte">
                <persName>Hilarius ab Antipoli</persName>
                </person>
-            </listPerson></abstract><textClass>
+            </listPerson><listOrg><org xml:id="org_0181">
+               <orgName>geistliche &gt; Benediktiner &gt; Cassinenser Kongregation &gt; Padua - S.
+                  Maria di Praglia</orgName>
+               </org>
+            </listOrg></abstract><textClass>
             <classCode scheme="RNA">Sammlungen und Objekte</classCode>
          </textClass>
       </profileDesc>

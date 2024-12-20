@@ -49,7 +49,30 @@
          <abstract><listPerson><person xml:id="person__16" role="urheber">
                <persName>Pez, Bernhard</persName>
                </person>
-            </listPerson></abstract><textClass>
+            </listPerson><listOrg><org xml:id="org_0028">
+               <orgName>geistliche &gt; Benediktiner &gt; Salzburgische Kongregation &gt; Admont</orgName>
+               <idno type="gnd">http://d-nb.info/gnd/126116-2</idno>
+               <idno type="viaf">http://viaf.org/viaf/133125683</idno>
+               <idno type="other">http://www.geonames.org/2782979/admont.html</idno>
+            </org>
+            <org xml:id="org_0141">
+               <orgName>geistliche &gt; Benediktiner &gt; Österreichische Kongregation &gt; St.
+                  Lambrecht</orgName>
+               <idno type="viaf">http://viaf.org/viaf/153857503</idno>
+               <idno type="other">http://www.geonames.org/2766615/sankt-lambrecht.html</idno>
+            </org>
+            <org xml:id="org_0178">
+               <orgName>geistliche &gt; Benediktiner &gt; Salzburgische Kongregation &gt; St. Paul
+                  im Lavanttal</orgName>
+               <idno type="gnd">http://d-nb.info/gnd/1042262-6</idno>
+               <idno type="viaf">http://viaf.org/viaf/124953676</idno>
+               <idno type="other">http://www.geonames.org/2766459/sankt-paul-im-levanttal.html</idno>
+            </org>
+            <org xml:id="org_0291">
+               <orgName>geistliche &gt; Benediktiner &gt; Salzburgische Kongregation &gt; Salzburg -
+                  Frauenkloster Nonnberg</orgName>
+               </org>
+            </listOrg></abstract><textClass>
             <classCode scheme="RNA">Werke</classCode>
          </textClass>
       </profileDesc>

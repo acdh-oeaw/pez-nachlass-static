@@ -78,7 +78,55 @@
             <person xml:id="person__1055" role="urheber">
                <persName>Kammerlander, Hermann</persName>
                </person>
-            </listPerson></abstract><textClass>
+            </listPerson><listOrg><org xml:id="org_0001">
+               <orgName>geistliche &gt; Benediktiner &gt; Österreichische Kongregation &gt; Melk</orgName>
+               <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/3265</idno>
+               <idno type="gnd">http://d-nb.info/gnd/82463-X</idno>
+               <idno type="viaf">http://viaf.org/viaf/316399876</idno>
+               <idno type="other">http://www.geonames.org/7536060/kloster-melk.html</idno>
+            </org>
+            <org xml:id="org_0014">
+               <orgName>geistliche &gt; Kartäuser &gt; Gaming</orgName>
+               <idno type="gnd">http://d-nb.info/gnd/3011144-4</idno>
+               <idno type="viaf">http://viaf.org/viaf/155471057</idno>
+               <idno type="other">http://www.geonames.org/2778949/gaming.html</idno>
+            </org>
+            <org xml:id="org_0044">
+               <orgName>geistliche &gt; Benediktiner &gt; Oberschwäbische Kongregation &gt; Mehrerau</orgName>
+               <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/92580</idno>
+               <idno type="gnd">http://d-nb.info/gnd/1086282779</idno>
+               <idno type="viaf">http://viaf.org/viaf/867145857000822921033</idno>
+               <idno type="other">http://www.geonames.org/3333694/kloster-mehrerau.html</idno>
+            </org>
+            <org xml:id="org_0045">
+               <orgName>geistliche &gt; Kartäuser &gt; Aggsbach</orgName>
+               <idno type="gnd">http://d-nb.info/gnd/2115958-0</idno>
+               <idno type="viaf">http://viaf.org/viaf/173198941</idno>
+               <idno type="other">http://www.geonames.org/2782955/aggsbach.html</idno>
+            </org>
+            <org xml:id="org_0046">
+               <orgName>geistliche &gt; Benediktiner &gt; Oberschwäbische Kongregation &gt;
+                  Wiblingen</orgName>
+               <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/20449</idno>
+               <idno type="gnd">http://d-nb.info/gnd/4313535-3</idno>
+               <idno type="viaf">http://viaf.org/viaf/154929897</idno>
+               <idno type="other">http://www.geonames.org/11548398/kloster-wiblingen.html</idno>
+            </org>
+            <org xml:id="org_0047">
+               <orgName>geistliche &gt; Benediktiner &gt; Österreichische Kongregation &gt;
+                  Seitenstetten</orgName>
+               <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/4040</idno>
+               <idno type="gnd">http://d-nb.info/gnd/19112-7</idno>
+               <idno type="viaf">http://viaf.org/viaf/248873380</idno>
+               <idno type="other">http://www.geonames.org/2765196/seitenstetten-markt.html</idno>
+            </org>
+            <org xml:id="org_0048">
+               <orgName>geistliche &gt; Benediktiner &gt; Marienberg in Südtirol</orgName>
+               <idno type="gnd">http://d-nb.info/gnd/2165566-2</idno>
+               <idno type="viaf">http://viaf.org/viaf/154456762</idno>
+               <idno type="other">http://www.geonames.org/3172843/abbazia-di-monte-maria.html</idno>
+            </org>
+            </listOrg></abstract><textClass>
             <classCode scheme="RNA">Korrespondenzen</classCode>
          </textClass>
       </profileDesc>

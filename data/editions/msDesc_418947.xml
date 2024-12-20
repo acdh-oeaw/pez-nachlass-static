@@ -50,7 +50,20 @@
             <person xml:id="person__841" role="behandelte">
                <persName>Otfried von Weißenburg</persName>
                </person>
-            </listPerson></abstract><textClass>
+            </listPerson><listOrg><org xml:id="org_0001">
+               <orgName>geistliche &gt; Benediktiner &gt; Österreichische Kongregation &gt; Melk</orgName>
+               <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/3265</idno>
+               <idno type="gnd">http://d-nb.info/gnd/82463-X</idno>
+               <idno type="viaf">http://viaf.org/viaf/316399876</idno>
+               <idno type="other">http://www.geonames.org/7536060/kloster-melk.html</idno>
+            </org>
+            <org xml:id="org_0190">
+               <orgName>geistliche &gt; Benediktiner &gt; Französische Klöster &gt; Weißenburg</orgName>
+               <idno type="gnd">http://d-nb.info/gnd/4028148-6</idno>
+               <idno type="viaf">http://viaf.org/viaf/158280881</idno>
+               <idno type="other">http://www.geonames.org/2967325/wissembourg.html</idno>
+            </org>
+            </listOrg></abstract><textClass>
             <classCode scheme="RNA">Sammlungen und Objekte</classCode>
          </textClass>
       </profileDesc>

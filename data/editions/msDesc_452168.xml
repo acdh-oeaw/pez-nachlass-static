@@ -238,7 +238,124 @@
             <person xml:id="person__3213" role="behandelte">
                <persName>Petrus de Alliaco</persName>
                </person>
-            </listPerson></abstract><textClass>
+            </listPerson><listOrg><org xml:id="org_0001">
+               <orgName>geistliche &gt; Benediktiner &gt; Österreichische Kongregation &gt; Melk</orgName>
+               <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/3265</idno>
+               <idno type="gnd">http://d-nb.info/gnd/82463-X</idno>
+               <idno type="viaf">http://viaf.org/viaf/316399876</idno>
+               <idno type="other">http://www.geonames.org/7536060/kloster-melk.html</idno>
+            </org>
+            <org xml:id="org_0007">
+               <orgName>geistliche &gt; Benediktiner &gt; St. Blasien</orgName>
+               <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/20387</idno>
+               <idno type="gnd">http://d-nb.info/gnd/1088887708</idno>
+               <idno type="gnd">http://d-nb.info/gnd/65372-X</idno>
+               <idno type="viaf">http://viaf.org/viaf/133695851</idno>
+               <idno type="viaf">http://viaf.org/viaf/170307029</idno>
+               <idno type="other">http://www.geonames.org/11204877/kloster-sankt-blasien.html</idno>
+            </org>
+            <org xml:id="org_0012">
+               <orgName>geistliche &gt; Benediktiner &gt; Cassinenser Kongregation &gt; Montecassino</orgName>
+               <idno type="gnd">http://d-nb.info/gnd/1087296986</idno>
+               <idno type="viaf">http://viaf.org/viaf/133865391</idno>
+               <idno type="other">http://www.geonames.org/3173005/abbazia-di-montecassino.html</idno>
+            </org>
+            <org xml:id="org_0014">
+               <orgName>geistliche &gt; Kartäuser &gt; Gaming</orgName>
+               <idno type="gnd">http://d-nb.info/gnd/3011144-4</idno>
+               <idno type="viaf">http://viaf.org/viaf/155471057</idno>
+               <idno type="other">http://www.geonames.org/2778949/gaming.html</idno>
+            </org>
+            <org xml:id="org_0015">
+               <orgName>geistliche &gt; Benediktiner &gt; Reichenau</orgName>
+               <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/20359</idno>
+               <idno type="gnd">http://d-nb.info/gnd/4193476-3</idno>
+               <idno type="viaf">http://viaf.org/viaf/244595494</idno>
+               <idno type="other">http://www.geonames.org/3209418/reichenau.html</idno>
+            </org>
+            <org xml:id="org_0031">
+               <orgName>geistliche &gt; Benediktiner &gt; Bayerische Kongregation &gt; Regensburg -
+                  St. Emmeram</orgName>
+               </org>
+            <org xml:id="org_0033">
+               <orgName>geistliche &gt; Benediktiner &gt; Bursfelder Kongregation &gt; Würzburg -
+                  St. Stephan</orgName>
+               </org>
+            <org xml:id="org_0072">
+               <orgName>geistliche &gt; Benediktiner &gt; Cassinenser Kongregation &gt; Padua - S.
+                  Giustina</orgName>
+               </org>
+            <org xml:id="org_0073">
+               <orgName>geistliche &gt; Benediktiner &gt; Oberschwäbische Kongregation &gt;
+                  Zwiefalten</orgName>
+               <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/20399</idno>
+               <idno type="gnd">http://d-nb.info/gnd/5024707-4</idno>
+               <idno type="viaf">http://viaf.org/viaf/146121339</idno>
+               <idno type="other">http://www.geonames.org/2803545/zwiefalten.html</idno>
+            </org>
+            <org xml:id="org_0074">
+               <orgName>geistliche &gt; Benediktiner &gt; Bayerische Kongregation &gt;
+                  Benediktbeuern</orgName>
+               <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/1061</idno>
+               <idno type="gnd">http://d-nb.info/gnd/4212238-7</idno>
+               <idno type="viaf">http://viaf.org/viaf/28145424487686830934</idno>
+               <idno type="other">http://www.geonames.org/2951104/benediktbeuern.html</idno>
+            </org>
+            <org xml:id="org_0117">
+               <orgName>geistliche &gt; Augustiner-Chorherren &gt; Klosterneuburg</orgName>
+               <idno type="gnd">http://d-nb.info/gnd/2078067-9</idno>
+               <idno type="viaf">http://viaf.org/viaf/158948225</idno>
+               <idno type="other">http://www.geonames.org/2773913/klosterneuburg.html</idno>
+            </org>
+            <org xml:id="org_0150">
+               <orgName>geistliche &gt; Säkularklerus &gt; Rom - Papst</orgName>
+               </org>
+            <org xml:id="org_0217">
+               <orgName>geistliche &gt; Säkularklerus &gt; Le Mans - Bistum</orgName>
+               </org>
+            <org xml:id="org_0228">
+               <orgName>geistliche &gt; Benediktiner &gt; Luxemburgische Klöster &gt; Echternach</orgName>
+               <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/3066</idno>
+               <idno type="gnd">http://d-nb.info/gnd/5290040-X</idno>
+               <idno type="gnd">http://d-nb.info/gnd/4197118-8</idno>
+               <idno type="viaf">http://viaf.org/viaf/134574974</idno>
+               <idno type="viaf">http://viaf.org/viaf/292953366</idno>
+               <idno type="other">http://www.geonames.org/2960630/echternach.html</idno>
+            </org>
+            <org xml:id="org_0284">
+               <orgName>geistliche &gt; Benediktiner &gt; Lobbes</orgName>
+               <idno type="gnd">http://d-nb.info/gnd/4314804-9</idno>
+               <idno type="viaf">http://viaf.org/viaf/235183635</idno>
+               <idno type="other">http://www.geonames.org/2792245/lobbes.html</idno>
+            </org>
+            <org xml:id="org_0361">
+               <orgName>geistliche &gt; Kartäuser &gt; St. Margarethental in Kleinbasel</orgName>
+               <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/4552</idno>
+               <idno type="gnd">http://d-nb.info/gnd/1087538467</idno>
+               <idno type="viaf">http://viaf.org/viaf/591145857092122922142</idno>
+               <idno type="other">http://www.geonames.org/2661604/basel.html</idno>
+            </org>
+            <org xml:id="org_0362">
+               <orgName>geistliche &gt; Minoriten</orgName>
+               </org>
+            <org xml:id="org_0363">
+               <orgName>geistliche &gt; Augustinereremiten &gt; Eschwege</orgName>
+               <idno type="other">http://www.geonames.org/2928967/eschwege.html</idno>
+            </org>
+            <org xml:id="org_0364">
+               <orgName>geistliche &gt; Säkularklerus &gt; Gap - Bistum</orgName>
+               </org>
+            <org xml:id="org_0365">
+               <orgName>geistliche &gt; Säkularklerus &gt; Lodi - Bistum</orgName>
+               </org>
+            <org xml:id="org_0366">
+               <orgName>weltliche &gt; Köln - Universität</orgName>
+               </org>
+            <org xml:id="org_0367">
+               <orgName>geistliche &gt; Benediktiner &gt; Cassinenser Kongregation &gt; Florenz - S.
+                  Maria Novella</orgName>
+               </org>
+            </listOrg></abstract><textClass>
             <classCode scheme="RNA">Werke</classCode>
          </textClass>
       </profileDesc>

@@ -96,7 +96,16 @@
                <idno type="gnd">http://d-nb.info/gnd/10313123X</idno>
                <idno type="GND">http://d-nb.info/gnd/10313123X</idno>
                </person>
-            </listPerson></abstract><textClass>
+            </listPerson><listOrg><org xml:id="org_0010">
+               <orgName>geistliche &gt; Benediktiner &gt; Maurinerkongregation</orgName>
+               </org>
+            <org xml:id="org_0081">
+               <orgName>geistliche &gt; Benediktiner &gt; Cassinenser Kongregation</orgName>
+               </org>
+            <org xml:id="org_0258">
+               <orgName>geistliche &gt; Karmeliter</orgName>
+               </org>
+            </listOrg></abstract><textClass>
             <classCode scheme="RNA">Sammlungen und Objekte</classCode>
          </textClass>
       </profileDesc>

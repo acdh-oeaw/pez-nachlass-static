@@ -222,7 +222,7 @@
             <person xml:id="person__3541" role="behandelte">
                <persName>Windichinus von Corbie</persName>
                </person>
-            </listPerson></abstract><textClass>
+            </listPerson><listOrg/></abstract><textClass>
             <classCode scheme="RNA">Sammlungen und Objekte</classCode>
          </textClass>
       </profileDesc>

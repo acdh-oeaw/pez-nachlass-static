@@ -47,7 +47,10 @@
          <abstract><listPerson><person xml:id="person__322" role="behandelte">
                <persName>Hl. Beda Venerabilis</persName>
                </person>
-            </listPerson></abstract><textClass>
+            </listPerson><listOrg><org xml:id="org_0158">
+               <orgName>geistliche &gt; Benediktiner &gt; Englische Klöster &gt; Jarrow - St. Paul</orgName>
+               </org>
+            </listOrg></abstract><textClass>
             <classCode scheme="RNA">Sammlungen und Objekte</classCode>
          </textClass>
       </profileDesc>

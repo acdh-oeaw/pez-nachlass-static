@@ -38,7 +38,7 @@
          </sourceDesc>
       </fileDesc>
       <profileDesc>
-         <abstract><listPerson/></abstract><textClass>
+         <abstract><listPerson/><listOrg/></abstract><textClass>
             <classCode scheme="RNA">Lebensdokumente</classCode>
          </textClass>
       </profileDesc>

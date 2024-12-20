@@ -49,7 +49,14 @@
                <idno type="gnd">http://d-nb.info/gnd/118662562</idno>
                <idno type="GND">http://d-nb.info/gnd/118662562</idno>
                </person>
-            </listPerson></abstract><textClass>
+            </listPerson><listOrg><org xml:id="org_0004">
+               <orgName>geistliche &gt; Benediktiner &gt; Österreichische Kongregation &gt; Göttweig</orgName>
+               <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/4035</idno>
+               <idno type="gnd">http://d-nb.info/gnd/2103432-1</idno>
+               <idno type="viaf">http://viaf.org/viaf/245287151</idno>
+               <idno type="other">http://www.geonames.org/2778228/stift-goettweig.html</idno>
+            </org>
+            </listOrg></abstract><textClass>
             <classCode scheme="RNA">Sammlungen und Objekte</classCode>
          </textClass>
       </profileDesc>

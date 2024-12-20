@@ -52,7 +52,10 @@
                <persName>Thiard de Bissy, Henri-Pons de</persName>
                <idno type="gnd">https://d-nb.info/gnd/141966084</idno>
                </person>
-            </listPerson></abstract><textClass>
+            </listPerson><listOrg><org xml:id="org_0010">
+               <orgName>geistliche &gt; Benediktiner &gt; Maurinerkongregation</orgName>
+               </org>
+            </listOrg></abstract><textClass>
             <classCode scheme="RNA">Sammlungen und Objekte</classCode>
          </textClass>
       </profileDesc>

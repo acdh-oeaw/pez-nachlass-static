@@ -60,7 +60,11 @@
             <person xml:id="person__3473" role="urheber">
                <persName>Mersehoff, Petrus</persName>
                </person>
-            </listPerson></abstract><textClass>
+            </listPerson><listOrg><org xml:id="org_0024">
+               <orgName>geistliche &gt; Benediktiner &gt; Bursfelder Kongregation &gt; Paderborn -
+                  Abdinghof</orgName>
+               </org>
+            </listOrg></abstract><textClass>
             <classCode scheme="RNA">Sammlungen und Objekte</classCode>
          </textClass>
       </profileDesc>

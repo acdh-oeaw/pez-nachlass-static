@@ -62,7 +62,31 @@
             <person xml:id="person__332" role="behandelte">
                <persName>Welling, Ulrich</persName>
                </person>
-            </listPerson></abstract><textClass>
+            </listPerson><listOrg><org xml:id="org_0001">
+               <orgName>geistliche &gt; Benediktiner &gt; Österreichische Kongregation &gt; Melk</orgName>
+               <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/3265</idno>
+               <idno type="gnd">http://d-nb.info/gnd/82463-X</idno>
+               <idno type="viaf">http://viaf.org/viaf/316399876</idno>
+               <idno type="other">http://www.geonames.org/7536060/kloster-melk.html</idno>
+            </org>
+            <org xml:id="org_0042">
+               <orgName>geistliche &gt; Benediktiner &gt; Niederaltaich</orgName>
+               <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/3308</idno>
+               <idno type="gnd">http://d-nb.info/gnd/2005841-X</idno>
+               <idno type="viaf">http://viaf.org/viaf/127140314</idno>
+               <idno type="other">http://www.geonames.org/2863667/niederalteich.html</idno>
+            </org>
+            <org xml:id="org_0138">
+               <orgName>geistliche &gt; Benediktiner &gt; Augsburg - St. Ulrich und Afra</orgName>
+               </org>
+            <org xml:id="org_0146">
+               <orgName>geistliche &gt; Benediktiner &gt; Metten</orgName>
+               <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/3269</idno>
+               <idno type="gnd">http://d-nb.info/gnd/1012970-4</idno>
+               <idno type="viaf">http://viaf.org/viaf/124810424</idno>
+               <idno type="other">http://www.geonames.org/2871573/metten.html</idno>
+            </org>
+            </listOrg></abstract><textClass>
             <classCode scheme="RNA">Werke</classCode>
          </textClass>
       </profileDesc>

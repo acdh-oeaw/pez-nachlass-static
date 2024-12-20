@@ -47,7 +47,11 @@
          <abstract><listPerson><person xml:id="person__163" role="behandelte">
                <persName>Trithemius, Johannes</persName>
                </person>
-            </listPerson></abstract><textClass>
+            </listPerson><listOrg><org xml:id="org_0077">
+               <orgName>geistliche &gt; Benediktiner &gt; Bursfelder Kongregation &gt; Würzburg -
+                  St. Jakob (Schottenkloster)</orgName>
+               </org>
+            </listOrg></abstract><textClass>
             <classCode scheme="RNA">Sammlungen und Objekte</classCode>
          </textClass>
       </profileDesc>

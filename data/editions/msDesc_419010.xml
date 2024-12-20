@@ -55,7 +55,24 @@
             <person xml:id="person__907" role="behandelte">
                <persName>Lamberg, Johanna von</persName>
                </person>
-            </listPerson></abstract><textClass>
+            </listPerson><listOrg><org xml:id="org_0001">
+               <orgName>geistliche &gt; Benediktiner &gt; Österreichische Kongregation &gt; Melk</orgName>
+               <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/3265</idno>
+               <idno type="gnd">http://d-nb.info/gnd/82463-X</idno>
+               <idno type="viaf">http://viaf.org/viaf/316399876</idno>
+               <idno type="other">http://www.geonames.org/7536060/kloster-melk.html</idno>
+            </org>
+            <org xml:id="org_0006">
+               <orgName>weltliche &gt; Wien - Hof</orgName>
+               </org>
+            <org xml:id="org_0161">
+               <orgName>geistliche &gt; Benediktiner &gt; Salzburgische Kongregation &gt; St. Veit
+                  an der Rott</orgName>
+               <idno type="gnd">http://d-nb.info/gnd/16189200-0</idno>
+               <idno type="viaf">http://viaf.org/viaf/187715082</idno>
+               <idno type="other">http://www.geonames.org/2864547/neumarkt-sankt-veit.html</idno>
+            </org>
+            </listOrg></abstract><textClass>
             <classCode scheme="RNA">Sammlungen und Objekte</classCode>
          </textClass>
       </profileDesc>

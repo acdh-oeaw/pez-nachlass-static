@@ -56,7 +56,14 @@
             <person xml:id="person__104" role="behandelte">
                <persName>Volmar, Anton</persName>
                </person>
-            </listPerson></abstract><textClass>
+            </listPerson><listOrg><org xml:id="org_0111">
+               <orgName>geistliche &gt; Kartäuser &gt; Astheim</orgName>
+               <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/60013</idno>
+               <idno type="gnd">http://d-nb.info/gnd/4240698-5</idno>
+               <idno type="viaf">http://viaf.org/viaf/234678395</idno>
+               <idno type="other">http://www.geonames.org/11281591/kartause-astheim.html</idno>
+            </org>
+            </listOrg></abstract><textClass>
             <classCode scheme="RNA">Sammlungen und Objekte</classCode>
          </textClass>
       </profileDesc>

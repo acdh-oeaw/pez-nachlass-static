@@ -47,7 +47,11 @@
          <abstract><listPerson><person xml:id="person__1747" role="urheber">
                <persName>Benedikt von Aniane</persName>
                </person>
-            </listPerson></abstract><textClass>
+            </listPerson><listOrg><org xml:id="org_0221">
+               <orgName>geistliche &gt; Benediktiner &gt; Französische Klöster &gt; Angers -
+                  St.-Serge et Bach</orgName>
+               </org>
+            </listOrg></abstract><textClass>
             <classCode scheme="RNA">Sammlungen und Objekte</classCode>
          </textClass>
       </profileDesc>

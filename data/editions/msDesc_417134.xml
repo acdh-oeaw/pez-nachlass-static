@@ -47,7 +47,17 @@
          <abstract><listPerson><person xml:id="person__397" role="behandelte">
                <persName>Stengel, Karl</persName>
                </person>
-            </listPerson></abstract><textClass>
+            </listPerson><listOrg><org xml:id="org_0138">
+               <orgName>geistliche &gt; Benediktiner &gt; Augsburg - St. Ulrich und Afra</orgName>
+               </org>
+            <org xml:id="org_0180">
+               <orgName>geistliche &gt; Benediktiner &gt; Anhausen an der Brenz</orgName>
+               <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/20160</idno>
+               <idno type="gnd">http://d-nb.info/gnd/1079820841</idno>
+               <idno type="viaf">http://viaf.org/viaf/90145003762361340587</idno>
+               <idno type="other">http://www.geonames.org/2956047/anhausen.html</idno>
+            </org>
+            </listOrg></abstract><textClass>
             <classCode scheme="RNA">Sammlungen und Objekte</classCode>
          </textClass>
       </profileDesc>

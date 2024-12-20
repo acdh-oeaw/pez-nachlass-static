@@ -264,7 +264,122 @@
             <person xml:id="person__3304" role="behandelte">
                <persName>Aegidius Gelenius</persName>
                </person>
-            </listPerson></abstract><textClass>
+            </listPerson><listOrg><org xml:id="org_0001">
+               <orgName>geistliche &gt; Benediktiner &gt; Österreichische Kongregation &gt; Melk</orgName>
+               <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/3265</idno>
+               <idno type="gnd">http://d-nb.info/gnd/82463-X</idno>
+               <idno type="viaf">http://viaf.org/viaf/316399876</idno>
+               <idno type="other">http://www.geonames.org/7536060/kloster-melk.html</idno>
+            </org>
+            <org xml:id="org_0008">
+               <orgName>geistliche &gt; Benediktiner &gt; Helvetische Kongregation &gt; St. Gallen</orgName>
+               <idno type="gnd">http://d-nb.info/gnd/1088891446</idno>
+               <idno type="viaf">http://viaf.org/viaf/266765811</idno>
+               <idno type="other">http://www.geonames.org/2658822/sankt-gallen.html</idno>
+            </org>
+            <org xml:id="org_0010">
+               <orgName>geistliche &gt; Benediktiner &gt; Maurinerkongregation</orgName>
+               </org>
+            <org xml:id="org_0014">
+               <orgName>geistliche &gt; Kartäuser &gt; Gaming</orgName>
+               <idno type="gnd">http://d-nb.info/gnd/3011144-4</idno>
+               <idno type="viaf">http://viaf.org/viaf/155471057</idno>
+               <idno type="other">http://www.geonames.org/2778949/gaming.html</idno>
+            </org>
+            <org xml:id="org_0017">
+               <orgName>geistliche &gt; Camaldulenser &gt; Murano - S. Michele</orgName>
+               </org>
+            <org xml:id="org_0019">
+               <orgName>geistliche &gt; Benediktiner &gt; Bayerische Kongregation &gt; Tegernsee</orgName>
+               <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/3551</idno>
+               <idno type="gnd">http://d-nb.info/gnd/809501-2</idno>
+               <idno type="viaf">http://viaf.org/viaf/139580416</idno>
+               <idno type="other">http://www.geonames.org/2823679/tegernsee.html</idno>
+            </org>
+            <org xml:id="org_0021">
+               <orgName>weltliche &gt; Hannover - Hof</orgName>
+               </org>
+            <org xml:id="org_0036">
+               <orgName>geistliche &gt; Benediktiner &gt; Oberschwäbische Kongregation &gt;
+                  Ottobeuren</orgName>
+               <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/60305</idno>
+               <idno type="gnd">http://d-nb.info/gnd/2003571-8</idno>
+               <idno type="viaf">http://viaf.org/viaf/156630989</idno>
+               <idno type="other">http://www.geonames.org/8030045/ottobeuren-abbey.html</idno>
+            </org>
+            <org xml:id="org_0050">
+               <orgName>weltliche &gt; Düsseldorf - Hof</orgName>
+               </org>
+            <org xml:id="org_0058">
+               <orgName>geistliche &gt; Benediktiner &gt; Belgische Klöster &gt; Lüttich -
+                  St.-Laurent</orgName>
+               </org>
+            <org xml:id="org_0079">
+               <orgName>weltliche &gt; Leipzig - Universität</orgName>
+               </org>
+            <org xml:id="org_0085">
+               <orgName>geistliche &gt; Benediktiner &gt; Bayerische Kongregation &gt; Thierhaupten</orgName>
+               <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/60396</idno>
+               <idno type="gnd">http://d-nb.info/gnd/4545293-3</idno>
+               <idno type="viaf">http://viaf.org/viaf/247828773</idno>
+               <idno type="other">http://www.geonames.org/2822749/thierhaupten.html</idno>
+            </org>
+            <org xml:id="org_0133">
+               <orgName>geistliche &gt; Benediktiner &gt; Bayerische Kongregation &gt; Oberaltaich</orgName>
+               <idno type="gnd">http://d-nb.info/gnd/1029344493</idno>
+               <idno type="viaf">http://viaf.org/viaf/293715405</idno>
+               <idno type="other">http://www.geonames.org/2947026/bogen.html</idno>
+            </org>
+            <org xml:id="org_0148">
+               <orgName>geistliche &gt; Zisterzienser &gt; Clairvaux</orgName>
+               <idno type="gnd">http://d-nb.info/gnd/3023813-4</idno>
+               <idno type="viaf">http://viaf.org/viaf/168521834</idno>
+               <idno type="other">http://www.geonames.org/11000506/clairvaux-abbey.html</idno>
+            </org>
+            <org xml:id="org_0150">
+               <orgName>geistliche &gt; Säkularklerus &gt; Rom - Papst</orgName>
+               </org>
+            <org xml:id="org_0159">
+               <orgName>geistliche &gt; Augustiner-Chorherren &gt; Reichersberg</orgName>
+               <idno type="gnd">http://d-nb.info/gnd/2033438-2</idno>
+               <idno type="viaf">http://viaf.org/viaf/245395737</idno>
+               <idno type="other">http://www.geonames.org/2767754/reichersberg.html</idno>
+            </org>
+            <org xml:id="org_0188">
+               <orgName>geistliche &gt; Kartäuser &gt; Dolein bei Olmütz</orgName>
+               <idno type="viaf">http://viaf.org/viaf/143548200</idno>
+               <idno type="other">http://www.geonames.org/3076960/dolany.html</idno>
+            </org>
+            <org xml:id="org_0296">
+               <orgName>geistliche &gt; Säkularklerus &gt; Eichstätt - Bistum</orgName>
+               </org>
+            <org xml:id="org_0305">
+               <orgName>geistliche &gt; Säkularklerus &gt; Speyer - Bistum</orgName>
+               </org>
+            <org xml:id="org_0374">
+               <orgName>geistliche &gt; Benediktiner &gt; Maurinerkongregation &gt; Fleury -
+                  Saint-Benoît-sur-Loire</orgName>
+               </org>
+            <org xml:id="org_0378">
+               <orgName>weltliche &gt; Bologna - Universität</orgName>
+               </org>
+            <org xml:id="org_0392">
+               <orgName>geistliche &gt; Zisterzienser &gt; Sittichenbach</orgName>
+               <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/259</idno>
+               <idno type="gnd">http://d-nb.info/gnd/4556183-7</idno>
+               <idno type="viaf">http://viaf.org/viaf/240087276</idno>
+               <idno type="other">http://www.geonames.org/2831795/sittichenbach.html</idno>
+            </org>
+            <org xml:id="org_0393">
+               <orgName>geistliche &gt; Benediktiner &gt; Montesacro</orgName>
+               <idno type="gnd">http://d-nb.info/gnd/4784617-3</idno>
+               <idno type="viaf">http://viaf.org/viaf/244758616</idno>
+               <idno type="other">http://www.geonames.org/3169706/monte-sacro.html</idno>
+            </org>
+            <org xml:id="org_0394">
+               <orgName>geistliche &gt; Säkularklerus &gt; Köln - Domkapitel</orgName>
+               </org>
+            </listOrg></abstract><textClass>
             <classCode scheme="RNA">Werke</classCode>
          </textClass>
       </profileDesc>

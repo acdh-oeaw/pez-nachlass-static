@@ -48,7 +48,16 @@
          <abstract><listPerson><person xml:id="person__1560" role="behandelte">
                <persName>Anton van Hove (Hovaeus)</persName>
                </person>
-            </listPerson></abstract><textClass>
+            </listPerson><listOrg><org xml:id="org_0228">
+               <orgName>geistliche &gt; Benediktiner &gt; Luxemburgische Klöster &gt; Echternach</orgName>
+               <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/3066</idno>
+               <idno type="gnd">http://d-nb.info/gnd/5290040-X</idno>
+               <idno type="gnd">http://d-nb.info/gnd/4197118-8</idno>
+               <idno type="viaf">http://viaf.org/viaf/134574974</idno>
+               <idno type="viaf">http://viaf.org/viaf/292953366</idno>
+               <idno type="other">http://www.geonames.org/2960630/echternach.html</idno>
+            </org>
+            </listOrg></abstract><textClass>
             <classCode scheme="RNA">Sammlungen und Objekte</classCode>
          </textClass>
       </profileDesc>

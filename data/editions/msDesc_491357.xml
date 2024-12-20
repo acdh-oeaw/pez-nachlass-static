@@ -85,7 +85,43 @@
             <person xml:id="person__3390" role="urheber">
                <persName>Fischer, Christophorus</persName>
                </person>
-            </listPerson></abstract><textClass>
+            </listPerson><listOrg><org xml:id="org_0001">
+               <orgName>geistliche &gt; Benediktiner &gt; Österreichische Kongregation &gt; Melk</orgName>
+               <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/3265</idno>
+               <idno type="gnd">http://d-nb.info/gnd/82463-X</idno>
+               <idno type="viaf">http://viaf.org/viaf/316399876</idno>
+               <idno type="other">http://www.geonames.org/7536060/kloster-melk.html</idno>
+            </org>
+            <org xml:id="org_0117">
+               <orgName>geistliche &gt; Augustiner-Chorherren &gt; Klosterneuburg</orgName>
+               <idno type="gnd">http://d-nb.info/gnd/2078067-9</idno>
+               <idno type="viaf">http://viaf.org/viaf/158948225</idno>
+               <idno type="other">http://www.geonames.org/2773913/klosterneuburg.html</idno>
+            </org>
+            <org xml:id="org_0276">
+               <orgName>geistliche &gt; Kartäuser &gt; Prüll</orgName>
+               <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/60321</idno>
+               <idno type="gnd">http://d-nb.info/gnd/2163431-2</idno>
+               <idno type="gnd">http://d-nb.info/gnd/4425351-5</idno>
+               <idno type="viaf">http://viaf.org/viaf/133893958</idno>
+               <idno type="viaf">http://viaf.org/viaf/240522542</idno>
+               <idno type="other">http://www.geonames.org/11204750/regensburg-kloster-pruell.html</idno>
+            </org>
+            <org xml:id="org_0277">
+               <orgName>geistliche &gt; Kartäuser &gt; Köln</orgName>
+               <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/50237</idno>
+               <idno type="gnd">http://d-nb.info/gnd/4275651-0</idno>
+               <idno type="gnd">http://d-nb.info/gnd/16153778-9</idno>
+               <idno type="gnd">http://d-nb.info/gnd/1088127983</idno>
+               <idno type="viaf">http://viaf.org/viaf/150122851</idno>
+               <idno type="viaf">http://viaf.org/viaf/170533699</idno>
+               <idno type="viaf">http://viaf.org/viaf/1067145857124722922423</idno>
+               <idno type="other">http://www.geonames.org/2886242/koeln.html</idno>
+            </org>
+            <org xml:id="org_0278">
+               <orgName>geistliche &gt; Kartäuser</orgName>
+               </org>
+            </listOrg></abstract><textClass>
             <classCode scheme="RNA">Sammlungen und Objekte</classCode>
          </textClass>
       </profileDesc>

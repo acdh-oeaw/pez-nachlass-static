@@ -45,7 +45,17 @@
          </sourceDesc>
       </fileDesc>
       <profileDesc>
-         <abstract><listPerson/></abstract><textClass>
+         <abstract><listPerson/><listOrg><org xml:id="org_0209">
+               <orgName>geistliche &gt; Benediktiner &gt; Französische Klöster &gt;
+                  Beaulieu-sur-Dordogne</orgName>
+               <idno type="gnd">http://d-nb.info/gnd/7556678-3</idno>
+               <idno type="viaf">http://viaf.org/viaf/315526108</idno>
+               <idno type="other">http://www.geonames.org/3034241/beaulieu-sur-dordogne.html</idno>
+            </org>
+            <org xml:id="org_0210">
+               <orgName>geistliche &gt; Säkularklerus &gt; Montauban - Diözese</orgName>
+               </org>
+            </listOrg></abstract><textClass>
             <classCode scheme="RNA">Sammlungen und Objekte</classCode>
          </textClass>
       </profileDesc>

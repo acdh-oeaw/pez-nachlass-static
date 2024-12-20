@@ -740,7 +740,548 @@
             <person xml:id="person__2914" role="behandelte">
                <persName>Anonymus (Biograph Hl. Altmann)</persName>
                </person>
-            </listPerson></abstract><textClass>
+            </listPerson><listOrg><org xml:id="org_0001">
+               <orgName>geistliche &gt; Benediktiner &gt; Österreichische Kongregation &gt; Melk</orgName>
+               <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/3265</idno>
+               <idno type="gnd">http://d-nb.info/gnd/82463-X</idno>
+               <idno type="viaf">http://viaf.org/viaf/316399876</idno>
+               <idno type="other">http://www.geonames.org/7536060/kloster-melk.html</idno>
+            </org>
+            <org xml:id="org_0004">
+               <orgName>geistliche &gt; Benediktiner &gt; Österreichische Kongregation &gt; Göttweig</orgName>
+               <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/4035</idno>
+               <idno type="gnd">http://d-nb.info/gnd/2103432-1</idno>
+               <idno type="viaf">http://viaf.org/viaf/245287151</idno>
+               <idno type="other">http://www.geonames.org/2778228/stift-goettweig.html</idno>
+            </org>
+            <org xml:id="org_0007">
+               <orgName>geistliche &gt; Benediktiner &gt; St. Blasien</orgName>
+               <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/20387</idno>
+               <idno type="gnd">http://d-nb.info/gnd/1088887708</idno>
+               <idno type="gnd">http://d-nb.info/gnd/65372-X</idno>
+               <idno type="viaf">http://viaf.org/viaf/133695851</idno>
+               <idno type="viaf">http://viaf.org/viaf/170307029</idno>
+               <idno type="other">http://www.geonames.org/11204877/kloster-sankt-blasien.html</idno>
+            </org>
+            <org xml:id="org_0008">
+               <orgName>geistliche &gt; Benediktiner &gt; Helvetische Kongregation &gt; St. Gallen</orgName>
+               <idno type="gnd">http://d-nb.info/gnd/1088891446</idno>
+               <idno type="viaf">http://viaf.org/viaf/266765811</idno>
+               <idno type="other">http://www.geonames.org/2658822/sankt-gallen.html</idno>
+            </org>
+            <org xml:id="org_0010">
+               <orgName>geistliche &gt; Benediktiner &gt; Maurinerkongregation</orgName>
+               </org>
+            <org xml:id="org_0012">
+               <orgName>geistliche &gt; Benediktiner &gt; Cassinenser Kongregation &gt; Montecassino</orgName>
+               <idno type="gnd">http://d-nb.info/gnd/1087296986</idno>
+               <idno type="viaf">http://viaf.org/viaf/133865391</idno>
+               <idno type="other">http://www.geonames.org/3173005/abbazia-di-montecassino.html</idno>
+            </org>
+            <org xml:id="org_0015">
+               <orgName>geistliche &gt; Benediktiner &gt; Reichenau</orgName>
+               <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/20359</idno>
+               <idno type="gnd">http://d-nb.info/gnd/4193476-3</idno>
+               <idno type="viaf">http://viaf.org/viaf/244595494</idno>
+               <idno type="other">http://www.geonames.org/3209418/reichenau.html</idno>
+            </org>
+            <org xml:id="org_0018">
+               <orgName>geistliche &gt; Benediktiner &gt; Österreichische Kongregation &gt; Mondsee</orgName>
+               <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/4037</idno>
+               <idno type="gnd">http://d-nb.info/gnd/4402803-9</idno>
+               <idno type="viaf">http://viaf.org/viaf/262264489</idno>
+               <idno type="other">http://www.geonames.org/2771278/mondsee.html</idno>
+            </org>
+            <org xml:id="org_0019">
+               <orgName>geistliche &gt; Benediktiner &gt; Bayerische Kongregation &gt; Tegernsee</orgName>
+               <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/3551</idno>
+               <idno type="gnd">http://d-nb.info/gnd/809501-2</idno>
+               <idno type="viaf">http://viaf.org/viaf/139580416</idno>
+               <idno type="other">http://www.geonames.org/2823679/tegernsee.html</idno>
+            </org>
+            <org xml:id="org_0020">
+               <orgName>geistliche &gt; Benediktiner &gt; Salzburgische Kongregation &gt; Salzburg -
+                  St. Peter</orgName>
+               </org>
+            <org xml:id="org_0022">
+               <orgName>geistliche &gt; Benediktiner &gt; Bursfelder Kongregation &gt; Köln - St.
+                  Pantaleon</orgName>
+               </org>
+            <org xml:id="org_0023">
+               <orgName>geistliche &gt; Benediktiner &gt; Bursfelder Kongregation &gt; Corvey</orgName>
+               <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/415</idno>
+               <idno type="gnd">http://d-nb.info/gnd/2071959-0</idno>
+               <idno type="viaf">http://viaf.org/viaf/136705567</idno>
+               <idno type="other">http://www.geonames.org/10942877/imperial-abbey-of-corvey.html</idno>
+            </org>
+            <org xml:id="org_0028">
+               <orgName>geistliche &gt; Benediktiner &gt; Salzburgische Kongregation &gt; Admont</orgName>
+               <idno type="gnd">http://d-nb.info/gnd/126116-2</idno>
+               <idno type="viaf">http://viaf.org/viaf/133125683</idno>
+               <idno type="other">http://www.geonames.org/2782979/admont.html</idno>
+            </org>
+            <org xml:id="org_0029">
+               <orgName>geistliche &gt; Benediktiner &gt; Bayerische Kongregation &gt; Andechs</orgName>
+               <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/2091</idno>
+               <idno type="gnd">http://d-nb.info/gnd/4310732-1</idno>
+               <idno type="gnd">http://d-nb.info/gnd/1089050224</idno>
+               <idno type="viaf">http://viaf.org/viaf/233645846</idno>
+               <idno type="viaf">http://viaf.org/viaf/939145857951823021263</idno>
+               <idno type="other">http://www.geonames.org/2956253/andechs.html</idno>
+            </org>
+            <org xml:id="org_0031">
+               <orgName>geistliche &gt; Benediktiner &gt; Bayerische Kongregation &gt; Regensburg -
+                  St. Emmeram</orgName>
+               </org>
+            <org xml:id="org_0035">
+               <orgName>geistliche &gt; Benediktiner &gt; Oberschwäbische Kongregation &gt;
+                  Ochsenhausen</orgName>
+               <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/20123</idno>
+               <idno type="gnd">http://d-nb.info/gnd/2133171-6</idno>
+               <idno type="viaf">http://viaf.org/viaf/149403418</idno>
+               <idno type="other">http://www.geonames.org/2858326/ochsenhausen.html</idno>
+            </org>
+            <org xml:id="org_0036">
+               <orgName>geistliche &gt; Benediktiner &gt; Oberschwäbische Kongregation &gt;
+                  Ottobeuren</orgName>
+               <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/60305</idno>
+               <idno type="gnd">http://d-nb.info/gnd/2003571-8</idno>
+               <idno type="viaf">http://viaf.org/viaf/156630989</idno>
+               <idno type="other">http://www.geonames.org/8030045/ottobeuren-abbey.html</idno>
+            </org>
+            <org xml:id="org_0046">
+               <orgName>geistliche &gt; Benediktiner &gt; Oberschwäbische Kongregation &gt;
+                  Wiblingen</orgName>
+               <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/20449</idno>
+               <idno type="gnd">http://d-nb.info/gnd/4313535-3</idno>
+               <idno type="viaf">http://viaf.org/viaf/154929897</idno>
+               <idno type="other">http://www.geonames.org/11548398/kloster-wiblingen.html</idno>
+            </org>
+            <org xml:id="org_0047">
+               <orgName>geistliche &gt; Benediktiner &gt; Österreichische Kongregation &gt;
+                  Seitenstetten</orgName>
+               <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/4040</idno>
+               <idno type="gnd">http://d-nb.info/gnd/19112-7</idno>
+               <idno type="viaf">http://viaf.org/viaf/248873380</idno>
+               <idno type="other">http://www.geonames.org/2765196/seitenstetten-markt.html</idno>
+            </org>
+            <org xml:id="org_0049">
+               <orgName>geistliche &gt; Benediktiner &gt; Bursfelder Kongregation &gt; Fulda</orgName>
+               <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/30121</idno>
+               <idno type="gnd">http://d-nb.info/gnd/4074038-9</idno>
+               <idno type="viaf">http://viaf.org/viaf/237710601</idno>
+               <idno type="other">http://www.geonames.org/2923822/fulda.html</idno>
+            </org>
+            <org xml:id="org_0057">
+               <orgName>geistliche &gt; Benediktiner &gt; Bursfelder Kongregation &gt; Schönau</orgName>
+               <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/3950</idno>
+               <idno type="gnd">http://d-nb.info/gnd/4715040-3</idno>
+               <idno type="viaf">http://viaf.org/viaf/239658818</idno>
+               <idno type="other">http://www.geonames.org/2825602/strueth.html</idno>
+            </org>
+            <org xml:id="org_0059">
+               <orgName>geistliche &gt; Säkularklerus &gt; Salzburg - Erzbistum</orgName>
+               </org>
+            <org xml:id="org_0062">
+               <orgName>geistliche &gt; Benediktiner &gt; Trier - St.-Maximin</orgName>
+               </org>
+            <org xml:id="org_0072">
+               <orgName>geistliche &gt; Benediktiner &gt; Cassinenser Kongregation &gt; Padua - S.
+                  Giustina</orgName>
+               </org>
+            <org xml:id="org_0073">
+               <orgName>geistliche &gt; Benediktiner &gt; Oberschwäbische Kongregation &gt;
+                  Zwiefalten</orgName>
+               <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/20399</idno>
+               <idno type="gnd">http://d-nb.info/gnd/5024707-4</idno>
+               <idno type="viaf">http://viaf.org/viaf/146121339</idno>
+               <idno type="other">http://www.geonames.org/2803545/zwiefalten.html</idno>
+            </org>
+            <org xml:id="org_0075">
+               <orgName>geistliche &gt; Benediktiner &gt; Bayerische Kongregation &gt; Wessobrunn</orgName>
+               <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/1069</idno>
+               <idno type="gnd">http://d-nb.info/gnd/4194769-1</idno>
+               <idno type="gnd">http://d-nb.info/gnd/16189196-2</idno>
+               <idno type="viaf">http://viaf.org/viaf/158304681</idno>
+               <idno type="viaf">http://viaf.org/viaf/199147976</idno>
+               <idno type="other">http://www.geonames.org/2810581/wessobrunn.html</idno>
+            </org>
+            <org xml:id="org_0095">
+               <orgName>geistliche &gt; Benediktiner &gt; Bursfelder Kongregation &gt; Köln - Deutz</orgName>
+               </org>
+            <org xml:id="org_0096">
+               <orgName>geistliche &gt; Benediktiner &gt; Lorsch</orgName>
+               <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/30244</idno>
+               <idno type="gnd">http://d-nb.info/gnd/801576-4</idno>
+               <idno type="gnd">http://d-nb.info/gnd/1085245950</idno>
+               <idno type="viaf">http://viaf.org/viaf/143763943</idno>
+               <idno type="viaf">http://viaf.org/viaf/133012072</idno>
+               <idno type="other">http://www.geonames.org/11204726/kloster-lorsch.html</idno>
+            </org>
+            <org xml:id="org_0101">
+               <orgName>geistliche &gt; Zisterzienser &gt; Kastilien-León &gt; La Santa Espina</orgName>
+               <idno type="viaf">http://viaf.org/viaf/151369900</idno>
+               <idno type="other">http://www.geonames.org/8015079/la-santa-espina.html</idno>
+            </org>
+            <org xml:id="org_0102">
+               <orgName>geistliche &gt; Säkularklerus &gt; Passau - Bistum</orgName>
+               </org>
+            <org xml:id="org_0109">
+               <orgName>geistliche &gt; Benediktiner &gt; Helvetische Kongregation &gt; Muri</orgName>
+               <idno type="gnd">http://d-nb.info/gnd/809504-8</idno>
+               <idno type="viaf">http://viaf.org/viaf/261850484</idno>
+               <idno type="other">http://www.geonames.org/2659531/muri.html</idno>
+            </org>
+            <org xml:id="org_0110">
+               <orgName>weltliche &gt; Wien - Universität</orgName>
+               </org>
+            <org xml:id="org_0116">
+               <orgName>geistliche &gt; Benediktiner &gt; Österreichische Kongregation &gt; Wien -
+                  Schottenkloster</orgName>
+               </org>
+            <org xml:id="org_0124">
+               <orgName>geistliche &gt; Benediktiner &gt; Österreichische Kongregation &gt; Garsten</orgName>
+               <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/3104</idno>
+               <idno type="gnd">http://d-nb.info/gnd/4135190-3</idno>
+               <idno type="viaf">http://viaf.org/viaf/124723050</idno>
+               <idno type="other">http://www.geonames.org/2778843/garsten.html</idno>
+               <idno type="other">
+                  http://www.geonames.org/6698715/kirche-ehem-stiftskirche-barockstil.html</idno>
+            </org>
+            <org xml:id="org_0125">
+               <orgName>geistliche &gt; Benediktiner &gt; Österreichische Kongregation &gt; Gleink</orgName>
+               <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/4033</idno>
+               <idno type="gnd">http://d-nb.info/gnd/4135713-9</idno>
+               <idno type="viaf">http://viaf.org/viaf/243487008</idno>
+               <idno type="other">http://www.geonames.org/2778486/gleink.html</idno>
+            </org>
+            <org xml:id="org_0136">
+               <orgName>geistliche &gt; Benediktiner &gt; Bayerische Kongregation &gt; Rott am Inn</orgName>
+               <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/60355</idno>
+               <idno type="gnd">http://d-nb.info/gnd/4278403-7</idno>
+               <idno type="viaf">http://viaf.org/viaf/293128079</idno>
+               <idno type="other">http://www.geonames.org/2843772/rott-am-inn.html</idno>
+            </org>
+            <org xml:id="org_0138">
+               <orgName>geistliche &gt; Benediktiner &gt; Augsburg - St. Ulrich und Afra</orgName>
+               </org>
+            <org xml:id="org_0141">
+               <orgName>geistliche &gt; Benediktiner &gt; Österreichische Kongregation &gt; St.
+                  Lambrecht</orgName>
+               <idno type="viaf">http://viaf.org/viaf/153857503</idno>
+               <idno type="other">http://www.geonames.org/2766615/sankt-lambrecht.html</idno>
+            </org>
+            <org xml:id="org_0143">
+               <orgName>geistliche &gt; Benediktiner &gt; Salzburgische Kongregation &gt; Seeon</orgName>
+               <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/60378</idno>
+               <idno type="gnd">http://d-nb.info/gnd/4329037-1</idno>
+               <idno type="viaf">http://viaf.org/viaf/156094535</idno>
+               <idno type="other">http://www.geonames.org/2887415/klosterseeon.html</idno>
+            </org>
+            <org xml:id="org_0144">
+               <orgName>geistliche &gt; Benediktiner &gt; Bayerische Kongregation &gt; Scheyern</orgName>
+               <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/60363</idno>
+               <idno type="gnd">http://d-nb.info/gnd/2052902-8</idno>
+               <idno type="gnd">http://d-nb.info/gnd/4208047-2</idno>
+               <idno type="viaf">http://viaf.org/viaf/151936876</idno>
+               <idno type="viaf">http://viaf.org/viaf/145548928</idno>
+               <idno type="other">http://www.geonames.org/2839527/scheyern.html</idno>
+            </org>
+            <org xml:id="org_0146">
+               <orgName>geistliche &gt; Benediktiner &gt; Metten</orgName>
+               <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/3269</idno>
+               <idno type="gnd">http://d-nb.info/gnd/1012970-4</idno>
+               <idno type="viaf">http://viaf.org/viaf/124810424</idno>
+               <idno type="other">http://www.geonames.org/2871573/metten.html</idno>
+            </org>
+            <org xml:id="org_0147">
+               <orgName>geistliche &gt; Benediktiner &gt; Österreichische Kongregation &gt;
+                  Kremsmünster</orgName>
+               <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/4025</idno>
+               <idno type="gnd">http://d-nb.info/gnd/2046531-2</idno>
+               <idno type="viaf">http://viaf.org/viaf/312583113</idno>
+               <idno type="other">http://www.geonames.org/11548388/kloster-kremsmuenster.html</idno>
+            </org>
+            <org xml:id="org_0150">
+               <orgName>geistliche &gt; Säkularklerus &gt; Rom - Papst</orgName>
+               </org>
+            <org xml:id="org_0151">
+               <orgName>geistliche &gt; Benediktiner &gt; Bursfelder Kongregation &gt; Sponheim</orgName>
+               <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/40277</idno>
+               <idno type="gnd">http://d-nb.info/gnd/4778875-6</idno>
+               <idno type="viaf">http://viaf.org/viaf/245857634</idno>
+               <idno type="other">http://www.geonames.org/2830167/sponheim.html</idno>
+            </org>
+            <org xml:id="org_0152">
+               <orgName>geistliche &gt; Benediktiner &gt; Belgische Klöster &gt; Tournai -
+                  St.-Martin</orgName>
+               </org>
+            <org xml:id="org_0154">
+               <orgName>geistliche &gt; Benediktiner &gt; Französische Klöster &gt; Cluny</orgName>
+               <idno type="gnd">http://d-nb.info/gnd/5033814-6</idno>
+               <idno type="viaf">http://viaf.org/viaf/146613586</idno>
+               <idno type="other">http://www.geonames.org/3024534/cluny.html</idno>
+            </org>
+            <org xml:id="org_0166">
+               <orgName>geistliche &gt; Benediktiner &gt; Beuroner Kongregation &gt; Neresheim</orgName>
+               <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/20561</idno>
+               <idno type="gnd">http://d-nb.info/gnd/2093432-4</idno>
+               <idno type="viaf">http://viaf.org/viaf/142570913</idno>
+               <idno type="other">http://www.geonames.org/11282404/neresheim-abbey.html</idno>
+            </org>
+            <org xml:id="org_0167">
+               <orgName>geistliche &gt; Benediktiner &gt; Bursfelder Kongregation &gt; Brauweiler</orgName>
+               <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/1062</idno>
+               <idno type="gnd">http://d-nb.info/gnd/16278665-7</idno>
+               <idno type="viaf">http://viaf.org/viaf/261980982</idno>
+               <idno type="other">http://www.geonames.org/2944981/brauweiler.html</idno>
+            </org>
+            <org xml:id="org_0176">
+               <orgName>geistliche &gt; Benediktiner &gt; Bursfelder Kongregation &gt; Theres</orgName>
+               <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/60395</idno>
+               <idno type="gnd">http://d-nb.info/gnd/4695300-0</idno>
+               <idno type="viaf">http://viaf.org/viaf/248290664</idno>
+               <idno type="other">http://www.geonames.org/2858791/obertheres.html</idno>
+            </org>
+            <org xml:id="org_0177">
+               <orgName>geistliche &gt; Säkularklerus &gt; Reims - Erzbistum</orgName>
+               </org>
+            <org xml:id="org_0179">
+               <orgName>geistliche &gt; Benediktiner &gt; Helvetische Kongregation &gt; Einsiedeln</orgName>
+               <idno type="gnd">http://d-nb.info/gnd/2089329-2</idno>
+               <idno type="viaf">http://viaf.org/viaf/143458106</idno>
+               <idno type="other">http://www.geonames.org/2660925/einsiedeln.html</idno>
+            </org>
+            <org xml:id="org_0182">
+               <orgName>geistliche &gt; Benediktiner &gt; Bayerische Kongregation &gt; Prüfening</orgName>
+               <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/60320</idno>
+               <idno type="gnd">http://d-nb.info/gnd/5052233-4</idno>
+               <idno type="viaf">http://viaf.org/viaf/157824618</idno>
+               <idno type="other">http://www.geonames.org/8378675/regensburg-pruefening.html</idno>
+            </org>
+            <org xml:id="org_0190">
+               <orgName>geistliche &gt; Benediktiner &gt; Französische Klöster &gt; Weißenburg</orgName>
+               <idno type="gnd">http://d-nb.info/gnd/4028148-6</idno>
+               <idno type="viaf">http://viaf.org/viaf/158280881</idno>
+               <idno type="other">http://www.geonames.org/2967325/wissembourg.html</idno>
+            </org>
+            <org xml:id="org_0193">
+               <orgName>geistliche &gt; Säkularklerus &gt; Augsburg - Bistum</orgName>
+               </org>
+            <org xml:id="org_0195">
+               <orgName>geistliche &gt; Benediktiner &gt; Bayerische Kongregation &gt; Regensburg -
+                  St. Jakob (Schottenkloster)</orgName>
+               </org>
+            <org xml:id="org_0205">
+               <orgName>geistliche &gt; Benediktiner &gt; Bursfelder Kongregation &gt; Trier - St.
+                  Eucharius-St. Matthias</orgName>
+               </org>
+            <org xml:id="org_0214">
+               <orgName>geistliche &gt; Benediktiner &gt; Oberschwäbische Kongregation &gt;
+                  Weingarten</orgName>
+               <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/20528</idno>
+               <idno type="gnd">http://d-nb.info/gnd/1087485037</idno>
+               <idno type="gnd">http://d-nb.info/gnd/2112767-0</idno>
+               <idno type="viaf">http://viaf.org/viaf/156622198</idno>
+               <idno type="viaf">http://viaf.org/viaf/316426364</idno>
+               <idno type="other">http://www.geonames.org/2812204/weingarten.html</idno>
+            </org>
+            <org xml:id="org_0222">
+               <orgName>geistliche &gt; Benediktiner &gt; Mainz - Jakobsberg</orgName>
+               </org>
+            <org xml:id="org_0225">
+               <orgName>geistliche &gt; Benediktiner &gt; Bayerische Kongregation &gt; Mallersdorf</orgName>
+               <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/60209</idno>
+               <idno type="gnd">http://d-nb.info/gnd/7729061-6</idno>
+               <idno type="viaf">http://viaf.org/viaf/234847089</idno>
+               <idno type="other">http://www.geonames.org/3206682/mallersdorf-pfaffenberg.html</idno>
+            </org>
+            <org xml:id="org_0232">
+               <orgName>geistliche &gt; Benediktiner &gt; Bursfelder Kongregation &gt; Bamberg -
+                  Michelsberg</orgName>
+               </org>
+            <org xml:id="org_0235">
+               <orgName>geistliche &gt; Benediktiner &gt; Cassinenser Kongregation &gt; Neapel - SS.
+                  Severino e Sossio</orgName>
+               </org>
+            <org xml:id="org_0243">
+               <orgName>geistliche &gt; Benediktiner &gt; Cassinenser Kongregation &gt; Rom - S.
+                  Paolo fuori le Mura</orgName>
+               </org>
+            <org xml:id="org_0249">
+               <orgName>geistliche &gt; Benediktiner &gt; Gandersheim (Benediktinerinnen)</orgName>
+               <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/71</idno>
+               <idno type="gnd">http://d-nb.info/gnd/4391712-4</idno>
+               <idno type="viaf">http://viaf.org/viaf/238752738</idno>
+               <idno type="other">http://www.geonames.org/2953456/bad-gandersheim.html</idno>
+            </org>
+            <org xml:id="org_0257">
+               <orgName>geistliche &gt; Benediktiner &gt; Congregación de Valladolid</orgName>
+               </org>
+            <org xml:id="org_0271">
+               <orgName>geistliche &gt; Benediktiner &gt; Bursfelder Kongregation &gt; Aura</orgName>
+               <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/60033</idno>
+               <idno type="gnd">http://d-nb.info/gnd/4544971-5</idno>
+               <idno type="viaf">http://viaf.org/viaf/247828718</idno>
+               <idno type="other">http://www.geonames.org/2954024/aura-an-der-saale.html</idno>
+            </org>
+            <org xml:id="org_0286">
+               <orgName>geistliche &gt; Säkularklerus &gt; Basel - Bistum</orgName>
+               </org>
+            <org xml:id="org_0288">
+               <orgName>geistliche &gt; Säkularklerus &gt; Halberstadt - Bistum</orgName>
+               </org>
+            <org xml:id="org_0290">
+               <orgName>geistliche &gt; Benediktiner &gt; Bursfelder Kongregation &gt; Hirsau</orgName>
+               <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/20600</idno>
+               <idno type="gnd">http://d-nb.info/gnd/4129309-5</idno>
+               <idno type="viaf">http://viaf.org/viaf/243484462</idno>
+               <idno type="other">http://www.geonames.org/11398244/hirsau-benediktinerkloster.html</idno>
+            </org>
+            <org xml:id="org_0296">
+               <orgName>geistliche &gt; Säkularklerus &gt; Eichstätt - Bistum</orgName>
+               </org>
+            <org xml:id="org_0298">
+               <orgName>geistliche &gt; Säkularklerus &gt; Konstanz - Bistum</orgName>
+               </org>
+            <org xml:id="org_0302">
+               <orgName>geistliche &gt; Säkularklerus &gt; Münster - Bistum</orgName>
+               </org>
+            <org xml:id="org_0303">
+               <orgName>geistliche &gt; Benediktiner &gt; Hersfeld</orgName>
+               <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/30002</idno>
+               <idno type="gnd">http://d-nb.info/gnd/4233595-4</idno>
+               <idno type="viaf">http://viaf.org/viaf/248160713</idno>
+               <idno type="other">http://www.geonames.org/2953439/bad-hersfeld.html</idno>
+            </org>
+            <org xml:id="org_0304">
+               <orgName>weltliche &gt; Mainz - Geheimer Rat</orgName>
+               </org>
+            <org xml:id="org_0305">
+               <orgName>geistliche &gt; Säkularklerus &gt; Speyer - Bistum</orgName>
+               </org>
+            <org xml:id="org_0306">
+               <orgName>geistliche &gt; Säkularklerus &gt; Hildesheim - Bistum</orgName>
+               </org>
+            <org xml:id="org_0307">
+               <orgName>geistliche &gt; Benediktiner &gt; Ettal</orgName>
+               <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/60091</idno>
+               <idno type="gnd">http://d-nb.info/gnd/1031761-2</idno>
+               <idno type="viaf">http://viaf.org/viaf/123231235</idno>
+               <idno type="other">http://www.geonames.org/2928684/ettal.html</idno>
+            </org>
+            <org xml:id="org_0308">
+               <orgName>geistliche &gt; Säkularklerus &gt; Tarragona - Erzbistum</orgName>
+               </org>
+            <org xml:id="org_0309">
+               <orgName>geistliche &gt; Benediktiner &gt; Stade - St. Marien</orgName>
+               </org>
+            <org xml:id="org_0310">
+               <orgName>geistliche &gt; Säkularklerus &gt; Mainz - Erzbistum</orgName>
+               </org>
+            <org xml:id="org_0311">
+               <orgName>geistliche &gt; Benediktiner &gt; Disiboden</orgName>
+               <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/3059</idno>
+               <idno type="gnd">http://d-nb.info/gnd/4285340-0</idno>
+               <idno type="viaf">http://viaf.org/viaf/248203508</idno>
+               <idno type="other">http://www.geonames.org/2858073/odernheim.html</idno>
+            </org>
+            <org xml:id="org_0312">
+               <orgName>geistliche &gt; Benediktiner &gt; Mainz - St. Martin</orgName>
+               </org>
+            <org xml:id="org_0313">
+               <orgName>geistliche &gt; Benediktiner &gt; Geisenheim - Johanniskloster</orgName>
+               </org>
+            <org xml:id="org_0314">
+               <orgName>geistliche &gt; Benediktiner &gt; Mainz - St. Alban</orgName>
+               </org>
+            <org xml:id="org_0315">
+               <orgName>geistliche &gt; Benediktiner &gt; Belgische Klöster &gt; Bergen - St.
+                  Winnoci</orgName>
+               </org>
+            <org xml:id="org_0316">
+               <orgName>geistliche &gt; Benediktiner &gt; Bursfelder Kongregation &gt; Afflighem</orgName>
+               <idno type="gnd">http://d-nb.info/gnd/1000056-2</idno>
+               <idno type="viaf">http://viaf.org/viaf/133314803</idno>
+               <idno type="other">http://www.geonames.org/2798612/affligem.html</idno>
+            </org>
+            <org xml:id="org_0317">
+               <orgName>geistliche &gt; Säkularklerus &gt; Merseburg - Bistum</orgName>
+               </org>
+            <org xml:id="org_0318">
+               <orgName>geistliche &gt; Benediktiner &gt; Bursfelder Kongregation &gt; Seligenstadt</orgName>
+               <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/30322</idno>
+               <idno type="gnd">http://d-nb.info/gnd/4274950-5</idno>
+               <idno type="viaf">http://viaf.org/viaf/247756666</idno>
+               <idno type="other">http://www.geonames.org/2833242/seligenstadt.html</idno>
+            </org>
+            <org xml:id="org_0319">
+               <orgName>geistliche &gt; Säkularklerus &gt; Lisieux - Bistum</orgName>
+               </org>
+            <org xml:id="org_0320">
+               <orgName>geistliche &gt; Benediktiner &gt; Französische Klöster &gt; Hautvillers</orgName>
+               <idno type="gnd">http://d-nb.info/gnd/7747741-8</idno>
+               <idno type="viaf">http://viaf.org/viaf/239714573</idno>
+               <idno type="viaf">http://viaf.org/viaf/944144783131070357617</idno>
+               <idno type="other">http://www.geonames.org/3013648/hautvillers.html</idno>
+            </org>
+            <org xml:id="org_0321">
+               <orgName>geistliche &gt; Säkularklerus &gt; Worms - Bistum</orgName>
+               </org>
+            <org xml:id="org_0322">
+               <orgName>geistliche &gt; Säkularklerus &gt; Trier - Erzbistum</orgName>
+               </org>
+            <org xml:id="org_0323">
+               <orgName>geistliche &gt; Benediktiner &gt; Herrieden (Hasenried)</orgName>
+               <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/60131</idno>
+               <idno type="gnd">http://d-nb.info/gnd/4682580-0</idno>
+               <idno type="viaf">http://viaf.org/viaf/235234786</idno>
+               <idno type="other">http://www.geonames.org/2905706/herrieden.html</idno>
+            </org>
+            <org xml:id="org_0324">
+               <orgName>geistliche &gt; Zisterzienser &gt; Oberdeutsche Kongregation &gt; Langheim</orgName>
+               <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/60197</idno>
+               <idno type="gnd">http://d-nb.info/gnd/10186777-3</idno>
+               <idno type="viaf">http://viaf.org/viaf/313533359</idno>
+               <idno type="other">http://www.geonames.org/11523748/kloster-langheim.html</idno>
+            </org>
+            <org xml:id="org_0325">
+               <orgName>weltliche &gt; Heidelberg - Universität</orgName>
+               </org>
+            <org xml:id="org_0326">
+               <orgName>geistliche &gt; Benediktiner &gt; Lübeck - St.-Johannis-Kloster</orgName>
+               </org>
+            <org xml:id="org_0327">
+               <orgName>geistliche &gt; Zisterzienser &gt; Helfta - St. Marien (Zisterzienserinnen)</orgName>
+               </org>
+            <org xml:id="org_0328">
+               <orgName>geistliche &gt; Benediktiner &gt; Ilsenburg</orgName>
+               <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/253</idno>
+               <idno type="gnd">http://d-nb.info/gnd/1704958-1</idno>
+               <idno type="viaf">http://viaf.org/viaf/153373088</idno>
+               <idno type="other">http://www.geonames.org/2896483/ilsenburg.html</idno>
+            </org>
+            <org xml:id="org_0329">
+               <orgName>geistliche &gt; Benediktiner &gt; Siegburg - St. Michael</orgName>
+               </org>
+            <org xml:id="org_0330">
+               <orgName>geistliche &gt; Benediktiner &gt; Posa (Bosau) bei Zeitz</orgName>
+               <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/1074</idno>
+               <idno type="gnd">http://d-nb.info/gnd/4604462-0</idno>
+               <idno type="viaf">http://viaf.org/viaf/166729791</idno>
+               <idno type="other">http://www.geonames.org/2945945/bosau.html</idno>
+            </org>
+            <org xml:id="org_0331">
+               <orgName>geistliche &gt; Benediktiner &gt; Pegau</orgName>
+               <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/3523</idno>
+               <idno type="gnd">http://d-nb.info/gnd/4819073-1</idno>
+               <idno type="viaf">http://viaf.org/viaf/244762216</idno>
+               <idno type="other">http://www.geonames.org/2855068/pegau.html</idno>
+            </org>
+            <org xml:id="org_0332">
+               <orgName>weltliche &gt; Amberg - Universität</orgName>
+               </org>
+            </listOrg></abstract><textClass>
             <classCode scheme="RNA">Werke</classCode>
          </textClass>
       </profileDesc>

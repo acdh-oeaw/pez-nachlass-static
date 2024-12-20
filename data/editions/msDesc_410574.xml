@@ -66,7 +66,11 @@
             <person xml:id="person__69" role="behandelte">
                <persName>Alexandro, Bartolomeo de</persName>
                </person>
-            </listPerson></abstract><textClass>
+            </listPerson><listOrg><org xml:id="org_0103">
+               <orgName>geistliche &gt; Benediktiner &gt; Cassinenser Kongregation &gt; Catania - S.
+                  Nicoló dell' Arena</orgName>
+               </org>
+            </listOrg></abstract><textClass>
             <classCode scheme="RNA">Sammlungen und Objekte</classCode>
          </textClass>
       </profileDesc>

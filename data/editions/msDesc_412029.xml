@@ -53,7 +53,17 @@
             <person xml:id="person__163" role="behandelte">
                <persName>Trithemius, Johannes</persName>
                </person>
-            </listPerson></abstract><textClass>
+            </listPerson><listOrg><org xml:id="org_0050">
+               <orgName>weltliche &gt; Düsseldorf - Hof</orgName>
+               </org>
+            <org xml:id="org_0151">
+               <orgName>geistliche &gt; Benediktiner &gt; Bursfelder Kongregation &gt; Sponheim</orgName>
+               <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/40277</idno>
+               <idno type="gnd">http://d-nb.info/gnd/4778875-6</idno>
+               <idno type="viaf">http://viaf.org/viaf/245857634</idno>
+               <idno type="other">http://www.geonames.org/2830167/sponheim.html</idno>
+            </org>
+            </listOrg></abstract><textClass>
             <classCode scheme="RNA">Sammlungen und Objekte</classCode>
          </textClass>
       </profileDesc>

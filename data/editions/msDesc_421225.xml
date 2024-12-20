@@ -76,7 +76,67 @@
             <person xml:id="person__1318" role="behandelte">
                <persName>Overham, Adolph</persName>
                </person>
-            </listPerson></abstract><textClass>
+            </listPerson><listOrg><org xml:id="org_0001">
+               <orgName>geistliche &gt; Benediktiner &gt; Österreichische Kongregation &gt; Melk</orgName>
+               <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/3265</idno>
+               <idno type="gnd">http://d-nb.info/gnd/82463-X</idno>
+               <idno type="viaf">http://viaf.org/viaf/316399876</idno>
+               <idno type="other">http://www.geonames.org/7536060/kloster-melk.html</idno>
+            </org>
+            <org xml:id="org_0022">
+               <orgName>geistliche &gt; Benediktiner &gt; Bursfelder Kongregation &gt; Köln - St.
+                  Pantaleon</orgName>
+               </org>
+            <org xml:id="org_0032">
+               <orgName>geistliche &gt; Benediktiner &gt; Bursfelder Kongregation &gt; Gladbach</orgName>
+               <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/3513</idno>
+               <idno type="gnd">http://d-nb.info/gnd/16277855-7</idno>
+               <idno type="gnd">http://d-nb.info/gnd/5345265-3</idno>
+               <idno type="viaf">http://viaf.org/viaf/266131839</idno>
+               <idno type="viaf">http://viaf.org/viaf/141628585</idno>
+               <idno type="viaf">http://viaf.org/viaf/200220285</idno>
+               <idno type="other">http://www.geonames.org/2869894/moenchengladbach.html</idno>
+            </org>
+            <org xml:id="org_0073">
+               <orgName>geistliche &gt; Benediktiner &gt; Oberschwäbische Kongregation &gt;
+                  Zwiefalten</orgName>
+               <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/20399</idno>
+               <idno type="gnd">http://d-nb.info/gnd/5024707-4</idno>
+               <idno type="viaf">http://viaf.org/viaf/146121339</idno>
+               <idno type="other">http://www.geonames.org/2803545/zwiefalten.html</idno>
+            </org>
+            <org xml:id="org_0088">
+               <orgName>geistliche &gt; Benediktiner &gt; Werden</orgName>
+               <idno type="gnd">http://d-nb.info/gnd/16209420-6</idno>
+               <idno type="gnd">http://d-nb.info/gnd/1024787133</idno>
+               <idno type="viaf">http://viaf.org/viaf/199039778</idno>
+               <idno type="viaf">http://viaf.org/viaf/235272626</idno>
+               <idno type="other">http://www.geonames.org/2810961/werden.html</idno>
+            </org>
+            <org xml:id="org_0095">
+               <orgName>geistliche &gt; Benediktiner &gt; Bursfelder Kongregation &gt; Köln - Deutz</orgName>
+               </org>
+            <org xml:id="org_0176">
+               <orgName>geistliche &gt; Benediktiner &gt; Bursfelder Kongregation &gt; Theres</orgName>
+               <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/60395</idno>
+               <idno type="gnd">http://d-nb.info/gnd/4695300-0</idno>
+               <idno type="viaf">http://viaf.org/viaf/248290664</idno>
+               <idno type="other">http://www.geonames.org/2858791/obertheres.html</idno>
+            </org>
+            <org xml:id="org_0179">
+               <orgName>geistliche &gt; Benediktiner &gt; Helvetische Kongregation &gt; Einsiedeln</orgName>
+               <idno type="gnd">http://d-nb.info/gnd/2089329-2</idno>
+               <idno type="viaf">http://viaf.org/viaf/143458106</idno>
+               <idno type="other">http://www.geonames.org/2660925/einsiedeln.html</idno>
+            </org>
+            <org xml:id="org_0205">
+               <orgName>geistliche &gt; Benediktiner &gt; Bursfelder Kongregation &gt; Trier - St.
+                  Eucharius-St. Matthias</orgName>
+               </org>
+            <org xml:id="org_0206">
+               <orgName>geistliche &gt; Benediktiner &gt; Luxemburgische Klöster</orgName>
+               </org>
+            </listOrg></abstract><textClass>
             <classCode scheme="RNA">Sammlungen und Objekte</classCode>
          </textClass>
       </profileDesc>

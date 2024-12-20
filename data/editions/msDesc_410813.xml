@@ -68,7 +68,25 @@
             <person xml:id="person__101" role="behandelte">
                <persName>Holdermeier, Leodegar</persName>
                </person>
-            </listPerson></abstract><textClass>
+            </listPerson><listOrg><org xml:id="org_0030">
+               <orgName>geistliche &gt; Benediktiner &gt; Helvetische Kongregation &gt; Disentis</orgName>
+               <idno type="gnd">http://d-nb.info/gnd/1095228-7</idno>
+               <idno type="viaf">http://viaf.org/viaf/135044223</idno>
+               <idno type="other">http://www.geonames.org/2661009/disentis.html</idno>
+            </org>
+            <org xml:id="org_0034">
+               <orgName>geistliche &gt; Benediktiner &gt; Helvetische Kongregation &gt; Engelberg</orgName>
+               <idno type="gnd">http://d-nb.info/gnd/5015078-9</idno>
+               <idno type="viaf">http://viaf.org/viaf/143185915</idno>
+               <idno type="other">http://www.geonames.org/2660902/engelberg.html</idno>
+            </org>
+            <org xml:id="org_0109">
+               <orgName>geistliche &gt; Benediktiner &gt; Helvetische Kongregation &gt; Muri</orgName>
+               <idno type="gnd">http://d-nb.info/gnd/809504-8</idno>
+               <idno type="viaf">http://viaf.org/viaf/261850484</idno>
+               <idno type="other">http://www.geonames.org/2659531/muri.html</idno>
+            </org>
+            </listOrg></abstract><textClass>
             <classCode scheme="RNA">Sammlungen und Objekte</classCode>
          </textClass>
       </profileDesc>

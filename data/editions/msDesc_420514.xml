@@ -50,7 +50,24 @@
             <person xml:id="person__1137" role="behandelte">
                <persName>Adamus Scotus (Adam von Dryburgh)</persName>
                </person>
-            </listPerson></abstract><textClass>
+            </listPerson><listOrg><org xml:id="org_0001">
+               <orgName>geistliche &gt; Benediktiner &gt; Österreichische Kongregation &gt; Melk</orgName>
+               <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/3265</idno>
+               <idno type="gnd">http://d-nb.info/gnd/82463-X</idno>
+               <idno type="viaf">http://viaf.org/viaf/316399876</idno>
+               <idno type="other">http://www.geonames.org/7536060/kloster-melk.html</idno>
+            </org>
+            <org xml:id="org_0196">
+               <orgName>geistliche &gt; Prämonstratenser &gt; St. Andrews</orgName>
+               <idno type="other">http://www.geonames.org/2638864/saint-andrews.html</idno>
+            </org>
+            <org xml:id="org_0197">
+               <orgName>geistliche &gt; Prämonstratenser &gt; Dryburgh</orgName>
+               <idno type="gnd">http://d-nb.info/gnd/7795588-2</idno>
+               <idno type="viaf">http://viaf.org/viaf/191494378</idno>
+               <idno type="other">http://www.geonames.org/2650900/dryburgh.html</idno>
+            </org>
+            </listOrg></abstract><textClass>
             <classCode scheme="RNA">Sammlungen und Objekte</classCode>
          </textClass>
       </profileDesc>

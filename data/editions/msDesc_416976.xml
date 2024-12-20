@@ -47,7 +47,13 @@
          <abstract><listPerson><person xml:id="person__437" role="behandelte">
                <persName>Reding, Augustin</persName>
                </person>
-            </listPerson></abstract><textClass>
+            </listPerson><listOrg><org xml:id="org_0179">
+               <orgName>geistliche &gt; Benediktiner &gt; Helvetische Kongregation &gt; Einsiedeln</orgName>
+               <idno type="gnd">http://d-nb.info/gnd/2089329-2</idno>
+               <idno type="viaf">http://viaf.org/viaf/143458106</idno>
+               <idno type="other">http://www.geonames.org/2660925/einsiedeln.html</idno>
+            </org>
+            </listOrg></abstract><textClass>
             <classCode scheme="RNA">Sammlungen und Objekte</classCode>
          </textClass>
       </profileDesc>

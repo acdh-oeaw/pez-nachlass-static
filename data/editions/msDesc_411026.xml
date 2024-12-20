@@ -57,7 +57,22 @@
             <person xml:id="person__106" role="behandelte">
                <persName>Henri de Sully</persName>
                </person>
-            </listPerson></abstract><textClass>
+            </listPerson><listOrg><org xml:id="org_0014">
+               <orgName>geistliche &gt; Kartäuser &gt; Gaming</orgName>
+               <idno type="gnd">http://d-nb.info/gnd/3011144-4</idno>
+               <idno type="viaf">http://viaf.org/viaf/155471057</idno>
+               <idno type="other">http://www.geonames.org/2778949/gaming.html</idno>
+            </org>
+            <org xml:id="org_0112">
+               <orgName>geistliche &gt; Zisterzienser &gt; Cîteaux</orgName>
+               <idno type="gnd">http://d-nb.info/gnd/4126338-8</idno>
+               <idno type="viaf">http://viaf.org/viaf/240383407</idno>
+               <idno type="other">http://www.geonames.org/3024876/citeaux-abbey.html</idno>
+            </org>
+            <org xml:id="org_0113">
+               <orgName>geistliche &gt; Säkularklerus &gt; Bourges - Erzbistum</orgName>
+               </org>
+            </listOrg></abstract><textClass>
             <classCode scheme="RNA">Sammlungen und Objekte</classCode>
          </textClass>
       </profileDesc>

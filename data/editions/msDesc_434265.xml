@@ -42,7 +42,10 @@
          <abstract><listPerson><person xml:id="person__122" role="urheber">
                <persName>Valois, Adrien de</persName>
                </person>
-            </listPerson></abstract><textClass>
+            </listPerson><listOrg><org xml:id="org_0105">
+               <orgName>weltliche &gt; Paris - Hof</orgName>
+               </org>
+            </listOrg></abstract><textClass>
             <classCode scheme="RNA">Sammlungen und Objekte</classCode>
          </textClass>
       </profileDesc>

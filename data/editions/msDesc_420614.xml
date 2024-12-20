@@ -57,7 +57,27 @@
             <person xml:id="person__1156" role="behandelte">
                <persName>Gozbert von St. Gallen</persName>
                </person>
-            </listPerson></abstract><textClass>
+            </listPerson><listOrg><org xml:id="org_0001">
+               <orgName>geistliche &gt; Benediktiner &gt; Österreichische Kongregation &gt; Melk</orgName>
+               <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/3265</idno>
+               <idno type="gnd">http://d-nb.info/gnd/82463-X</idno>
+               <idno type="viaf">http://viaf.org/viaf/316399876</idno>
+               <idno type="other">http://www.geonames.org/7536060/kloster-melk.html</idno>
+            </org>
+            <org xml:id="org_0008">
+               <orgName>geistliche &gt; Benediktiner &gt; Helvetische Kongregation &gt; St. Gallen</orgName>
+               <idno type="gnd">http://d-nb.info/gnd/1088891446</idno>
+               <idno type="viaf">http://viaf.org/viaf/266765811</idno>
+               <idno type="other">http://www.geonames.org/2658822/sankt-gallen.html</idno>
+            </org>
+            <org xml:id="org_0049">
+               <orgName>geistliche &gt; Benediktiner &gt; Bursfelder Kongregation &gt; Fulda</orgName>
+               <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/30121</idno>
+               <idno type="gnd">http://d-nb.info/gnd/4074038-9</idno>
+               <idno type="viaf">http://viaf.org/viaf/237710601</idno>
+               <idno type="other">http://www.geonames.org/2923822/fulda.html</idno>
+            </org>
+            </listOrg></abstract><textClass>
             <classCode scheme="RNA">Werke</classCode>
          </textClass>
       </profileDesc>

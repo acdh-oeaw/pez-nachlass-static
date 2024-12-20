@@ -51,7 +51,11 @@
          <abstract><listPerson><person xml:id="person__128" role="urheber">
                <persName>Lombard, Célestin</persName>
                </person>
-            </listPerson></abstract><textClass>
+            </listPerson><listOrg><org xml:id="org_0058">
+               <orgName>geistliche &gt; Benediktiner &gt; Belgische Klöster &gt; Lüttich -
+                  St.-Laurent</orgName>
+               </org>
+            </listOrg></abstract><textClass>
             <classCode scheme="RNA">Sammlungen und Objekte</classCode>
          </textClass>
       </profileDesc>

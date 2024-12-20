@@ -64,7 +64,38 @@
             <person xml:id="person__349" role="behandelte">
                <persName>Impekoven, Johann</persName>
                </person>
-            </listPerson></abstract><textClass>
+            </listPerson><listOrg><org xml:id="org_0020">
+               <orgName>geistliche &gt; Benediktiner &gt; Salzburgische Kongregation &gt; Salzburg -
+                  St. Peter</orgName>
+               </org>
+            <org xml:id="org_0026">
+               <orgName>geistliche &gt; Jesuiten</orgName>
+               </org>
+            <org xml:id="org_0161">
+               <orgName>geistliche &gt; Benediktiner &gt; Salzburgische Kongregation &gt; St. Veit
+                  an der Rott</orgName>
+               <idno type="gnd">http://d-nb.info/gnd/16189200-0</idno>
+               <idno type="viaf">http://viaf.org/viaf/187715082</idno>
+               <idno type="other">http://www.geonames.org/2864547/neumarkt-sankt-veit.html</idno>
+            </org>
+            <org xml:id="org_0162">
+               <orgName>geistliche &gt; Benediktiner &gt; Bayerische Kongregation &gt; Frauenzell</orgName>
+               <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/60098</idno>
+               <idno type="gnd">http://d-nb.info/gnd/4630703-5</idno>
+               <idno type="viaf">http://viaf.org/viaf/249403003</idno>
+               <idno type="other">http://www.geonames.org/2944288/brennberg.html</idno>
+            </org>
+            <org xml:id="org_0163">
+               <orgName>geistliche &gt; Minoriten &gt; Wels</orgName>
+               <idno type="gnd">http://d-nb.info/gnd/7725356-5</idno>
+               <idno type="viaf">http://viaf.org/viaf/237996671</idno>
+               <idno type="other">http://www.geonames.org/2761524/wels.html</idno>
+            </org>
+            <org xml:id="org_0164">
+               <orgName>geistliche &gt; Benediktiner &gt; Böhmische Kongregation &gt; Prag -
+                  Emmauskloster</orgName>
+               </org>
+            </listOrg></abstract><textClass>
             <classCode scheme="RNA">Sammlungen und Objekte</classCode>
          </textClass>
       </profileDesc>

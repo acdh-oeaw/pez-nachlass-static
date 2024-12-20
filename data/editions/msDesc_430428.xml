@@ -53,7 +53,13 @@
             <person xml:id="person__2658" role="behandelte">
                <persName>Zumbrunnen, Fridolin</persName>
                </person>
-            </listPerson></abstract><textClass>
+            </listPerson><listOrg><org xml:id="org_0089">
+               <orgName>geistliche &gt; Benediktiner &gt; Helvetische Kongregation &gt; Rheinau</orgName>
+               <idno type="gnd">http://d-nb.info/gnd/4374885-5</idno>
+               <idno type="viaf">http://viaf.org/viaf/235202945</idno>
+               <idno type="other">http://www.geonames.org/3209262/rheinau.html</idno>
+            </org>
+            </listOrg></abstract><textClass>
             <classCode scheme="RNA">Sammlungen und Objekte</classCode>
          </textClass>
       </profileDesc>

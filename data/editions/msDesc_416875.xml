@@ -65,7 +65,10 @@
             <person xml:id="person__2228" role="behandelte">
                <persName>Robert von Reims</persName>
                </person>
-            </listPerson></abstract><textClass>
+            </listPerson><listOrg><org xml:id="org_0177">
+               <orgName>geistliche &gt; Säkularklerus &gt; Reims - Erzbistum</orgName>
+               </org>
+            </listOrg></abstract><textClass>
             <classCode scheme="RNA">Sammlungen und Objekte</classCode>
          </textClass>
       </profileDesc>

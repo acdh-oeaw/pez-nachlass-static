@@ -172,7 +172,115 @@
             <person xml:id="person__3356" role="urheber">
                <persName>Pius II.</persName>
                </person>
-            </listPerson></abstract><textClass>
+            </listPerson><listOrg><org xml:id="org_0001">
+               <orgName>geistliche &gt; Benediktiner &gt; Österreichische Kongregation &gt; Melk</orgName>
+               <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/3265</idno>
+               <idno type="gnd">http://d-nb.info/gnd/82463-X</idno>
+               <idno type="viaf">http://viaf.org/viaf/316399876</idno>
+               <idno type="other">http://www.geonames.org/7536060/kloster-melk.html</idno>
+            </org>
+            <org xml:id="org_0004">
+               <orgName>geistliche &gt; Benediktiner &gt; Österreichische Kongregation &gt; Göttweig</orgName>
+               <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/4035</idno>
+               <idno type="gnd">http://d-nb.info/gnd/2103432-1</idno>
+               <idno type="viaf">http://viaf.org/viaf/245287151</idno>
+               <idno type="other">http://www.geonames.org/2778228/stift-goettweig.html</idno>
+            </org>
+            <org xml:id="org_0006">
+               <orgName>weltliche &gt; Wien - Hof</orgName>
+               </org>
+            <org xml:id="org_0008">
+               <orgName>geistliche &gt; Benediktiner &gt; Helvetische Kongregation &gt; St. Gallen</orgName>
+               <idno type="gnd">http://d-nb.info/gnd/1088891446</idno>
+               <idno type="viaf">http://viaf.org/viaf/266765811</idno>
+               <idno type="other">http://www.geonames.org/2658822/sankt-gallen.html</idno>
+            </org>
+            <org xml:id="org_0019">
+               <orgName>geistliche &gt; Benediktiner &gt; Bayerische Kongregation &gt; Tegernsee</orgName>
+               <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/3551</idno>
+               <idno type="gnd">http://d-nb.info/gnd/809501-2</idno>
+               <idno type="viaf">http://viaf.org/viaf/139580416</idno>
+               <idno type="other">http://www.geonames.org/2823679/tegernsee.html</idno>
+            </org>
+            <org xml:id="org_0031">
+               <orgName>geistliche &gt; Benediktiner &gt; Bayerische Kongregation &gt; Regensburg -
+                  St. Emmeram</orgName>
+               </org>
+            <org xml:id="org_0150">
+               <orgName>geistliche &gt; Säkularklerus &gt; Rom - Papst</orgName>
+               </org>
+            <org xml:id="org_0232">
+               <orgName>geistliche &gt; Benediktiner &gt; Bursfelder Kongregation &gt; Bamberg -
+                  Michelsberg</orgName>
+               </org>
+            <org xml:id="org_0298">
+               <orgName>geistliche &gt; Säkularklerus &gt; Konstanz - Bistum</orgName>
+               </org>
+            <org xml:id="org_0382">
+               <orgName>weltliche &gt; Mailand - Hof</orgName>
+               </org>
+            <org xml:id="org_0408">
+               <orgName>geistliche &gt; Kanonissen &gt; Freckenhorst</orgName>
+               <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/519</idno>
+               <idno type="gnd">http://d-nb.info/gnd/4311051-4</idno>
+               <idno type="gnd">http://d-nb.info/gnd/4311052-6</idno>
+               <idno type="gnd">http://d-nb.info/gnd/5337121-5</idno>
+               <idno type="viaf">http://viaf.org/viaf/234293391</idno>
+               <idno type="viaf">http://viaf.org/viaf/247785883</idno>
+               <idno type="viaf">http://viaf.org/viaf/128736377</idno>
+               <idno type="other">http://www.geonames.org/2925248/freckenhorst.html</idno>
+            </org>
+            <org xml:id="org_0409">
+               <orgName>geistliche &gt; Säkularklerus &gt; Caesarea - Erzbistum</orgName>
+               </org>
+            <org xml:id="org_0410">
+               <orgName>weltliche &gt; Valladolid - Hof</orgName>
+               </org>
+            <org xml:id="org_0411">
+               <orgName>weltliche &gt; Madrid - Hof</orgName>
+               </org>
+            <org xml:id="org_0412">
+               <orgName>weltliche &gt; Pamplona - Hof</orgName>
+               </org>
+            <org xml:id="org_0413">
+               <orgName>weltliche &gt; Genua - Hof</orgName>
+               </org>
+            <org xml:id="org_0414">
+               <orgName>weltliche &gt; Montferrat - Markgrafschaft</orgName>
+               </org>
+            <org xml:id="org_0415">
+               <orgName>geistliche &gt; Säkularklerus &gt; Toledo - Erzbistum</orgName>
+               </org>
+            <org xml:id="org_0416">
+               <orgName>weltliche &gt; Foix und Bigorre - Grafschaft</orgName>
+               </org>
+            <org xml:id="org_0417">
+               <orgName>weltliche &gt; Florenz - Magistrat</orgName>
+               </org>
+            <org xml:id="org_0418">
+               <orgName>weltliche &gt; Siena - Magistrat</orgName>
+               </org>
+            <org xml:id="org_0419">
+               <orgName>weltliche &gt; Innsbruck - Hof</orgName>
+               </org>
+            <org xml:id="org_0420">
+               <orgName>weltliche &gt; Savoyen - Herzogtum</orgName>
+               </org>
+            <org xml:id="org_0421">
+               <orgName>weltliche &gt; Österreich - Herzogtum</orgName>
+               </org>
+            <org xml:id="org_0422">
+               <orgName>weltliche &gt; Roskilde - Hof</orgName>
+               </org>
+            <org xml:id="org_0423">
+               <orgName>geistliche &gt; Dominikaner &gt; Genua</orgName>
+               <idno type="other">http://www.geonames.org/3176219/genoa.html</idno>
+            </org>
+            <org xml:id="org_0424">
+               <orgName>geistliche &gt; Kapuziner &gt; Petra Rubea</orgName>
+               <idno type="other">http://www.geonames.org/6542713/pietrarubbia.html</idno>
+            </org>
+            </listOrg></abstract><textClass>
             <classCode scheme="RNA">Werke</classCode>
          </textClass>
       </profileDesc>

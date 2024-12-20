@@ -59,7 +59,32 @@
             <person xml:id="person__326" role="behandelte">
                <persName>Stephan von Scheyern</persName>
                </person>
-            </listPerson></abstract><textClass>
+            </listPerson><listOrg><org xml:id="org_0001">
+               <orgName>geistliche &gt; Benediktiner &gt; Österreichische Kongregation &gt; Melk</orgName>
+               <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/3265</idno>
+               <idno type="gnd">http://d-nb.info/gnd/82463-X</idno>
+               <idno type="viaf">http://viaf.org/viaf/316399876</idno>
+               <idno type="other">http://www.geonames.org/7536060/kloster-melk.html</idno>
+            </org>
+            <org xml:id="org_0008">
+               <orgName>geistliche &gt; Benediktiner &gt; Helvetische Kongregation &gt; St. Gallen</orgName>
+               <idno type="gnd">http://d-nb.info/gnd/1088891446</idno>
+               <idno type="viaf">http://viaf.org/viaf/266765811</idno>
+               <idno type="other">http://www.geonames.org/2658822/sankt-gallen.html</idno>
+            </org>
+            <org xml:id="org_0062">
+               <orgName>geistliche &gt; Benediktiner &gt; Trier - St.-Maximin</orgName>
+               </org>
+            <org xml:id="org_0144">
+               <orgName>geistliche &gt; Benediktiner &gt; Bayerische Kongregation &gt; Scheyern</orgName>
+               <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/60363</idno>
+               <idno type="gnd">http://d-nb.info/gnd/2052902-8</idno>
+               <idno type="gnd">http://d-nb.info/gnd/4208047-2</idno>
+               <idno type="viaf">http://viaf.org/viaf/151936876</idno>
+               <idno type="viaf">http://viaf.org/viaf/145548928</idno>
+               <idno type="other">http://www.geonames.org/2839527/scheyern.html</idno>
+            </org>
+            </listOrg></abstract><textClass>
             <classCode scheme="RNA">Werke</classCode>
          </textClass>
       </profileDesc>

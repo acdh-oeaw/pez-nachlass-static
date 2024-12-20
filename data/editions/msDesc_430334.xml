@@ -51,7 +51,22 @@
             <person xml:id="person__2651" role="urheber">
                <persName>Reichardt, Aemilian</persName>
                </person>
-            </listPerson></abstract><textClass>
+            </listPerson><listOrg><org xml:id="org_0001">
+               <orgName>geistliche &gt; Benediktiner &gt; Österreichische Kongregation &gt; Melk</orgName>
+               <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/3265</idno>
+               <idno type="gnd">http://d-nb.info/gnd/82463-X</idno>
+               <idno type="viaf">http://viaf.org/viaf/316399876</idno>
+               <idno type="other">http://www.geonames.org/7536060/kloster-melk.html</idno>
+            </org>
+            <org xml:id="org_0035">
+               <orgName>geistliche &gt; Benediktiner &gt; Oberschwäbische Kongregation &gt;
+                  Ochsenhausen</orgName>
+               <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/20123</idno>
+               <idno type="gnd">http://d-nb.info/gnd/2133171-6</idno>
+               <idno type="viaf">http://viaf.org/viaf/149403418</idno>
+               <idno type="other">http://www.geonames.org/2858326/ochsenhausen.html</idno>
+            </org>
+            </listOrg></abstract><textClass>
             <classCode scheme="RNA">Sammlungen und Objekte</classCode>
          </textClass>
       </profileDesc>

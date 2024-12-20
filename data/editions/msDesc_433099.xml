@@ -47,7 +47,10 @@
          <abstract><listPerson><person xml:id="person__2898" role="urheber">
                <persName>Anselm von Havelberg</persName>
                </person>
-            </listPerson></abstract><textClass>
+            </listPerson><listOrg><org xml:id="org_0261">
+               <orgName>geistliche &gt; Säkularklerus &gt; Ravenna - Erzbistum</orgName>
+               </org>
+            </listOrg></abstract><textClass>
             <classCode scheme="RNA">Sammlungen und Objekte</classCode>
          </textClass>
       </profileDesc>

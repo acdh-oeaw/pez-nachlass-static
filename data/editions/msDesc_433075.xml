@@ -50,7 +50,16 @@
             <person xml:id="person__2897" role="urheber">
                <persName>Maillard, Joseph</persName>
                </person>
-            </listPerson></abstract><textClass>
+            </listPerson><listOrg><org xml:id="org_0010">
+               <orgName>geistliche &gt; Benediktiner &gt; Maurinerkongregation</orgName>
+               </org>
+            <org xml:id="org_0260">
+               <orgName>geistliche &gt; Zisterzienser &gt; Clairmarais</orgName>
+               <idno type="gnd">http://d-nb.info/gnd/7517617-8</idno>
+               <idno type="viaf">http://viaf.org/viaf/234362420</idno>
+               <idno type="other">http://www.geonames.org/11048632/abbaye-de-clairmarais.html</idno>
+            </org>
+            </listOrg></abstract><textClass>
             <classCode scheme="RNA">Sammlungen und Objekte</classCode>
          </textClass>
       </profileDesc>

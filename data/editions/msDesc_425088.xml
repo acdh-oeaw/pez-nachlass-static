@@ -51,7 +51,10 @@
                <idno type="gnd">http://d-nb.info/gnd/1090340923</idno>
                <idno type="GND">http://d-nb.info/gnd/118958461</idno>
                </person>
-            </listPerson></abstract><textClass>
+            </listPerson><listOrg><org xml:id="org_0021">
+               <orgName>weltliche &gt; Hannover - Hof</orgName>
+               </org>
+            </listOrg></abstract><textClass>
             <classCode scheme="RNA">Sammlungen und Objekte</classCode>
          </textClass>
       </profileDesc>

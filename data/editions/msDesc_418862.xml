@@ -68,7 +68,21 @@
             <person xml:id="person__2918" role="behandelte">
                <persName>Konrad von Weihenstephan</persName>
                </person>
-            </listPerson></abstract><textClass>
+            </listPerson><listOrg><org xml:id="org_0001">
+               <orgName>geistliche &gt; Benediktiner &gt; Österreichische Kongregation &gt; Melk</orgName>
+               <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/3265</idno>
+               <idno type="gnd">http://d-nb.info/gnd/82463-X</idno>
+               <idno type="viaf">http://viaf.org/viaf/316399876</idno>
+               <idno type="other">http://www.geonames.org/7536060/kloster-melk.html</idno>
+            </org>
+            <org xml:id="org_0129">
+               <orgName>geistliche &gt; Benediktiner &gt; Bayerische Kongregation &gt; Weihenstephan</orgName>
+               <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/60151</idno>
+               <idno type="gnd">http://d-nb.info/gnd/16189197-4</idno>
+               <idno type="viaf">http://viaf.org/viaf/191597759</idno>
+               <idno type="other">http://www.geonames.org/2812833/weihenstephan.html</idno>
+            </org>
+            </listOrg></abstract><textClass>
             <classCode scheme="RNA">Sammlungen und Objekte</classCode>
          </textClass>
       </profileDesc>

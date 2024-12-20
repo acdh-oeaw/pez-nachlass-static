@@ -47,7 +47,11 @@
          <abstract><listPerson><person xml:id="person__2939" role="urheber">
                <persName>Junilius Africanus</persName>
                </person>
-            </listPerson></abstract><textClass>
+            </listPerson><listOrg><org xml:id="org_0187">
+               <orgName>geistliche &gt; Benediktiner &gt; Französische Klöster &gt; Laon -
+                  St.-Vincent</orgName>
+               </org>
+            </listOrg></abstract><textClass>
             <classCode scheme="RNA">Sammlungen und Objekte</classCode>
          </textClass>
       </profileDesc>

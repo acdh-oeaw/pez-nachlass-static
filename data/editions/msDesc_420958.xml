@@ -171,7 +171,10 @@
             <person xml:id="person__1312" role="behandelte">
                <persName>Ketteler, Hermann</persName>
                </person>
-            </listPerson></abstract><textClass>
+            </listPerson><listOrg><org xml:id="org_0123">
+               <orgName>geistliche &gt; Säkularklerus &gt; Spital am Pyhrn - Kollegiatstift</orgName>
+               </org>
+            </listOrg></abstract><textClass>
             <classCode scheme="RNA">Sammlungen und Objekte</classCode>
          </textClass>
       </profileDesc>

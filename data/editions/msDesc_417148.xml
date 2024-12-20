@@ -46,7 +46,15 @@
          </sourceDesc>
       </fileDesc>
       <profileDesc>
-         <abstract><listPerson/></abstract><textClass>
+         <abstract><listPerson/><listOrg><org xml:id="org_0046">
+               <orgName>geistliche &gt; Benediktiner &gt; Oberschwäbische Kongregation &gt;
+                  Wiblingen</orgName>
+               <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/20449</idno>
+               <idno type="gnd">http://d-nb.info/gnd/4313535-3</idno>
+               <idno type="viaf">http://viaf.org/viaf/154929897</idno>
+               <idno type="other">http://www.geonames.org/11548398/kloster-wiblingen.html</idno>
+            </org>
+            </listOrg></abstract><textClass>
             <classCode scheme="RNA">Sammlungen und Objekte</classCode>
          </textClass>
       </profileDesc>

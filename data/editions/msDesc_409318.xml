@@ -47,7 +47,16 @@
          <abstract><listPerson><person xml:id="person__999" role="behandelte">
                <persName>Humbert von Lorsch</persName>
                </person>
-            </listPerson></abstract><textClass>
+            </listPerson><listOrg><org xml:id="org_0096">
+               <orgName>geistliche &gt; Benediktiner &gt; Lorsch</orgName>
+               <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/30244</idno>
+               <idno type="gnd">http://d-nb.info/gnd/801576-4</idno>
+               <idno type="gnd">http://d-nb.info/gnd/1085245950</idno>
+               <idno type="viaf">http://viaf.org/viaf/143763943</idno>
+               <idno type="viaf">http://viaf.org/viaf/133012072</idno>
+               <idno type="other">http://www.geonames.org/11204726/kloster-lorsch.html</idno>
+            </org>
+            </listOrg></abstract><textClass>
             <classCode scheme="RNA">Sammlungen und Objekte</classCode>
          </textClass>
       </profileDesc>

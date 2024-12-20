@@ -47,7 +47,11 @@
          <abstract><listPerson><person xml:id="person__3517" role="behandelte">
                <persName>Livia Eletta Franzina</persName>
                </person>
-            </listPerson></abstract><textClass>
+            </listPerson><listOrg><org xml:id="org_0234">
+               <orgName>geistliche &gt; Benediktiner &gt; Cassinenser Kongregation &gt; Padua - S.
+                  Marco (Benediktinerinnen)</orgName>
+               </org>
+            </listOrg></abstract><textClass>
             <classCode scheme="RNA">Sammlungen und Objekte</classCode>
          </textClass>
       </profileDesc>

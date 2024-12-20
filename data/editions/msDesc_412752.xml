@@ -51,7 +51,16 @@
             <person xml:id="person__1007" role="behandelte">
                <persName>Hervé de St. Martin</persName>
                </person>
-            </listPerson></abstract><textClass>
+            </listPerson><listOrg><org xml:id="org_0107">
+               <orgName>geistliche &gt; Benediktiner &gt; Solignac</orgName>
+               <idno type="gnd">http://d-nb.info/gnd/1099409-9</idno>
+               <idno type="viaf">http://viaf.org/viaf/133763219</idno>
+               <idno type="other">http://www.geonames.org/2974349/solignac.html</idno>
+            </org>
+            <org xml:id="org_0108">
+               <orgName>geistliche &gt; Säkularklerus &gt; Tours - St.-Martin</orgName>
+               </org>
+            </listOrg></abstract><textClass>
             <classCode scheme="RNA">Sammlungen und Objekte</classCode>
          </textClass>
       </profileDesc>

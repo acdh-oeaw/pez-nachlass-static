@@ -95,7 +95,48 @@
             <person xml:id="person__3225" role="urheber">
                <persName>Salonius von Genf</persName>
                </person>
-            </listPerson></abstract><textClass>
+            </listPerson><listOrg><org xml:id="org_0001">
+               <orgName>geistliche &gt; Benediktiner &gt; Österreichische Kongregation &gt; Melk</orgName>
+               <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/3265</idno>
+               <idno type="gnd">http://d-nb.info/gnd/82463-X</idno>
+               <idno type="viaf">http://viaf.org/viaf/316399876</idno>
+               <idno type="other">http://www.geonames.org/7536060/kloster-melk.html</idno>
+            </org>
+            <org xml:id="org_0044">
+               <orgName>geistliche &gt; Benediktiner &gt; Oberschwäbische Kongregation &gt; Mehrerau</orgName>
+               <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/92580</idno>
+               <idno type="gnd">http://d-nb.info/gnd/1086282779</idno>
+               <idno type="viaf">http://viaf.org/viaf/867145857000822921033</idno>
+               <idno type="other">http://www.geonames.org/3333694/kloster-mehrerau.html</idno>
+            </org>
+            <org xml:id="org_0049">
+               <orgName>geistliche &gt; Benediktiner &gt; Bursfelder Kongregation &gt; Fulda</orgName>
+               <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/30121</idno>
+               <idno type="gnd">http://d-nb.info/gnd/4074038-9</idno>
+               <idno type="viaf">http://viaf.org/viaf/237710601</idno>
+               <idno type="other">http://www.geonames.org/2923822/fulda.html</idno>
+            </org>
+            <org xml:id="org_0073">
+               <orgName>geistliche &gt; Benediktiner &gt; Oberschwäbische Kongregation &gt;
+                  Zwiefalten</orgName>
+               <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/20399</idno>
+               <idno type="gnd">http://d-nb.info/gnd/5024707-4</idno>
+               <idno type="viaf">http://viaf.org/viaf/146121339</idno>
+               <idno type="other">http://www.geonames.org/2803545/zwiefalten.html</idno>
+            </org>
+            <org xml:id="org_0372">
+               <orgName>geistliche &gt; Benediktiner &gt; Bayerische Kongregation &gt; Reichenbach</orgName>
+               <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/60350</idno>
+               <idno type="gnd">http://d-nb.info/gnd/4271614-7</idno>
+               <idno type="gnd">http://d-nb.info/gnd/5091734-1</idno>
+               <idno type="viaf">http://viaf.org/viaf/148935778</idno>
+               <idno type="viaf">http://viaf.org/viaf/136764744</idno>
+               <idno type="other">http://www.geonames.org/2849170/reichenbach.html</idno>
+            </org>
+            <org xml:id="org_0373">
+               <orgName>geistliche &gt; Säkularklerus &gt; Genf - Bistum</orgName>
+               </org>
+            </listOrg></abstract><textClass>
             <classCode scheme="RNA">Werke</classCode>
          </textClass>
       </profileDesc>

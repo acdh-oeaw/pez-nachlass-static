@@ -78,7 +78,49 @@
             <person xml:id="person__2657" role="behandelte">
                <persName>Wilhelm von Poitiers</persName>
                </person>
-            </listPerson></abstract><textClass>
+            </listPerson><listOrg><org xml:id="org_0001">
+               <orgName>geistliche &gt; Benediktiner &gt; Österreichische Kongregation &gt; Melk</orgName>
+               <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/3265</idno>
+               <idno type="gnd">http://d-nb.info/gnd/82463-X</idno>
+               <idno type="viaf">http://viaf.org/viaf/316399876</idno>
+               <idno type="other">http://www.geonames.org/7536060/kloster-melk.html</idno>
+            </org>
+            <org xml:id="org_0010">
+               <orgName>geistliche &gt; Benediktiner &gt; Maurinerkongregation</orgName>
+               </org>
+            <org xml:id="org_0012">
+               <orgName>geistliche &gt; Benediktiner &gt; Cassinenser Kongregation &gt; Montecassino</orgName>
+               <idno type="gnd">http://d-nb.info/gnd/1087296986</idno>
+               <idno type="viaf">http://viaf.org/viaf/133865391</idno>
+               <idno type="other">http://www.geonames.org/3173005/abbazia-di-montecassino.html</idno>
+            </org>
+            <org xml:id="org_0019">
+               <orgName>geistliche &gt; Benediktiner &gt; Bayerische Kongregation &gt; Tegernsee</orgName>
+               <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/3551</idno>
+               <idno type="gnd">http://d-nb.info/gnd/809501-2</idno>
+               <idno type="viaf">http://viaf.org/viaf/139580416</idno>
+               <idno type="other">http://www.geonames.org/2823679/tegernsee.html</idno>
+            </org>
+            <org xml:id="org_0029">
+               <orgName>geistliche &gt; Benediktiner &gt; Bayerische Kongregation &gt; Andechs</orgName>
+               <idno type="other">http://klosterdatenbank.germania-sacra.de/gsn/2091</idno>
+               <idno type="gnd">http://d-nb.info/gnd/4310732-1</idno>
+               <idno type="gnd">http://d-nb.info/gnd/1089050224</idno>
+               <idno type="viaf">http://viaf.org/viaf/233645846</idno>
+               <idno type="viaf">http://viaf.org/viaf/939145857951823021263</idno>
+               <idno type="other">http://www.geonames.org/2956253/andechs.html</idno>
+            </org>
+            <org xml:id="org_0252">
+               <orgName>geistliche &gt; Benediktiner &gt; Französische Klöster &gt; Cambrai -
+                  St.-Sépulcre</orgName>
+               </org>
+            <org xml:id="org_0253">
+               <orgName>geistliche &gt; Augustiner-Chorherren &gt; Paris - St.-Victor</orgName>
+               </org>
+            <org xml:id="org_0254">
+               <orgName>weltliche &gt; Rom - Päpstlicher Hof</orgName>
+               </org>
+            </listOrg></abstract><textClass>
             <classCode scheme="RNA">Sammlungen und Objekte</classCode>
          </textClass>
       </profileDesc>

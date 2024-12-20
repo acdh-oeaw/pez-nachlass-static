@@ -49,7 +49,10 @@
                <persName>Hl. Bernhard von Clairvaux</persName>
                <idno type="gnd">https://d-nb.info/gnd/118509810</idno>
                </person>
-            </listPerson></abstract><textClass>
+            </listPerson><listOrg><org xml:id="org_0010">
+               <orgName>geistliche &gt; Benediktiner &gt; Maurinerkongregation</orgName>
+               </org>
+            </listOrg></abstract><textClass>
             <classCode scheme="RNA">Sammlungen und Objekte</classCode>
          </textClass>
       </profileDesc>

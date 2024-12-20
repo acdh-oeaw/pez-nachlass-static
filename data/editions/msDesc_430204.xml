@@ -44,7 +44,10 @@
                <idno type="gnd">http://d-nb.info/gnd/135655706</idno>
                <idno type="GND">http://d-nb.info/gnd/135655706</idno>
                </person>
-            </listPerson></abstract><textClass>
+            </listPerson><listOrg><org xml:id="org_0050">
+               <orgName>weltliche &gt; Düsseldorf - Hof</orgName>
+               </org>
+            </listOrg></abstract><textClass>
             <classCode scheme="RNA">Sammlungen und Objekte</classCode>
          </textClass>
       </profileDesc>
