@@ -33,8 +33,8 @@
                             </li>
                         </ol>
                     </nav>
-                    <div class="container pb-4">
-                        <h1 class="display-5 text-center">  
+                    <div class="container pb-4">                        
+                        <h1 class="display-5 text-center"><xsl:value-of select="$doc_title"/></h1>    
                         <xsl:apply-templates select=".//tei:body"></xsl:apply-templates>
                     </div>
                 </main>

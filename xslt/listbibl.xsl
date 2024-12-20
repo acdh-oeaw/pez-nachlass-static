@@ -31,10 +31,11 @@
                         class="ps-5 p-3">
                         <ol class="breadcrumb">
                             <li class="breadcrumb-item">
-                                <a href="index.html">Pez-Nachlass</a>
+                                <a href="index.html">
+                                    <xsl:value-of select="$project_short_title"/>
+                                </a>
                             </li>
-                            <li class="breadcrumb-item active" aria-current="page">Alle
-                                Titel</li>
+                            <li class="breadcrumb-item"><a href="listbibl.html">Bibliographie</a></li>
                         </ol>
                     </nav>
                     <div class="container">
