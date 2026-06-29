@@ -35,27 +35,21 @@ jobs:
       IMAGE_NAME: ${{ github.repository }}
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
-      - name: Install Saxon, Ant and Fundament
-        run: |
-          apt-get update && apt-get install openjdk-11-jre-headless ant -y --no-install-recommend
-          ./shellscripts/dl_saxon.sh
-          ./shellscripts/dl_imprint.sh
+        uses: actions/checkout@v7
+      - name: Update Imprint
+        run: ./shellscripts/dl_imprint.sh
       - name: Setup python
-        uses: actions/setup-python@v5
-        with:
-          python-version: "3.12"
-      - name: install python packages
-        run: pip install -r requirements.txt
+        uses: astral-sh/setup-uv@v8.2.0
       - name: Build the app
         run: ant
+      - name: Build search index
+        run: uv run make_ts_index.py
       - name: Setup Pages
-        uses: actions/configure-pages@v5
+        uses: actions/configure-pages@v6
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-pages-artifact@v5
         with:
-          # Upload entire repository
           path: './html'
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@v5
