@@ -4,7 +4,7 @@
     xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="2.0">
     <xsl:param name="directory_name">pez-nachlass-static</xsl:param>
     <xsl:param name="project_title">Der digitalisierte Nachlass von Bernhard und Hieronymus Pez</xsl:param>
-    <xsl:param name="redmine_id">18716</xsl:param>
+    <xsl:param name="redmine_id">28627</xsl:param>
     <xsl:param name="project_short_title">Pez Nachlass</xsl:param>
     <xsl:param name="github_url">https://github.com/csae8092/pez-nachlass-static</xsl:param>
     <xsl:param name="html_title">Pez Nachlass</xsl:param>
